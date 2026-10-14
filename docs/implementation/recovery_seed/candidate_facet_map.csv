@@ -1,0 +1,84 @@
+map_id,specialty_id,topic,required_facet,source_id,exact_passage_id,page_or_section,applicable_population,qualification_or_exception,evidence_relation,mapping_status,independent_reviewer_id,admit_to_pack
+MAP-001-01,CON,endodontic diagnosis,clinical history,SEED-CON-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-001-02,CON,endodontic diagnosis,pulp tests,SEED-CON-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-001-03,CON,endodontic diagnosis,periapical assessment,SEED-CON-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-001-04,CON,endodontic diagnosis,imaging limits,SEED-CON-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-001-05,CON,endodontic diagnosis,differential diagnosis,SEED-CON-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-001-06,CON,endodontic diagnosis,uncertainty,SEED-CON-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-002-01,ORT,malocclusion assessment,Angle classification,SEED-ORT-001,,,unreviewed,,unreviewed,partial_candidate; classification content still missing,,false
+MAP-002-02,ORT,malocclusion assessment,dental vs skeletal,SEED-ORT-001,,,unreviewed,,unreviewed,partial_candidate; classification content still missing,,false
+MAP-002-03,ORT,malocclusion assessment,diagnostic records,SEED-ORT-001,,,unreviewed,,unreviewed,partial_candidate; classification content still missing,,false
+MAP-002-04,ORT,malocclusion assessment,growth context,SEED-ORT-001,,,unreviewed,,unreviewed,partial_candidate; classification content still missing,,false
+MAP-002-05,ORT,malocclusion assessment,variation,SEED-ORT-001,,,unreviewed,,unreviewed,partial_candidate; classification content still missing,,false
+MAP-002-06,ORT,malocclusion assessment,limitations,SEED-ORT-001,,,unreviewed,,unreviewed,partial_candidate; classification content still missing,,false
+MAP-003-01,OMS,mandibular trauma,fracture site,SEED-OMS-001,,,unreviewed,,unreviewed,candidate; review source's actual scope,,false
+MAP-003-02,OMS,mandibular trauma,displacement,SEED-OMS-001,,,unreviewed,,unreviewed,candidate; review source's actual scope,,false
+MAP-003-03,OMS,mandibular trauma,occlusion,SEED-OMS-001,,,unreviewed,,unreviewed,candidate; review source's actual scope,,false
+MAP-003-04,OMS,mandibular trauma,imaging,SEED-OMS-001,,,unreviewed,,unreviewed,candidate; review source's actual scope,,false
+MAP-003-05,OMS,mandibular trauma,initial stabilization,SEED-OMS-001,,,unreviewed,,unreviewed,candidate; review source's actual scope,,false
+MAP-003-06,OMS,mandibular trauma,risks/complications,SEED-OMS-001,,,unreviewed,,unreviewed,candidate; review source's actual scope,,false
+MAP-003-07,OMS,mandibular trauma,clinical referral,SEED-OMS-001,,,unreviewed,,unreviewed,candidate; review source's actual scope,,false
+MAP-004-01,PRO,prosthetic rehabilitation,dentition status,SEED-PRO-001,,,unreviewed,,unreviewed,partial_candidate,,false
+MAP-004-02,PRO,prosthetic rehabilitation,occlusal support,SEED-PRO-001,,,unreviewed,,unreviewed,partial_candidate,,false
+MAP-004-03,PRO,prosthetic rehabilitation,function,SEED-PRO-001,,,unreviewed,,unreviewed,partial_candidate,,false
+MAP-004-04,PRO,prosthetic rehabilitation,fixed vs removable options,SEED-PRO-001,,,unreviewed,,unreviewed,partial_candidate,,false
+MAP-004-05,PRO,prosthetic rehabilitation,limitations,SEED-PRO-001,,,unreviewed,,unreviewed,partial_candidate,,false
+MAP-004-06,PRO,prosthetic rehabilitation,patient context,SEED-PRO-001,,,unreviewed,,unreviewed,partial_candidate,,false
+MAP-005-01,PER,periodontitis classification,staging,SEED-PER-001,,,unreviewed,,unreviewed,candidate; confirm independent authoritative definitions,,false
+MAP-005-02,PER,periodontitis classification,grading,SEED-PER-001,,,unreviewed,,unreviewed,candidate; confirm independent authoritative definitions,,false
+MAP-005-03,PER,periodontitis classification,CAL,SEED-PER-001,,,unreviewed,,unreviewed,candidate; confirm independent authoritative definitions,,false
+MAP-005-04,PER,periodontitis classification,radiographic loss,SEED-PER-001,,,unreviewed,,unreviewed,candidate; confirm independent authoritative definitions,,false
+MAP-005-05,PER,periodontitis classification,modifiers,SEED-PER-001,,,unreviewed,,unreviewed,candidate; confirm independent authoritative definitions,,false
+MAP-005-06,PER,periodontitis classification,limitations,SEED-PER-001,,,unreviewed,,unreviewed,candidate; confirm independent authoritative definitions,,false
+MAP-005-07,PER,periodontitis classification,differential with gingivitis,SEED-PER-001,,,unreviewed,,unreviewed,candidate; confirm independent authoritative definitions,,false
+MAP-006-01,PED,early childhood caries,definition,SEED-PED-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-006-02,PED,early childhood caries,risk factors,SEED-PED-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-006-03,PED,early childhood caries,age applicability,SEED-PED-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-006-04,PED,early childhood caries,diet,SEED-PED-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-006-05,PED,early childhood caries,prevention,SEED-PED-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-006-06,PED,early childhood caries,treatment principles,SEED-PED-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-006-07,PED,early childhood caries,caregiver role,SEED-PED-001,,,unreviewed,,unreviewed,candidate,,false
+MAP-007-01,OMR,dental imaging methods,2D vs 3D,SEED-OMR-001,,,unreviewed,,unreviewed,candidate; updated radiation guidance additionally needed,,false
+MAP-007-02,OMR,dental imaging methods,CBCT indications,SEED-OMR-001,,,unreviewed,,unreviewed,candidate; updated radiation guidance additionally needed,,false
+MAP-007-03,OMR,dental imaging methods,image artifacts,SEED-OMR-001,,,unreviewed,,unreviewed,candidate; updated radiation guidance additionally needed,,false
+MAP-007-04,OMR,dental imaging methods,radiation justification,SEED-OMR-001,,,unreviewed,,unreviewed,candidate; updated radiation guidance additionally needed,,false
+MAP-007-05,OMR,dental imaging methods,limitations,SEED-OMR-001,,,unreviewed,,unreviewed,candidate; updated radiation guidance additionally needed,,false
+MAP-007-06,OMR,dental imaging methods,scope of interpretation,SEED-OMR-001,,,unreviewed,,unreviewed,candidate; updated radiation guidance additionally needed,,false
+MAP-008-01,OMP,oral dysplasia,clinical entities,SEED-OMP-001,,,unreviewed,,unreviewed,partial_candidate; current WHO terminology check required,,false
+MAP-008-02,OMP,oral dysplasia,histology,SEED-OMP-001,,,unreviewed,,unreviewed,partial_candidate; current WHO terminology check required,,false
+MAP-008-03,OMP,oral dysplasia,architectural changes,SEED-OMP-001,,,unreviewed,,unreviewed,partial_candidate; current WHO terminology check required,,false
+MAP-008-04,OMP,oral dysplasia,cytologic atypia,SEED-OMP-001,,,unreviewed,,unreviewed,partial_candidate; current WHO terminology check required,,false
+MAP-008-05,OMP,oral dysplasia,grading,SEED-OMP-001,,,unreviewed,,unreviewed,partial_candidate; current WHO terminology check required,,false
+MAP-008-06,OMP,oral dysplasia,risk qualifiers,SEED-OMP-001,,,unreviewed,,unreviewed,partial_candidate; current WHO terminology check required,,false
+MAP-008-07,OMP,oral dysplasia,classification version,SEED-OMP-001,,,unreviewed,,unreviewed,partial_candidate; current WHO terminology check required,,false
+MAP-009-01,PHD,DMFT index,definition,SEED-PHD-001,,,unreviewed,,unreviewed,partial_candidate; source not a complete DMFT lesson,,false
+MAP-009-02,PHD,DMFT index,decayed/missing/filled components,SEED-PHD-001,,,unreviewed,,unreviewed,partial_candidate; source not a complete DMFT lesson,,false
+MAP-009-03,PHD,DMFT index,permanent vs primary dentition,SEED-PHD-001,,,unreviewed,,unreviewed,partial_candidate; source not a complete DMFT lesson,,false
+MAP-009-04,PHD,DMFT index,limits,SEED-PHD-001,,,unreviewed,,unreviewed,partial_candidate; source not a complete DMFT lesson,,false
+MAP-009-05,PHD,DMFT index,survey criteria,SEED-PHD-001,,,unreviewed,,unreviewed,partial_candidate; source not a complete DMFT lesson,,false
+MAP-009-06,PHD,DMFT index,worked numerical example,SEED-PHD-001,,,unreviewed,,unreviewed,partial_candidate; source not a complete DMFT lesson,,false
+MAP-010-01,OMP,odontogenic cyst comparison,OKC clinical,REF-004,,,unreviewed,,unreviewed,reference_only; direct evidence incomplete,,false
+MAP-010-02,OMP,odontogenic cyst comparison,OKC radiology,REF-004,,,unreviewed,,unreviewed,reference_only; direct evidence incomplete,,false
+MAP-010-03,OMP,odontogenic cyst comparison,OKC histology,REF-004,,,unreviewed,,unreviewed,reference_only; direct evidence incomplete,,false
+MAP-010-04,OMP,odontogenic cyst comparison,dentigerous clinical,REF-004,,,unreviewed,,unreviewed,reference_only; direct evidence incomplete,,false
+MAP-010-05,OMP,odontogenic cyst comparison,dentigerous radiology,REF-004,,,unreviewed,,unreviewed,reference_only; direct evidence incomplete,,false
+MAP-010-06,OMP,odontogenic cyst comparison,dentigerous histology,REF-004,,,unreviewed,,unreviewed,reference_only; direct evidence incomplete,,false
+MAP-010-07,OMP,odontogenic cyst comparison,shared vs distinct features,REF-004,,,unreviewed,,unreviewed,reference_only; direct evidence incomplete,,false
+MAP-010-08,OMP,odontogenic cyst comparison,WHO edition,REF-004,,,unreviewed,,unreviewed,reference_only; direct evidence incomplete,,false
+MAP-011-01,OMP,tooth development,stages,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-011-02,OMP,tooth development,epithelial contribution,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-011-03,OMP,tooth development,mesenchymal contribution,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-011-04,OMP,tooth development,reciprocal interactions,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-011-05,OMP,tooth development,key signaling,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-011-06,OMP,tooth development,timing/qualification,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-012-01,OMP,oral vs sulcular vs junctional epithelium,locations,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-012-02,OMP,oral vs sulcular vs junctional epithelium,histology,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-012-03,OMP,oral vs sulcular vs junctional epithelium,attachment status,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-012-04,OMP,oral vs sulcular vs junctional epithelium,keratinization,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-012-05,OMP,oral vs sulcular vs junctional epithelium,functions,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-012-06,OMP,oral vs sulcular vs junctional epithelium,clinical differences,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-013-01,OMP,apoptosis vs necrosis,morphology of each,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-013-02,OMP,apoptosis vs necrosis,mechanism of each,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-013-03,OMP,apoptosis vs necrosis,inflammatory effect,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-013-04,OMP,apoptosis vs necrosis,diagnostic differences,,,,unreviewed,,unreviewed,unmapped,,false
+MAP-013-05,OMP,apoptosis vs necrosis,exceptions,,,,unreviewed,,unreviewed,unmapped,,false
