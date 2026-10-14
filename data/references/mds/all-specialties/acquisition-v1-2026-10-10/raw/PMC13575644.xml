@@ -1,0 +1,748 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="ijod9390631" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Dent</journal-id><journal-id journal-id-type="iso-abbrev">Int J Dent</journal-id><journal-id journal-id-type="pmc-domain-id">1197</journal-id><journal-id journal-id-type="pmc-domain">ijd</journal-id><journal-id journal-id-type="nlm-id">101524183</journal-id><journal-id journal-id-type="publisher-id">IJOD</journal-id><journal-title-group><journal-title>International Journal of Dentistry</journal-title></journal-title-group><issn pub-type="ppub">1687-8728</issn><issn pub-type="epub">1687-8736</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13575644</article-id><article-id pub-id-type="pmcid-ver">PMC13575644.1</article-id><article-id pub-id-type="pmcaid">13575644</article-id><article-id pub-id-type="pmcaiid">13575644</article-id><article-id pub-id-type="pmid">42746026</article-id><article-id pub-id-type="doi">10.1155/ijod/9390631</article-id><article-id pub-id-type="publisher-id">IJOD9390631</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Influence of Different Parenting Styles on Child’s Behaviour in a Dental Operatory and Dental Caries Experience: A Systematic Review and Meta‐Analysis</article-title></title-group><contrib-group><contrib id="cr-0001" contrib-type="author"><name name-style="western"><surname>Kalra</surname><given-names initials="G">Gauri</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9966-9905</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mishra</surname><given-names initials="A">Apurva</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2841-1875</contrib-id><xref rid="aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>a.mishra@ajman.ac.ae</email></address></contrib><contrib id="cr-0003" contrib-type="author"><name name-style="western"><surname>Bharti</surname><given-names initials="K">Kusum</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9172-5784</contrib-id><xref rid="aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cr-0004" contrib-type="author"><name name-style="western"><surname>Mathur</surname><given-names initials="VP">Vijay Prakash</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2710-1894</contrib-id><xref rid="aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib></contrib-group><contrib-group><contrib id="cr-0005" contrib-type="editor"><name name-style="western"><surname>Wesley</surname><given-names initials="H">Hannah</given-names></name><address><email>hwesley@wiley.com</email></address></contrib></contrib-group><aff id="aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pediatric and Preventive Dentistry</named-content>, <institution>Manav Rachna Dental College</institution>, <city>Faridabad</city>, <named-content content-type="country-part">Haryana</named-content>, <country>India</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://mrdc.ac.in" ext-link-type="uri">mrdc.ac.in</ext-link>
+</aff><aff id="aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Sciences</named-content>, <institution>College of Dentistry</institution>, <institution>Ajman University</institution>, <city>Ajman</city>, <country>UAE</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ajman.ac.ae" ext-link-type="uri">ajman.ac.ae</ext-link>
+</aff><aff id="aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Center of Medical and Bio-Allied Health Sciences Research</named-content>, <institution>Ajman University</institution>, <city>Ajman</city>, <country>UAE</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ajman.ac.ae" ext-link-type="uri">ajman.ac.ae</ext-link>
+</aff><aff id="aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pediatric and Preventive Dentistry</named-content>, <institution>Post Graduate Institute of Child Health</institution>, <city>Noida</city>, <named-content content-type="country-part">Uttar Pradesh</named-content>, <country>India</country>
+</aff><aff id="aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pediatric and Preventive Dentistry</named-content>, <named-content content-type="organisation-division">Centre for Dental Education and Research</named-content>, <named-content content-type="organisation-division">AIIMS</named-content>, <city>New Delhi</city>, <country>India</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://aiims.edu" ext-link-type="uri">aiims.edu</ext-link>
+</aff><pub-date pub-type="epub"><day>15</day><month>9</month><year>2026</year></pub-date><pub-date pub-type="collection"><year>2026</year></pub-date><volume>2026</volume><issue-id pub-id-type="pmc-issue-id">503718</issue-id><elocation-id>9390631</elocation-id><history>
+<date date-type="rev-recd"><day>11</day><month>8</month><year>2026</year></date>
+<date date-type="received"><day>27</day><month>1</month><year>2026</year></date>
+<date date-type="accepted"><day>27</day><month>8</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>15</day><month>09</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>16</day><month>09</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-09-16 11:29:16.877"><day>16</day><month>09</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">Copyright © 2026 Gauri Kalra et al. International Journal of Dentistry published by John Wiley &amp; Sons Ltd.</copyright-statement><copyright-year>2026</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="IJOD-2026-9390631.pdf"><?pdf-name IJOD-2026-9390631.pdf?><?pdf-size 516814?><?pdf-md5 af7f2c82278b7a0677910e3a4828746d?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:7137/13575644/af7f2c82278b/IJOD-2026-9390631.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:IJOD-2026-9390631.pdf"/><abstract><sec id="sec-0001"><title>Background</title><p>Parental influence plays a critical role in shaping a child’s behaviour during dental visits, particularly when parents themselves have experienced negative dental encounters. This systematic review investigated the association between parenting styles (PSs), children’s behaviour in dental settings and dental caries (DC) experience.</p></sec><sec id="sec-0002"><title>Methods</title><p>This systematic review followed the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA 2020) and was registered in PROSPERO (CRD42024550441). Electronic databases and grey‐literature sources were searched for studies published from January 2014 to December 2025. Risk of bias was assessed using the revised Joanna Briggs Institute critical appraisal tool for analytical cross‐sectional studies. Extractable dental‐behaviour data were pooled using generic inverse‐variance random‐effects models with restricted maximum‐likelihood estimation and modified Hartung–Knapp confidence intervals. DC outcomes were synthesised narratively because of clinical and methodological heterogeneity. Certainty of evidence was assessed using GRADE.</p></sec><sec id="sec-0003"><title>Results</title><p>Seventeen cross‐sectional studies met the eligibility criteria. Thirteen studies (76.5%) included only children aged up to 6 years, and the Parenting Styles and Dimensions Questionnaire (PSDQ) was used in 13 studies (76.5%). Twelve studies assessed dental behaviour or cooperation and 12 assessed DC; seven evaluated both outcomes. In the primary meta‐analysis, authoritative parenting was associated with higher odds of positive dental behaviour than permissive parenting (OR 4.77, 95% CI 1.10–20.76; <italic toggle="yes">I</italic>
+<sup>2</sup> = 88.1%) and authoritarian parenting (OR 7.95, 95% CI 2.32–27.29; <italic toggle="yes">I</italic>
+<sup>2</sup> = 54.1%). The 95% prediction intervals for both comparisons crossed the null. No clear difference was found between permissive and authoritarian parenting (OR 0.87, 95% CI 0.36–2.10; <italic toggle="yes">I</italic>
+<sup>2</sup> = 19.2%). DC findings were inconsistent. Certainty of evidence was very low for all three behavioural comparisons.</p></sec><sec id="sec-0004"><title>Conclusion</title><p>Authoritative parenting was associated with more positive dental behaviour than permissive or authoritarian parenting. However, the cross‐sectional design, residual confounding, heterogeneity, wide prediction intervals and very low‐certainty evidence preclude causal interpretation. Evidence for DC was mixed and did not support a pooled estimate.</p></sec></abstract><kwd-group><title>Keywords</title><kwd id="kwd-0001">child behaviour</kwd><kwd id="kwd-0002">dental anxiety</kwd><kwd id="kwd-0003">dental caries</kwd><kwd id="kwd-0004">parent–child interaction</kwd></kwd-group><counts><fig-count count="4"/><table-count count="3"/><ref-count count="41"/><page-count count="14"/><word-count count="6402"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.7 mode:remove_FC converted:15.09.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ijod9390631-cit-2001">
+<string-name name-style="western">
+<surname>Kalra</surname>, <given-names>Gauri</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mishra</surname>, <given-names>Apurva</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bharti</surname>, <given-names>Kusum</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mathur</surname>, <given-names>Vijay Prakash</given-names>
+</string-name>, 
+<article-title>Influence of Different Parenting Styles on Child’s Behaviour in a Dental Operatory and Dental Caries Experience: A Systematic Review and Meta‐Analysis</article-title>, 
+<source>International Journal of Dentistry</source>, <volume>2026</volume>, <elocation-id>9390631</elocation-id>, 14 pages, <year>2026</year>. 
+<pub-id pub-id-type="doi">10.1155/ijod/9390631</pub-id>
+</mixed-citation>
+</p><fn-group id="ijd9390631-ntgp-0001"><fn id="ijd9390631-note-0001"><p>
+<bold>Academic Editor:</bold> Hannah Wesley</p></fn></fn-group></notes></front><body><sec id="sec-0005"><title>1. Background</title><p>Children’s reactions vary greatly during dental visits and are affected by factors such as age, health, cognitive level, cultural background, level of anxiety or fear, social expectations, comfort around strangers and their own personality traits [<xref rid="bib-0001" ref-type="bibr">1</xref>]. Consequently, their behaviour during dental visits may be difficult to predict [<xref rid="bib-0002" ref-type="bibr">2</xref>]. Parents play a crucial role in modifying the child’s behaviour during dental visits, particularly if they have had past negative experiences. Their involvement also helps in guiding the child’s long‐term oral health habits. Several researchers have shown an association between parents’ oral health attitudes and practices and their children’s oral health outcomes [<xref rid="bib-0003" ref-type="bibr">3</xref>–<xref rid="bib-0006" ref-type="bibr">6</xref>]. The approach and attitude adopted by parents for raising their children, known as parenting style (PS), significantly influences the child’s development surrounding the home environment [<xref rid="bib-0007" ref-type="bibr">7</xref>, <xref rid="bib-0008" ref-type="bibr">8</xref>]. Literature has described four types of PSs—authoritarian, authoritative, permissive, and neglectful/uninvolved [<xref rid="bib-0007" ref-type="bibr">7</xref>, <xref rid="bib-0009" ref-type="bibr">9</xref>, <xref rid="bib-0010" ref-type="bibr">10</xref>].</p><p>Parents who are strict and enforce harsh discipline to mould their child’s behaviour and expect them to be obedient are called authoritarian parents, whereas authoritative parents are warm and supportive and have defined boundaries for their child’s actions. Permissive parents are lenient, exerting minimal control towards the child’s impulses and actions and allowing children to act freely by offering little guidance and support. Neglectful parents provide minimal behavioural guidance and provide the least emotional involvement [<xref rid="bib-0011" ref-type="bibr">11</xref>]. Uninvolved parenting is marked by detachment, limited communication, and setting few expectations for the child [<xref rid="bib-0012" ref-type="bibr">12</xref>]. Saadia and Valencia [<xref rid="bib-0013" ref-type="bibr">13</xref>] described various challenges faced by paediatric dentists while communicating with children and parents, especially with evolving behaviour and attitudes of modern generations.</p><p>Dental caries (DC), the most widespread disease affecting children worldwide, is influenced by several factors and significantly affects a child’s well‐being. DC is a multifactorial disease influenced by biological, behavioural and socioeconomic factors [<xref rid="bib-0014" ref-type="bibr">14</xref>–<xref rid="bib-0016" ref-type="bibr">16</xref>]. Stress and emotional conditions, like fear and personality traits, are all contributing factors that influence children’s behaviours at the dental visit and often making dental treatment challenging to all involved—dentists, parents and children. In addition to child‐related factors such as dental anxiety and temperament, factors related to parents and dentists could also contribute to behavioural problems [<xref rid="bib-0017" ref-type="bibr">17</xref>, <xref rid="bib-0018" ref-type="bibr">18</xref>]. Interestingly, these factors often interact with each other. Within families, factors such as parental approaches and attachment style have also been associated with the severity of anxiety in children [<xref rid="bib-0019" ref-type="bibr">19</xref>]. Several studies have shown potential relationships between PS, child’s behaviour and caries, but they are not enough to conclusively draw firm conclusions about the nature and strength of these associations [<xref rid="bib-0001" ref-type="bibr">1</xref>, <xref rid="bib-0020" ref-type="bibr">20</xref>, <xref rid="bib-0021" ref-type="bibr">21</xref>].</p><p>To address the gap in literature pertaining to the scarcity of evidence in association among PS, child’s behaviour and caries, this systematic review has been designed. This review therefore aimed to assess the association of PSs with children’s behaviour in the dental operatory and DC experience.</p></sec><sec id="sec-0006"><title>2. Methods</title><sec id="sec-0007"><title>2.1. Study Design</title><p>This systematic review was conducted and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA) 2020 statement and registered in the International Prospective Register of Systematic Reviews (PROSPERO; CRD42024550441) (Supporting Information <xref rid="sec-0035" ref-type="sec">1</xref>: File <xref rid="sec-0035" ref-type="sec">S1</xref>) [<xref rid="bib-0022" ref-type="bibr">22</xref>]. Studies published from January 2014 to December 2025 were eligible. The review question was: What is the association between PS, children’s behaviour in the dental operatory and DC experience?</p><p>The PICO components of the research question are as follows:</p><p>
+<table-wrap position="anchor" id="jats-table-wrap-1" orientation="portrait"><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">P (Population)</td><td align="center" rowspan="1" colspan="1">Children aged 2–12 years</td></tr><tr><td align="left" rowspan="1" colspan="1">I or E (Exposure)</td><td align="center" rowspan="1" colspan="1">Parenting styles classified according to a recognised parenting framework (authoritative, authoritarian, permissive, neglectful)</td></tr><tr><td align="left" rowspan="1" colspan="1">C (Compare)</td><td align="center" rowspan="1" colspan="1">Authoritative, authoritarian, permissive and neglectful/uninvolved parenting styles</td></tr><tr><td align="left" rowspan="1" colspan="1">O (Outcome)</td><td align="center" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p>(a) Child’s behaviour in dental operatory</p></list-item><list-item><p>(b) Dental caries (DC) status</p></list-item></list>
+</td></tr></tbody></table></table-wrap>
+</p></sec><sec id="sec-0008"><title>2.2. Search Strategy</title><p>Electronic databases such as PubMed, Web of Science, Scopus, Embase and Cochrane were searched using text words and MeSH terms. An additional search was performed using Google Scholar and Open Grey. Three authors independently searched the databases. The broad‐based search was implemented individually with keywords: ‘Parenting style’, “Parenting”, ‘Parent‐Child Relationship’, ‘Child behavior’, ‘Dental caries’, ‘Dental visit’. Partial searches with the Boolean tools ’AND’ and ’OR’ were done with the above keywords individually and with different possible combinations. The detailed search strategy can be found in Supporting Information <xref rid="sec-0035" ref-type="sec">2</xref>: File <xref rid="sec-0035" ref-type="sec">S2</xref>.</p></sec><sec id="sec-0009"><title>2.3. Study Selection</title><p>Three authors carried out an independent screening of the titles and abstracts of all the identified articles to evaluate their suitability of inclusion, and duplicates were removed by means of EndNote (EndNoteTMX9, Clarivate Analytics, USA) reference management software. The reference lists of eligible studies were cross‐checked to identify any additional studies.</p><p>The following eligibility criteria were chosen for screening of the identified studies:</p><p>Inclusion criteria<list list-type="simple"><list-item><label>•</label><p>Studies included children aged 2–12 years. For the behavioural synthesis, children had to be attending their first dental visit or have no previous dental treatment experience.</p></list-item><list-item><label>•</label><p>Cross‐sectional studies examine PS in relation to dental‐operatory behaviour and/or DC.</p></list-item><list-item><label>•</label><p>Studies published between 2014 and 2025.</p></list-item><list-item><label>•</label><p>Full‐text articles published in English.</p></list-item></list>
+</p><p>Exclusion criteria<list list-type="simple"><list-item><label>•</label><p>Case reports, case control studies, case series, letter to the editor, comprehensive and systematic reviews.</p></list-item><list-item><label>•</label><p>For the behavioural synthesis, studies were excluded when participants had previous dental treatment experience, active dental pain, dental or medical phobia.</p></list-item><list-item><label>•</label><p>Studies involving children with medical conditions limiting cognitive development.</p></list-item></list>
+</p><p>The age cutoff of upto 12 years was selected as it corresponds to the mixed dentition stage, during which parental influence on behaviour and oral health practices is most pronounced. Twelve years literature search timeframe was chosen to capture methodologically consistent studies using validated tools while reflecting contemporary parenting practices and paediatric dental care.</p></sec><sec id="sec-0010"><title>2.4. Data Extraction</title><p>Three reviewers independently extracted data using a prespecified Microsoft Excel form (version 16.17). Extracted variables included study identification, design and setting, participant characteristics, sampling methods, parenting‐style instrument and distribution, behaviour and caries measures, examiner calibration, outcome data, and study conclusions. For the behavioural meta‐analysis, positive and negative event counts were extracted for each PS group. Any disagreements during data extraction and analysis were resolved through discussion.</p></sec><sec id="sec-0011"><title>2.5. Risk of Bias Assessment</title><p>Two reviewers independently assessed the risk of bias of the included studies using the revised JBI critical appraisal tool for analytical cross‐sectional studies (2026) [<xref rid="bib-0023" ref-type="bibr">23</xref>]. The tool comprises eight items addressing participant selection, measurement of eligibility conditions, validity and reliability of exposure and outcome measurements, identification and management of confounding, appropriateness of statistical analyses, and reporting of participants and study settings. Each item was rated as Yes, No, Unclear, or Not applicable. Disagreements were resolved through discussion and, when required, consultation with a third reviewer. No numerical score or low‐, moderate‐ or high‐risk classification was applied. Item‐level judgements were considered when interpreting the findings.</p></sec><sec id="sec-0012"><title>2.6. Data Synthesis, Analysis and Grading</title><p>Quantitative synthesis was undertaken for studies reporting extractable numbers of children with positive and negative dental behaviour according to authoritative, authoritarian and permissive PSs. The primary synthesis was restricted to children attending their first dental visit or with no previous dental treatment experience and to studies whose behaviour categories could be mapped unambiguously to a common binary outcome. Frankl ratings 3 and 4 were classified as positive/cooperative behaviour, whereas ratings 1 and 2 were classified as negative/uncooperative behaviour. Equivalent study‐specific categories were harmonised only when their correspondence with these definitions was clear. Unadjusted 2 × 2 event counts were used, and an OR greater than 1 favoured the first PS named in each comparison. A continuity correction of 0.5 was added to all four cells when a study contained a single zero cell; double‐zero comparisons were excluded from relative‐effect estimation.</p><p>Random‐effects models were specified a priori because clinical and methodological differences were expected across countries, settings, parenting‐style instruments and behaviour‐assessment procedures. Log Ors were pooled using generic inverse variance weighting. Between‐study variance was estimated using restricted maximum likelihood, and modified Hartung–Knapp 95% CI was calculated to account for the small number of studies [<xref rid="bib-0024" ref-type="bibr">24</xref>]. Heterogeneity was assessed using Cochran’s <italic toggle="yes">Q</italic>, <italic toggle="yes">I</italic>
+<sup>2</sup> and <italic toggle="yes">τ</italic>
+<sup>2</sup>, and a 95% prediction interval was estimated for each comparison. Nimbulkar et al. [<xref rid="bib-0025" ref-type="bibr">25</xref>] and Gera et al. [<xref rid="bib-0026" ref-type="bibr">26</xref>] were excluded from the quantitative synthesis because their behaviour data were incomplete or not directly comparable with the prespecified first‐visit outcome. All tests were two‐sided, and <italic toggle="yes">p</italic> &lt; 0.05 was considered statistically significant. Funnel plots and regression‐based tests for small‐study effects were not performed because fewer than 10 studies contributed to each comparison.</p><p>DC outcomes were synthesised narratively because the studies did not report a common outcome construct. Measures included caries presence or absence, ordinal severity categories, mean dft, deft, dmft or DMFT scores, and categorical caries‐risk assessments. Studies also differed in participant age, dentition, recruitment setting, diagnostic criteria and adjustment for dietary, socioeconomic and oral‐hygiene factors; a single pooled estimate was therefore considered clinically inappropriate. Analyses were performed using Python 3.13.5, NumPy 2.3.5 and SciPy 1.17.0. Forest plots were prepared using Matplotlib 3.10.8.</p><p>The certainty of evidence for each behavioural comparison was assessed using the GRADE framework [<xref rid="bib-0027" ref-type="bibr">27</xref>] and presented in a summary‐of‐findings table prepared with GRADEpro GDT (McMaster University and Evidence Prime, 2023). Because all included studies were observational, each body of evidence began at a low certainty. Evidence was then assessed for risk of bias, inconsistency, indirectness, imprecision and publication bias, together with criteria that could justify rating up. The large observed associations were not rated up because the pooled estimates were unadjusted and remained vulnerable to confounding, sparse data, heterogeneity and imprecision.</p></sec></sec><sec id="sec-0013"><title>3. Results</title><sec id="sec-0014"><title>3.1. Study Selection</title><p>A total of 2032 records were identified through database searches: PubMed (<italic toggle="yes">n</italic> = 1043), Web of Science (<italic toggle="yes">n</italic> = 165), Scopus (<italic toggle="yes">n</italic> = 121), Embase (<italic toggle="yes">n</italic> = 631) and the Cochrane Library (<italic toggle="yes">n</italic> = 72). After removal of 580 duplicates, 1452 records underwent title and abstract screening; 1417 were excluded as clinical case reports, commentaries, reviews or records unrelated to the review question. The full texts of 35 articles were assessed, and 18 were excluded because they did not meet the prespecified age, study‐design or parenting‐style classification criteria. Seventeen studies were included in the systematic review and data extraction. No additional eligible publications were identified from the reference list screening. The study selection process is shown in Figure <xref rid="fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="Figure" id="fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>PRISMA flow diagram.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="IJOD-2026-9390631-g003.webp"><?image-name IJOD-2026-9390631-g003.webp?><?image-size 40780?><?image-md5 a661be488382a5db68a84c3f3ab01285?><?image-image-server-status NEVER_LOAD?><?image-original-height 681?><?image-original-width 600?><?image-scaled-height 681?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/7137/13575644/a661be488382/IJOD-2026-9390631-g003.webp?><?thumb-name IJOD-2026-9390631-g003.gif?><?thumb-size 10555?><?thumb-md5 d276afbb6ea22b889ea0a7d804dacddd?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 200?><?thumb-scaled-width 176?><?thumb-cloudpmc-urn urn:cdn:blobs/7137/13575644/d276afbb6ea2/IJOD-2026-9390631-g003.gif?></graphic></fig></sec><sec id="sec-0015"><title>3.2. Study Characteristics</title><p>The 17 included studies were conducted in India (<italic toggle="yes">n</italic> = 7), Iran and Egypt (<italic toggle="yes">n</italic> = 2 each), and Brazil, Indonesia, Saudi Arabia, Singapore, South Korea and the United States (<italic toggle="yes">n</italic> = 1 each). All employed a cross‐sectional design. Four studies were published in 2020 (23.5%); two each in 2015, 2021, 2022, 2023 and 2025 (11.8% each); and one each in 2018, 2019 and 2024 (5.9% each). Thirteen studies (76.5%) restricted their samples to children aged 6 years or younger. Thirteen studies (76.5%) explicitly used the Parenting Styles and Dimensions Questionnaire (PSDQ) or a translated or adapted version, including El‐Mahdy et al. [<xref rid="bib-0028" ref-type="bibr">28</xref>]. Aminabadi et al. [<xref rid="bib-0029" ref-type="bibr">29</xref>] used the Primary Caregivers’ Practices Report (PCPR), Misrohmasari and Prihatiningrum [<xref rid="bib-0030" ref-type="bibr">30</xref>] used a 25‐item parenting‐style questionnaire whose source instrument was not specified, and Amirabadi et al. [<xref rid="bib-0031" ref-type="bibr">31</xref>] used the 30‐item Baumrind Parenting Style Questionnaire. Gera et al. [<xref rid="bib-0026" ref-type="bibr">26</xref>] described using a parenting‐style dimensions questionnaire, but the specific form was not reported in sufficient detail to classify it confidently as a PSDQ version. Arrepia et al. [<xref rid="bib-0032" ref-type="bibr">32</xref>] used the term ‘democratic’ for the category corresponding to authoritative parenting, while Alagla et al. [<xref rid="bib-0033" ref-type="bibr">33</xref>] reported no participants with an authoritarian PS. Twelve studies assessed dental behaviour or cooperation, 12 assessed DC, and seven assessed both outcomes. The characteristics and principal findings of the included studies are summarised in Table <xref rid="tbl-0001" ref-type="table">1</xref>. The quantitative synthesis of dental behaviour and narrative synthesis of DC are presented in Sections <xref rid="sec-0017" ref-type="sec">3.4</xref> and <xref rid="sec-0021" ref-type="sec">3.5</xref>, respectively.</p><table-wrap position="float" id="tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Descriptive findings of the included studies.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">Study</th><th align="center" rowspan="1" colspan="1">Design</th><th align="center" rowspan="1" colspan="1">Country</th><th align="center" rowspan="1" colspan="1">Sample size</th><th align="center" rowspan="1" colspan="1">Age (years)</th><th align="center" rowspan="1" colspan="1">Parenting‐style measure</th><th align="center" rowspan="1" colspan="1">Parenting‐style distribution</th><th align="center" rowspan="1" colspan="1">Child behaviour/cooperation</th><th align="center" rowspan="1" colspan="1">Dental‐caries outcome</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Howenstein et al. [<xref rid="bib-0001" ref-type="bibr">1</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">USA</td><td align="center" rowspan="1" colspan="1">132 enrolled; 131 in the three‐style analysis</td><td align="center" rowspan="1" colspan="1">3–6</td><td align="center" rowspan="1" colspan="1">32‐item short‐form PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 87/132 (65.9%); authoritarian 11/132 (8.3%); permissive 33/132 (25.0%); mixed authoritative/permissive 1/132 (0.8%).</td><td align="center" rowspan="1" colspan="1">Positive/definitely positive: authoritative 81/87 (93.1%), authoritarian 5/11 (45.5%), permissive 19/33 (57.6%); <italic toggle="yes">p</italic> &lt; 0.001.</td><td align="center" rowspan="1" colspan="1">Caries present: authoritative 17/87 (19.5%), authoritarian 10/11 (90.9%), permissive 32/33 (97.0%); <italic toggle="yes">p</italic> &lt; 0.001.</td></tr><tr><td align="left" rowspan="1" colspan="1">Aminabadi et al. [<xref rid="bib-0029" ref-type="bibr">29</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">Iran</td><td align="center" rowspan="1" colspan="1">288</td><td align="center" rowspan="1" colspan="1">4–6</td><td align="center" rowspan="1" colspan="1">Primary Caregivers’ Practices Report (PCPR)</td><td align="center" rowspan="1" colspan="1">Authoritative 138/288 (47.9%); authoritarian 42/288 (14.6%); permissive 108/288 (37.5%).</td><td align="center" rowspan="1" colspan="1">Authoritative scores correlated positively with positive behaviour and negatively with anxiety; permissive scores correlated with negative behaviour and anxiety (all <italic toggle="yes">p</italic> &lt; 0.05).</td><td align="center" rowspan="1" colspan="1">Not assessed.</td></tr><tr><td align="left" rowspan="1" colspan="1">Nayyar et al. [<xref rid="bib-0034" ref-type="bibr">34</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">India</td><td align="center" rowspan="1" colspan="1">200</td><td align="center" rowspan="1" colspan="1">3–6</td><td align="center" rowspan="1" colspan="1">PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 115/200 (57.5%); authoritarian 37/200 (18.5%); permissive 48/200 (24.0%).</td><td align="center" rowspan="1" colspan="1">Positive behaviour: authoritative 88/115 (76.5%), authoritarian 14/37 (37.8%), permissive 13/48 (27.1%); <italic toggle="yes">p</italic> = 0.0001.</td><td align="center" rowspan="1" colspan="1">Caries present: authoritative 9/115 (7.8%), authoritarian 32/37 (86.5%), permissive 45/48 (93.8%); <italic toggle="yes">p</italic> = 0.0001.</td></tr><tr><td align="left" rowspan="1" colspan="1">Arrepia et al. [<xref rid="bib-0032" ref-type="bibr">32</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">Brazil</td><td align="center" rowspan="1" colspan="1">67</td><td align="center" rowspan="1" colspan="1">2–6</td><td align="center" rowspan="1" colspan="1">Brazilian PSDQ</td><td align="center" rowspan="1" colspan="1">Democratic (authoritative equivalent) 33/67 (49.3%); authoritarian 4/67 (6.0%); permissive 30/67 (44.8%).</td><td align="center" rowspan="1" colspan="1">No significant association with behaviour during the initial dental visit.</td><td align="center" rowspan="1" colspan="1">No significant association with caries prevalence.</td></tr><tr><td align="left" rowspan="1" colspan="1">Lee et al. [<xref rid="bib-0035" ref-type="bibr">35</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">South Korea</td><td align="center" rowspan="1" colspan="1">158 respondents (of 353 dyads)</td><td align="center" rowspan="1" colspan="1">3–6</td><td align="center" rowspan="1" colspan="1">Translated PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 151/158 (95.6%); authoritarian 6/158 (3.8%); permissive 1/158 (0.6%).</td><td align="center" rowspan="1" colspan="1">Not assessed.</td><td align="center" rowspan="1" colspan="1">No significant categorical difference. The authoritative group had the lowest mean dft, and higher authoritative‐domain scores were associated with lower dft; interpretation is limited by <italic toggle="yes">n</italic> = 6 and <italic toggle="yes">n</italic> = 1 in the other groups.</td></tr><tr><td align="left" rowspan="1" colspan="1">Sabbarwal et al. [<xref rid="bib-0036" ref-type="bibr">36</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">India</td><td align="center" rowspan="1" colspan="1">300</td><td align="center" rowspan="1" colspan="1">3–5</td><td align="center" rowspan="1" colspan="1">21‐item, locally adapted PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 192/300 (64.0%); authoritarian 30/300 (10.0%); permissive 78/300 (26.0%).</td><td align="center" rowspan="1" colspan="1">Not assessed.</td><td align="center" rowspan="1" colspan="1">Mean dmft: authoritative 1.51 ± 1.94, authoritarian 2.10 ± 1.67, permissive 4.25 ± 3.43; <italic toggle="yes">p</italic> &lt; 0.001.</td></tr><tr><td align="left" rowspan="1" colspan="1">Viswanath et al. [<xref rid="bib-0014" ref-type="bibr">14</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">India</td><td align="center" rowspan="1" colspan="1">315</td><td align="center" rowspan="1" colspan="1">3–7</td><td align="center" rowspan="1" colspan="1">30‐item Tamil‐translated PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 240/315 (76.2%); authoritarian 30/315 (9.5%); permissive 45/315 (14.3%).</td><td align="center" rowspan="1" colspan="1">Positive behaviour: 225/240 (93.8%), 14/30 (46.7%), and 17/45 (37.8%), respectively. Versus authoritative: authoritarian OR 2.232 (95% CI 0.842–5.919); permissive OR 4.354 (2.992–6.337) for negative behaviour.</td><td align="center" rowspan="1" colspan="1">Caries‐free/low/high: authoritative 56%/39%/5%; authoritarian 47%/53%/0%; permissive 13%/42%/45%. Reported permissive‐vs‐authoritative ordinal OR 3.752 (95% CI 0.597–5.624); this CI includes 1. The reported authoritarian OR/CI are internally inconsistent.</td></tr><tr><td align="left" rowspan="1" colspan="1">Nimbulkar et al. [<xref rid="bib-0025" ref-type="bibr">25</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">India</td><td align="center" rowspan="1" colspan="1">77</td><td align="center" rowspan="1" colspan="1">4–12</td><td align="center" rowspan="1" colspan="1">32‐item Marathi‐translated PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 29/77 (37.7%); authoritarian 22/77 (28.6%); permissive 23/77 (29.9%). These counts total 74; three participants were not classified/reported.</td><td align="center" rowspan="1" colspan="1">Counts (definitely positive; positive): authoritative 2; 14, authoritarian 1; 10, permissive 1; 10. The report does not provide a clear association <italic toggle="yes">p</italic> value; no reliable style–behaviour association can be concluded.</td><td align="center" rowspan="1" colspan="1">Not assessed.</td></tr><tr><td align="left" rowspan="1" colspan="1">Quek et al. [<xref rid="bib-0037" ref-type="bibr">37</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">Singapore</td><td align="center" rowspan="1" colspan="1">389</td><td align="center" rowspan="1" colspan="1">4–6</td><td align="center" rowspan="1" colspan="1">PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 370/389 (95.1%); authoritarian 4/389 (1.0%); permissive 15/389 (3.9%).</td><td align="center" rowspan="1" colspan="1">Dental‐operatory behaviour/cooperation was not assessed.</td><td align="center" rowspan="1" colspan="1">Parenting style was not associated with dmft (<italic toggle="yes">p</italic> = 0.72) or plaque index (<italic toggle="yes">p</italic> = 0.34). The very small authoritarian group limited categorical comparisons.</td></tr><tr><td align="left" rowspan="1" colspan="1">Alagla et al. [<xref rid="bib-0033" ref-type="bibr">33</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">Saudi Arabia</td><td align="center" rowspan="1" colspan="1">282</td><td align="center" rowspan="1" colspan="1">3–6</td><td align="center" rowspan="1" colspan="1">PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 265/282 (94.0%); authoritarian 0/282 (0%); permissive 17/282 (6.0%).</td><td align="center" rowspan="1" colspan="1">Positive/definitely positive behaviour occurred in 205/282 (72.7%). Parenting style was associated with parental dental anxiety (<italic toggle="yes">p</italic> = 0.02) but not significantly with child behaviour.</td><td align="center" rowspan="1" colspan="1">Not assessed.</td></tr><tr><td align="left" rowspan="1" colspan="1">Khattab et al. [<xref rid="bib-0038" ref-type="bibr">38</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">Egypt</td><td align="center" rowspan="1" colspan="1">105</td><td align="center" rowspan="1" colspan="1">3–6</td><td align="center" rowspan="1" colspan="1">32‐item PSDQ</td><td align="center" rowspan="1" colspan="1">Group sizes were not reported.</td><td align="center" rowspan="1" colspan="1">Reported mean behaviour scores: authoritative 2.03 ± 0.75, authoritarian 3.35 ± 0.49, permissive 3.50 ± 0.61. The article interprets the lower authoritative score as more positive behaviour.</td><td align="center" rowspan="1" colspan="1">Mean dmf: authoritative 2.26 ± 1.31, authoritarian 3.94 ± 1.20, permissive 4.08 ± 1.61; the article reports a significant difference.</td></tr><tr><td align="left" rowspan="1" colspan="1">Misrohmasari and Prihatiningrum [<xref rid="bib-0030" ref-type="bibr">30</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">Indonesia</td><td align="center" rowspan="1" colspan="1">269</td><td align="center" rowspan="1" colspan="1">4–6</td><td align="center" rowspan="1" colspan="1">25‐item parenting‐style questionnaire; pilot‐tested for validity/reliability, but the source instrument was not specified</td><td align="center" rowspan="1" colspan="1">Authoritative 220/269 (81.8%); authoritarian 26/269 (9.7%); permissive 23/269 (8.6%).</td><td align="center" rowspan="1" colspan="1">Not assessed.</td><td align="center" rowspan="1" colspan="1">Mean def‐t: authoritative 10.14, authoritarian 10.42, permissive 8.74; no significant difference (<italic toggle="yes">p</italic> = 0.473).</td></tr><tr><td align="left" rowspan="1" colspan="1">Subramani et al. [<xref rid="bib-0039" ref-type="bibr">39</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">India</td><td align="center" rowspan="1" colspan="1">270</td><td align="center" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 123/270 (45.6%); authoritarian 73/270 (27.0%); permissive 74/270 (27.4%).</td><td align="center" rowspan="1" colspan="1">Not assessed.</td><td align="center" rowspan="1" colspan="1">Mean DMFT±reported dispersion: authoritative 1.66 ± 0.12, authoritarian 1.42 ± 0.48, permissive 4.50 ± 2.14. Values are reproduced as reported; the analysis/reporting warrants caution.</td></tr><tr><td align="left" rowspan="1" colspan="1">Shalini et al. [<xref rid="bib-0040" ref-type="bibr">40</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">India</td><td align="center" rowspan="1" colspan="1">1216</td><td align="center" rowspan="1" colspan="1">3–6</td><td align="center" rowspan="1" colspan="1">PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 853/1216 (70.1%); authoritarian 248/1216 (20.4%); permissive 115/1216 (9.5%).</td><td align="center" rowspan="1" colspan="1">Permissive parenting showed more negative behaviour. Versus permissive, authoritative parenting had 4.102‐fold higher odds of definitely positive behaviour (<italic toggle="yes">p</italic> = 0.004).</td><td align="center" rowspan="1" colspan="1">Caries present: authoritative 41.6%, authoritarian 55.2%, permissive 47.8%. Authoritarian vs permissive OR 1.45 for caries (<italic toggle="yes">p</italic> = 0.106); positive behaviour was associated with 2.406‐fold higher odds of being caries‐free (<italic toggle="yes">p</italic> &lt; 0.001).</td></tr><tr><td align="left" rowspan="1" colspan="1">El‐Mahdy et al. [<xref rid="bib-0028" ref-type="bibr">28</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">Egypt</td><td align="center" rowspan="1" colspan="1">180</td><td align="center" rowspan="1" colspan="1">3–6</td><td align="center" rowspan="1" colspan="1">PSDQ</td><td align="center" rowspan="1" colspan="1">Authoritative 121/180 (67.2%); authoritarian 6/180 (3.3%); permissive 53/180 (29.4%).</td><td align="center" rowspan="1" colspan="1">Positive/definitely positive: authoritative 97/121 (80.2%), authoritarian 4/6 (66.7%), permissive 48/53 (90.6%). The article reports an influence of parenting style on behaviour.</td><td align="center" rowspan="1" colspan="1">Mean dmf: authoritative 8.31 ± 4.66, authoritarian 4.50 ± 2.88, permissive 7.18 ± 4.96; no significant difference (<italic toggle="yes">p</italic> = 0.07).</td></tr><tr><td align="left" rowspan="1" colspan="1">Amirabadi et al. [<xref rid="bib-0031" ref-type="bibr">31</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">Iran</td><td align="center" rowspan="1" colspan="1">88</td><td align="center" rowspan="1" colspan="1">4–6</td><td align="center" rowspan="1" colspan="1">30‐item Baumrind Parenting Style Questionnaire</td><td align="center" rowspan="1" colspan="1">Authoritative 75/88 (85.2%); authoritarian 7/88 (8.0%); permissive 6/88 (6.8%).</td><td align="center" rowspan="1" colspan="1">Positive/completely positive cooperation: authoritative 58/75 (77.3%); authoritarian 0/7; permissive 0/6 (Monte Carlo <italic toggle="yes">χ</italic>
+<sup>2</sup>, <italic toggle="yes">p</italic> &lt; 0.001).</td><td align="center" rowspan="1" colspan="1">Not assessed.</td></tr><tr><td align="left" rowspan="1" colspan="1">Gera et al. [<xref rid="bib-0026" ref-type="bibr">26</xref>]</td><td align="center" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" rowspan="1" colspan="1">India</td><td align="center" rowspan="1" colspan="1">120</td><td align="center" rowspan="1" colspan="1">4–8</td><td align="center" rowspan="1" colspan="1">Parenting Styles and Dimensions Questionnaire; exact version and validation details were insufficiently reported</td><td align="center" rowspan="1" colspan="1">Authoritative 40; authoritarian 40; permissive 40. These were constructed equal groups and should not be interpreted as prevalence estimates.</td><td align="center" rowspan="1" colspan="1">Positive/definitely positive: authoritative 24/40 (60.0%), authoritarian 13/40 (32.5%), permissive 15/40 (37.5%); <italic toggle="yes">χ</italic>
+<sup>2</sup> = 9.45, <italic toggle="yes">p</italic> = 0.15 for the full four‐category behaviour distribution.</td><td align="center" rowspan="1" colspan="1">Not assessed.</td></tr></tbody></table><table-wrap-foot><fn id="ijd9390631-note-0002"><p>Note: dft/deft/dmft, primary‐tooth caries indices; DMFT, permanent‐tooth caries index.</p></fn><fn id="ijd9390631-note-0003"><p>Abbreviations: CI, confidence interval; OR, odds ratio; PCPR, primary caregivers’ practices report; PSDQ, parenting styles and dimensions questionnaire.</p></fn></table-wrap-foot></table-wrap></sec><sec id="sec-0016"><title>3.3. Risk of Bias</title><p>The revised JBI critical appraisal tool identified adequate reporting of eligibility criteria, participants and study settings in most studies. Concerns remained regarding the validity and reliability of exposure or outcome measurement in several reports. Confounding was the principal limitation: although potential confounders were often identified, only one study adequately reported a strategy to address them. Statistical analyses were also limited by inadequate adjustment, sparse or imbalanced parenting‐style groups, and, in some studies, inappropriate handling of categorical data. All 17 studies received an overall JBI decision of include and were retained; this decision does not imply an absence of risk of bias. Item‐level judgements are presented in Figure <xref rid="fig-0002" ref-type="fig">2</xref>.</p><fig position="float" fig-type="Figure" id="fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Risk of bias assessment of included studies using the JBI critical appraisal tool for cross‐sectional studies. <italic toggle="yes">Note:</italic> Y = Yes (green); N = No (red); U = Unclear (pale yellow); NA = Not applicable (grey). Colours are visual aids only and are not scores or weights. JBI domains: Q1, clarity of sample inclusion criteria; Q2, objective/standard measurement of an eligibility condition; Q3, validity and reliability of exposure measurement; Q4, validity and reliability of outcome measurement; Q5, identification of confounders; Q6, strategies addressing confounding; Q7, appropriateness of statistical analysis; Q8, detailed description of participants and setting. Appraisal levels: Q1, Q3, Q5 and Q8 are study‐level judgements; Q2, Q4 and Q6 are outcome‐level judgements; Q7 is a result‐level judgement. Q2 decision: Q2 was rated NA for all studies because eligibility was not conditional on participants having the review outcomes (dental behaviour/cooperation or dental caries); those outcomes were measured after enrolment. Overall appraisal: “Include” records the review team’s decision to retain the study. It is not an overall low‐risk rating and does not override the individual domain judgements.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="IJOD-2026-9390631-g002.webp"><?image-name IJOD-2026-9390631-g002.webp?><?image-size 38344?><?image-md5 0cfd36e6a9584a4c2d4f42581715e39a?><?image-image-server-status NEVER_LOAD?><?image-original-height 251?><?image-original-width 600?><?image-scaled-height 251?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/7137/13575644/0cfd36e6a958/IJOD-2026-9390631-g002.webp?><?thumb-name IJOD-2026-9390631-g002.gif?><?thumb-size 14592?><?thumb-md5 a8511c46ae7616927bec24c39dac405c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 84?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/7137/13575644/a8511c46ae76/IJOD-2026-9390631-g002.gif?></graphic></fig></sec><sec id="sec-0017"><title>3.4. Quantitative Synthesis of Child Dental Behaviour</title><sec id="sec-0018"><title>3.4.1. Authoritative Versus Permissive Parenting</title><p>Seven studies involving 1168 children contributed to this comparison. Positive behaviour was reported in 772 of 936 children with authoritative parents and 131 of 232 children with permissive parents. Authoritative parenting was associated with higher odds of positive dental behaviour (OR 4.77, 95% CI 1.10–20.76; <italic toggle="yes">p</italic> = 0.041; Figure <xref rid="fig-0003" ref-type="fig">3</xref>a). Heterogeneity was considerable (<italic toggle="yes">Q</italic> = 50.21, <italic toggle="yes">df</italic> = 6, <italic toggle="yes">p</italic> &lt; 0.001; <italic toggle="yes">I</italic>
+<sup>2</sup> = 88.1%; <italic toggle="yes">τ</italic>
+<sup>2</sup> = 2.072), and the 95% prediction interval was 0.09–262.96. Thus, although the pooled CI narrowly excluded the null, the expected association varied markedly across settings.</p><fig-group position="float" id="fig-0003" content-type="Figure" orientation="portrait"><label>Figure 3</label><caption><p>Random‐effects meta‐analyses of parenting style and positive dental behaviour during the first dental visit: (a) Authoritative versus permissive parenting. (b) Authoritative versus authoritarian parenting. and (c) Permissive versus authoritarian parenting. Odds ratios were pooled using generic inverse‐variance models with REML estimation and modified Hartung–Knapp 95% CIs. Squares are proportional to random‐effects weights, horizontal lines show study‐specific 95% CIs, diamonds show pooled estimates, dashed red lines show 95% prediction intervals, and the vertical line indicates OR = 1. A continuity correction of 0.5 was added to all four cells for comparisons containing a single zero cell. (Amirabadi et al. was excluded from panel (c) because both comparison groups had zero positive events).</p></caption><fig position="anchor" fig-type="Figure" id="figpt-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="IJOD-2026-9390631-g001.webp"><?image-name IJOD-2026-9390631-g001.webp?><?image-size 37010?><?image-md5 1919548434922b666ca27e681be8e37a?><?image-image-server-status NEVER_LOAD?><?image-original-height 743?><?image-original-width 600?><?image-scaled-height 743?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/7137/13575644/191954843492/IJOD-2026-9390631-g001.webp?><?thumb-name IJOD-2026-9390631-g001.gif?><?thumb-size 7598?><?thumb-md5 8848b5430769b9652f7f1d0146071f73?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 200?><?thumb-scaled-width 162?><?thumb-cloudpmc-urn urn:cdn:blobs/7137/13575644/8848b5430769/IJOD-2026-9390631-g001.gif?></graphic></fig><fig position="anchor" fig-type="Figure" id="figpt-0002" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="IJOD-2026-9390631-g004.webp"><?image-name IJOD-2026-9390631-g004.webp?><?image-size 16944?><?image-md5 4c4686686c42ad6f02b978adf8f9f8d2?><?image-image-server-status NEVER_LOAD?><?image-original-height 339?><?image-original-width 600?><?image-scaled-height 339?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/7137/13575644/4c4686686c42/IJOD-2026-9390631-g004.webp?><?thumb-name IJOD-2026-9390631-g004.gif?><?thumb-size 4951?><?thumb-md5 d50825dc6d6f71350a7ee416b43856be?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 113?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/7137/13575644/d50825dc6d6f/IJOD-2026-9390631-g004.gif?></graphic></fig></fig-group></sec><sec id="sec-0019"><title>3.4.2. Authoritative Versus Authoritarian Parenting</title><p>Six studies comprising 766 children contributed to this comparison. Positive behaviour was reported in 578 of 671 children with authoritative parents and 41 of 95 children with authoritarian parents. Authoritative parenting was associated with higher odds of positive dental behaviour (OR 7.95, 95% CI 2.32–27.29; <italic toggle="yes">p</italic> = 0.008; Figure <xref rid="fig-0003" ref-type="fig">3</xref>b). Heterogeneity was moderate (<italic toggle="yes">Q</italic> = 10.90, <italic toggle="yes">df</italic> = 5, <italic toggle="yes">p</italic> = 0.053; <italic toggle="yes">I</italic>
+<sup>2</sup> = 54.1%; <italic toggle="yes">τ</italic>
+<sup>2</sup> = 0.497), and the 95% prediction interval was 0.74–84.92, which crossed the null.</p></sec><sec id="sec-0020"><title>3.4.3. Permissive Versus Authoritarian Parenting</title><p>Five studies involving 297 children contributed to the relative‐effect model after exclusion of the Amirabadi et al. [<xref rid="bib-0031" ref-type="bibr">31</xref>] double‐zero comparison. Positive behaviour was reported in 120 of 209 children with permissive parents and 41 of 88 children with authoritarian parents. No clear difference was demonstrated (OR 0.87, 95% CI 0.36–2.10; <italic toggle="yes">p</italic> = 0.692; Figure <xref rid="fig-0003" ref-type="fig">3</xref>c). Heterogeneity was low (<italic toggle="yes">Q</italic> = 4.95, <italic toggle="yes">df</italic> = 4, <italic toggle="yes">p</italic> = 0.292; <italic toggle="yes">I</italic>
+<sup>2</sup> = 19.2%; <italic toggle="yes">τ</italic>
+<sup>2</sup> = 0), and the 95% prediction interval was 0.32–2.39. This result should not be interpreted as evidence of equivalence.</p></sec></sec><sec id="sec-0021"><title>3.5. Narrative Synthesis of DC Outcomes</title><p>Twelve studies assessed DC using different indices and outcome definitions; therefore, meta‐analysis was not considered appropriate [<xref rid="bib-0001" ref-type="bibr">1</xref>, <xref rid="bib-0014" ref-type="bibr">14</xref>, <xref rid="bib-0028" ref-type="bibr">28</xref>, <xref rid="bib-0030" ref-type="bibr">30</xref>, <xref rid="bib-0032" ref-type="bibr">32</xref>, <xref rid="bib-0034" ref-type="bibr">34</xref>–<xref rid="bib-0040" ref-type="bibr">40</xref>]. Howenstein et al. [<xref rid="bib-0001" ref-type="bibr">1</xref>] reported caries in 19.5% of children of authoritative parents, compared with 90.9% and 97.0% in the authoritarian and permissive groups, respectively (<italic toggle="yes">p</italic> &lt; 0.001). Nayyar et al. [<xref rid="bib-0034" ref-type="bibr">34</xref>] reported a similar pattern (7.8%, 86.5% and 93.8%; <italic toggle="yes">p</italic> = 0.0001). Sabbarwal et al. [<xref rid="bib-0036" ref-type="bibr">36</xref>] found mean dmft scores of 1.51, 2.10 and 4.25, whereas Khattab et al. [<xref rid="bib-0038" ref-type="bibr">38</xref>] reported mean dmf scores of 2.26, 3.94 and 4.08 in the authoritative, authoritarian and permissive groups, respectively; both studies reported significant differences. Viswanath et al. [<xref rid="bib-0014" ref-type="bibr">14</xref>] and Subramani et al. [<xref rid="bib-0039" ref-type="bibr">39</xref>] also reported higher caries levels in the permissive group, although limitations in their statistical reporting require cautious interpretation. Shalini et al. [<xref rid="bib-0040" ref-type="bibr">40</xref>] found caries in 41.6%, 55.2% and 47.8% of the authoritative, authoritarian and permissive groups, respectively; however, the reported comparison between the authoritarian and permissive groups was not significant (<italic toggle="yes">p</italic> = 0.106). Arrepia et al. [<xref rid="bib-0032" ref-type="bibr">32</xref>] found no significant association between PS and caries prevalence. Lee et al. [<xref rid="bib-0035" ref-type="bibr">35</xref>] reported mixed findings, with no significant categorical difference but lower mean dft scores in the authoritative group. Quek et al. [<xref rid="bib-0037" ref-type="bibr">37</xref>] found no association with dmft (<italic toggle="yes">p</italic> = 0.72), while Misrohmasari and Prihatiningrum [<xref rid="bib-0030" ref-type="bibr">30</xref>] reported no significant difference in mean def‐t scores (<italic toggle="yes">p</italic> = 0.473). El‐Mahdy et al. [<xref rid="bib-0028" ref-type="bibr">28</xref>] also found no significant between‐group difference in mean dmf scores (<italic toggle="yes">p</italic> = 0.07). Overall, some studies suggested lower caries occurrence or severity among children of authoritative parents, particularly compared with permissive parents, but the findings were inconsistent. Differences in caries measures, sample characteristics, group sizes and adjustment for confounding factors limit direct comparisons. The available cross‐sectional evidence therefore suggests a possible association but does not establish causality.</p></sec><sec id="sec-0022"><title>3.6. GRADE Analysis</title><p>All three bodies of evidence began at low certainty because the included studies were observational and were downgraded to very low certainty because of serious risk of bias, particularly unadjusted estimates and inadequate control of confounding. Authoritative versus permissive parenting was further limited by very serious inconsistency (<italic toggle="yes">I</italic>
+<sup>2</sup> = 88.1%; 95% prediction interval 0.09–262.96) and serious imprecision. Authoritative versus authoritarian parenting was limited by serious inconsistency (<italic toggle="yes">I</italic>
+<sup>2</sup> = 54.1%; 95% prediction interval 0.74–84.92), whereas permissive versus authoritarian parenting had very serious imprecision because its CI included potentially important effects in both directions. No serious indirectness was identified. No downgrade was applied for publication bias, although it could not be formally assessed because fewer than 10 studies contributed to each comparison. To summarise, GRADE indicated very low‐certainty evidence for all three comparisons (Table <xref rid="tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>GRADE certainty assessment and summary of findings.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th colspan="7" align="center" rowspan="1">Certainty assessment</th><th colspan="5" align="center" rowspan="1">Summary of findings</th></tr><tr><th rowspan="2" align="left" colspan="1">Participants (studies) Follow‐up</th><th rowspan="2" align="center" colspan="1">Risk of bias</th><th rowspan="2" align="center" colspan="1">Inconsistency</th><th rowspan="2" align="center" colspan="1">Indirectness</th><th rowspan="2" align="center" colspan="1">Imprecision</th><th rowspan="2" align="center" colspan="1">Publication bias</th><th rowspan="2" align="center" colspan="1">Overall certainty of evidence</th><th colspan="2" align="center" rowspan="1">Study event rates (%)</th><th rowspan="2" colspan="1">Relative effect (95% CI)</th><th colspan="2" align="center" rowspan="1">Anticipated absolute effects</th></tr><tr><th align="center" rowspan="1" colspan="1">Positive behaviour with comparator style</th><th align="center" rowspan="1" colspan="1">Positive behaviour with index style</th><th align="center" rowspan="1" colspan="1">Risk with comparator style</th><th align="center" rowspan="1" colspan="1">Risk difference with index style</th></tr></thead><tbody><tr><td colspan="12" align="left" rowspan="1">Authoritative vs. permissive</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p> 1168 (7 non‐randomised studies)</p></list-item><list-item><p>Follow‐up: N/A</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">Serious<sup>a</sup>
+</td><td align="center" rowspan="1" colspan="1">Very serious<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Serious<sup>c</sup>
+</td><td align="center" rowspan="1" colspan="1">Not assessed<sup>d</sup>
+</td><td align="center" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p>⊕◯◯◯</p></list-item><list-item><p>Very low</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">131/232 (56.5%)</td><td align="center" rowspan="1" colspan="1">772/936 (82.5%)</td><td align="center" rowspan="1" colspan="1">OR 4.77 (1.10 to 20.76)</td><td align="center" rowspan="1" colspan="1">565 per 1000</td><td align="center" rowspan="1" colspan="1">296 more per 1000 (from 23 more to 400 more)</td></tr><tr><td colspan="12" align="left" rowspan="1">Authoritative vs. authoritarian</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p> 766 (6 non‐randomised studies)</p></list-item><list-item><p>Follow‐up: N/A</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">Serious<sup>a</sup>
+</td><td align="center" rowspan="1" colspan="1">Serious<sup>e</sup>
+</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Not assessed<sup>d</sup>
+</td><td align="center" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p>⊕◯◯◯</p></list-item><list-item><p>Very low</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">41/95 (43.2%)</td><td align="center" rowspan="1" colspan="1">578/671 (86.1%)</td><td align="center" rowspan="1" colspan="1">OR 7.95 (2.32 to 27.29)</td><td align="center" rowspan="1" colspan="1">432 per 1000</td><td align="center" rowspan="1" colspan="1">426 more per 1000 (from 206 more to 522 more)</td></tr><tr><td colspan="12" align="left" rowspan="1">Permissive vs. authoritarian</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p> 297 (5 non‐randomised studies)</p></list-item><list-item><p>Follow‐up: N/A</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">Serious<sup>a</sup>
+</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Very serious<sup>f</sup>
+</td><td align="center" rowspan="1" colspan="1">Not assessed<sup>d</sup>
+</td><td align="center" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p>⊕◯◯◯</p></list-item><list-item><p>Very low</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">41/88 (46.6%)</td><td align="center" rowspan="1" colspan="1">120/209 (57.4%)</td><td align="center" rowspan="1" colspan="1">OR 0.87 (0.36 to 2.10)</td><td align="center" rowspan="1" colspan="1">466 per 1000</td><td align="center" rowspan="1" colspan="1">34 fewer per 1000 (from 227 fewer to 181 more)</td></tr></tbody></table><table-wrap-foot><fn id="ijd9390631-note-0004"><p>
+<italic toggle="yes">Note:</italic> The comparator style is the second style named in each comparison; the index style is the first. Baseline risk is the aggregated comparator event rate. Observational evidence began at low certainty and was further downgraded according to the domain judgements shown.</p></fn><fn id="ijd9390631-note-0005"><p>
+<sup>a</sup>Serious risk of bias: cross‐sectional studies, unadjusted pooled estimates and inadequate control of confounding.</p></fn><fn id="ijd9390631-note-0006"><p>
+<sup>b</sup>Very serious inconsistency: <italic toggle="yes">I</italic>
+<sup>2</sup> = 88.1%; 95% prediction interval 0.09–262.96.</p></fn><fn id="ijd9390631-note-0007"><p>
+<sup>c</sup>Serious imprecision: the confidence interval ranges from a potentially trivial to a very large benefit.</p></fn><fn id="ijd9390631-note-0008"><p>
+<sup>d</sup>No downgrade for publication bias was applied; formal assessment was not possible because fewer than 10 studies contributed to each comparison.</p></fn><fn id="ijd9390631-note-0009"><p>
+<sup>e</sup>Serious inconsistency: <italic toggle="yes">I</italic>
+<sup>2</sup> = 54.1%; 95% prediction interval 0.74–84.92 crosses no effect.</p></fn><fn id="ijd9390631-note-0010"><p>
+<sup>f</sup>Very serious imprecision: the confidence interval includes important effects favouring either parenting style.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="sec-0023"><title>4. Discussion</title><p>The aim of the current systematic review was to assess the association between different PSs, children’s behaviour in the dental operatory, and caries experience. New‐age parenting influences the child health and cognitive outcomes to a greater extent. The growing awareness of this influence has impelled an increase in research focus, especially in the field of paediatric dentistry, where child’s behaviour and their oral health habits are strongly shaped by the PSs. Most of the included studies examined children under 7 years of age, reflecting the high influence of PS during the early formative years in the life of the child. The most popular classification of PSs was given by Baumrind [<xref rid="bib-0007" ref-type="bibr">7</xref>], describing parents as mostly authoritative, authoritarian and permissive. Later, neglectful/uninvolved PS was added by Maccoby and Martin [<xref rid="bib-0041" ref-type="bibr">41</xref>].</p><p>The literature search period was chosen after conducting an initial literature search, and it was inferred that parental approaches have mostly evolved over the past decade owing to new age parenting trends due to dynamic family structures. Consequently, more recent studies are likely to better represent present‐day parent–child interactions and their influence on children’s behaviour and oral health. Across 17 cross‐sectional studies, authoritative parenting was the most frequently reported style. In the primary meta‐analysis, authoritative parenting was associated with higher odds of positive dental behaviour than permissive or authoritarian parenting, whereas no clear difference was found between permissive and authoritarian parenting. These estimates require cautious interpretation. The studies were observational, the pooled ORs were based on unadjusted event counts, and the prediction intervals for both authoritative comparisons crossed the null. The GRADE certainty was therefore very low. The present review integrates behavioural and clinical oral health outcomes, but it treats them according to their evidential structure. Dental behaviour was pooled only when first‐visit or no‐previous‐treatment data could be mapped to a common positive‐versus‐negative outcome. DC was synthesised narratively because the reported constructs and scales were not clinically interchangeable. This approach improved interpretability but necessarily reduced the number of studies contributing to each pooled comparison.</p><p>PSDQ was used in 13 of the 17 studies, while the remaining studies used the PCPR, the Baumrind Parenting Style Questionnaire or another questionnaire based on Baumrind’s classification (Table <xref rid="tbl-0001" ref-type="table">1</xref>). This shared theoretical basis provided a broadly common framework for classifying authoritative, authoritarian and permissive parenting. It did not, however, ensure measurement equivalence across countries, languages or age groups. Cultural adaptation, self‐reporting and the relevance of some autonomy‐related items for very young children may have influenced classification and contributed to heterogeneity.</p><p>The behavioural findings are plausible: warmth, predictable limits and open communication may help a child regulate anxiety and cooperate in an unfamiliar clinical setting. Nevertheless, the pooled results do not show that PS determines behaviour. The estimates were based on unadjusted cross‐sectional data, and considerable heterogeneity and wide prediction intervals indicate that the associations may vary across settings.</p><p>Caries findings were inconsistent, and differences in outcome definitions, subgroup sizes and statistical adjustment precluded quantitative pooling. The extreme unadjusted group differences reported in some clinic‐based samples may therefore reflect selection, sparse subgroup counts or confounding as well as PS. The present evidence supports neither a causal nor a protective interpretation of DC. Several studies also examined outcomes outside the primary review question, including traumatic dental injuries, oral mucosal lesions, toothbrushing, dietary practices and socioeconomic characteristics. Sabbarwal et al. [<xref rid="bib-0036" ref-type="bibr">36</xref>] reported more traumatic dental injuries and oral mucosal lesions among children of permissive parents, while Quek et al. [<xref rid="bib-0037" ref-type="bibr">37</xref>] found that permissive parenting was associated with more frequent omission of bedtime toothbrushing. These secondary associations are clinically relevant but exploratory and do not establish the mechanisms linking PS with dental behaviour or disease. In comparison with previous reviews on this topic [<xref rid="bib-0020" ref-type="bibr">20</xref>], the current review provides a more elaborate and contemporary synthesis of the available evidence by incorporating recently published studies up to December 2025. The inclusion of these newer studies expanded the geographical representation and increased the overall sample size, thereby strengthening the evidence base. The strengths of this review include PRISMA‐based reporting, prespecified eligibility criteria, random‐effects models with modified Hartung–Knapp inference and GRADE assessment. However, there are a few important limitations which should be taken into consideration. All included studies were cross‐sectional; pooled estimates were based on unadjusted aggregate counts; PS and behaviour measures were not applied uniformly; and some parenting‐style groups were small or contained zero events. The authoritative‐versus‐permissive comparison showed considerable heterogeneity, caries outcomes were not suitable for pooling, and publication bias could not be formally assessed because fewer than 10 studies contributed to each comparison. Language and publication period restrictions may also have omitted relevant evidence. These limitations are reflected in the very low‐certainty GRADE ratings.</p><p>Taken together, the PS should be regarded as a contextual marker rather than an isolated exposure. The association observed for authoritative parenting may partly represent more specific and modifiable behaviours, including calm communication, consistent routines, supervision and constructive limit‐setting. These pathways should be tested directly instead of attributing outcomes to a broad parenting category alone. Although most included studies employed validated instruments such as the PSDQ and standardised caries indices, variability in application or the use of non‐validated questionnaires in some contexts cannot be ruled out. Also, PSDQ is a self‐reported questionnaire which might introduce potential bias in parental responses, particularly in assessing PSs. Such heterogeneity in measurement methods may influence the strength and comparability of the reported associations between PS, child behaviour, and caries experience. It has been further agreed upon that certain questionnaire items—particularly those assessing autonomy, decision‐making, or participation in family matters in the PSDQ questionnaire may appear less directly applicable to very young children; however, as mentioned earlier as well that it stands to be the widely used tool for assessing parental style. Future research should use prospective, adequately powered multicentre studies with culturally validated parenting measures, standardised age and dental‐behaviour outcomes, complete cell counts and prespecified adjustment for child, parental and socioeconomic confounders. Longitudinal studies should assess caries incidence, while interventions should target modifiable communication, supervision and oral‐health routines rather than broad parenting categories.</p><sec id="sec-0024"><title>4.1. Clinical Implications of the Review</title><p>Awareness of family communication and limit setting may help paediatric dentists plan conversations with parents and anticipate situations in which a child may need additional support. PS should not be used as a diagnostic label or as a substitute for direct assessment of the child’s anxiety, temperament, developmental level and behaviour. Clinicians can encourage calm, non‐threatening language, avoid transmission of parental dental anxiety and reinforce consistent toothbrushing and dietary routines. The very low‐certainty evidence does not justify recommending a change in PS solely to improve dental cooperation or caries outcomes.</p></sec></sec><sec id="sec-0025"><title>5. Conclusion</title><p>Authoritative parenting was associated with higher odds of positive dental behaviour than permissive or authoritarian parenting, while no clear difference was demonstrated between permissive and authoritarian parenting. These findings are based on very low‐certainty, cross‐sectional evidence and the wide prediction intervals indicate that the association may differ substantially across settings. DC findings were inconsistent and could not be pooled. PS may be a relevant contextual factor in paediatric dental care, but causal or protective claims are not supported. Prospective studies using standardised outcomes and adequately adjusted analyses are required.</p></sec><sec id="sec-0026"><title>Author Contributions</title><p>
+<bold>Gauri Kalra</bold>: conceptualisation, data curation, investigation, formal analysis, writing – original draft, writing – review and editing. <bold>Apurva Mishra</bold>: conceptualisation, data curation, investigation, resources, formal analysis, methodology, writing – original draft, writing – review and editing. <bold>Kusum Bharti</bold>: formal analysis, validation, writing – original draft, writing – review and editing. <bold>Vijay Prakash Mathur</bold>: conceptualisation, data curation, resources, validation, writing – review and editing, supervision.</p></sec><sec id="sec-0028"><title>Funding</title><p>The authors would like to gratefully acknowledge Ajman University, United Arab Emirates, for covering the publication charges associated with this work.</p></sec><sec id="sec-0029"><title>Disclosure</title><p>All authors have read and approved the final version of the manuscript. Apurva Mishra, the corresponding author and manuscript guarantor, had full access to all of the data in this study.</p></sec><sec id="sec-0030"><title>Ethics Statement</title><p>Ethical approval was not required because this study was a systematic review and meta‐analysis of data from previously published studies and involved no direct participant recruitment, intervention, or identifiable individual‐level data.</p></sec><sec id="sec-0031"><title>Consent</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="sec-0032"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec id="sec-0035"><title>Supporting Information</title><p>Additional supporting information can be found online in the Supporting Information section.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="link-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Information 1</bold> File S1: Completed preferred reporting items for systematic reviews and meta‐analyses (PRISMA) 2020 checklist.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="IJOD-2026-9390631-s002.docx" position="float" orientation="portrait"><?suppdata-name IJOD-2026-9390631-s002.docx?><?suppdata-size 275423?><?suppdata-md5 b30de55d41066b60ece44807627c8232?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:7137/13575644/b30de55d4106/IJOD-2026-9390631-s002.docx?></media></supplementary-material><supplementary-material id="link-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Information 2</bold> File S2: Complete electronic search strategies used for each database.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="IJOD-2026-9390631-s001.docx" position="float" orientation="portrait"><?suppdata-name IJOD-2026-9390631-s001.docx?><?suppdata-size 29905?><?suppdata-md5 e979c1896331237d3b7e15b2e73e77f7?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:7137/13575644/e979c1896331/IJOD-2026-9390631-s001.docx?></media></supplementary-material></sec></body><back><ack id="sec-0027"><title>Acknowledgments</title><p>The authors have nothing to report.</p></ack><sec sec-type="data-availability" id="sec-0034"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list><ref id="bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cit-0001">
+<string-name name-style="western">
+<surname>Howenstein</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Casamassimo</surname>
+<given-names>P. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McTigue</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Coury</surname>
+<given-names>D.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Yin</surname>
+<given-names>H.</given-names>
+</string-name>, <article-title>Correlating Parenting Styles With Child Behavior and Caries</article-title>, <source>Pediatric Dentistry</source>. (<year>2015</year>) <volume>37</volume>, no. 1, <fpage>59</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">25685975</pub-id>
+<pub-id pub-id-type="pmcid">PMC4559268</pub-id></mixed-citation></ref><ref id="bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cit-0002">
+<string-name name-style="western">
+<surname>Allen</surname>
+<given-names>K. D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hutfless</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Larzelere</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>Evaluation of Two Predictors of Child Disruptive Behavior During Restorative Dental Treatment</article-title>, <source>Journal of Dentistry for Children</source>. (<year>2003</year>) <volume>70</volume>, no. 3, <fpage>221</fpage>–<lpage>225</lpage>.<pub-id pub-id-type="pmid">14998205</pub-id>
+</mixed-citation></ref><ref id="bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cit-0003">
+<string-name name-style="western">
+<surname>dos Santos Costa</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Agostini</surname>
+<given-names>B. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schuch</surname>
+<given-names>H. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Correa</surname>
+<given-names>M. B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Goettems</surname>
+<given-names>M. L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Demarco</surname>
+<given-names>F. F.</given-names>
+</string-name>, <article-title>Parent-Child Interaction and Stimulation in Early Life Can be Related to Caries in Primary Dentition? Hypotheses From a Life-Course Approach</article-title>, <source>Medical Hypotheses</source>. (<year>2019</year>) <volume>130</volume>, <pub-id pub-id-type="doi">10.1016/j.mehy.2019.109291</pub-id>, <elocation-id>109291</elocation-id>.<pub-id pub-id-type="pmid">31383328</pub-id>
+</mixed-citation></ref><ref id="bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cit-0004">
+<string-name name-style="western">
+<surname>Hooley</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Skouteris</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Boganin</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Satur</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Kilpatrick</surname>
+<given-names>N.</given-names>
+</string-name>, <article-title>Parental Influence and the Development of Dental Caries in Children Aged 0-6 Years: A Systematic Review of the Literature</article-title>, <source>Journal of Dentistry</source>. (<year>2012</year>) <volume>40</volume>, no. 11, <fpage>873</fpage>–<lpage>885</lpage>, <pub-id pub-id-type="doi">10.1016/j.jdent.2012.07.013</pub-id>.<pub-id pub-id-type="pmid">22842202</pub-id>
+</mixed-citation></ref><ref id="bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cit-0005">
+<string-name name-style="western">
+<surname>Skeie</surname>
+<given-names>M. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Riordan</surname>
+<given-names>P. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klock</surname>
+<given-names>K. S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Espelid</surname>
+<given-names>I.</given-names>
+</string-name>, <article-title>Parental Risk Attitudes and Caries-Related Behaviours Among Immigrant and Western Native Children in Oslo</article-title>, <source>Community Dentistry and Oral Epidemiology</source>. (<year>2006</year>) <volume>34</volume>, no. 2, <fpage>103</fpage>–<lpage>113</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-0528.2006.00256.x</pub-id>.<pub-id pub-id-type="pmid">16515674</pub-id>
+</mixed-citation></ref><ref id="bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cit-0006">
+<string-name name-style="western">
+<surname>Saied-Moallemi</surname>
+<given-names>Z.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Virtanen</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ghofranipour</surname>
+<given-names>F.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Murtomaa</surname>
+<given-names>H.</given-names>
+</string-name>, <article-title>Influence of Mothers’ Oral Health Knowledge and Attitudes on Their Children’s Dental Health</article-title>, <source>European Archives of Paediatric Dentistry</source>. (<year>2008</year>) <volume>9</volume>, no. 2, <fpage>79</fpage>–<lpage>83</lpage>, <pub-id pub-id-type="doi">10.1007/BF03262614</pub-id>.<pub-id pub-id-type="pmid">18534175</pub-id>
+</mixed-citation></ref><ref id="bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cit-0007">
+<string-name name-style="western">
+<surname>Baumrind</surname>
+<given-names>D.</given-names>
+</string-name>, <article-title>Current Patterns of Parental Authority</article-title>, <source>Developmental Psychology</source>. (<year>1971</year>) <volume>4</volume>, no. 1, Pt.2, <fpage>1</fpage>–<lpage>103</lpage>, <pub-id pub-id-type="doi">10.1037/h0030372</pub-id>.</mixed-citation></ref><ref id="bib-0008"><label>8</label><mixed-citation publication-type="book" id="cit-0008">
+<string-name name-style="western">
+<surname>Darling</surname>
+<given-names>N.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Steinberg</surname>
+<given-names>L.</given-names>
+</string-name>, <part-title>Parenting Style as Context: An Integrative Model</part-title>, <source>Interpersonal Development</source>, <year>2017</year>, <publisher-name>Routledge</publisher-name>, <fpage>161</fpage>–<lpage>170</lpage>, <pub-id pub-id-type="doi">10.4324/9781351153683-8</pub-id>.</mixed-citation></ref><ref id="bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cit-0009">
+<string-name name-style="western">
+<surname>Baumrind</surname>
+<given-names>D.</given-names>
+</string-name>, <article-title>Child Care Practices Anteceding Three Patterns of Preschool Behavior</article-title>, <source>Genetic Psychology Monographs</source>. (<year>1967</year>) <volume>75</volume>, no. 1, <fpage>43</fpage>–<lpage>88</lpage>.<pub-id pub-id-type="pmid">6032134</pub-id>
+</mixed-citation></ref><ref id="bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cit-0010">
+<string-name name-style="western">
+<surname>Baumrind</surname>
+<given-names>D.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Black</surname>
+<given-names>A. E.</given-names>
+</string-name>, <article-title>Socialization Practices Associated With Dimensions of Competence in Preschool Boys and Girls</article-title>, <source>Child Development</source>. (<year>1967</year>) <volume>38</volume>, no. 2, <fpage>291</fpage>–<lpage>327</lpage>, <pub-id pub-id-type="doi">10.2307/1127295</pub-id>.<pub-id pub-id-type="pmid">6057386</pub-id>
+</mixed-citation></ref><ref id="bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cit-0011">
+<string-name name-style="western">
+<surname>Baumrind</surname>
+<given-names>D.</given-names>
+</string-name>, <article-title>Effects of Authoritative Parental Control on Child Behavior</article-title>, <source>Child Development</source>. (<year>1966</year>) <volume>37</volume>, no. 4, <fpage>887</fpage>–<lpage>907</lpage>, <pub-id pub-id-type="doi">10.2307/1126611</pub-id>.</mixed-citation></ref><ref id="bib-0012"><label>12</label><mixed-citation publication-type="book" id="cit-0012">
+<string-name name-style="western">
+<surname>Sanvictores</surname>
+<given-names>T.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Mendez</surname>
+<given-names>M. D.</given-names>
+</string-name>, <part-title>Types of Parenting Styles and Effects on Children</part-title>, <source>StatPearls [Internet]</source>, <year>2021</year>, <publisher-name>StatPearls Publishing</publisher-name>.<pub-id pub-id-type="pmid">33760502</pub-id></mixed-citation></ref><ref id="bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cit-0013">
+<string-name name-style="western">
+<surname>Saadia</surname>
+<given-names>M.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Valencia</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>Communicating With the New Generations: The Challenge for Pediatric Dentists</article-title>, <source>Journal of Clinical Pediatric Dentistry</source>. (<year>2015</year>) <volume>39</volume>, no. 4, <fpage>297</fpage>–<lpage>302</lpage>, <pub-id pub-id-type="doi">10.17796/1053-4628-39.4.297</pub-id>.<pub-id pub-id-type="pmid">26161598</pub-id>
+</mixed-citation></ref><ref id="bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cit-0014">
+<string-name name-style="western">
+<surname>Viswanath</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Asokan</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Geethapriya</surname>
+<given-names>P. R.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Eswara</surname>
+<given-names>K.</given-names>
+</string-name>, <article-title>Parenting Styles and Their Influence on Child’s Dental Behavior and Caries Status: An Analytical Cross-Sectional Study</article-title>, <source>Journal of Clinical Pediatric Dentistry</source>. (<year>2020</year>) <volume>44</volume>, no. 1, <fpage>8</fpage>–<lpage>14</lpage>, <pub-id pub-id-type="doi">10.17796/1053-4625-44.1.2</pub-id>.<pub-id pub-id-type="pmid">31995424</pub-id>
+</mixed-citation></ref><ref id="bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cit-0015">
+<string-name name-style="western">
+<surname>Wen</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tao</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pang</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cao</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y.</given-names>
+</string-name>, <article-title>Parental Feeding Styles and Risk of a New Carious Lesion in Preschool Children: A Longitudinal Study</article-title>, <source>Nutrients</source>. (<year>2023</year>) <volume>15</volume>, no. 20, <pub-id pub-id-type="doi">10.3390/nu15204387</pub-id>, <elocation-id>4387</elocation-id>.<pub-id pub-id-type="pmid">37892461</pub-id>
+<pub-id pub-id-type="pmcid">PMC10609665</pub-id></mixed-citation></ref><ref id="bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cit-0016">
+<string-name name-style="western">
+<surname>Abbasoglu</surname>
+<given-names>Z.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Kuvvetli</surname>
+<given-names>S. S.</given-names>
+</string-name>, <article-title>Influence of Maternal Attitudes and Parenting Style on Children’s Dental Caries Experience</article-title>, <source>Journal of the Pakistan Medical Association</source>. (<year>2021</year>) <volume>71</volume>, no. 10, <fpage>2325</fpage>–<lpage>2329</lpage>, <pub-id pub-id-type="doi">10.47391/JPMA.01-085</pub-id>.<pub-id pub-id-type="pmid">34974564</pub-id>
+</mixed-citation></ref><ref id="bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cit-0017">
+<string-name name-style="western">
+<surname>Aminabadi</surname>
+<given-names>N. A.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Farahani</surname>
+<given-names>R. M. Z.</given-names>
+</string-name>, <article-title>Correlation of Parenting Style and Pediatric Behavior Guidance Strategies in the Dental Setting: Preliminary Findings</article-title>, <source>Acta Odontologica Scandinavica</source>. (<year>2008</year>) <volume>66</volume>, no. 2, <fpage>99</fpage>–<lpage>104</lpage>, <pub-id pub-id-type="doi">10.1080/00016350802001322</pub-id>.<pub-id pub-id-type="pmid">18446551</pub-id>
+</mixed-citation></ref><ref id="bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cit-0018">
+<string-name name-style="western">
+<surname>Krikken</surname>
+<given-names>J. B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>van Wijk</surname>
+<given-names>A. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>ten Cate</surname>
+<given-names>J. M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Veerkamp</surname>
+<given-names>J. S. J.</given-names>
+</string-name>, <article-title>Child Dental Anxiety, Parental Rearing Style and Referral Status of Children</article-title>, <source>Community Dental Health</source>. (<year>2012</year>) <volume>29</volume>, no. 4, <fpage>289</fpage>–<lpage>292</lpage>.<pub-id pub-id-type="pmid">23488211</pub-id>
+</mixed-citation></ref><ref id="bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cit-0019">
+<string-name name-style="western">
+<surname>Rapee</surname>
+<given-names>R. M.</given-names>
+</string-name>, <article-title>Potential Role of Childrearing Practices in the Development of Anxiety and Depression</article-title>, <source>Clinical Psychology Review</source>. (<year>1997</year>) <volume>17</volume>, no. 1, <fpage>47</fpage>–<lpage>67</lpage>, <pub-id pub-id-type="doi">10.1016/S0272-7358(96)00040-2</pub-id>.<pub-id pub-id-type="pmid">9125367</pub-id>
+</mixed-citation></ref><ref id="bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cit-0020">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>D. W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>J. G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y. M.</given-names>
+</string-name>, <article-title>The Influence of Parenting Style on Child Behavior and Dental Anxiety</article-title>, <source>Pediatric Dentistry</source>. (<year>2018</year>) <volume>40</volume>, no. 5, <fpage>327</fpage>–<lpage>333</lpage>.<pub-id pub-id-type="pmid">30355427</pub-id>
+</mixed-citation></ref><ref id="bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cit-0021">
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tadakamadla</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zimmer-Gembeck</surname>
+<given-names>M. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kroon</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lalloo</surname>
+<given-names>R.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>N. W.</given-names>
+</string-name>, <article-title>Parenting Practices and Children’s Dental Caries Experience: A Structural Equation Modelling Approach</article-title>, <source>Community Dentistry and Oral Epidemiology</source>. (<year>2017</year>) <volume>45</volume>, no. 6, <fpage>552</fpage>–<lpage>558</lpage>, <pub-id pub-id-type="doi">10.1111/cdoe.12321</pub-id>.<pub-id pub-id-type="pmid">28748528</pub-id>
+</mixed-citation></ref><ref id="bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cit-0022">
+<string-name name-style="western">
+<surname>Page</surname>
+<given-names>M. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McKenzie</surname>
+<given-names>J. E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Bossuyt</surname>
+<given-names>P. M.</given-names>
+</string-name>, et al.<article-title>The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews</article-title>, <source>British Medical Journal</source>. (<year>2021</year>) <volume>372</volume>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.n71</pub-id><pub-id pub-id-type="pmcid">PMC8005924</pub-id><pub-id pub-id-type="pmid">33782057</pub-id></mixed-citation></ref><ref id="bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cit-0023">
+<string-name name-style="western">
+<surname>Barker</surname>
+<given-names>T. H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hasanoff</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Aromataris</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stone</surname>
+<given-names>J. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Leonardi-Bee</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Sears</surname>
+<given-names>K.</given-names>
+</string-name>, <article-title>The Revised JBI Critical Appraisal Tool for the Assessment of Risk of Bias for Analytical Cross-Sectional Studies</article-title>, <source>JBI Evidence Synthesis</source>. (<year>2026</year>) <volume>24</volume>, no. 3, <fpage>401</fpage>–<lpage>408</lpage>, <pub-id pub-id-type="doi">10.11124/JBIES-24-00523</pub-id>.<pub-id pub-id-type="pmid">40521701</pub-id>
+</mixed-citation></ref><ref id="bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cit-0024">
+<string-name name-style="western">
+<surname>Röver</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Knapp</surname>
+<given-names>G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Friede</surname>
+<given-names>T.</given-names>
+</string-name>, <article-title>Hartung-Knapp-Sidik-Jonkman Approach and Its Modification for Random-Effects Meta-Analysis With Few Studies</article-title>, <source>BMC Medical Research Methodology</source>. (<year>2015</year>) <volume>15</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s12874-015-0091-1</pub-id>.<pub-id pub-id-type="pmcid">PMC4647507</pub-id><pub-id pub-id-type="pmid">26573817</pub-id></mixed-citation></ref><ref id="bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cit-0025">
+<string-name name-style="western">
+<surname>Nimbulkar</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Deolia</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Barde</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sakhre</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Reche</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Relationship of Parenting Styles and Dental Operatory Behavior in Children</article-title>, <source>European Journal of Molecular and Clinical Medicine</source>. (<year>2020</year>) <volume>7</volume>, <fpage>1970</fpage>–<lpage>1977</lpage>.</mixed-citation></ref><ref id="bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cit-0026">
+<string-name name-style="western">
+<surname>Gera</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Nigam</surname>
+<given-names>A. G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Marwah</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sinha</surname>
+<given-names>S. K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>N.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>Comparative Evaluation of Behavior of the Child With the Parenting Styles and the Preference for Behavior Management Technique: An Observational Cross-Sectional Study</article-title>, <source>International Journal of Clinical Pediatric Dentistry</source>. (<year>2025</year>) <volume>18</volume>, no. 4, <fpage>399</fpage>–<lpage>405</lpage>, <pub-id pub-id-type="doi">10.5005/jp-journals-10005-3103</pub-id>.<pub-id pub-id-type="pmid">40469833</pub-id>
+<pub-id pub-id-type="pmcid">PMC12131060</pub-id></mixed-citation></ref><ref id="bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cit-0027">
+<string-name name-style="western">
+<surname>Guyatt</surname>
+<given-names>G. H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Oxman</surname>
+<given-names>A. D.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Vist</surname>
+<given-names>G. E.</given-names>
+</string-name>, et al.<article-title>GRADE: An Emerging Consensus on Rating Quality of Evidence and Strength of Recommendations</article-title>, <source>British Medical Journal</source>. (<year>2008</year>) <volume>336</volume>, no. 7650, <fpage>924</fpage>–<lpage>926</lpage>, <pub-id pub-id-type="doi">10.1136/bmj.39489.470347.AD</pub-id>.<pub-id pub-id-type="pmid">18436948</pub-id>
+<pub-id pub-id-type="pmcid">PMC2335261</pub-id></mixed-citation></ref><ref id="bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cit-0028">
+<string-name name-style="western">
+<surname>El-Mahdy</surname>
+<given-names>R. A. E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Taha</surname>
+<given-names>S. E. E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Abdelgawad</surname>
+<given-names>F. K. I.</given-names>
+</string-name>, <article-title>Prevalence of Parenting Style in a Group of Children With Primary Dentition in Their First Dental Visit: A Cross-Sectional Study</article-title>, <source>Advanced Dental Journal</source>. (<year>2024</year>) <volume>6</volume>, no. 1, <fpage>96</fpage>–<lpage>103</lpage>, <pub-id pub-id-type="doi">10.21608/adjc.2023.213090.1317</pub-id>.</mixed-citation></ref><ref id="bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cit-0029">
+<string-name name-style="western">
+<surname>Aminabadi</surname>
+<given-names>N. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Deljavan</surname>
+<given-names>A. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jamali</surname>
+<given-names>Z.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Azar</surname>
+<given-names>F. P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Oskouei</surname>
+<given-names>S. G.</given-names>
+</string-name>, <article-title>The Influence of Parenting Style and Child Temperament on Child-Parent-Dentist Interactions</article-title>, <source>Pediatric Dentistry</source>. (<year>2015</year>) <volume>37</volume>, no. 4, <fpage>342</fpage>–<lpage>347</lpage>.<pub-id pub-id-type="pmid">26314601</pub-id>
+</mixed-citation></ref><ref id="bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cit-0030">
+<string-name name-style="western">
+<surname>Misrohmasari</surname>
+<given-names>E. A. A.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Prihatiningrum</surname>
+<given-names>B.</given-names>
+</string-name>, <article-title>Parenting Styles and Dental Caries Among Preschool Children in a Coastal Area of Jember, Indonesia</article-title>, <source>Insisiva Dental Journal</source>. (<year>2022</year>) <volume>11</volume>, no. 1, <fpage>8</fpage>–<lpage>12</lpage>, <pub-id pub-id-type="doi">10.18196/di.v11i1.14385</pub-id>.</mixed-citation></ref><ref id="bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cit-0031">
+<string-name name-style="western">
+<surname>Amirabadi</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Moradi</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Mousavi</surname>
+<given-names>S. H.</given-names>
+</string-name>, <article-title>Impact of Parenting Style and Maternal Self-Efficacy on Children’s Dental Cooperation</article-title>, <source>Avicenna Journal of Dental Research</source>. (<year>2025</year>) <volume>17</volume>, no. 4, <fpage>192</fpage>–<lpage>197</lpage>, <pub-id pub-id-type="doi">10.34172/ajdr.2053</pub-id>.</mixed-citation></ref><ref id="bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cit-0032">
+<string-name name-style="western">
+<surname>Arrepia</surname>
+<given-names>B. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>da Silva</surname>
+<given-names>J. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pires</surname>
+<given-names>P. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Duarte</surname>
+<given-names>M. L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Primo</surname>
+<given-names>L. G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Goncalves</surname>
+<given-names>A. F.</given-names>
+</string-name>, <article-title>Association of Parenting Style With the Behaviour and Caries Prevalence of Preschool Children</article-title>, <source>Rio de Janeiro Dental Journal (Revista Científica do CRO-RJ)</source>. (<year>2019</year>) <volume>4</volume>, no. 3, <fpage>17</fpage>–<lpage>24</lpage>, <pub-id pub-id-type="doi">10.29327/24816.4.3-4</pub-id>.</mixed-citation></ref><ref id="bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cit-0033">
+<string-name name-style="western">
+<surname>Alagla</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Al-Hussyeen</surname>
+<given-names>A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Alhowaish</surname>
+<given-names>L.</given-names>
+</string-name>, <article-title>Parenting Styles and Preschool Children’s Behaviour in a Saudi Arabian Postgraduate Dental Setting</article-title>, <source>European Archives of Paediatric Dentistry</source>. (<year>2021</year>) <volume>22</volume>, no. 2, <fpage>163</fpage>–<lpage>173</lpage>, <pub-id pub-id-type="doi">10.1007/s40368-020-00540-y</pub-id>.<pub-id pub-id-type="pmid">32514699</pub-id>
+</mixed-citation></ref><ref id="bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cit-0034">
+<string-name name-style="western">
+<surname>Nayyar</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Battepati</surname>
+<given-names>P. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tavargeri</surname>
+<given-names>A. K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Trasad</surname>
+<given-names>V.</given-names>
+</string-name>, <article-title>Association of Parenting Styles With Caries Status, Caries Risk and Behaviour of Children in Dental Set up</article-title>, <source>International Journal of Current Research</source>. (<year>2018</year>) <volume>10</volume>, <fpage>65123</fpage>–<lpage>65127</lpage>.</mixed-citation></ref><ref id="bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cit-0035">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tak</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>D.</given-names>
+</string-name>, <article-title>Association Between Parenting Styles and Dental Caries in Preschool Children</article-title>, <source>Journal of the Korean Academy of Pediatric Dentistry</source>. (<year>2020</year>) <volume>47</volume>, no. 1, <fpage>78</fpage>–<lpage>86</lpage>, <pub-id pub-id-type="doi">10.5933/JKAPD.2020.47.1.78</pub-id>.</mixed-citation></ref><ref id="bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cit-0036">
+<string-name name-style="western">
+<surname>Sabbarwal</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Puranik</surname>
+<given-names>M. P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Uma</surname>
+<given-names>S. R.</given-names>
+</string-name>, <article-title>Association Between Parental Behavior and Child’s Oral Health Among 3-5-Year-Old Children in Bengaluru City</article-title>, <source>International Journal of Clinical Pediatric Dentistry</source>. (<year>2020</year>) <volume>13</volume>, no. 6, <fpage>677</fpage>–<lpage>681</lpage>, <pub-id pub-id-type="doi">10.5005/jp-journals-10005-1856</pub-id>.<pub-id pub-id-type="pmid">33976495</pub-id>
+<pub-id pub-id-type="pmcid">PMC8060931</pub-id></mixed-citation></ref><ref id="bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cit-0037">
+<string-name name-style="western">
+<surname>Quek</surname>
+<given-names>S. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sim</surname>
+<given-names>Y. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lai</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lim</surname>
+<given-names>W.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Hong</surname>
+<given-names>C. H. L.</given-names>
+</string-name>, <article-title>The Effect of Parenting Styles on Enforcement of Oral Health Behaviours in Children</article-title>, <source>European Archives of Paediatric Dentistry</source>. (<year>2021</year>) <volume>22</volume>, no. 1, <fpage>83</fpage>–<lpage>92</lpage>, <pub-id pub-id-type="doi">10.1007/s40368-020-00537-7</pub-id>.<pub-id pub-id-type="pmid">32418053</pub-id>
+</mixed-citation></ref><ref id="bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cit-0038">
+<string-name name-style="western">
+<surname>Khattab</surname>
+<given-names>E. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>El Dokky</surname>
+<given-names>N. A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>ElGawad</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>Correlating Parenting Style With Their Children’s Behavior, Dental Anxiety and Dental Caries During the First Dental Visit</article-title>, <source>Future Dental Journal</source>. (<year>2022</year>) <volume>8</volume>, <fpage>119</fpage>–<lpage>123</lpage>, <pub-id pub-id-type="doi">10.54623/fdj.8028</pub-id>.</mixed-citation></ref><ref id="bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cit-0039">
+<string-name name-style="western">
+<surname>Subramani</surname>
+<given-names>P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Palani</surname>
+<given-names>B. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sharif</surname>
+<given-names>F. J. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Grace</surname>
+<given-names>H. D.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Rajamani</surname>
+<given-names>B.</given-names>
+</string-name>, <article-title>Association Between Parenting Style and Dental Caries Among 12-Year-Old Children in Chengalpattu District, India</article-title>, <source>Journal of Oral Health and Community Dentistry</source>. (<year>2023</year>) <volume>17</volume>, no. 1, <fpage>1</fpage>–<lpage>3</lpage>, <pub-id pub-id-type="doi">10.5005/jp-journals-10062-0162</pub-id>.</mixed-citation></ref><ref id="bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cit-0040">
+<string-name name-style="western">
+<surname>Shalini</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Uloopi</surname>
+<given-names>K. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vinay</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ratnaditya</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>RojaRamya</surname>
+<given-names>K. S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Chaitanya</surname>
+<given-names>P.</given-names>
+</string-name>, <article-title>Impact of Parenting Style on Child’s Behavior and Caries Experience in 3–6-Year-Old Children: A Cross-Sectional Study</article-title>, <source>International Journal of Clinical Pediatric Dentistry</source>. (<year>2023</year>) <volume>16</volume>, no. 2, <fpage>276</fpage>–<lpage>279</lpage>, <pub-id pub-id-type="doi">10.5005/jp-journals-10005-2517</pub-id>.<pub-id pub-id-type="pmid">37519952</pub-id>
+<pub-id pub-id-type="pmcid">PMC10373772</pub-id></mixed-citation></ref><ref id="bib-0041"><label>41</label><mixed-citation publication-type="book" id="cit-0041">
+<string-name name-style="western">
+<surname>Maccoby</surname>
+<given-names>E. E.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Martin</surname>
+<given-names>J. A.</given-names>
+</string-name>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Mussen</surname>
+<given-names>P. H.</given-names>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Hetherington</surname>
+<given-names>E. M.</given-names>
+</string-name>
+</person-group>, <part-title>Socialization in the Context of the Family: Parent-Child Interaction</part-title>, <source>Handbook of Child Psychology, Volume 4: Socialization, Personality, and Social Development</source>, <year>1983</year>, <publisher-name>Wiley</publisher-name>, <fpage>1</fpage>–<lpage>101</lpage>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,45 @@
+{
+  "version": "mds-master-evidence-candidate-v5-2026-10-13",
+  "schema_version": 1,
+  "records": 7791,
+  "sources": 411,
+  "files": {
+    "records.jsonl": "9f25e39c3c0970b157145b984a32f29d1a0c7f454ad490578b83c478d25a17e7",
+    "sources.yaml": "1f18cb9aaad1fec710dc0b7435e1bdc41ceca71b6fa3f7c7e08a5d0bb9a2f68b",
+    "metadata.json": "d26020f4b16fc2b4d454bf4d630b47cd2f60ad6f0ed3a71c9af5683af7f68f69",
+    "explanations.json": "d8d639ca9a5f9f7433e996232c345efea42d98f035559f0b6845291effa31a93",
+    "syllabus.json": "f37a265fea848f77dfa8859d53b6b3d0f4555aa3a82bcae9a82739e790903df7"
+  },
+  "lineage": [
+    {
+      "path": "C:\\Users\\AYUSH\\Documents\\AI doctor\\artifacts\\source-packs\\mds-master-evidence-candidate-v3-2026-10-13",
+      "manifest_sha256": "ceee9d0f012dea78d49abe0e22c79caa356334719d7a09bc5d04a7711a4e1e13",
+      "version": "mds-master-evidence-candidate-v3-2026-10-13",
+      "records": 7789,
+      "sources": 410
+    },
+    {
+      "path": "C:\\Users\\AYUSH\\Documents\\AI doctor\\artifacts\\source-packs\\mds-master-necrosis-acquired-v1-2026-10-13",
+      "manifest_sha256": "8407619e2940d2474209c99e3a6caa11ae8ef0b817adc341aac7f7443362cd57",
+      "version": "mds-master-necrosis-acquired-v1-2026-10-13",
+      "records": 2,
+      "sources": 1
+    }
+  ],
+  "photographed_topics": 89,
+  "clinical_review": false,
+  "faculty_review": "pending",
+  "licenses": [
+    "CC-BY-4.0",
+    "CC-BY-NC-4.0",
+    "CC-BY-NC-SA-3.0",
+    "CC-BY-NC-SA-3.0-IGO",
+    "CC-BY-NC-SA-4.0",
+    "CC-BY-SA-4.0",
+    "CDC-public-domain",
+    "MedlinePlus-genetics-public-domain",
+    "NIDDK-copyright-free",
+    "NIMH-public-domain"
+  ],
+  "usage": "Local noncommercial educational retrieval. Preserve attribution, source-specific licenses and share-alike obligations."
+}

@@ -1,0 +1,1160 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cre270466" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Exp Dent Res</journal-id><journal-id journal-id-type="iso-abbrev">Clin Exp Dent Res</journal-id><journal-id journal-id-type="pmc-domain-id">3368</journal-id><journal-id journal-id-type="pmc-domain">cedr</journal-id><journal-id journal-id-type="nlm-id">101692332</journal-id><journal-id journal-id-type="publisher-id">CRE2</journal-id><journal-title-group><journal-title>Clinical and Experimental Dental Research</journal-title></journal-title-group><issn pub-type="epub">2057-4347</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13616234</article-id><article-id pub-id-type="pmcid-ver">PMC13616234.1</article-id><article-id pub-id-type="pmcaid">13616234</article-id><article-id pub-id-type="pmcaiid">13616234</article-id><article-id pub-id-type="pmid">42801521</article-id><article-id pub-id-type="doi">10.1002/cre2.70466</article-id><article-id pub-id-type="publisher-id">CRE270466</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>Comparison Between Skeletally‐Anchored and Conventional Maxillary Protraction in Growing Class ΙΙΙ Patients: A Systematic Review and Meta‐Analysis</article-title></title-group><contrib-group><contrib id="cre270466-cr-0001" contrib-type="author"><name name-style="western"><surname>Papadopoulou</surname><given-names initials="CI">Christianna Iris</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0007-2038-0599</contrib-id><xref rid="cre270466-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cre270466-cr-0002" contrib-type="author"><name name-style="western"><surname>Paschaei</surname><given-names initials="N">Nusha</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-4623-1535</contrib-id><xref rid="cre270466-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cre270466-cr-0003" contrib-type="author" corresp="yes"><name name-style="western"><surname>Brunello</surname><given-names initials="G">Giulia</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1436-0085</contrib-id><xref rid="cre270466-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cre270466-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>giulia.brunello@med.uni-duesseldorf.de</email></address></contrib><contrib id="cre270466-cr-0004" contrib-type="author"><name name-style="western"><surname>Jungbauer</surname><given-names initials="R">Rebecca</given-names></name><xref rid="cre270466-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cre270466-cr-0005" contrib-type="author"><name name-style="western"><surname>Becker</surname><given-names initials="K">Kathrin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1936-4683</contrib-id><xref rid="cre270466-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="cre270466-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Orthodontics and Dentofacial Orthopedics</named-content>
+<institution>Center for Oral Health Sciences CC3, Charité Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and Humboldt‐Universität Berlin</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="cre270466-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Oral Surgery</named-content>
+<institution>University Hospital of Düsseldorf</institution>
+<city>Düsseldorf</city>
+<country country="DE">Germany</country>
+</aff><aff id="cre270466-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Orthodontics</named-content>
+<institution>University Medical Centre Regensburg</institution>
+<city>Regensburg</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Giulia Brunello (<email>giulia.brunello@med.uni-duesseldorf.de</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>9</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2026</year></pub-date><volume>12</volume><issue seq="20">5</issue><issue-id pub-id-type="pmc-issue-id">520499</issue-id><issue-id pub-id-type="doi">10.1002/cre2.v12.5</issue-id><elocation-id>e70466</elocation-id><history>
+<date date-type="rev-recd"><day>07</day><month>9</month><year>2026</year></date>
+<date date-type="received"><day>05</day><month>5</month><year>2026</year></date>
+<date date-type="accepted"><day>11</day><month>9</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>27</day><month>09</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>28</day><month>09</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-09-28 16:13:24.027"><day>28</day><month>09</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Clinical and Experimental Dental Research</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CRE2-12-e70466.pdf"><?pdf-name CRE2-12-e70466.pdf?><?pdf-size 2389342?><?pdf-md5 79fee5040cda746dde2773a59ea23dcf?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:5fed/13616234/79fee5040cda/CRE2-12-e70466.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CRE2-12-e70466.pdf"/><abstract><title>ABSTRACT</title><sec id="cre270466-sec-0010"><title>Objective</title><p>The aim of this systematic review was to evaluate the skeletal and dental effects of skeletally‐anchored (SA) maxillary protraction compared with conventional facemask (FM) therapy in growing patients with Class III malocclusion, while controlling for the confounding effect of rapid maxillary expansion (RME).</p></sec><sec id="cre270466-sec-0020"><title>Materials and Methods</title><p>A systematic literature search (MEDLINE, Cochrane Library, Virtual Health Library, Web of Science, Google Scholar), which involved two screening stages, was performed until January 2026 and identified prospective clinical trials comparing SA with conventional tooth‐borne FM therapy. Only studies in which expansion protocols were applied uniformly across groups were included. Risk of bias was assessed with RoB 2 and ROBINS‐I tools, and random effects meta‐analyses were conducted for cephalometric outcomes. The certainty of the evidence was evaluated according to the grading of recommendations, assessment, development, and evaluation (GRADE) approach.</p></sec><sec id="cre270466-sec-0030"><title>Results</title><p>Five prospective trials (3 RCTs, 2 CCTs; <italic toggle="yes">n</italic> = 194 participants) met the inclusion criteria. Random‐effects meta‐analyses showed a modest but significant greater increase in SNA for SA (MD 0.65°; 95% CI 0.18–1.13, <italic toggle="yes">I</italic>
+<sup>2</sup> = 0.0%) and consistently fewer dental side effects with SA: upper‐molar mesialization (−1.14 mm; −2.12 to −0.17, <italic toggle="yes">I</italic>
+<sup>2</sup> = 10.3%), molar extrusion (−0.74 mm; −1.07 to −0.40, <italic toggle="yes">I</italic>
+<sup>2</sup> = 0.0%), and maxillary incisor proclination (−2.47°; −4.14 to −0.80, <italic toggle="yes">I</italic>
+<sup>2</sup> = 0.0%). The mandibular plane rotation did not differ significantly (−0.38°; −1.67 to 0.91, <italic toggle="yes">I</italic>
+<sup>2</sup> = 45.6%). Risk of bias was assessed as “some concerns” in RCTs and “serious” in non‐randomized studies. The certainty of evidence ranged from very low to moderate according to GRADE.</p></sec><sec id="cre270466-sec-0040"><title>Conclusions</title><p>Within the limitations of the available short‐term evidence, and given the low‐to‐moderate certainty of the pooled estimates, SA was associated with fewer dental side effects and a statistically significant, though not clinically relevant, gain in skeletal efficacy. Future long‐term, age‐stratified randomized trials are needed to confirm the long‐term stability of these findings.</p></sec></abstract><kwd-group><kwd id="cre270466-kwd-0001">class III</kwd><kwd id="cre270466-kwd-0002">facemask</kwd><kwd id="cre270466-kwd-0003">maxillary protraction</kwd><kwd id="cre270466-kwd-0004">skeletal anchorage</kwd></kwd-group><counts><fig-count count="6"/><table-count count="4"/><page-count count="17"/><word-count count="10556"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.8 mode:remove_FC converted:27.09.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cre270466-cit-0078">
+<string-name name-style="western">
+<surname>Papadopoulou</surname>, <given-names>C. I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Paschaei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Brunello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jungbauer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Becker</surname>
+</string-name>. <year>2026</year>. “<article-title>Comparison Between Skeletally‐Anchored and Conventional Maxillary Protraction in Growing Class ΙΙΙ Patients: A Systematic Review and Meta‐Analysis</article-title>.” <source>Clinical and Experimental Dental Research</source>
+<volume>12</volume>: <elocation-id>e70466</elocation-id>. <pub-id pub-id-type="doi">10.1002/cre2.70466</pub-id>.<pub-id pub-id-type="pmcid">PMC13616234</pub-id><pub-id pub-id-type="pmid">42801521</pub-id></mixed-citation>
+</p><fn-group><fn id="cre270466-note-0001"><p>This systematic review was structured and conducted according to the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA) (Page et al. 2021). The review protocol was created and registered at the PROSPERO database (CRD42024622038).</p></fn></fn-group></notes></front><body><sec id="cre270466-sec-0050"><label>1</label><title>Introduction</title><p>Managing skeletal Class III malocclusion remains a significant orthodontic challenge. With an estimated prevalence of 5.93% in the permanent dentition (Alhammadi et al. <xref rid="cre270466-bib-0001" ref-type="bibr">2018</xref>; Zere et al. <xref rid="cre270466-bib-0076" ref-type="bibr">2018</xref>), it is typically caused by maxillary deficiency, mandibular prognathism, or a combination of both (Solano‐Mendoza et al. <xref rid="cre270466-bib-0062" ref-type="bibr">2012</xref>; Toffol et al. <xref rid="cre270466-bib-0068" ref-type="bibr">2008</xref>; Zere et al. <xref rid="cre270466-bib-0076" ref-type="bibr">2018</xref>). Multiple treatment options have been suggested, such as early maxillary orthopedic protraction, orthodontic camouflage, or orthognathic surgery in fully grown patients (Delaire <xref rid="cre270466-bib-0013" ref-type="bibr">1971</xref>; Hickham <xref rid="cre270466-bib-0021" ref-type="bibr">1991</xref>; Jäger et al. <xref rid="cre270466-bib-0024" ref-type="bibr">2001</xref>; Mandall et al. <xref rid="cre270466-bib-0044" ref-type="bibr">2010</xref>). The treatment of maxillary hypoplasia is supposed to be most effective during the early mixed dentition phase (Baccetti et al. <xref rid="cre270466-bib-0004" ref-type="bibr">2000</xref>, <xref rid="cre270466-bib-0005" ref-type="bibr">1998</xref>; Jäger et al. <xref rid="cre270466-bib-0024" ref-type="bibr">2001</xref>; Ngan and Moon <xref rid="cre270466-bib-0049" ref-type="bibr">2015</xref>; Ngan et al. <xref rid="cre270466-bib-0051" ref-type="bibr">1997</xref>). However, it has been reported that maxillary protraction is associated with undesirable side effects, such as mesialization of posterior teeth, incisor proclination, bite opening due to posterior tooth extrusion, and clockwise mandibular rotation (Moon et al. <xref rid="cre270466-bib-0048" ref-type="bibr">2015</xref>; Ngan et al. <xref rid="cre270466-bib-0050" ref-type="bibr">2015</xref>, <xref rid="cre270466-bib-0051" ref-type="bibr">1997</xref>; Williams et al. <xref rid="cre270466-bib-0074" ref-type="bibr">1997</xref>). To overcome the limitations of conventional facemask (FM) treatment with dental anchorage, maxillary protraction with skeletal anchorage (SA) has been proposed. Temporary anchorage devices (TADs), such as miniplates (MP) or orthodontic mini‐implants (OMIs) combined with FM, or miniplates placed in the mandible with intermaxillary elastics (Kircelli and Pektas <xref rid="cre270466-bib-0032" ref-type="bibr">2008</xref>), have been shown to deliver purely orthopedic forces and reduce dental side effects (Ge et al. <xref rid="cre270466-bib-0018" ref-type="bibr">2012</xref>; Kircelli et al. <xref rid="cre270466-bib-0033" ref-type="bibr">2006</xref>; Maino et al. <xref rid="cre270466-bib-0041" ref-type="bibr">2018</xref>).</p><p>In recent years, various bone‐anchored maxillary protraction methods have been described, including the combination of an FM with OMIs placed in the zygomaticoalveolar crest or the anterior palate. Alternatively, purely bone‐anchored protraction can be achieved using miniplates in the zygomatic or lateral piriform region of the maxilla and in the mandible, with intermaxillary elastics. In this approach, the resulting force vector is supposed to be directed closer to the center of resistance of the nasomaxillary complex, resulting in a shorter lever arm, and therefore a reduced clockwise rotation of the palatal and mandibular planes (De Clerck et al. <xref rid="cre270466-bib-0011" ref-type="bibr">2009</xref>; Elnagar et al. <xref rid="cre270466-bib-0014" ref-type="bibr">2016</xref>; Ge et al. <xref rid="cre270466-bib-0018" ref-type="bibr">2012</xref>; Kircelli et al. <xref rid="cre270466-bib-0033" ref-type="bibr">2006</xref>; Maino et al. <xref rid="cre270466-bib-0041" ref-type="bibr">2018</xref>; Ngan et al. <xref rid="cre270466-bib-0050" ref-type="bibr">2015</xref>; Nienkemper et al. <xref rid="cre270466-bib-0053" ref-type="bibr">2015</xref>, <xref rid="cre270466-bib-0054" ref-type="bibr">2013</xref>; Solano‐Mendoza et al. <xref rid="cre270466-bib-0062" ref-type="bibr">2012</xref>; Wilmes et al. <xref rid="cre270466-bib-0075" ref-type="bibr">2010</xref>).</p><p>Rapid maxillary expansion (RME) is often combined with facemask treatment. Liou et al. (<xref rid="cre270466-bib-0038" ref-type="bibr">2005</xref>) and Liou and Tsai (<xref rid="cre270466-bib-0039" ref-type="bibr">2005</xref>) introduced a modification of RME called Alternate Rapid Maxillary Expansion and Constriction (Alt‐RAMEC), based on the idea that alternating expansion and constriction further disarticulates the circummaxillary sutures. According to previous research, RME or Alt‐RAMEC prior to maxillary protraction “loosens” the mid‐palatal and most likely the circummaxillary sutures, resulting in greater maxillary advancement (Baik <xref rid="cre270466-bib-0006" ref-type="bibr">1995</xref>; Gallagher et al. <xref rid="cre270466-bib-0016" ref-type="bibr">1998</xref>; Haas <xref rid="cre270466-bib-0020" ref-type="bibr">1973</xref>; Isci et al. <xref rid="cre270466-bib-0023" ref-type="bibr">2010</xref>; Wertz <xref rid="cre270466-bib-0073" ref-type="bibr">1970</xref>). However, some studies found no significant cephalometric differences between patients treated with FM alone versus FM/RME (Tortop et al. <xref rid="cre270466-bib-0069" ref-type="bibr">2007</xref>; Vaughn et al. <xref rid="cre270466-bib-0070" ref-type="bibr">2005</xref>). Previous systematic reviews have compared conventional versus bone‐anchored maxillary protraction protocols, however, none have controlled for the potential confounding factor of prior RME. Because RME can influence skeletal outcomes (Baik <xref rid="cre270466-bib-0006" ref-type="bibr">1995</xref>; Gautam et al. <xref rid="cre270466-bib-0017" ref-type="bibr">2009</xref>; Jäger et al. <xref rid="cre270466-bib-0024" ref-type="bibr">2001</xref>; Kilic et al. <xref rid="cre270466-bib-0030" ref-type="bibr">2008</xref>; Kim et al. <xref rid="cre270466-bib-0031" ref-type="bibr">1999</xref>; Liou <xref rid="cre270466-bib-0038" ref-type="bibr">2005</xref>; Liou and Tsai <xref rid="cre270466-bib-0039" ref-type="bibr">2005</xref>), excluding studies that did not apply a uniform RME protocol between the compared groups increases methodological homogeneity and allows a more isolated evaluation of the effect of skeletal anchorage itself.</p><p>The objective was to compare short‐term dental anchorage loss (molar mesialization, molar extrusion, incisor proclination) and skeletal effects (SNA, WITS appraisal, SN‐MnPl) between skeletal anchorage and conventional facemask protraction in growing Class III patients, restricting inclusion to trials with uniform expansion protocols to reduce confounding by RME/Alt‐RAMEC.</p></sec><sec sec-type="materials-and-methods" id="cre270466-sec-0060"><label>2</label><title>Material and Methods</title><p>This systematic review was structured and conducted according to the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA) (Page et al. <xref rid="cre270466-bib-0055" ref-type="bibr">2021</xref>). The review protocol was created and registered at the PROSPERO database (CRD42024622038).</p><sec id="cre270466-sec-0070"><label>2.1</label><title>PICOS</title><p>The study design and formulation of the research question followed the PICOS model, as shown in Table <xref rid="cre270466-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="cre270466-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Study inclusion and exclusion criteria (PICOS).</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Field</th><th align="center" valign="bottom" rowspan="1" colspan="1">Inclusion</th><th align="center" valign="bottom" rowspan="1" colspan="1">Exclusion</th></tr></thead><tbody valign="top"><tr><td valign="middle" rowspan="5" align="left" colspan="1">Patients (P)</td><td valign="middle" rowspan="5" align="left" colspan="1">Patients requiring early Class III treatment (all ethnicities)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Animal studies</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>
+<italic toggle="yes">In vitro</italic> studies</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Patients &gt; 15 years old</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Studies with fewer than five patients included</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Patients with systemic diseases, periodontal disease, or craniofacial syndromes</p></list-item></list>
+</p>
+</td></tr><tr><td valign="middle" rowspan="3" align="left" colspan="1">Intervention (I)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Bone‐anchored maxillary protraction (miniplates, orthodontic mini‐implants)</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Studies including orthognathic surgery</p></list-item></list>
+</p>
+</td></tr><tr><td valign="middle" rowspan="2" align="left" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Conventional treatments with dental anchorage</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Studies in which RME was performed in only one treatment group (either skeletal group or conventional treatment group)</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Studies where the control group's treatment was not specified</p></list-item></list>
+</p>
+</td></tr><tr><td valign="middle" rowspan="5" align="left" colspan="1">Comparison (C)</td><td align="left" valign="top" rowspan="1" colspan="1">Bone‐anchored maxillary protraction in comparison to conventional treatment methods:</td><td rowspan="5" align="left" valign="top" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Skeletal changes: changes in WITS, SNA, mandibular plane angle (SN‐MnPl)</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Changes in anchorage loss: (upper first molar mesialization and extrusion, upper incisor proclination)</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Treatment duration</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>–</label><p>Associated risks</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Outcome (O)</td><td align="left" valign="top" rowspan="1" colspan="1">Qualitative and quantitative analysis of skeletal changes (SNA, WITS, SN‐MnPl), anchorage loss (molar mesialization and extrusion, incisor proclination), treatment duration and associated risks.</td><td align="left" valign="top" rowspan="1" colspan="1">Lack of clinical data on anchorage loss.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Study design (S)</td><td align="left" valign="top" rowspan="1" colspan="1">Prospective CCTs or RCTs will be included.</td><td align="left" valign="top" rowspan="1" colspan="1">Case reports, systematic reviews, meta‐analyses, reviews, non‐randomized or retrospective controlled clinical trials, cohort studies and case‐control studies.</td></tr></tbody></table><table-wrap-foot><fn id="cre270466-tbl1-note-0001"><p>Abbreviations: CCT, controlled clinical trials; RCT, randomized clinical trials; RME, rapid maxillary expansion; SN‐MnPl, Sella–Nasion–Mandibular plane.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="cre270466-sec-0080"><label>2.2</label><title>Eligibility Criteria</title><p>The methodology and eligibility criteria were established before conducting the systematic review. Any deviations from the initial research protocol were documented. Studies were screened and evaluated according to the following inclusion and exclusion criteria:</p><p>Inclusion criteria
+<list list-type="simple"><list-item><label>–</label><p>English language</p></list-item><list-item><label>–</label><p>Prospective controlled clinical trials (CCTs) or randomized controlled clinical trials (RCTs) in humans comparing a “skeletal anchorage treatment group” with a “conventional treatment group”</p></list-item><list-item><label>–</label><p>Patients of the general population (all ethnicities, community‐dwelling)</p></list-item></list>
+</p><p>Exclusion criteria:
+<list list-type="simple"><list-item><label>–</label><p>Studies including orthognathic surgery instead of maxillary protraction</p></list-item><list-item><label>–</label><p>Patients &gt; 15 years old</p></list-item><list-item><label>–</label><p>Inclusion of less than five patients</p></list-item><list-item><label>–</label><p>Previous orthodontic treatment</p></list-item><list-item><label>–</label><p>Inclusion of patients with systemic diseases, periodontal disease, craniofacial syndromes or abnormalities</p></list-item><list-item><label>–</label><p>Undefined control group treatment</p></list-item><list-item><label>–</label><p>Lack of clinical data on anchorage loss</p></list-item><list-item><label>–</label><p>RME performed only in one treatment group</p></list-item></list>
+</p><p>The primary review question was to assess the efficacy of skeletally‐anchored maxillary protraction compared to conventional treatment approaches in growing patients requiring Class III treatment.</p></sec><sec id="cre270466-sec-0090"><label>2.3</label><title>Search Strategy</title><p>An electronic search of five databases (MEDLINE, Cochrane Library, Virtual Health Library, Web of Science, Google Scholar) was performed until January 2026, using the following search strategy for each database: (“class III” OR “early class III” OR “class III treatment” OR “maxillary protraction”) AND (“mini implants” OR “miniscrews” OR “orthodontic mini implants” OR “skeletal anchorage” OR “palatal implant” OR “skeletal” OR “skeletal anchorage” OR “temporary anchorage device” OR “TAD” OR “bone screw”) AND (“anchorage loss” OR “efficacy” OR “side effects” OR “effect” OR “treatment outcome”).</p><p>A manual hand search of the available literature was also conducted. The reference lists of the included studies were manually reviewed for additional relevant studies.</p></sec><sec id="cre270466-sec-0100"><label>2.4</label><title>Study Selection</title><p>The study selection process involved two stages of screening. Two review authors (C.I.P. and N.P.) independently screened the titles and abstracts of the identified studies and reports. Inter‐reviewer agreement was assessed by means of Cohen's Kappa coefficient. They were not blinded to the identity of the authors, their institutional affiliations, and research findings. Irrelevant reports were excluded, while full‐text articles were assessed for eligibility based on predefined criteria. The search results were imported into Endnote (Clarivate Analytics, PA, USA) for further selection. During the first stage, the titles and abstracts were screened and evaluated according to predefined inclusion criteria. Studies meeting eligibility criteria or lacking sufficient information were kept for full‐text assessment.</p><p>At the second stage of selection, all full‐text articles of potentially relevant studies identified during the first stage were examined. During this procedure, the pre‐selected publications were evaluated against the predefined exclusion criteria. Any disagreements regarding article inclusion during the first and second stage of study selection were resolved through discussion with the senior author (K.B.).</p></sec><sec id="cre270466-sec-0110"><label>2.5</label><title>Data Collection</title><p>The same authors (C.I.P. and N.P.) independently performed data extraction in duplicate. Any disagreements were again resolved through discussion with the senior author (K.B.). A data extraction template was created including the study ID, study design, patient number, sex distribution, age, type of skeletal anchorage, number of OMIs or MPs, location of TADs, time points of observation, treatment duration, control intervention, measurement method, and primary and secondary outcomes.</p></sec><sec id="cre270466-sec-0120"><label>2.6</label><title>Risk of Bias Assessment</title><p>Methodological quality was assessed in two different phases. In the first phase, it was conducted independently by two authors (C.I.P. and N.P.) based on the included full‐text articles. In the second phase, disagreements were resolved through consultation with the senior author (K.B.) using the appropriate risk of bias assessment tools. The revised Cochrane risk‐of‐bias tool for RCTs (RoB‐2) was used to assess the risk of bias of the RCTs (Sterne et al. <xref rid="cre270466-bib-0065" ref-type="bibr">2019</xref>), and the risk‐of‐bias in non‐randomized studies of interventions (ROBINS‐I) tool was used to assess the risk of bias of the non‐randomized studies (Sterne et al. <xref rid="cre270466-bib-0064" ref-type="bibr">2016</xref>). When encountering missing data or zero values, the corresponding authors of the published articles were contacted as needed.</p></sec><sec id="cre270466-sec-0130"><label>2.7</label><title>Reporting Bias Assessment</title><p>Publication bias was assessed visually using funnel plots for outcomes included in the meta‐analysis. Asymmetry in funnel plots was considered indicative of potential reporting or publication bias.</p></sec><sec id="cre270466-sec-0140"><label>2.8</label><title>Unit of Analysis and Missing Data Issues</title><p>The unit of analysis was the individual patient. For Liang et al. (<xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>), left and right upper first molar values were combined into a single bilateral mean and standard deviation, assuming a within‐patient left‐right correlation of <italic toggle="yes">r</italic> = 0.80, consistent with the high symmetry typically observed in bilateral dental measurements. When studies reported outcomes as medians and interquartile ranges (IQRs) instead of means and standard deviations, the median and IQR values at <italic toggle="yes">T</italic>
+<sub>0</sub> and <italic toggle="yes">T</italic>
+<sub>1</sub> were exported and converted to mean (SD) at each time point using established estimators for sample statistics from quantiles (Luo et al. <xref rid="cre270466-bib-0040" ref-type="bibr">2018</xref>; Wan et al. <xref rid="cre270466-bib-0071" ref-type="bibr">2014</xref>):</p><p>Equation <xref rid="cre270466-disp-0001" ref-type="disp-formula">1</xref>. Estimated mean and standard deviation from median and IQR
+<disp-formula id="cre270466-disp-0001">
+<label>(1)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block"><mml:mrow><mml:mrow><mml:mi>x</mml:mi><mml:mi mathvariant="normal">®</mml:mi><mml:mspace width="1em"/><mml:mo>≈</mml:mo><mml:mspace width="1em"/><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mi>median</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow><mml:mn>3</mml:mn></mml:mfrac><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>SD</mml:mi><mml:mspace width="1em"/><mml:mo>≈</mml:mo><mml:mspace width="1em"/><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow><mml:mn>1.35</mml:mn></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>Then, the change score (Δ = <italic toggle="yes">T</italic>
+<sub>1</sub> − <italic toggle="yes">T</italic>
+<sub>0</sub>) and its SD was calculated via</p><p>Equation <xref rid="cre270466-disp-0002" ref-type="disp-formula">2</xref>. Standard deviation of the change score (<italic toggle="yes">r</italic> = correlation between <italic toggle="yes">T</italic>
+<sub>0</sub> and <italic toggle="yes">T</italic>
+<sub>1</sub>)
+<disp-formula id="cre270466-disp-0002">
+<label>(2)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi>SD</mml:mi><mml:mi mathvariant="normal">Δ</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msqrt><mml:msup><mml:msub><mml:mi>SD</mml:mi><mml:mrow><mml:mi>T</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:msup><mml:msub><mml:mi>SD</mml:mi><mml:mrow><mml:mi>T</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:mn>2</mml:mn><mml:mi>r</mml:mi><mml:mspace width="0.25em"/><mml:msub><mml:mi>SD</mml:mi><mml:mrow><mml:mi>T</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>SD</mml:mi><mml:mrow><mml:mi>T</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:msqrt></mml:mrow></mml:mrow></mml:math>
+</disp-formula>assuming a within‐person correlation <italic toggle="yes">r</italic> = 0.50.</p></sec><sec id="cre270466-sec-0150"><label>2.9</label><title>Effect Measures and Synthesis Methods</title><p>The statistical analysis was performed using R (v.4.4.2; R Core Team) and RStudio (Posit Software, PBC, Boston, MA, USA), primarily with the meta package (v.8.2‐1). Data handling and preparation used the openxlsx, dplyr, and stringr packages.</p><p>Random‐effects meta‐analyses were fitted using restricted maximum likelihood (REML) estimation of between‐study variance, with Hartung–Knapp‐adjusted 95% confidence intervals. Analyses evaluated differences between skeletal and conventional maxillary protraction protocols across dental outcomes (upper molar mesialization and extrusion, upper incisor proclination relative to the palatal plane) and skeletal outcomes (WITS appraisal, SN‐MnPl angle, SNA angle). Effects were calculated as skeletal anchorage minus conventional facemask. Heterogeneity was assessed for each outcome. A sensitivity analysis restricted to randomized controlled trials was performed to assess robustness to study design, with an additional analysis excluding Alzoubi et al. (<xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>) given its reconstructed data. Funnel plots were used to assess publication bias. Statistical significance was set at <italic toggle="yes">p</italic> &lt; 0.05.</p></sec><sec id="cre270466-sec-0160"><label>2.10</label><title>Heterogeneity Assessment</title><p>Statistical heterogeneity among studies was evaluated using standard heterogeneity statistics (<italic toggle="yes">I</italic>
+<sup>2</sup> and corresponding <italic toggle="yes">χ</italic>
+<sup>2</sup> tests). The random‐effects model was selected a priori due to expected clinical and methodological variability among included studies.</p></sec><sec id="cre270466-sec-0170"><label>2.11</label><title>Certainty Assessment (GRADE)</title><p>The certainty of the evidence for each outcome was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach (Guyatt et al. <xref rid="cre270466-bib-0019" ref-type="bibr">2013</xref>). Evidence was evaluated across the domains of risk of bias, inconsistency, indirectness, imprecision, and publication bias. The overall certainty of evidence was categorized as high, moderate, low, or very low. The GRADEpro GDT was used to evaluate the evidence and to get the “summary of findings table.”</p></sec></sec><sec sec-type="results" id="cre270466-sec-0180"><label>3</label><title>Results</title><sec id="cre270466-sec-0190"><label>3.1</label><title>Study Selection</title><p>A total of 1493 potentially relevant titles and abstracts were generated through electronic and manual searches. After screening for duplicates and applying the inclusion criteria to titles and abstracts, 22 articles were found eligible for full‐text assessment. In the second phase, 17 of these 22 studies were excluded, as they did not meet the inclusion criteria of this systematic review (Table <xref rid="cre270466-tbl-0002" ref-type="table">2</xref>). Finally, five articles were included in the qualitative and quantitative synthesis (Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>; Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>; Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>; Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>; Seiryu et al. <xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>). Inter‐reviewer agreement was high, with kappa values of 0.98 for title/abstract screening and 0.88 for full‐text selection. The flow chart for the various steps in the search is presented in Figure <xref rid="cre270466-fig-0001" ref-type="fig">1</xref>.</p><table-wrap position="float" id="cre270466-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Excluded studies in phase II (with reasons).</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Excluded studies</th><th align="center" valign="bottom" rowspan="1" colspan="1">Reason</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 1</td><td align="center" valign="top" rowspan="1" colspan="1">No skeletal anchorage group</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Celikoglu et al. (<xref rid="cre270466-bib-0009" ref-type="bibr">2015</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 3</td><td align="center" valign="top" rowspan="1" colspan="1">RME only in one group, retrospective study</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hino et al. (<xref rid="cre270466-bib-0022" ref-type="bibr">2013</xref>); Lee et al. (<xref rid="cre270466-bib-0036" ref-type="bibr">2020</xref>); Tabellion and Lisson (<xref rid="cre270466-bib-0066" ref-type="bibr">2024</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 5</td><td align="center" valign="top" rowspan="1" colspan="1">RME only in one group</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">de Souza et al. (<xref rid="cre270466-bib-0063" ref-type="bibr">2019</xref>); Ge et al. (<xref rid="cre270466-bib-0018" ref-type="bibr">2012</xref>); Jang et al. (<xref rid="cre270466-bib-0026" ref-type="bibr">2021</xref>); Lee et al. (<xref rid="cre270466-bib-0035" ref-type="bibr">2012</xref>), (<xref rid="cre270466-bib-0034" ref-type="bibr">2022</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 2</td><td align="center" valign="top" rowspan="1" colspan="1">Article in Chinese</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ma et al. (<xref rid="cre270466-bib-0047" ref-type="bibr">2016</xref>); Ziyu et al. (<xref rid="cre270466-bib-0077" ref-type="bibr">2024</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 3</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective study</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ngan et al. (<xref rid="cre270466-bib-0050" ref-type="bibr">2015</xref>); Buyukcavus et al. (<xref rid="cre270466-bib-0007" ref-type="bibr">2020</xref>); Jamilian et al. (<xref rid="cre270466-bib-0025" ref-type="bibr">2011</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 3</td><td align="center" valign="top" rowspan="1" colspan="1">Only one treatment group, untreated control group</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">De Clerck et al. (<xref rid="cre270466-bib-0010" ref-type="bibr">2010</xref>); Kamel et al. (<xref rid="cre270466-bib-0028" ref-type="bibr">2023</xref>); Mandall et al. (<xref rid="cre270466-bib-0043" ref-type="bibr">2024</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="Figure" id="cre270466-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Flow diagram for the selection of studies according to PRISMA.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CRE2-12-e70466-g002.webp"><?image-name CRE2-12-e70466-g002.webp?><?image-size 38060?><?image-md5 e95f638f15b85fc5374881dcabdf3d8a?><?image-image-server-status NEED_LOADING?><?image-original-height 1126?><?image-original-width 1000?><?image-scaled-height 1126?><?image-scaled-width 1000?><?image-cloudpmc-urn urn:cdn:blobs/5fed/13616234/e95f638f15b8/CRE2-12-e70466-g002.webp?><?thumb-name CRE2-12-e70466-g002.gif?><?thumb-size 6549?><?thumb-md5 a9049a19d1d28609238bbd235850e4a6?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 200?><?thumb-scaled-width 178?><?thumb-cloudpmc-urn urn:cdn:blobs/5fed/13616234/a9049a19d1d2/CRE2-12-e70466-g002.gif?></graphic></fig><p>Depending on data availability, four trials contributed to most meta‐analyses; Alzoubi et al. (<xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>) contributed only to SNA, U1‐PP, and WITS after reconstruction of mean/SD from medians/IQRs. For the WITS appraisal, Liang et al. (<xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>) and Seiryu et al. (<xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>) were excluded since the data were not presented. Since Alzoubi et al. (<xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>) reported median values and interquartile ranges, mean values and standard deviations were derived as described in the methods section. The numerical outcome data (means and standard deviations) of all studies are presented in Table <xref rid="cre270466-suppl-0002" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="cre270466-sec-0200"><label>3.2</label><title>Included Study Characteristics</title><p>Of the selected studies, three were randomized controlled clinical trials (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>; Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>; Seiryu et al. <xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>). All studies were published between 2011 and 2023. The descriptive characteristics of the included studies are outlined in Table <xref rid="cre270466-tbl-0003" ref-type="table">3</xref>. They compared a “skeletal anchorage treatment group” with a “conventional treatment group,” with three studies performing maxillary expansion in all subjects before maxillary protraction (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>; Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>; Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>).</p><table-wrap position="float" id="cre270466-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Characteristics of the included studies.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Reference</th><th align="center" valign="bottom" rowspan="1" colspan="1">No. of participants</th><th align="center" valign="bottom" rowspan="1" colspan="1">Type of study</th><th align="center" valign="bottom" rowspan="1" colspan="1">Control intervention</th><th align="center" valign="bottom" rowspan="1" colspan="1">Location (number) of TADs</th><th align="center" valign="bottom" rowspan="1" colspan="1">WITS (difference T1–T0, mean value [SD])</th><th align="center" valign="bottom" rowspan="1" colspan="1">U6 Anchorage loss (difference in molar mesialization, T1–T0, mm)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Aglarci et al. (<xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">50 (25 SA; 25 FM)</td><td align="center" valign="top" rowspan="1" colspan="1">CCT</td><td align="center" valign="top" rowspan="1" colspan="1">FM</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>UJ (<italic toggle="yes">n</italic> = 2): between second premolar and first molars</p>
+<p>LJ (<italic toggle="yes">n</italic> = 2): between the mandibular lateral incisors and canines</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>SA:3.87 (SD 2.55)</p>
+<p>FM:5.03 (SD 2.23)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>SA:0.58 (SD 1.32)</p>
+<p>FM:1.69 (SD 1.72)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Şar et al. (<xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">45 (15 SA/FM/RME; 15 FM/RME; 15 untreated)</td><td align="center" valign="top" rowspan="1" colspan="1">CCT</td><td align="center" valign="top" rowspan="1" colspan="1">FM/RME</td><td align="center" valign="top" rowspan="1" colspan="1">UJ (<italic toggle="yes">n</italic> = 2): lateral to the apertura piriformis region of the maxilla</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>SA/FM/RME: 5.43 (SD 1.69)</p>
+<p>FM/RME: 6.56 (SD 2.88)</p>
+<p>Control: −0.53 (SD 1.14)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>SA/RME: −0.03 (SD 0.63)</p>
+<p>FM/RME: 1.93 (SD 2.35)</p>
+<p>Control: −0.20 (SD 0.64)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Alzoubi et al. (<xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">34 (17 SA/FM/RME; 17 FM/RME)</td><td align="center" valign="top" rowspan="1" colspan="1">RCT</td><td align="center" valign="top" rowspan="1" colspan="1">FM/RME</td><td align="center" valign="top" rowspan="1" colspan="1">UJ (<italic toggle="yes">n</italic> = 2): paramedian</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>SA/FM/RME: 3.20 (SD 2.86)</p>
+<p>FM/RME: 4.70 (SD 3.22)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Liang et al. (<xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">41 (20 SA/FM/RME; 21 FM/RME)</td><td align="center" valign="top" rowspan="1" colspan="1">RCT</td><td align="center" valign="top" rowspan="1" colspan="1">FM/RME</td><td align="center" valign="top" rowspan="1" colspan="1">UJ (<italic toggle="yes">n</italic> = 2): in the anterior segment on both sides of the maxilla</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>SA/FM/RME: U6L: 4.88 (SD 3.15)</p>
+<p>U6R: 4.66 (SD 2.25)</p>
+<p>FM/RME: U6L: 6.05 (SD 2.28)</p>
+<p>U6R: 5.82 (SD 2.57)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Seiryu et al. (<xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">39 (19 SA/FM; 20 FM)</td><td align="center" valign="top" rowspan="1" colspan="1">RCT</td><td align="center" valign="top" rowspan="1" colspan="1">FM</td><td align="center" valign="top" rowspan="1" colspan="1">UJ (<italic toggle="yes">n</italic> = 1): anterior region of the palate</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>SA/FM: 2.60 (SD 2.10)</p>
+<p>FM: 2.90 (SD 2.00)</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="cre270466-tbl3-note-0001"><p>Abbreviations: CCT, prospective controlled clinical trial; FM, facemask; LJ, lower jaw; NS, not significant; RCT, randomized controlled clinical trial; RME, rapid maxillary expansion; SA, skeletal anchorage; SD, standard deviation; T0, before treatment; T1, after treatment; TAD, temporary anchorage device; U6, upper first molar; UJ, upper jaw.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>The inclusion criteria of the selected studies focused on patients with skeletal Class III malocclusion, primarily characterized by maxillary deficiency and/or mandibular protrusion (ANB &lt; 0° or WITS appraisal &lt; −2 mm) (Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>; Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>). All studies included patients with an anterior crossbite, retrusive nasomaxillary complex, and a concave facial profile. Regarding age and growth stage, most studies selected prepubertal or pubertal patients, assessed through Cervical Vertebral Maturation (CVM) stages or hand‐wrist radiographs (Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>; Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>; Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>; Seiryu et al. <xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>). The age range of participants varied between 8 and 12 years. Patients were required to have normal or increased overbite, an Angle Class III molar relationship, and no previous orthodontic treatment.</p></sec><sec id="cre270466-sec-0210"><label>3.3</label><title>Risk of Bias in Included Studies</title><p>The reviewers' risk of bias assessment for each included RCT is summarized in Figures <xref rid="cre270466-fig-0002" ref-type="fig">2</xref> and <xref rid="cre270466-fig-0003" ref-type="fig">3</xref>. All RCTs were assessed as having “some concerns.” Among the two non‐randomized studies, both presented a “serious” risk of bias (Figures <xref rid="cre270466-fig-0004" ref-type="fig">4</xref> and <xref rid="cre270466-fig-0005" ref-type="fig">5</xref>). Although lack of blinding of participants and clinicians was observed across all studies, this limitation is inherent to orthodontic interventions and was not considered the primary source of bias. In the randomized trials, “some concerns” were mainly related to insufficient reporting of the randomization process and allocation concealment, which may introduce selection bias. In the non‐randomized studies, the “serious” risk of bias was primarily driven by confounding and selection bias. Baseline comparability between groups was not consistently ensured, and adjustments for potential confounders were either insufficient or not clearly reported. Given the observational design, these factors may have influenced the estimated treatment effects. No studies were excluded based on the risk of bias assessment; however, the identified methodological limitations, particularly in non‐randomized studies, should be considered when interpreting the results of this review.</p><fig position="float" fig-type="Figure" id="cre270466-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Risk of bias domains for randomized controlled trials, as assessed with the RoB−2 tool.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CRE2-12-e70466-g006.webp"><?image-name CRE2-12-e70466-g006.webp?><?image-size 39606?><?image-md5 7040d07090ed093678d742ad7adf8524?><?image-image-server-status NEED_LOADING?><?image-original-height 396?><?image-original-width 1054?><?image-scaled-height 396?><?image-scaled-width 1054?><?image-cloudpmc-urn urn:cdn:blobs/5fed/13616234/7040d07090ed/CRE2-12-e70466-g006.webp?><?thumb-name CRE2-12-e70466-g006.gif?><?thumb-size 6942?><?thumb-md5 3fce1c36d9004ff900eae127d7131372?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 75?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5fed/13616234/3fce1c36d900/CRE2-12-e70466-g006.gif?></graphic></fig><fig position="float" fig-type="Figure" id="cre270466-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Collective data for risk of bias randomized controlled trials according to each domain.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CRE2-12-e70466-g001.webp"><?image-name CRE2-12-e70466-g001.webp?><?image-size 18160?><?image-md5 a04753036a23f2eb3abd2a97dd190f6a?><?image-image-server-status NEED_LOADING?><?image-original-height 302?><?image-original-width 1054?><?image-scaled-height 302?><?image-scaled-width 1054?><?image-cloudpmc-urn urn:cdn:blobs/5fed/13616234/a04753036a23/CRE2-12-e70466-g001.webp?><?thumb-name CRE2-12-e70466-g001.gif?><?thumb-size 3650?><?thumb-md5 c3178f8332f89647f56534adf917d95d?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 57?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5fed/13616234/c3178f8332f8/CRE2-12-e70466-g001.gif?></graphic></fig><fig position="float" fig-type="Figure" id="cre270466-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Risk of bias domains for non‐randomized studies, as assessed with the ROBINS‐I tool.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CRE2-12-e70466-g005.webp"><?image-name CRE2-12-e70466-g005.webp?><?image-size 41478?><?image-md5 3d18d402c7542e8eafcf293fa18a6148?><?image-image-server-status NEED_LOADING?><?image-original-height 410?><?image-original-width 1054?><?image-scaled-height 410?><?image-scaled-width 1054?><?image-cloudpmc-urn urn:cdn:blobs/5fed/13616234/3d18d402c754/CRE2-12-e70466-g005.webp?><?thumb-name CRE2-12-e70466-g005.gif?><?thumb-size 7212?><?thumb-md5 6d5fc01f87dc7f234dfe564827701e61?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 78?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5fed/13616234/6d5fc01f87dc/CRE2-12-e70466-g005.gif?></graphic></fig><fig position="float" fig-type="Figure" id="cre270466-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Collective data for risk of bias of non‐randomized studies according to each domain.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="CRE2-12-e70466-g004.webp"><?image-name CRE2-12-e70466-g004.webp?><?image-size 20374?><?image-md5 ed404f031966f7cf02c232bb192785d0?><?image-image-server-status NEED_LOADING?><?image-original-height 306?><?image-original-width 1054?><?image-scaled-height 306?><?image-scaled-width 1054?><?image-cloudpmc-urn urn:cdn:blobs/5fed/13616234/ed404f031966/CRE2-12-e70466-g004.webp?><?thumb-name CRE2-12-e70466-g004.gif?><?thumb-size 3990?><?thumb-md5 e4c3b97900f981ad3d4ce56888e723a8?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 58?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5fed/13616234/e4c3b97900f9/CRE2-12-e70466-g004.gif?></graphic></fig></sec><sec id="cre270466-sec-0220"><label>3.4</label><title>Description of Individual Studies</title><p>All studies compared a bone‐anchored maxillary protraction group with a conventional treatment group. Aglarci et al. used two OMIs (1.6 × 10 mm) on the upper jaw inserted between the maxillary second premolars and molars and two I‐shaped titanium miniplates on the lower jaw placed between the mandibular lateral incisors and canines (Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>). A bite plate was inserted into the upper arch, and Class III elastics were applied with a force of 200 g between each miniplate and OMI.</p><p>The rest of the included studies used a bone‐anchored facemask for maxillary protraction. For the skeletal anchorage of the facemask, either miniplates were surgically placed laterally to the piriform aperture of the maxilla (Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>), or OMIs were used, positioned in different locations, such as the anterior palate (Seiryu et al. <xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>), paramedian palate (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>), or in the anterior segment on both sides of the maxilla (Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>). Protraction was achieved using Class III elastics, with loading ranging from 200 g (Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>) to 500 g (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>), applied between one (Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>) and 4 weeks (Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>; Seiryu et al. <xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>) after implant placement.</p><p>Three studies performed RME before maxillary protraction with a bone‐anchored facemask using Hyrax expanders in both treatment groups (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>; Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>; Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>). One study used a variation of RME, that is, Alternate Rapid Maxillary Expansion and Constriction (Alt‐RAMEC), with 7 weeks of twice‐daily alternate opening and closing cycles to further disarticulate the circummaxillary sutures and subsequently enhance forward maxillary translation (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>).</p></sec><sec id="cre270466-sec-0230"><label>3.5</label><title>Heterogeneity and Sensitivity Analysis</title><p>The results showed low heterogeneity between the studies (<italic toggle="yes">I</italic>
+<sup>2</sup> = 0%–45.6%). Given the small number of studies contributing to individual outcomes, these estimates should be interpreted cautiously, as low <italic toggle="yes">I</italic>
+<sup>2</sup> values may reflect limited power to detect heterogeneity. The results of the primary meta‐analyses are presented in Figure <xref rid="cre270466-fig-0006" ref-type="fig">6a–f</xref>.</p><fig position="float" fig-type="Figure" id="cre270466-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>Forest plots (a–f) for molar mesialization, molar extrusion, incisor proclination, SNA, changes in mandibular plane, and WITS appraisal.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="CRE2-12-e70466-g003.webp"><?image-name CRE2-12-e70466-g003.webp?><?image-size 128766?><?image-md5 6935709193c39cfad79c17a56f7b1e41?><?image-image-server-status NEED_LOADING?><?image-original-height 1709?><?image-original-width 1000?><?image-scaled-height 1709?><?image-scaled-width 1000?><?image-cloudpmc-urn urn:cdn:blobs/5fed/13616234/6935709193c3/CRE2-12-e70466-g003.webp?><?thumb-name CRE2-12-e70466-g003.gif?><?thumb-size 7743?><?thumb-md5 b0656678d230b5d39d6e7b0b9e6cdcc9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 200?><?thumb-scaled-width 117?><?thumb-cloudpmc-urn urn:cdn:blobs/5fed/13616234/b0656678d230/CRE2-12-e70466-g003.gif?></graphic></fig><p>Sensitivity analyses restricted to RCTs (Analysis A: all available RCTs, including Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref> where reported; Analysis B: excluding Alzoubi et al. given its reconstructed data) showed point estimates consistent in direction with the primary analyses, but with substantially wider confidence intervals. None of the four poolable outcomes (U6 anchorage loss, U6 extrusion, SNA, SN‐MnPl), including three that were significant in the primary analysis, remained statistically significant in either analysis. This indicates substantial imprecision when restricting the evidence base to RCTs alone, likely reflecting the small number of available trials rather than a true absence of effect (Figures <xref rid="cre270466-suppl-0001" ref-type="supplementary-material">S1</xref> and <xref rid="cre270466-suppl-0001" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="cre270466-sec-0240"><label>3.6</label><title>Reporting Biases</title><p>Funnel plots were inspected to assess potential publication bias and did not indicate clear asymmetry (Figure <xref rid="cre270466-suppl-0001" ref-type="supplementary-material">S3</xref>). However, interpretation of funnel plots is limited by the small number of included studies, which reduces their sensitivity and reliability in detecting true asymmetry. Therefore, the possibility of publication bias, small‐study effects, or selective reporting cannot be excluded and should be considered when interpreting the findings.</p></sec><sec id="cre270466-sec-0250"><label>3.7</label><title>Certainty of Evidence (GRADE)</title><p>The certainty of evidence assessed using the GRADE approach ranged from very low to moderate across outcomes. Evidence was downgraded primarily due to risk of bias in non‐randomized studies and imprecision related to small sample sizes. Evidence for dental anchorage outcomes was rated as low certainty, whereas skeletal outcomes were rated as low to moderate certainty due to variability in study designs and outcome reporting (Table <xref rid="cre270466-tbl-0004" ref-type="table">4</xref>).</p><table-wrap position="float" id="cre270466-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Summary of findings according to GRADE.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" colspan="8" valign="bottom" rowspan="1">Summary of findings for: Comparison between bone‐anchored and conventional maxillary protraction in growing Class ΙΙΙ patients: A systematic review and meta‐analysis.</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th valign="middle" rowspan="2" align="left" colspan="1">Outcomes</th><th valign="middle" rowspan="2" align="center" colspan="1">No. of participants (studies)</th><th valign="middle" rowspan="2" align="center" colspan="1">Relative effect (95% CI)</th><th colspan="3" align="center" valign="bottom" rowspan="1">Absolute effects (95% CI)</th><th valign="middle" rowspan="2" align="center" colspan="1">Certainty of the evidence (GRADE)</th><th valign="middle" rowspan="2" align="center" colspan="1">Comments</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Conventional maxillary protraction</th><th align="center" valign="bottom" rowspan="1" colspan="1">Bone‐anchored maxillary protraction</th><th align="center" valign="bottom" rowspan="1" colspan="1">Difference</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Upper molar mesialization (mm)</td><td align="center" valign="top" rowspan="1" colspan="1">160 (4 studies)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">−1.14 (−2.12 to −0.17)</td><td align="center" valign="top" rowspan="1" colspan="1">⊕⊕◯◯ Low<xref rid="cre270466-tbl4-note-0002" ref-type="table-fn">a</xref>, <xref rid="cre270466-tbl4-note-0003" ref-type="table-fn">b</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Skeletal anchorage results in less mesial movement (less anchorage loss) of the upper molars compared with conventional facemask therapy.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Upper molar extrusion (mm)</td><td align="center" valign="top" rowspan="1" colspan="1">160 (4 studies)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">−0.74 (−1.07 to −0.40)</td><td align="center" valign="top" rowspan="1" colspan="1">⊕⊕⊕◯ Moderate<xref rid="cre270466-tbl4-note-0002" ref-type="table-fn">a</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Skeletal anchorage results in less extrusion of the upper molars compared with conventional facemask therapy.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Maxillary incisor proclination (degrees)</td><td align="center" valign="top" rowspan="1" colspan="1">155 (4 studies)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">−2.47 (−4.14 to −0.80)</td><td align="center" valign="top" rowspan="1" colspan="1">⊕⊕◯◯ Low<xref rid="cre270466-tbl4-note-0002" ref-type="table-fn">a</xref>, <xref rid="cre270466-tbl4-note-0003" ref-type="table-fn">b</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Skeletal anchorage results in less proclination of the maxillary incisors compared with conventional facemask therapy.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SNA angle (degrees)</td><td align="center" valign="top" rowspan="1" colspan="1">194 (5 studies)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">0.65 (0.18 to 1.13)</td><td align="center" valign="top" rowspan="1" colspan="1">⊕⊕⊕◯ Moderate<xref rid="cre270466-tbl4-note-0002" ref-type="table-fn">a</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Skeletal anchorage may result in a slightly greater increase in SNA angle compared with conventional facemask therapy.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mandibular plane angle (SN–MnPl), (degrees)</td><td align="center" valign="top" rowspan="1" colspan="1">160 (4 studies)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">−0.38 (−1.67 to 0.91)</td><td align="center" valign="top" rowspan="1" colspan="1">⊕◯◯◯ Very Low<xref rid="cre270466-tbl4-note-0002" ref-type="table-fn">a</xref>, <xref rid="cre270466-tbl4-note-0003" ref-type="table-fn">b</xref>, <xref rid="cre270466-tbl4-note-0004" ref-type="table-fn">c</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">There may be little to no difference in mandibular plane angle between skeletal anchorage and conventional facemask therapy.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">WITS appraisal (mm)</td><td align="center" valign="top" rowspan="1" colspan="1">114 (3 studies)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">−0.88 (−2.49 to 0.73)</td><td align="center" valign="top" rowspan="1" colspan="1">⊕⊕◯◯ Low<xref rid="cre270466-tbl4-note-0002" ref-type="table-fn">a</xref>, <xref rid="cre270466-tbl4-note-0003" ref-type="table-fn">b</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">There may be little to no difference in WITS appraisal between skeletal anchorage and conventional facemask therapy.</td></tr></tbody></table><table-wrap-foot><fn id="cre270466-tbl4-note-0001"><p>Abbreviations: CI, confidence interval; MD, mean difference.</p></fn><fn id="cre270466-tbl4-note-0002"><label>
+<sup>a</sup>
+</label><p>Downgraded due to methodological limitations and lack of blinding due to intervention type.</p></fn><fn id="cre270466-tbl4-note-0003"><label>
+<sup>b</sup>
+</label><p>Downgraded due to limited sample size and wide confidence intervals.</p></fn><fn id="cre270466-tbl4-note-0004"><label>
+<sup>c</sup>
+</label><p>Downgraded due to moderate heterogeneity between studies.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="cre270466-sec-0260"><label>3.8</label><title>Synthesis and Intervention Effects</title><p>Overall, skeletal anchorage protocols showed reduced dental side effects compared with conventional facemask therapy, while skeletal outcomes showed modest improvements favoring skeletal anchorage.</p><sec id="cre270466-sec-0270"><label>3.8.1</label><title>Anchorage Loss: Horizontal Anchorage Loss in Upper Molars</title><p>Dental anchorage loss was a common side effect in the conventional treatment groups (Figure <xref rid="cre270466-fig-0006" ref-type="fig">6a</xref>). In contrast, the upper first molars in the skeletal anchorage groups showed significantly less horizontal movement with a mean difference of −1.14 mm (95% CI: −2.12 to −0.17 mm). Sar et al. reported the least mesial molar movement of −0.03 mm (SD 0.63) among the skeletal anchorage groups (Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>). Across all studies, the conventional treatment groups showed greater dental anchorage loss, ranging from 1.69 mm to 5.94 mm, while SA treatment groups showed less anchorage loss, ranging from −0.03 mm to 4.77 mm (Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>). There was low heterogeneity between the studies (<italic toggle="yes">I</italic>
+<sup>2</sup> = 10.3%, <italic toggle="yes">Q</italic> = 3.34, df = 3, <italic toggle="yes">p</italic> = 0.34).</p></sec><sec id="cre270466-sec-0280"><label>3.8.2</label><title>Anchorage Loss: Changes in Upper Molar Extrusion</title><p>The studies also evaluated the extrusion of the upper first molars, indicating the anchorage loss in the vertical dimension. The meta‐analysis results showed that molar extrusion was significantly less in the skeletal anchorage groups, with an MD of −0.74 mm (95% CI: −1.07 to −0.40 mm), ranging from 0.16 mm to 1.20 mm (Figure <xref rid="cre270466-fig-0006" ref-type="fig">6b</xref>). There was low heterogeneity between the studies in these groups (<italic toggle="yes">I</italic>
+<sup>2</sup> = 0.0%, <italic toggle="yes">Q</italic> = 1.15, df = 3, <italic toggle="yes">p</italic> = 0.76), suggesting consistency in the findings.</p></sec><sec id="cre270466-sec-0290"><label>3.8.3</label><title>Anchorage Loss: Changes in Maxillary Incisor Proclination</title><p>Four of the included studies assessed the changes in maxillary incisor proclination in relation to the palatal plane (U1‐PP), whereas two used the cranial base. Overall, incisor proclination changes were less common in the SA group (MD = −2.47°; 95% CI: −4.14° to −0.80°), with low heterogeneity across studies (<italic toggle="yes">I</italic>
+<sup>2</sup> = 0.0%, <italic toggle="yes">Q</italic> = 1.59, df = 3, <italic toggle="yes">p</italic> = 0.66) (Figure <xref rid="cre270466-fig-0006" ref-type="fig">6c</xref>). Aglarci et al. (<xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>) reported mean proclination changes of 3.01° (SD 4.14) in the skeletal anchorage group versus 5.90° (SD 3.68) in the conventional group. Sar et al. (<xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>) observed mean changes of −0.83° (SD 3.95) (skeletal anchorage) and 2.36° (SD 3.14) (conventional). Liang et al. (<xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>) reported a smaller difference between groups, 2.76° (SD 3.94) in the SA group, and 3.85° (SD 5.76) in the conventional group. In Alzoubi et al. (<xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>), upper incisor inclination increased in both groups (SA: 2.60° [SD 11.77], conventional: 3.20° [SD 6.53]).</p></sec><sec id="cre270466-sec-0300"><label>3.8.4</label><title>Changes in SNA Angle</title><p>Using the bone‐anchored maxillary protraction (BAMP) protocol, Aglarci et al. achieved an improvement in the SNA angle of 1.63° (SD 1.30) in the skeletal anchorage group, compared to 1.34° (SD 0.91) in the conventional facemask group (Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>). Sar et al. (<xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>) used a miniplate‐anchored facemask following RME and reported an SNA angle improvement of 2.53° (SD 1.24) in the skeletal anchorage group, while the conventional treatment group showed a smaller improvement of 1.83° (SD 1.33). The two other studies that also performed RME before bone‐anchored facemask treatment reported similar findings (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>; S. Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>). The remaining study using bone‐anchored maxillary protraction with a facemask showed an SNA angle improvement of 2.20° (SD 1.30), compared to 1.10° (SD 1.00) in the conventional treatment group (Seiryu et al. <xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>). Overall, the random effects meta‐analysis confirmed a greater improvement in the SNA angle in the SA group, with a mean difference of 0.65° (95% CI: 0.18°–1.13°), in comparison to the conventional treatment group, with low heterogeneity between studies (<italic toggle="yes">I</italic>
+<sup>2</sup> = 0.0%, <italic toggle="yes">Q</italic> = 3.67, df= 4, <italic toggle="yes">p</italic> = 0.45) (Figure <xref rid="cre270466-fig-0006" ref-type="fig">6d</xref>). The funnel plot did not reveal any signs of publication bias.</p></sec><sec id="cre270466-sec-0310"><label>3.8.5</label><title>Changes in Mandibular Plane Angle (SN‐MnPl)</title><p>Four studies assessed the change in mandibular plane angle (SN‐MnPl). The pooled estimate showed that the SA group had a slightly less clockwise rotation, but the effect was small and not statistically significant (MD = −0.38°; 95% CI −1.67 to 0.91) (Figure <xref rid="cre270466-fig-0006" ref-type="fig">6e</xref>). Heterogeneity was moderate (<italic toggle="yes">I</italic>
+<sup>2</sup> = 45.6%, <italic toggle="yes">Q</italic> = 5.51, df = 3, <italic toggle="yes">p</italic> = 0.14), suggesting some variability between the studies. Aglarci et al. (<xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>) found significant mandibular clockwise rotation in both groups, but slightly more in the SA group (1.66° [SD 1.87] vs. 1.30° [SD 2.11]); Sar et al. (<xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>) showed posterior rotation in both groups with a larger effect in the FM group; Liang et al. (<xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>) reported minimal mandibular plane changes in the SA group; Seiryu et al. (<xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>) was the only study to show virtually no change in SN‐MnPl in either group. Overall, the random effects meta‐analysis results do not show a clinically significant difference in mandibular plane rotation between skeletal and conventional treatment groups.</p></sec><sec id="cre270466-sec-0320"><label>3.8.6</label><title>Changes in WITS Appraisal</title><p>Three of the included studies assessed the changes in WITS appraisal. The study by Aglarci et al. reported a greater WITS value improvement in the conventional treatment group (5.03 mm [SD 2.23]), in comparison to the skeletal anchorage group (3.87 mm [SD 2.55]) (Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>). Sar et al. found a greater WITS value correction in both groups, but no significant difference between groups, with 6.56 mm (SD 2.88) in the conventional group and 5.43 mm (SD 1.69) in the skeletal anchorage group (Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>). According to the estimation of means and standard deviation, Alzoubi et al. (<xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>) reported a slightly smaller WITS improvement in the conventional group (3.17 mm [SD 3.22]) compared with the skeletal anchorage group (3.33 mm [SD 2.86]). Overall, the random effects meta‐analysis results did not show a clinically significant difference between groups, that is, MD −0.88 mm (−2.49 to 0.73 mm). There was low heterogeneity between the studies (<italic toggle="yes">I</italic>
+<sup>2</sup> = 0.0%, <italic toggle="yes">Q</italic> = 1.25, df = 2, <italic toggle="yes">p</italic> = 0.54) (Figure <xref rid="cre270466-fig-0006" ref-type="fig">6f</xref>). Given the small number of studies and the wide confidence interval, the evidence is insufficient to determine whether a clinically relevant difference in WITS appraisal exists.</p></sec></sec></sec><sec sec-type="discussion" id="cre270466-sec-0330"><label>4</label><title>Discussion</title><p>The aim of this systematic review and meta‐analysis was to assess the efficacy of skeletal anchorage‐supported maxillary protraction compared with conventional facemask therapy, while controlling for the confounding effect of rapid maxillary expansion (RME), in growing patients with Class III malocclusion. Across the included studies, skeletal anchorage was associated with a modest, statistically significant greater forward movement of the maxilla (ΔSNA ≈+0.70°) and reduced dental side effects, including less molar mesialization (≈1.20 mm), less molar extrusion (≈0.70 mm), and less incisor proclination (≈2.50°) compared with conventional tooth‐borne protraction. These findings support that skeletal anchorage reduces unwanted dental compensations while maintaining or slightly enhancing the skeletal response.</p><p>Facemask protraction is typically recommended in early mixed dentition, when the circummaxillary sutures are not fully interdigitated, and the skeletal response is greatest (Baccetti et al. <xref rid="cre270466-bib-0005" ref-type="bibr">1998</xref>). Skeletal anchorage may extend this treatment window into early adolescence (Kamath et al. <xref rid="cre270466-bib-0027" ref-type="bibr">2022</xref>), although evidence remains limited. RME is often combined with protraction to reduce sutural resistance and potentially enhance maxillary protraction. While some studies report greater maxillary advancement after RME, (Baik <xref rid="cre270466-bib-0006" ref-type="bibr">1995</xref>; Gautam et al. <xref rid="cre270466-bib-0017" ref-type="bibr">2009</xref>; Jäger et al. <xref rid="cre270466-bib-0024" ref-type="bibr">2001</xref>; Kilic et al. <xref rid="cre270466-bib-0030" ref-type="bibr">2008</xref>; Kim et al. <xref rid="cre270466-bib-0031" ref-type="bibr">1999</xref>; Liou <xref rid="cre270466-bib-0038" ref-type="bibr">2005</xref>; Liou and Tsai <xref rid="cre270466-bib-0039" ref-type="bibr">2005</xref>), randomized clinical trials have not consistently confirmed this (Tortop et al. <xref rid="cre270466-bib-0069" ref-type="bibr">2007</xref>; Vaughn et al. <xref rid="cre270466-bib-0070" ref-type="bibr">2005</xref>). To minimize this confounding factor, the present review included only studies in which expansion was applied uniformly across all participants, allowing a more robust evaluation of skeletal anchorage effects.</p><p>Previous systematic reviews have evaluated skeletal anchorage for maxillary protraction, but none differentiated between studies with uniform versus non‐uniform RME protocols (Cornelis et al. <xref rid="cre270466-bib-0012" ref-type="bibr">2021</xref>; Feng et al. <xref rid="cre270466-bib-0015" ref-type="bibr">2012</xref>; Major et al. <xref rid="cre270466-bib-0042" ref-type="bibr">2012</xref>; Podda et al. <xref rid="cre270466-bib-0056" ref-type="bibr">2025</xref>; Rodríguez de Guzmán‐Barrera et al. <xref rid="cre270466-bib-0057" ref-type="bibr">2017</xref>; Rutili et al. <xref rid="cre270466-bib-0059" ref-type="bibr">2023</xref>; Wang et al. <xref rid="cre270466-bib-0072" ref-type="bibr">2022</xref>). While some systematic reviews, including network meta‐analyses, reported greater orthopedic effects and fewer dental side effects with skeletally‐anchored approaches (Feng et al. <xref rid="cre270466-bib-0015" ref-type="bibr">2012</xref>; Major et al. <xref rid="cre270466-bib-0042" ref-type="bibr">2012</xref>; Podda et al. <xref rid="cre270466-bib-0056" ref-type="bibr">2025</xref>), others found no clear evidence of better outcomes despite effective Class III correction (Cornelis et al. <xref rid="cre270466-bib-0012" ref-type="bibr">2021</xref>; Rodríguez de Guzmán‐Barrera et al. <xref rid="cre270466-bib-0057" ref-type="bibr">2017</xref>; Rutili et al. <xref rid="cre270466-bib-0059" ref-type="bibr">2023</xref>). Podda et al. (<xref rid="cre270466-bib-0056" ref-type="bibr">2025</xref>) compared a SA group with an RME + FM group and reported greater WITS and SNA gains in the SA group, without controlling for the confounding factor of RME. Restricting inclusion to studies with comparable RME protocols does not change the overall direction of previous evidence, but it does make the results more reliable. Because RME has been shown to independently affect the skeletal response to maxillary protraction, comparing only studies in which RME was applied similarly in both treatment groups removes this potential confounder, allowing any observed difference between skeletal and conventional anchorage to be attributed more confidently to the anchorage system itself rather than to unequal expansion between groups. Table <xref rid="cre270466-suppl-0003" ref-type="supplementary-material">S2</xref> summarizes the overlap in primary studies and the methodological differences across these systematic reviews. Overall, the evidence remains limited by small sample sizes, potential sample overlap, heterogeneous protocols, and short follow‐up periods.</p><p>The present systematic review included five prospective clinical trials (3 RCTs, 2 non‐randomized [Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>; Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>; Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>; Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>; Seiryu et al. <xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>]), comparing skeletal‐anchorage in the maxilla, one also using TADs in both jaws (Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>), with a conventional tooth‐borne facemask group. Both qualitative and quantitative analyses were performed, with sample sizes ranging from 34 to 50 patients. In one study (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>), missing standard deviations were estimated from medians and interquartile ranges (Luo et al. <xref rid="cre270466-bib-0040" ref-type="bibr">2018</xref>; Wan et al. <xref rid="cre270466-bib-0071" ref-type="bibr">2014</xref>).</p><p>All but one study (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>) evaluated dental anchorage loss on the upper first molar. The meta‐analysis showed that SA resulted in significantly less anchorage loss than conventional facemask therapy, both horizontally (−1.14 mm) and vertically (−0.74 mm). Sar et al. reported minimal molar mesialization in the SA group, likely because miniplates transmitted traction forces directly to the maxilla and treatment duration was shorter (≈6.80 months) (Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>). In contrast, Liang et al. (<xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>) observed greater mesialization after a longer traction period (≈10.80 months). Aglarci et al. (<xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>) also found reduced mesialization and extrusion in the SA group, probably due to the use of bonded intraoral appliances, which helped control vertical changes.</p><p>These findings, consistent with previous reports (Maino et al. <xref rid="cre270466-bib-0041" ref-type="bibr">2018</xref>; Nguyen et al. <xref rid="cre270466-bib-0052" ref-type="bibr">2011</xref>), indicate that skeletal anchorage substantially limits undesired mesial drift and extrusion of the upper molars. Biomechanically, conventional anchorage transmits the reciprocal force through the periodontal ligament of the anchor teeth, producing mesial tipping and extrusion, whereas skeletal anchorage transmits force to the maxillary bone directly, with a shorter lever arm to the center of resistance, limiting dental side‐effects. The reduced horizontal and vertical changes indicate that SA enhances posterior anchorage, allowing protraction forces to act more effectively on the nasomaxillary complex while minimizing dental side effects. This mechanism theoretically promotes a more genuine orthopedic response.</p><p>Regarding side effects on the maxillary incisors, the meta‐analysis showed that skeletal anchorage significantly reduced incisor proclination compared with conventional facemask therapy, with a mean difference of −2.47°. Aglarci et al. (<xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>) reported the greatest difference, with nearly double the proclination in the conventional group (5.90° vs. 3.00°), possibly related to the use of a tooth‐borne acrylic splint. Sar et al. (<xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>) observed slight incisor retrusion in the miniplate group, suggesting that direct skeletal anchorage can almost eliminate dental side effects. Liang et al. (<xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>) also found greater proclination in the conventional group, though the initial incisor inclination was higher in that cohort. Alzoubi et al. (<xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>) reported similar findings, however, these results should be interpreted with caution, as the large standard deviations, derived from estimated quantiles, indicate high variability and lower precision in these values.</p><p>Because the anterior alveolar bone is mainly cancellous and therefore of limited anchorage quality (Rojo‐Sanchis et al. <xref rid="cre270466-bib-0058" ref-type="bibr">2021</xref>), tooth‐borne traction transmitted through the periodontal ligament of the incisors produces labial tipping, particularly when mild dental compensation is already present. The observed difference may therefore be clinically relevant, particularly in patients with pre‐existing dental compensation. Interpretation, however, should consider baseline proclination differences among studies.</p><p>The dental side effects observed in the present systematic review are in line with previous studies, indicating that conventional facemask therapy is associated with maxillary mesial molar drift, molar extrusion and incisor proclination (Baik <xref rid="cre270466-bib-0006" ref-type="bibr">1995</xref>; Kapust et al. <xref rid="cre270466-bib-0029" ref-type="bibr">1998</xref>), effects that are unfavorable in Class III patients, who frequently exhibit dental compensation. Skeletal anchorage may help limit these effects by improving force transmission and reducing dental side effects (De Clerck et al. <xref rid="cre270466-bib-0011" ref-type="bibr">2009</xref>; Kircelli and Pektas <xref rid="cre270466-bib-0032" ref-type="bibr">2008</xref>).</p><p>All included studies reported changes in the SNA angle, consistently showing greater sagittal improvement with SA. This improvement may be related to more direct skeletal force application and reduced dental interference (De Clerck et al. <xref rid="cre270466-bib-0011" ref-type="bibr">2009</xref>; Nienkemper et al. <xref rid="cre270466-bib-0053" ref-type="bibr">2015</xref>). Studies combining SA with RME or Alt‐RAMEC tended to report larger SNA increases (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>; Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>; Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>), although the contribution of expansion cannot be clearly isolated. Aglarci et al. (<xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>) observed a slightly greater improvement in the SA group despite higher applied forces in the conventional group, possibly reflecting anchorage loss. The same study also showed the smallest overall SNA change, likely due to the older age of participants.</p><p>The meta‐analysis revealed a mean SNA difference of +0.65°, which was statistically significant but limited clinical relevance. A difference of 0.65° falls within the range of typical cephalometric method error for SNA (approximately 0.5°–1°), meaning that, for an individual patient, this change cannot reliably be distinguished from measurement error and is unlikely to produce a visible change in facial profile. This sagittal change should, therefore, be interpreted cautiously and not in isolation, as maxillary advancement is closely associated with concomitant vertical and rotational effects. The limited SNA increase may reflect a more controlled skeletal response with reduced dental compensation, rather than a lack of orthopedic effect. A comprehensive evaluation including both sagittal and vertical parameters is therefore necessary to better assess the clinical relevance of skeletal anchorage.</p><p>Four studies reported changes in the mandibular plane angle (SN‐MnPl) (Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>; Liang et al. <xref rid="cre270466-bib-0037" ref-type="bibr">2021</xref>; Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>; Seiryu et al. <xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>). Results showed slightly less clockwise rotation in the SA group (MD −0.38°), although the effect was small and not statistically significant. Aglarci et al. (<xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>) reported slightly greater clockwise rotation in the SA group, possibly related to bonded intraoral appliances controlling maxillary molar extrusion and mandibular plane rotation. Sar et al. (<xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>) observed greater rotation in the FM group. Placing miniplates closer to the center of resistance of the nasomaxillary complex may reduce anterior maxillary rotation and thereby limit mandibular plane changes.</p><p>In contrast, Seiryu et al. (<xref rid="cre270466-bib-0061" ref-type="bibr">2020</xref>) applied a nearly horizontal vector (&lt; 3° to the occlusal plane), passing below the maxillary center of resistance, which likely induced a counterclockwise moment on the nasomaxillary complex. This resulted in anterior intrusion, posterior extrusion, and a mild increase in palatal plane angle, with reduced overbite, while SN‐MnPl remained largely unchanged. This indicates that vertical effects may occur primarily at the maxillary level. The combination of anterior intrusion and posterior extrusion likely caused anterior rotation of the palatal plane and mild downward displacement of posterior maxillary structures, reducing the effective forward displacement of A‐point and thereby limiting the SNA gain despite the high applied force. SA limits the molar extrusion that causes clockwise mandibular rotation in conventional facemask treatment, while its more posterior force application allows the force vector to be positioned closer to the maxillary center of resistance. These findings show that near‐horizontal force vectors applied below the maxillary center of resistance can induce unfavorable vertical effects (Mermigos et al. <xref rid="cre270466-bib-0045" ref-type="bibr">1990</xref>; Tanne and Sakuda <xref rid="cre270466-bib-0067" ref-type="bibr">1991</xref>).</p><p>In summary, SA may reduce clockwise mandibular rotation by limiting molar extrusion, but the pooled effect was small, heterogeneous, and not statistically significant. Interpretation is further limited by the lack of reported maxillary vertical parameters (SN‐NL), which limits a comprehensive assessment of the vertical impact of skeletal anchorage. Future analyses should consider the influence of force vector, anchorage type, RME use, treatment duration, and skeletal maturity.</p><p>In the random effects meta‐analysis of WITS appraisal measurements, which included three of the studies, the conventional treatment groups showed a slightly greater apparent improvement (MD = −0.88 mm) (Ağlarcı et al. <xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>; Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>; Şar et al. <xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>). At first glance, this may challenge the assumption that SA results in superior anteroposterior correction. However, in Aglarci et al. (<xref rid="cre270466-bib-0003" ref-type="bibr">2016</xref>) the conventional group exhibited greater molar extrusion and a steeper occlusal plane angle, which likely contributed to an apparent WITS improvement without true sagittal skeletal change. As WITS depends on projections onto the functional occlusal plane, any clockwise rotation of that plane (bite opening) moves point A's projection anteriorly and point B's projection posteriorly, thereby increasing the WITS value even in the absence of true skeletal advancement. Consequently, the apparent improvement in the conventional groups likely reflects occlusal‐plane rotation and posterior extrusion rather than genuine sagittal advancement.</p><p>Sar et al. (<xref rid="cre270466-bib-0060" ref-type="bibr">2011</xref>) reported greater overall WITS correction, slightly favoring the conventional group, possibly due to prior RME. However, part of the observed improvement could reflect vertical dental effects rather than genuine skeletal change.</p><p>Therefore, the greater WITS improvement in conventional groups should be interpreted cautiously, as it may largely reflect occlusal plane rotation and posterior extrusion rather than enhanced orthopedic effect. While the pooled analysis suggests only modest skeletal differences, this does not imply that SA is clinically irrelevant, particularly in reducing anchorage loss. Although Nienkemper et al. (<xref rid="cre270466-bib-0053" ref-type="bibr">2015</xref>) also reported similar improvements with conventional FM/RME, Lee et al. (<xref rid="cre270466-bib-0036" ref-type="bibr">2020</xref>) found greater skeletal improvement with SA in young Class III patients. Evidence on age‐related effects remains limited, although sutural maturation likely influences treatment response.</p><sec id="cre270466-sec-0340"><label>4.1</label><title>Quality of Evidence</title><p>Robust controlled trials directly comparing RME or Alt‐RAMEC with and without SA, particularly in older children (≈12–14 years), remain limited. Some evidence suggests potential benefits of SA in this age group. For example, a multicenter RCT by Mandall et al. (<xref rid="cre270466-bib-0043" ref-type="bibr">2024</xref>) reported improved ANB with bone‐anchored maxillary protraction, and long‐term data by Meyns et al. (<xref rid="cre270466-bib-0046" ref-type="bibr">2025</xref>) indicated sustained skeletal correction following combined Alt‐RAMEC and SA protocols. A review by Kamath et al. (<xref rid="cre270466-bib-0027" ref-type="bibr">2022</xref>) further suggests that SA becomes more relevant as circummaxillary sutures begin to interdigitate. A recent case report indicated that a 16‐year‐old treated with Alt‐RAMEC and miniplates showed favorable outcomes (Büyükçavuş et al. <xref rid="cre270466-bib-0008" ref-type="bibr">2023</xref>). However, these findings are based on a limited number of studies with heterogeneous designs and should be interpreted with caution.</p><p>Overall, the available evidence suggests that SA combined with expansion protocols may be beneficial in older children, particularly as sutural maturation progresses. Future research should include well‐designed, age‐stratified randomized trials with standardized protocols and long‐term follow‐up to assess the true orthopedic potential of SA once suture patency decreases.</p></sec><sec id="cre270466-sec-0350"><label>4.2</label><title>Limitations</title><p>This meta‐analysis included only studies with uniform RME protocols, which reduced confounding but limited assessment of the independent effect of expansion. Variations such as RME versus Alt‐RAMEC may still have influenced outcomes and contributed to residual heterogeneity. Assessment of vertical changes was also limited, as most studies reported only SN‐MnPl, without evaluating maxillary rotation. A more comprehensive analysis including SN‐NL and ML‐NL angles would allow a clearer evaluation of vertical and rotational changes in both jaws.</p><p>One study required reconstruction of means and standard deviations from medians and interquartile ranges, which may add uncertainty (Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>). The overall level of evidence remains limited by small sample sizes, heterogeneous treatment protocols, differences in treatment duration and force magnitude, varying age ranges, and short observation periods. In addition, non‐randomized studies presented a higher risk of bias, mainly related to confounding and selection, which may have influenced the results. Sensitivity analyses restricted to RCTs (Analysis A: with Alzoubi et al. <xref rid="cre270466-bib-0002" ref-type="bibr">2023</xref>; Analysis B: excluding Alzoubi, given its reconstructed data) support this concern: none of the four poolable outcomes (anchorage loss, extrusion, SNA, SN‐MnPl), including three that were statistically significant in the primary analysis, remained significant once non‐randomized studies were excluded. Incisor proclination could be pooled only in Analysis A and was not significant, and WITS could not be pooled in either analysis due to sparse RCT reporting. With only 2–3 RCTs available per outcome, these analyses are themselves underpowered, and their results should be interpreted as hypothesis‐generating rather than definitive.</p><p>Furthermore, the small number of included studies limits the reliability of publication bias assessment. Although funnel plots did not show clear asymmetry, this cannot exclude small‐study effects or selective reporting. Funnel plot‐based assessments of publication bias are generally considered sufficiently informative only when at least 10 studies are available, whereas the present analysis included only five studies. For the same reason, the low <italic toggle="yes">I</italic>
+<sup>2</sup> values reported for some outcomes (df=1–3) should be interpreted cautiously, as they may reflect insufficient power to detect heterogeneity rather than true homogeneity.</p><p>Strict inclusion criteria also excluded studies comparing different skeletal anchorage systems (e.g., miniplates vs. palatal OMIs), further limiting the available evidence. However, clinical heterogeneity among the included studies should still be acknowledged, as the use of different anchorage protocols (miniplates, OMIs, hybrid expanders, palatal‐anchored systems, mandibular miniplates, intermaxillary elastics, and bone‐anchored facemask therapy) differs in biomechanics, anchorage location, and force application. These differences may have influenced the treatment outcomes and the interpretation of the pooled results.</p><p>Future research should prioritize well‐designed, adequately powered randomized trials with standardized protocols, age or skeletal‐maturity stratification, comprehensive vertical assessment, and long‐term follow‐up to better clarify the true orthopedic and dental effects of skeletal anchorage.</p></sec></sec><sec sec-type="conclusions" id="cre270466-sec-0360"><label>5</label><title>Conclusions</title><p>Within the limitations of the available low‐ to moderate‐certainty evidence, skeletal anchorage appears to reduce dentoalveolar side effects and provides modest improvements in skeletal outcomes compared with conventional facemask therapy. Larger, well‐designed randomized controlled trials with long‐term follow‐up are required to confirm these findings.</p></sec><sec id="cre270466-sec-0370"><title>Author Contributions</title><p>Conceptualization: Christianna Iris Papadopoulou, Nusha Paschaei, Rebecca Jungbauer, Giulia Brunello, and Kathrin Becker. Methodology: Christianna Iris Papadopoulou, Nusha Paschaei, Rebecca Jungbauer, Giulia Brunello, and Kathrin Becker. Data curation: Christianna Iris Papadopoulou and Nusha Paschaei. Investigation: Christianna Iris Papadopoulou and Nusha Paschaei. Formal Analysis: Christianna Iris Papadopoulou and Kathrin Becker. Validation: Kathrin Becker. Visualization: Christianna Iris Papadopoulou. Writing—original draft: Christianna Iris Papadopoulou. Writing—review and editing: Nusha Paschaei, Rebecca Jungbauer, Giulia Brunello, and Kathrin Becker. Supervision: Kathrin Becker and Giulia Brunello. Project Administration: Christianna Iris Papadopoulou. All authors read and approved the final manuscript.</p></sec><sec id="cre270466-sec-0380"><title>Funding</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="cre270466-sec-0390"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cre270466-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Supporting File 1
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CRE2-12-e70466-s003.docx" position="float" orientation="portrait"><?suppdata-name CRE2-12-e70466-s003.docx?><?suppdata-size 758296?><?suppdata-md5 c4e8179dbc76f9cf03b73aa78166be11?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:5fed/13616234/c4e8179dbc76/CRE2-12-e70466-s003.docx?></media></supplementary-material><supplementary-material id="cre270466-suppl-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Supporting File 2
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CRE2-12-e70466-s002.xlsx" position="float" orientation="portrait"><?suppdata-name CRE2-12-e70466-s002.xlsx?><?suppdata-size 18528?><?suppdata-md5 f6f1e7b7025340d737ccb3e71629ce42?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.spreadsheetml.sheet?><?suppdata-cloudpmc-urn urn:app:5fed/13616234/f6f1e7b70253/CRE2-12-e70466-s002.xlsx?></media></supplementary-material><supplementary-material id="cre270466-suppl-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Supporting File 3
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CRE2-12-e70466-s001.docx" position="float" orientation="portrait"><?suppdata-name CRE2-12-e70466-s001.docx?><?suppdata-size 23630?><?suppdata-md5 4654d75556901f3e9463a0efa610a82b?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:5fed/13616234/4654d7555690/CRE2-12-e70466-s001.docx?></media></supplementary-material></sec></body><back><sec sec-type="data-availability" id="cre270466-sec-0410"><title>Data Availability Statement</title><p>The data extracted for the meta‐analysis are available in Table <xref rid="cre270466-suppl-0002" ref-type="supplementary-material">S1</xref>.</p></sec><ref-list content-type="cited-references" id="cre270466-bibl-0001"><title>References</title><ref id="cre270466-bib-0001"><mixed-citation publication-type="journal" id="cre270466-cit-0001">
+<string-name name-style="western">
+<surname>Alhammadi</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Halboub</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Fayed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Labib</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>El‐Saaidi</surname>
+</string-name>. <year>2018</year>. “<article-title>Global Distribution of Malocclusion Traits: A Systematic Review</article-title>.” <source>Dental Press Journal of Orthodontics</source>
+<volume>23</volume>, no. <issue>6</issue>: <fpage>40.e1</fpage>–<lpage>40.e10</lpage>. <pub-id pub-id-type="doi">10.1590/2177-6709.23.6.40.e1-10.onl</pub-id>.<pub-id pub-id-type="pmcid">PMC6340198</pub-id><pub-id pub-id-type="pmid">30672991</pub-id></mixed-citation></ref><ref id="cre270466-bib-0002"><mixed-citation publication-type="journal" id="cre270466-cit-0002">
+<string-name name-style="western">
+<surname>Alzoubi</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Camilleri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Al Muzian</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Attard</surname>
+</string-name>. <year>2023</year>. “<article-title>The Effect of Tooth Borne Versus Skeletally Anchored Alt‐RAMEC Protocol in Early Treatment of Class III Malocclusion: A Single‐Centre Randomized Clinical Trial</article-title>.” <source>European Journal of Orthodontics</source>
+<volume>45</volume>, no. <issue>5</issue>: <fpage>517</fpage>–<lpage>527</lpage>. <pub-id pub-id-type="doi">10.1093/ejo/cjad018</pub-id>.<pub-id pub-id-type="pmid">37167546</pub-id></mixed-citation></ref><ref id="cre270466-bib-0003"><mixed-citation publication-type="journal" id="cre270466-cit-0003">
+<string-name name-style="western">
+<surname>Ağlarcı</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Esenlik</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Fındık</surname>
+</string-name>. <year>2016</year>. “<article-title>Comparison of Short‐Term Effects Between Face Mask and Skeletal Anchorage Therapy With Intermaxillary Elastics in Patients With Maxillary Retrognathia</article-title>.” <source>European Journal of Orthodontics</source>
+<volume>38</volume>, no. <issue>3</issue>: <fpage>313</fpage>–<lpage>323</lpage>. <pub-id pub-id-type="doi">10.1093/ejo/cjv053</pub-id>.<pub-id pub-id-type="pmcid">PMC4914908</pub-id><pub-id pub-id-type="pmid">26219549</pub-id></mixed-citation></ref><ref id="cre270466-bib-0004"><mixed-citation publication-type="journal" id="cre270466-cit-0004">
+<string-name name-style="western">
+<surname>Baccetti</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Franchi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>McNamara</surname>
+</string-name>. <year>2000</year>. “<article-title>Treatment and Posttreatment Craniofacial Changes After Rapid Maxillary Expansion and Facemask Therapy</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>118</volume>, no. <issue>4</issue>: <fpage>404</fpage>–<lpage>413</lpage>. <pub-id pub-id-type="doi">10.1067/mod.2000.109840</pub-id>.<pub-id pub-id-type="pmid">11029736</pub-id></mixed-citation></ref><ref id="cre270466-bib-0005"><mixed-citation publication-type="journal" id="cre270466-cit-0005">
+<string-name name-style="western">
+<surname>Baccetti</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>McGill</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Franchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>McNamara</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Tollaro</surname>
+</string-name>. <year>1998</year>. “<article-title>Skeletal Effects of Early Treatment of Class III Malocclusion With Maxillary Expansion and Face‐Mask Therapy</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>113</volume>, no. <issue>3</issue>: <fpage>333</fpage>–<lpage>343</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0889-5406(98)70306-3</pub-id><pub-id pub-id-type="pmid">9517727</pub-id></mixed-citation></ref><ref id="cre270466-bib-0006"><mixed-citation publication-type="journal" id="cre270466-cit-0006">
+<string-name name-style="western">
+<surname>Baik</surname>, <given-names>H. S.</given-names>
+</string-name>
+<year>1995</year>. “<article-title>Clinical Results of the Maxillary Protraction in Korean Children</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>108</volume>, no. <issue>6</issue>: <fpage>583</fpage>–<lpage>592</lpage>. <pub-id pub-id-type="doi">10.1016/s0889-5406(95)70003-x</pub-id>.<pub-id pub-id-type="pmid">7503035</pub-id></mixed-citation></ref><ref id="cre270466-bib-0007"><mixed-citation publication-type="journal" id="cre270466-cit-0007">
+<string-name name-style="western">
+<surname>Buyukcavus</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Kale</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Aydemir</surname>
+</string-name>. <year>2020</year>. “<article-title>Comparison of Treatment Effects of Different Maxillary Protraction Methods in Skeletal Class III Patients</article-title>.” <source>Orthodontics &amp; Craniofacial Research</source>
+<volume>23</volume>, no. <issue>4</issue>: <fpage>445</fpage>–<lpage>454</lpage>. <pub-id pub-id-type="doi">10.1111/ocr.12389</pub-id>.<pub-id pub-id-type="pmid">32406170</pub-id></mixed-citation></ref><ref id="cre270466-bib-0008"><mixed-citation publication-type="journal" id="cre270466-cit-0008">
+<string-name name-style="western">
+<surname>Büyükçavuş</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Ö. F.</given-names>
+<surname>Sari</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Findik</surname>
+</string-name>. <year>2023</year>. “<article-title>Correction of Late Adolescent Skeletal Class III Using the Alt‐RAMEC Protocol and Skeletal Anchorage</article-title>.” <source>Korean Journal of Orthodontics</source>
+<volume>53</volume>, no. <issue>1</issue>: <fpage>54</fpage>–<lpage>64</lpage>. <pub-id pub-id-type="doi">10.4041/kjod21.337</pub-id>.<pub-id pub-id-type="pmcid">PMC9877360</pub-id><pub-id pub-id-type="pmid">36696959</pub-id></mixed-citation></ref><ref id="cre270466-bib-0009"><mixed-citation publication-type="journal" id="cre270466-cit-0009">
+<string-name name-style="western">
+<surname>Celikoglu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Yavuz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Unal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Oktay</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Erdem</surname>
+</string-name>. <year>2015</year>. “<article-title>Comparison of the Soft and Hard Tissue Effects of Two Different Protraction Mechanisms in Class III Patients: A Randomized Clinical Trial</article-title>.” <source>Clinical Oral Investigations</source>
+<volume>19</volume>, no. <issue>8</issue>: <fpage>2115</fpage>–<lpage>2122</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-015-1408-5</pub-id>.<pub-id pub-id-type="pmid">25711173</pub-id></mixed-citation></ref><ref id="cre270466-bib-0010"><mixed-citation publication-type="journal" id="cre270466-cit-0010">
+<string-name name-style="western">
+<surname>De Clerck</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Cevidanes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Baccetti</surname>
+</string-name>. <year>2010</year>. “<article-title>Dentofacial Effects of Bone‐Anchored Maxillary Protraction: A Controlled Study of Consecutively Treated Class III Patients</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>138</volume>, no. <issue>5</issue>: <fpage>577</fpage>–<lpage>581</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2009.10.037</pub-id>.<pub-id pub-id-type="pmcid">PMC3033914</pub-id><pub-id pub-id-type="pmid">21055597</pub-id></mixed-citation></ref><ref id="cre270466-bib-0011"><mixed-citation publication-type="journal" id="cre270466-cit-0011">
+<string-name name-style="western">
+<surname>De Clerck</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Cornelis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. H.</given-names>
+<surname>Cevidanes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. C.</given-names>
+<surname>Heymann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. J. F.</given-names>
+<surname>Tulloch</surname>
+</string-name>. <year>2009</year>. “<article-title>Orthopedic Traction of the Maxilla With Miniplates: A New Perspective for Treatment of Midface Deficiency</article-title>.” <source>Journal of Oral and Maxillofacial Surgery</source>
+<volume>67</volume>, no. <issue>10</issue>: <fpage>2123</fpage>–<lpage>2129</lpage>. <pub-id pub-id-type="doi">10.1016/j.joms.2009.03.007</pub-id>.<pub-id pub-id-type="pmcid">PMC2910397</pub-id><pub-id pub-id-type="pmid">19761906</pub-id></mixed-citation></ref><ref id="cre270466-bib-0012"><mixed-citation publication-type="journal" id="cre270466-cit-0012">
+<string-name name-style="western">
+<surname>Cornelis</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Tepedino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. V.</given-names>
+<surname>Riis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Niu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Cattaneo</surname>
+</string-name>. <year>2021</year>. “<article-title>Treatment Effect of Bone‐Anchored Maxillary Protraction in Growing Patients Compared to Controls: A Systematic Review With Meta‐Analysis</article-title>.” <source>European Journal of Orthodontics</source>
+<volume>43</volume>, no. <issue>1</issue>: <fpage>51</fpage>–<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1093/ejo/cjaa016</pub-id>.<pub-id pub-id-type="pmid">32815989</pub-id></mixed-citation></ref><ref id="cre270466-bib-0013"><mixed-citation publication-type="journal" id="cre270466-cit-0013">
+<string-name name-style="western">
+<surname>Delaire</surname>, <given-names>J.</given-names>
+</string-name>
+<year>1971</year>. “<article-title>Manufacture of the “Orthopedic Mask”</article-title>.” <source>Revue de Stomatologie et de Chirurgie Maxillo‐Faciale</source>
+<volume>72</volume>, no. <issue>5</issue>: <fpage>579</fpage>–<lpage>582</lpage>.<pub-id pub-id-type="pmid">5285447</pub-id></mixed-citation></ref><ref id="cre270466-bib-0014"><mixed-citation publication-type="journal" id="cre270466-cit-0014">
+<string-name name-style="western">
+<surname>Elnagar</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Elshourbagy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ghobashy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Khedr</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Evans</surname>
+</string-name>. <year>2016</year>. “<article-title>Comparative Evaluation of 2 Skeletally Anchored Maxillary Protraction Protocols</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>150</volume>, no. <issue>5</issue>: <fpage>751</fpage>–<lpage>762</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2016.04.025</pub-id>.<pub-id pub-id-type="pmid">27871701</pub-id></mixed-citation></ref><ref id="cre270466-bib-0015"><mixed-citation publication-type="journal" id="cre270466-cit-0015">
+<string-name name-style="western">
+<surname>Feng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>. <year>2012</year>. “<article-title>Effectiveness of TAD‐Anchored Maxillary Protraction in Late Mixed Dentition</article-title>.” <source>Angle Orthodontist</source>
+<volume>82</volume>, no. <issue>6</issue>: <fpage>1107</fpage>–<lpage>1114</lpage>. <pub-id pub-id-type="doi">10.2319/111411-705.1</pub-id>.<pub-id pub-id-type="pmcid">PMC8813151</pub-id><pub-id pub-id-type="pmid">22458766</pub-id></mixed-citation></ref><ref id="cre270466-bib-0016"><mixed-citation publication-type="journal" id="cre270466-cit-0016">
+<string-name name-style="western">
+<surname>Gallagher</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Miranda</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Buschang</surname>
+</string-name>. <year>1998</year>. “<article-title>Maxillary Protraction: Treatment and Posttreatment Effects</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>113</volume>, no. <issue>6</issue>: <fpage>612</fpage>–<lpage>619</lpage>. <pub-id pub-id-type="doi">10.1016/s0889-5406(98)70220-3</pub-id>.<pub-id pub-id-type="pmid">9637563</pub-id></mixed-citation></ref><ref id="cre270466-bib-0017"><mixed-citation publication-type="journal" id="cre270466-cit-0017">
+<string-name name-style="western">
+<surname>Gautam</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Valiathan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Adhikari</surname>
+</string-name>. <year>2009</year>. “<article-title>Skeletal Response to Maxillary Protraction With and Without Maxillary Expansion: A Finite Element Study</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>135</volume>, no. <issue>6</issue>: <fpage>723</fpage>–<lpage>728</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2007.06.016</pub-id>.<pub-id pub-id-type="pmid">19524831</pub-id></mixed-citation></ref><ref id="cre270466-bib-0018"><mixed-citation publication-type="journal" id="cre270466-cit-0018">
+<string-name name-style="western">
+<surname>Ge</surname>, <given-names>Y. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Han</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>. <year>2012</year>. “<article-title>Dentofacial Effects of Two Facemask Therapies for Maxillary Protraction</article-title>.” <source>Angle Orthodontist</source>
+<volume>82</volume>, no. <issue>6</issue>: <fpage>1083</fpage>–<lpage>1091</lpage>. <pub-id pub-id-type="doi">10.2319/012912-76.1</pub-id>.<pub-id pub-id-type="pmcid">PMC8813143</pub-id><pub-id pub-id-type="pmid">22639823</pub-id></mixed-citation></ref><ref id="cre270466-bib-0019"><mixed-citation publication-type="journal" id="cre270466-cit-0019">
+<string-name name-style="western">
+<surname>Guyatt</surname>, <given-names>G. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Thorlund</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Oxman</surname>
+</string-name>, et al. <year>2013</year>. “<article-title>GRADE Guidelines: 13. Preparing Summary of Findings Tables and Evidence Profiles‐Continuous Outcomes</article-title>.” <source>Journal of Clinical Epidemiology</source>
+<volume>66</volume>, no. <issue>2</issue>: <fpage>173</fpage>–<lpage>183</lpage>. <pub-id pub-id-type="doi">10.1016/j.jclinepi.2012.08.001</pub-id>.<pub-id pub-id-type="pmid">23116689</pub-id></mixed-citation></ref><ref id="cre270466-bib-0020"><mixed-citation publication-type="journal" id="cre270466-cit-0020">
+<string-name name-style="western">
+<surname>Haas</surname>, <given-names>A. J.</given-names>
+</string-name>
+<year>1973</year>. “<article-title>Rapid Palatal Expansion: A Recommmended Prerequisite to Class III Treatment</article-title>.” <source>Transactions. European Orthodontic Society</source>, <fpage>311</fpage>–<lpage>318</lpage>.<pub-id pub-id-type="pmid">4618698</pub-id></mixed-citation></ref><ref id="cre270466-bib-0021"><mixed-citation publication-type="journal" id="cre270466-cit-0021">
+<string-name name-style="western">
+<surname>Hickham</surname>, <given-names>J. H.</given-names>
+</string-name>
+<year>1991</year>. “<article-title>Maxillary Protraction Therapy: Diagnosis and Treatment</article-title>.” <source>Journal of Clinical Orthodontics: JCO</source>
+<volume>25</volume>, no. <issue>2</issue>: <fpage>102</fpage>–<lpage>113</lpage>.<pub-id pub-id-type="pmid">1939612</pub-id></mixed-citation></ref><ref id="cre270466-bib-0022"><mixed-citation publication-type="journal" id="cre270466-cit-0022">
+<string-name name-style="western">
+<surname>Hino</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. H. S.</given-names>
+<surname>Cevidanes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. T.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. J.</given-names>
+<surname>De Clerck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Franchi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>McNamara</surname>, <suffix>Jr</suffix>
+</string-name>. <year>2013</year>. “<article-title>Three‐Dimensional Analysis of Maxillary Changes Associated With Facemask and Rapid Maxillary Expansion Compared With Bone Anchored Maxillary Protraction</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>144</volume>, no. <issue>5</issue>: <fpage>705</fpage>–<lpage>714</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2013.07.011</pub-id>.<pub-id pub-id-type="pmcid">PMC3972125</pub-id><pub-id pub-id-type="pmid">24182587</pub-id></mixed-citation></ref><ref id="cre270466-bib-0023"><mixed-citation publication-type="journal" id="cre270466-cit-0023">
+<string-name name-style="western">
+<surname>Isci</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Turk</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Elekdag‐Turk</surname>
+</string-name>. <year>2010</year>. “<article-title>Activation‐Deactivation Rapid Palatal Expansion and Reverse Headgear in Class III Cases</article-title>.” <source>European Journal of Orthodontics</source>
+<volume>32</volume>, no. <issue>6</issue>: <fpage>706</fpage>–<lpage>715</lpage>. <pub-id pub-id-type="doi">10.1093/ejo/cjq006</pub-id>.<pub-id pub-id-type="pmid">20457582</pub-id></mixed-citation></ref><ref id="cre270466-bib-0024"><mixed-citation publication-type="journal" id="cre270466-cit-0024">
+<string-name name-style="western">
+<surname>Jäger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Braumann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kim</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wahner</surname>
+</string-name>. <year>2001</year>. “<article-title>Skeletal and Dental Effects of Maxillary Protraction in Patients With Angle Class III Malocclusion. A Meta‐Analysis</article-title>.” <source>Journal of Orofacial Orthopedics/Fortschritte der Kieferorthopädie</source>
+<volume>62</volume>, no. <issue>4</issue>: <fpage>275</fpage>–<lpage>284</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/pl00001935</pub-id><pub-id pub-id-type="pmid">11508104</pub-id></mixed-citation></ref><ref id="cre270466-bib-0025"><mixed-citation publication-type="journal" id="cre270466-cit-0025">
+<string-name name-style="western">
+<surname>Jamilian</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Haraji</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Showkatbakhsh</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Valaee</surname>
+</string-name>. <year>2011</year>. “<article-title>The Effects of Miniscrew With Class III Traction in Growing Patients With Maxillary Deficiency</article-title>.” <source>International Journal of Orthodontics (Milwaukee, Wis.)</source>
+<volume>22</volume>, no. <issue>2</issue>: <fpage>25</fpage>–<lpage>30</lpage>.<pub-id pub-id-type="pmid">21827052</pub-id></mixed-citation></ref><ref id="cre270466-bib-0026"><mixed-citation publication-type="journal" id="cre270466-cit-0026">
+<string-name name-style="western">
+<surname>Jang</surname>, <given-names>Y. K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. H.</given-names>
+<surname>Chung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Lee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Park</surname>
+</string-name>. <year>2021</year>. “<article-title>A Comparative Evaluation of Midfacial Soft Tissue and Nasal Bone Changes With Two Maxillary Protraction Protocols: Tooth‐Borne vs Skeletal‐Anchored Facemasks</article-title>.” <source>Orthodontics &amp; Craniofacial Research</source>
+<volume>24 S1</volume>: <fpage>5</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1111/ocr.12445</pub-id>.<pub-id pub-id-type="pmid">33237624</pub-id></mixed-citation></ref><ref id="cre270466-bib-0027"><mixed-citation publication-type="journal" id="cre270466-cit-0027">
+<string-name name-style="western">
+<surname>Kamath</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Sudhakar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Kannan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Rai</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sb</surname>
+</string-name>. <year>2022</year>. “<article-title>Bone‐Anchored Maxillary Protraction (BAMP): A Review</article-title>.” <source>Journal of Orthodontic Science</source>
+<volume>11</volume>: <fpage>8</fpage>. <pub-id pub-id-type="doi">10.4103/jos.jos_153_21</pub-id>.<pub-id pub-id-type="pmcid">PMC9214452</pub-id><pub-id pub-id-type="pmid">35754417</pub-id></mixed-citation></ref><ref id="cre270466-bib-0028"><mixed-citation publication-type="journal" id="cre270466-cit-0028">
+<string-name name-style="western">
+<surname>Kamel</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N. E.</given-names>
+<surname>Tarraf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Fouda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Hafez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>El‐Bialy</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wilmes</surname>
+</string-name>. <year>2023</year>. “<article-title>Dentofacial Effects of Miniscrew‐Anchored Maxillary Protraction on Prepubertal Children With Maxillary Deficiency: A Randomized Controlled Trial</article-title>.” <source>Progress in Orthodontics</source>
+<volume>24</volume>, no. <issue>1</issue>: <fpage>22</fpage>. <pub-id pub-id-type="doi">10.1186/s40510-023-00473-4</pub-id>.<pub-id pub-id-type="pmcid">PMC10258186</pub-id><pub-id pub-id-type="pmid">37303011</pub-id></mixed-citation></ref><ref id="cre270466-bib-0029"><mixed-citation publication-type="journal" id="cre270466-cit-0029">
+<string-name name-style="western">
+<surname>Kapust</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Sinclair</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. K.</given-names>
+<surname>Turley</surname>
+</string-name>. <year>1998</year>. “<article-title>Cephalometric Effects of Face Mask/Expansion Therapy in Class III Children: A Comparison of Three Age Groups</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>113</volume>, no. <issue>2</issue>: <fpage>204</fpage>–<lpage>212</lpage>. <pub-id pub-id-type="doi">10.1016/s0889-5406(98)70141-6</pub-id>.<pub-id pub-id-type="pmid">9484212</pub-id></mixed-citation></ref><ref id="cre270466-bib-0030"><mixed-citation publication-type="journal" id="cre270466-cit-0030">
+<string-name name-style="western">
+<surname>Kilic</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kiki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Oktay</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Erdem</surname>
+</string-name>. <year>2008</year>. “<article-title>Effects of Rapid Maxillary Expansion on Holdaway Soft Tissue Measurements</article-title>.” <source>European Journal of Orthodontics</source>
+<volume>30</volume>, no. <issue>3</issue>: <fpage>239</fpage>–<lpage>243</lpage>. <pub-id pub-id-type="doi">10.1093/ejo/cjn004</pub-id>.<pub-id pub-id-type="pmid">18540012</pub-id></mixed-citation></ref><ref id="cre270466-bib-0031"><mixed-citation publication-type="journal" id="cre270466-cit-0031">
+<string-name name-style="western">
+<surname>Kim</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. A. G.</given-names>
+<surname>Viana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Graber</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. F.</given-names>
+<surname>Omerza</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>BeGole</surname>
+</string-name>. <year>1999</year>. “<article-title>The Effectiveness of Protraction Face Mask Therapy: A Meta‐Analysis</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>115</volume>, no. <issue>6</issue>: <fpage>675</fpage>–<lpage>685</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0889-5406(99)70294-5</pub-id><pub-id pub-id-type="pmid">10358251</pub-id></mixed-citation></ref><ref id="cre270466-bib-0032"><mixed-citation publication-type="journal" id="cre270466-cit-0032">
+<string-name name-style="western">
+<surname>Kircelli</surname>, <given-names>B. H.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>Z. Ö.</given-names>
+<surname>Pektas</surname>
+</string-name>. <year>2008</year>. “<article-title>Midfacial Protraction With Skeletally Anchored Face Mask Therapy: A Novel Approach and Preliminary Results</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>133</volume>, no. <issue>3</issue>: <fpage>440</fpage>–<lpage>449</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2007.06.011</pub-id>.<pub-id pub-id-type="pmid">18331946</pub-id></mixed-citation></ref><ref id="cre270466-bib-0033"><mixed-citation publication-type="journal" id="cre270466-cit-0033">
+<string-name name-style="western">
+<surname>Kircelli</surname>, <given-names>B. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Z. O.</given-names>
+<surname>Pektaş</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Uçkan</surname>
+</string-name>. <year>2006</year>. “<article-title>Orthopedic Protraction With Skeletal Anchorage in a Patient With Maxillary Hypoplasia and Hypodontia</article-title>.” <source>Angle Orthodontist</source>
+<volume>76</volume>, no. <issue>1</issue>: <fpage>156</fpage>–<lpage>163</lpage>. <pub-id pub-id-type="doi">10.1043/0003-3219(2006)076[0156:Opwsai]2.0.Co;2</pub-id>.<pub-id pub-id-type="pmid">16448286</pub-id></mixed-citation></ref><ref id="cre270466-bib-0034"><mixed-citation publication-type="journal" id="cre270466-cit-0034">
+<string-name name-style="western">
+<surname>Lee</surname>, <given-names>H.‐J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.‐S.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Jang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.‐K.</given-names>
+<surname>Cha</surname>
+</string-name>. <year>2022</year>. “<article-title>Comparison of Facemask Therapy Effects Using Skeletal and Tooth‐Borne Anchorage</article-title>.” <source>Angle Orthodontist</source>
+<volume>92</volume>, no. <issue>3</issue>: <fpage>307</fpage>–<lpage>314</lpage>. <pub-id pub-id-type="doi">10.2319/032121-219.1</pub-id>.<pub-id pub-id-type="pmcid">PMC9020399</pub-id><pub-id pub-id-type="pmid">34964848</pub-id></mixed-citation></ref><ref id="cre270466-bib-0035"><mixed-citation publication-type="journal" id="cre270466-cit-0035">
+<string-name name-style="western">
+<surname>Lee</surname>, <given-names>N. K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>I. H.</given-names>
+<surname>Yang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Baek</surname>
+</string-name>. <year>2012</year>. “<article-title>The Short‐Term Treatment Effects of Face Mask Therapy in Class III Patients Based on the Anchorage Device</article-title>.” <source>Angle Orthodontist</source>
+<volume>82</volume>, no. <issue>5</issue>: <fpage>846</fpage>–<lpage>852</lpage>. <pub-id pub-id-type="doi">10.2319/090811-584.1</pub-id>.<pub-id pub-id-type="pmcid">PMC8823106</pub-id><pub-id pub-id-type="pmid">22264134</pub-id></mixed-citation></ref><ref id="cre270466-bib-0036"><mixed-citation publication-type="journal" id="cre270466-cit-0036">
+<string-name name-style="western">
+<surname>Lee</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Koh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. H.</given-names>
+<surname>Chung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Lee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Lee</surname>
+</string-name>. <year>2020</year>. “<article-title>Comparison of Skeletal Anchorage and Tooth‐Borne Maxillary Protraction Followed by Fixed Appliance in Class III Malocclusion</article-title>.” <source>European Journal of Orthodontics</source>
+<volume>42</volume>, no. <issue>2</issue>: <fpage>193</fpage>–<lpage>199</lpage>. <pub-id pub-id-type="doi">10.1093/ejo/cjz086</pub-id>.<pub-id pub-id-type="pmid">31750516</pub-id></mixed-citation></ref><ref id="cre270466-bib-0037"><mixed-citation publication-type="journal" id="cre270466-cit-0037">
+<string-name name-style="western">
+<surname>Liang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Chang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Bai</surname>
+</string-name>. <year>2021</year>. “<article-title>Three‐Dimensional Comparative Evaluation of Customized Bone‐Anchored vs Tooth‐Borne Maxillary Protraction in Patients With Skeletal Class III Malocclusion</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>160</volume>, no. <issue>3</issue>: <fpage>374</fpage>–<lpage>384</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2020.04.034</pub-id>.<pub-id pub-id-type="pmid">34172344</pub-id></mixed-citation></ref><ref id="cre270466-bib-0038"><mixed-citation publication-type="journal" id="cre270466-cit-0038">
+<string-name name-style="western">
+<surname>Liou</surname>, <given-names>E. J.</given-names>
+</string-name>
+<year>2005</year>. “<article-title>Effective Maxillary Orthopedic Protraction for Growing Class III Patients: A Clinical Application Simulates Distraction Osteogenesis</article-title>.” <source>Progress in Orthodontics</source>
+<volume>6</volume>, no. <issue>2</issue>: <fpage>154</fpage>–<lpage>171</lpage>.<pub-id pub-id-type="pmid">16276426</pub-id></mixed-citation></ref><ref id="cre270466-bib-0039"><mixed-citation publication-type="journal" id="cre270466-cit-0039">
+<string-name name-style="western">
+<surname>Liou</surname>, <given-names>E. J. W.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>W. C.</given-names>
+<surname>Tsai</surname>
+</string-name>. <year>2005</year>. “<article-title>A New Protocol for Maxillary Protraction in Cleft Patients: Repetitive Weekly Protocol of Alternate Rapid Maxillary Expansions and Constrictions</article-title>.” <source>Cleft Palate Craniofacial Journal</source>
+<volume>42</volume>, no. <issue>2</issue>: <fpage>121</fpage>–<lpage>127</lpage>. <pub-id pub-id-type="doi">10.1597/03-107.1</pub-id>.<pub-id pub-id-type="pmid">15748102</pub-id></mixed-citation></ref><ref id="cre270466-bib-0040"><mixed-citation publication-type="journal" id="cre270466-cit-0040">
+<string-name name-style="western">
+<surname>Luo</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tong</surname>
+</string-name>. <year>2018</year>. “<article-title>Optimally Estimating the Sample Mean From the Sample Size, Median, Mid‐Range, and/or Mid‐Quartile Range</article-title>.” <source>Statistical Methods in Medical Research</source>
+<volume>27</volume>, no. <issue>6</issue>: <fpage>1785</fpage>–<lpage>1805</lpage>. <pub-id pub-id-type="doi">10.1177/0962280216669183</pub-id>.<pub-id pub-id-type="pmid">27683581</pub-id></mixed-citation></ref><ref id="cre270466-bib-0041"><mixed-citation publication-type="journal" id="cre270466-cit-0041">
+<string-name name-style="western">
+<surname>Maino</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Turci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Arreghini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Paoletto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Siciliani</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lombardo</surname>
+</string-name>. <year>2018</year>. “<article-title>Skeletal and Dentoalveolar Effects of Hybrid Rapid Palatal Expansion and Facemask Treatment in Growing Skeletal Class III Patients</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>153</volume>, no. <issue>2</issue>: <fpage>262</fpage>–<lpage>268</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2017.06.022</pub-id>.<pub-id pub-id-type="pmid">29407504</pub-id></mixed-citation></ref><ref id="cre270466-bib-0042"><mixed-citation publication-type="journal" id="cre270466-cit-0042">
+<string-name name-style="western">
+<surname>Major</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. K.</given-names>
+<surname>Wong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Saltaji</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. W.</given-names>
+<surname>Major</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Flores‐Mir</surname>
+</string-name>. <year>2012</year>. “<article-title>Skeletal Anchored Maxillary Protraction for Midface Deficiency in Children and Early Adolescents With Class III Malocclusion: A Systematic Review and Meta‐Analysis</article-title>.” <source>Journal of the World Federation of Orthodontists</source>
+<volume>1</volume>, no. <issue>2</issue>: <fpage>e47</fpage>–<lpage>e54</lpage>.</mixed-citation></ref><ref id="cre270466-bib-0043"><mixed-citation publication-type="journal" id="cre270466-cit-0043">
+<string-name name-style="western">
+<surname>Mandall</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Aleid</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Cousley</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>The Effectiveness of Bone Anchored Maxillary Protraction (BAMP) in the Management of Class III Skeletal Malocclusion in Children Aged 11‐14 Years Compared With an Untreated Control Group: A Multicentre Two‐Arm Parallel Randomised Controlled Trial</article-title>.” <source>Journal of Orthodontics</source>
+<volume>51</volume>, no. <issue>3</issue>: <fpage>228</fpage>–<lpage>239</lpage>. <pub-id pub-id-type="doi">10.1177/14653125241255139</pub-id>.<pub-id pub-id-type="pmid">38845172</pub-id></mixed-citation></ref><ref id="cre270466-bib-0044"><mixed-citation publication-type="journal" id="cre270466-cit-0044">
+<string-name name-style="western">
+<surname>Mandall</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>DiBiase</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Littlewood</surname>
+</string-name>, et al. <year>2010</year>. “<article-title>Is Early Class III Protraction Facemask Treatment Effective? A Multicentre, Randomized, Controlled Trial: 15‐Month Follow‐Up</article-title>.” <source>Journal of Orthodontics</source>
+<volume>37</volume>, no. <issue>3</issue>: <fpage>149</fpage>–<lpage>161</lpage>. <pub-id pub-id-type="doi">10.1179/14653121043056</pub-id>.<pub-id pub-id-type="pmid">20805344</pub-id></mixed-citation></ref><ref id="cre270466-bib-0045"><mixed-citation publication-type="journal" id="cre270466-cit-0045">
+<string-name name-style="western">
+<surname>Mermigos</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Full</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Andreasen</surname>
+</string-name>. <year>1990</year>. “<article-title>Protraction of the Maxillofacial Complex</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>98</volume>, no. <issue>1</issue>: <fpage>47</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1016/0889-5406(90)70031-7</pub-id>.<pub-id pub-id-type="pmid">2363406</pub-id></mixed-citation></ref><ref id="cre270466-bib-0046"><mixed-citation publication-type="journal" id="cre270466-cit-0046">
+<string-name name-style="western">
+<surname>Meyns</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Thanatchaporn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shujaat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Politis</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jacobs</surname>
+</string-name>. <year>2025</year>. “<article-title>Long‐Term Three‐Dimensional Skeletal Effects of Hybrid Hyrax With Facemask Versus Mentoplate in Growing Class III Patients: A Randomized Controlled Trial</article-title>.” <source>Progress in Orthodontics</source>
+<volume>26</volume>, no. <issue>1</issue>: <fpage>14</fpage>. <pub-id pub-id-type="doi">10.1186/s40510-025-00561-7</pub-id>.<pub-id pub-id-type="pmcid">PMC12009789</pub-id><pub-id pub-id-type="pmid">40254643</pub-id></mixed-citation></ref><ref id="cre270466-bib-0047"><mixed-citation publication-type="journal" id="cre270466-cit-0047">
+<string-name name-style="western">
+<surname>Ma</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W. R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. H.</given-names>
+<surname>Chen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zheng</surname>
+</string-name>. <year>2016</year>. “<article-title>Comparison of Treatment Results Between Implant Anchorage and Traditional Intraoral Anchorage in Patients With Maxillary Protrusion</article-title>.” <source>Shanghai kou qiang yi xue [Shanghai Journal of Stomatology]</source>
+<volume>25</volume>, no. <issue>4</issue>: <fpage>475</fpage>–<lpage>480</lpage>. <pub-id pub-id-type="doi">10.1002/central/CN-01401567/full</pub-id>.<pub-id pub-id-type="pmid">27858074</pub-id></mixed-citation></ref><ref id="cre270466-bib-0048"><mixed-citation publication-type="journal" id="cre270466-cit-0048">
+<string-name name-style="western">
+<surname>Moon</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K. W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>MacGinnis</surname>
+</string-name>, et al. <year>2015</year>. “<article-title>The Efficacy of Maxillary Protraction Protocols With the Micro‐Implant‐Assisted Rapid Palatal Expander (MARPE) and the Novel N2 Mini‐Implant‐A Finite Element Study</article-title>.” <source>Progress in Orthodontics</source>
+<volume>16</volume>: <fpage>16</fpage>. <pub-id pub-id-type="doi">10.1186/s40510-015-0083-z</pub-id>.<pub-id pub-id-type="pmcid">PMC4456601</pub-id><pub-id pub-id-type="pmid">26061987</pub-id></mixed-citation></ref><ref id="cre270466-bib-0049"><mixed-citation publication-type="journal" id="cre270466-cit-0049">
+<string-name name-style="western">
+<surname>Ngan</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Moon</surname>
+</string-name>. <year>2015</year>. “<article-title>Evolution of Class III Treatment in Orthodontics</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>148</volume>, no. <issue>1</issue>: <fpage>22</fpage>–<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2015.04.012</pub-id>.<pub-id pub-id-type="pmid">26124025</pub-id></mixed-citation></ref><ref id="cre270466-bib-0050"><mixed-citation publication-type="journal" id="cre270466-cit-0050">
+<string-name name-style="western">
+<surname>Ngan</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wilmes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Drescher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Martin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Weaver</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Gunel</surname>
+</string-name>. <year>2015</year>. “<article-title>Comparison of Two Maxillary Protraction Protocols: Tooth‐Borne Versus Bone‐Anchored Protraction Facemask Treatment</article-title>.” <source>Progress in Orthodontics</source>
+<volume>16</volume>: <fpage>26</fpage>. <pub-id pub-id-type="doi">10.1186/s40510-015-0096-7</pub-id>.<pub-id pub-id-type="pmcid">PMC4547969</pub-id><pub-id pub-id-type="pmid">26303311</pub-id></mixed-citation></ref><ref id="cre270466-bib-0051"><mixed-citation publication-type="journal" id="cre270466-cit-0051">
+<string-name name-style="western">
+<surname>Ngan</surname>, <given-names>P. W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Hagg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Yiu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. H. Y.</given-names>
+<surname>Wei</surname>
+</string-name>. <year>1997</year>. “<article-title>Treatment Response and Long‐Term Dentofacial Adaptations to Maxillary Expansion and Protraction</article-title>.” <source>Seminars in Orthodontics</source>
+<volume>3</volume>, no. <issue>4</issue>: <fpage>255</fpage>–<lpage>264</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1073-8746(97)80058-8</pub-id><pub-id pub-id-type="pmid">9573887</pub-id></mixed-citation></ref><ref id="cre270466-bib-0052"><mixed-citation publication-type="journal" id="cre270466-cit-0052">
+<string-name name-style="western">
+<surname>Nguyen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Cevidanes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Cornelis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Heymann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. K.</given-names>
+<surname>de Paula</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>De Clerck</surname>
+</string-name>. <year>2011</year>. “<article-title>Three‐Dimensional Assessment of Maxillary Changes Associated With Bone Anchored Maxillary Protraction</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>140</volume>, no. <issue>6</issue>: <fpage>790</fpage>–<lpage>798</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2011.04.025</pub-id>.<pub-id pub-id-type="pmcid">PMC3734342</pub-id><pub-id pub-id-type="pmid">22133943</pub-id></mixed-citation></ref><ref id="cre270466-bib-0053"><mixed-citation publication-type="journal" id="cre270466-cit-0053">
+<string-name name-style="western">
+<surname>Nienkemper</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wilmes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Franchi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Drescher</surname>
+</string-name>. <year>2015</year>. “<article-title>Effectiveness of Maxillary Protraction Using a Hybrid Hyrax‐Facemask Combination: A Controlled Clinical Study</article-title>.” <source>Angle Orthodontist</source>
+<volume>85</volume>, no. <issue>5</issue>: <fpage>764</fpage>–<lpage>770</lpage>. <pub-id pub-id-type="doi">10.2319/071614-497.1</pub-id>.<pub-id pub-id-type="pmcid">PMC8610391</pub-id><pub-id pub-id-type="pmid">25393800</pub-id></mixed-citation></ref><ref id="cre270466-bib-0054"><mixed-citation publication-type="journal" id="cre270466-cit-0054">
+<string-name name-style="western">
+<surname>Nienkemper</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wilmes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Pauls</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Drescher</surname>
+</string-name>. <year>2013</year>. “<article-title>Maxillary Protraction Using a Hybrid Hyrax‐Facemask Combination</article-title>.” <source>Progress in Orthodontics</source>
+<volume>14</volume>: <elocation-id>5</elocation-id>. <pub-id pub-id-type="doi">10.1186/2196-1042-14-5</pub-id>.<pub-id pub-id-type="pmcid">PMC3847851</pub-id><pub-id pub-id-type="pmid">24325812</pub-id></mixed-citation></ref><ref id="cre270466-bib-0055"><mixed-citation publication-type="journal" id="cre270466-cit-0055">
+<string-name name-style="western">
+<surname>Page</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>McKenzie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Bossuyt</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews</article-title>.” <source>BMJ</source>
+<volume>372</volume>: <elocation-id>n71</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.n71</pub-id>.<pub-id pub-id-type="pmcid">PMC8005924</pub-id><pub-id pub-id-type="pmid">33782057</pub-id></mixed-citation></ref><ref id="cre270466-bib-0056"><mixed-citation publication-type="journal" id="cre270466-cit-0056">
+<string-name name-style="western">
+<surname>Podda</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Imondi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>De Stefano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Horodynski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Vernucci</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Galluccio</surname>
+</string-name>. <year>2025</year>. “<article-title>Clinical Outcomes of Skeletal Anchorage Versus Conventional Anchorage in the Class III Orthopaedic Treatment in Growing Patients: A Systematic Review and Meta‐Analysis</article-title>.” <source>Turkish Journal of Orthodontics</source>
+<volume>38</volume>, no. <issue>2</issue>: <fpage>133</fpage>–<lpage>141</lpage>. <pub-id pub-id-type="doi">10.4274/TurkJOrthod.2025.2024.38</pub-id>.<pub-id pub-id-type="pmcid">PMC12236123</pub-id><pub-id pub-id-type="pmid">40620013</pub-id></mixed-citation></ref><ref id="cre270466-bib-0057"><mixed-citation publication-type="journal" id="cre270466-cit-0057">
+<string-name name-style="western">
+<surname>Rodríguez de Guzmán‐Barrera</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Sáez Martínez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Boronat‐Catalá</surname>
+</string-name>, et al. <year>2017</year>. “<article-title>Effectiveness of Interceptive Treatment of Class III Malocclusions With Skeletal Anchorage: A Systematic Review and Meta‐Analysis</article-title>.” <source>PLoS One</source>
+<volume>12</volume>, no. <issue>3</issue>: <elocation-id>e0173875</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0173875</pub-id>.<pub-id pub-id-type="pmcid">PMC5362089</pub-id><pub-id pub-id-type="pmid">28328995</pub-id></mixed-citation></ref><ref id="cre270466-bib-0058"><mixed-citation publication-type="journal" id="cre270466-cit-0058">
+<string-name name-style="western">
+<surname>Rojo‐Sanchis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Soto‐Peñaloza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Peñarrocha‐Oltra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Peñarrocha‐Diago</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Viña‐Almunia</surname>
+</string-name>. <year>2021</year>. “<article-title>Facial Alveolar Bone Thickness and Modifying Factors of Anterior Maxillary Teeth: A Systematic Review and Meta‐Analysis of Cone‐Beam Computed Tomography Studies</article-title>.” <source>BMC Oral Health</source>
+<volume>21</volume>, no. <issue>1</issue>: <fpage>143</fpage>. <pub-id pub-id-type="doi">10.1186/s12903-021-01495-2</pub-id>.<pub-id pub-id-type="pmcid">PMC7986564</pub-id><pub-id pub-id-type="pmid">33752651</pub-id></mixed-citation></ref><ref id="cre270466-bib-0059"><mixed-citation publication-type="journal" id="cre270466-cit-0059">
+<string-name name-style="western">
+<surname>Rutili</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nieri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Franceschi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Pierleoni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Giuntini</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Franchi</surname>
+</string-name>. <year>2023</year>. “<article-title>Effects Produced by the Facemask With and Without Skeletal Anchorage for the Orthopaedic Treatment of Class III Malocclusion in Growing Patients: A Systematic Review and Meta‐Analysis of Rcts</article-title>.” <source>European Journal of Orthodontics</source>
+<volume>45</volume>, no. <issue>2</issue>: <fpage>157</fpage>–<lpage>168</lpage>. <pub-id pub-id-type="doi">10.1093/ejo/cjac048</pub-id>.<pub-id pub-id-type="pmid">36074492</pub-id></mixed-citation></ref><ref id="cre270466-bib-0060"><mixed-citation publication-type="journal" id="cre270466-cit-0060">
+<string-name name-style="western">
+<surname>Şar</surname>, <given-names>Ç.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Arman‐Özçırpıcı</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Uçkan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Yazıcı</surname>
+</string-name>. <year>2011</year>. “<article-title>Comparative Evaluation of Maxillary Protraction With or Without Skeletal Anchorage</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>139</volume>, no. <issue>5</issue>: <fpage>636</fpage>–<lpage>649</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2009.06.039</pub-id>.<pub-id pub-id-type="pmid">21536207</pub-id></mixed-citation></ref><ref id="cre270466-bib-0061"><mixed-citation publication-type="journal" id="cre270466-cit-0061">
+<string-name name-style="western">
+<surname>Seiryu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ida</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mayama</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>A Comparative Assessment of Orthodontic Treatment Outcomes of Mild Skeletal Class III Malocclusion Between Facemask and Facemask in Combination With a Miniscrew for Anchorage in Growing Patients: A Single‐Center, Prospective Randomized Controlled Trial</article-title>.” <source>Angle Orthodontist</source>
+<volume>90</volume>, no. <issue>1</issue>: <fpage>3</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.2319/101718-750.1</pub-id>.<pub-id pub-id-type="pmcid">PMC8087061</pub-id><pub-id pub-id-type="pmid">31398066</pub-id></mixed-citation></ref><ref id="cre270466-bib-0062"><mixed-citation publication-type="journal" id="cre270466-cit-0062">
+<string-name name-style="western">
+<surname>Solano‐Mendoza</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Iglesias‐Linares</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Yañez‐Vico</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mendoza‐Mendoza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Alió‐Sanz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Solano‐Reina</surname>
+</string-name>. <year>2012</year>. “<article-title>Maxillary Protraction at Early Ages. The Revolution of New Bone Anchorage Appliances</article-title>.” <source>Journal of Clinical Pediatric Dentistry</source>
+<volume>37</volume>, no. <issue>2</issue>: <fpage>219</fpage>–<lpage>229</lpage>. <pub-id pub-id-type="doi">10.17796/jcpd.37.2.q0k770403v443053</pub-id>.<pub-id pub-id-type="pmid">23534334</pub-id></mixed-citation></ref><ref id="cre270466-bib-0063"><mixed-citation publication-type="journal" id="cre270466-cit-0063">
+<string-name name-style="western">
+<surname>de Souza</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rino Neto</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>de Paiva</surname>
+</string-name>. <year>2019</year>. “<article-title>Maxillary Protraction With Rapid Maxillary Expansion and Facemask Versus Skeletal Anchorage With Mini‐Implants in Class III Patients: A Non‐Randomized Clinical Trial</article-title>.” <source>Progress in Orthodontics</source>
+<volume>20</volume>, no. <issue>1</issue>: <fpage>35</fpage>. <pub-id pub-id-type="doi">10.1186/s40510-019-0288-7</pub-id>.<pub-id pub-id-type="pmcid">PMC6717741</pub-id><pub-id pub-id-type="pmid">31475309</pub-id></mixed-citation></ref><ref id="cre270466-bib-0064"><mixed-citation publication-type="journal" id="cre270466-cit-0064">
+<string-name name-style="western">
+<surname>Sterne</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Hernán</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. C.</given-names>
+<surname>Reeves</surname>
+</string-name>, et al. <year>2016</year>. “<article-title>ROBINS‐I: A Tool for Assessing Risk of Bias in Non‐Randomised Studies of Interventions</article-title>.” <source>BMJ</source>
+<volume>355</volume>: <elocation-id>i4919</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.i4919</pub-id>.<pub-id pub-id-type="pmcid">PMC5062054</pub-id><pub-id pub-id-type="pmid">27733354</pub-id></mixed-citation></ref><ref id="cre270466-bib-0065"><mixed-citation publication-type="journal" id="cre270466-cit-0065">
+<string-name name-style="western">
+<surname>Sterne</surname>, <given-names>J. A. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Savović</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Page</surname>
+</string-name>, et al. <year>2019</year>. “<article-title>RoB 2: A Revised Tool for Assessing Risk of Bias in Randomised Trials</article-title>.” <source>BMJ</source>
+<volume>366</volume>: <elocation-id>l4898</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.l4898</pub-id>.<pub-id pub-id-type="pmid">31462531</pub-id></mixed-citation></ref><ref id="cre270466-bib-0066"><mixed-citation publication-type="journal" id="cre270466-cit-0066">
+<string-name name-style="western">
+<surname>Tabellion</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Lisson</surname>
+</string-name>. <year>2024</year>. “<article-title>Dentofacial and Skeletal Effects of Two Orthodontic Maxillary Protraction Protocols: Bone Anchors Versus Facemask</article-title>.” <source>Head &amp; Face Medicine</source>
+<volume>20</volume>, no. <issue>1</issue>: <fpage>60</fpage>. <pub-id pub-id-type="doi">10.1186/s13005-024-00462-w</pub-id>.<pub-id pub-id-type="pmcid">PMC11487849</pub-id><pub-id pub-id-type="pmid">39425193</pub-id></mixed-citation></ref><ref id="cre270466-bib-0067"><mixed-citation publication-type="journal" id="cre270466-cit-0067">
+<string-name name-style="western">
+<surname>Tanne</surname>, <given-names>K.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sakuda</surname>
+</string-name>. <year>1991</year>. “<article-title>Biomechanical and Clinical Changes of the Craniofacial Complex From Orthopedic Maxillary Protraction</article-title>.” <source>Angle Orthodontist</source>
+<volume>61</volume>, no. <issue>2</issue>: <fpage>145</fpage>–<lpage>152</lpage>. <pub-id pub-id-type="doi">10.1043/0003-3219(1991)061&lt;0145:Baccot&gt;2.0.Co;2</pub-id>.<pub-id pub-id-type="pmid">2064072</pub-id></mixed-citation></ref><ref id="cre270466-bib-0068"><mixed-citation publication-type="journal" id="cre270466-cit-0068">
+<string-name name-style="western">
+<surname>Toffol</surname>, <given-names>L. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Pavoni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Baccetti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Franchi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Cozza</surname>
+</string-name>. <year>2008</year>. “<article-title>Orthopedic Treatment Outcomes in Class III Malocclusion</article-title>.” <source>Angle Orthodontist</source>
+<volume>78</volume>, no. <issue>3</issue>: <fpage>561</fpage>–<lpage>573</lpage>. <pub-id pub-id-type="doi">10.2319/030207-108.1</pub-id>.<pub-id pub-id-type="pmid">18416617</pub-id></mixed-citation></ref><ref id="cre270466-bib-0069"><mixed-citation publication-type="journal" id="cre270466-cit-0069">
+<string-name name-style="western">
+<surname>Tortop</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Keykubat</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yuksel</surname>
+</string-name>. <year>2007</year>. “<article-title>Facemask Therapy With and Without Expansion</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>132</volume>, no. <issue>4</issue>: <fpage>467</fpage>–<lpage>474</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2006.09.047</pub-id>.<pub-id pub-id-type="pmid">17920499</pub-id></mixed-citation></ref><ref id="cre270466-bib-0070"><mixed-citation publication-type="journal" id="cre270466-cit-0070">
+<string-name name-style="western">
+<surname>Vaughn</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Mason</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. B.</given-names>
+<surname>Moon</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. K.</given-names>
+<surname>Turley</surname>
+</string-name>. <year>2005</year>. “<article-title>The Effects of Maxillary Protraction Therapy With or Without Rapid Palatal Expansion: A Prospective, Randomized Clinical Trial</article-title>.” <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>
+<volume>128</volume>, no. <issue>3</issue>: <fpage>299</fpage>–<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajodo.2005.04.030</pub-id>.<pub-id pub-id-type="pmid">16168327</pub-id></mixed-citation></ref><ref id="cre270466-bib-0071"><mixed-citation publication-type="journal" id="cre270466-cit-0071">
+<string-name name-style="western">
+<surname>Wan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tong</surname>
+</string-name>. <year>2014</year>. “<article-title>Estimating the Sample Mean and Standard Deviation From the Sample Size, Median, Range and/or Interquartile Range</article-title>.” <source>BMC Medical Research Methodology</source>
+<volume>14</volume>: <elocation-id>135</elocation-id>. <pub-id pub-id-type="doi">10.1186/1471-2288-14-135</pub-id>.<pub-id pub-id-type="pmcid">PMC4383202</pub-id><pub-id pub-id-type="pmid">25524443</pub-id></mixed-citation></ref><ref id="cre270466-bib-0072"><mixed-citation publication-type="journal" id="cre270466-cit-0072">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Clinical Effectiveness of Different Types of Bone‐Anchored Maxillary Protraction Devices for Skeletal Class III Malocclusion: Systematic Review and Network Meta‐Analysis</article-title>.” <source>Korean Journal of Orthodontics</source>
+<volume>52</volume>, no. <issue>5</issue>: <fpage>313</fpage>–<lpage>323</lpage>. <pub-id pub-id-type="doi">10.4041/kjod21.264</pub-id>.<pub-id pub-id-type="pmcid">PMC9512627</pub-id><pub-id pub-id-type="pmid">35844098</pub-id></mixed-citation></ref><ref id="cre270466-bib-0073"><mixed-citation publication-type="journal" id="cre270466-cit-0073">
+<string-name name-style="western">
+<surname>Wertz</surname>, <given-names>R. A.</given-names>
+</string-name>
+<year>1970</year>. “<article-title>Skeletal and Dental Changes Accompanying Rapid Midpalatal Suture Opening</article-title>.” <source>American Journal of Orthodontics</source>
+<volume>58</volume>, no. <issue>1</issue>: <fpage>41</fpage>–<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1016/0002-9416(70)90127-2</pub-id>.<pub-id pub-id-type="pmid">5269181</pub-id></mixed-citation></ref><ref id="cre270466-bib-0074"><mixed-citation publication-type="journal" id="cre270466-cit-0074">
+<string-name name-style="western">
+<surname>Williams</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Sarver</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. L.</given-names>
+<surname>Sadowsky</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bradley</surname>
+</string-name>. <year>1997</year>. “<article-title>Combined Rapid Maxillary Expansion and Protraction Facemask in the Treatment of Class III Malocclusions in Growing Children: A Prospective Long‐Term Study</article-title>.” <source>Seminars in Orthodontics</source>
+<volume>3</volume>, no. <issue>4</issue>: <fpage>265</fpage>–<lpage>274</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1073-8746(97)80059-x</pub-id><pub-id pub-id-type="pmid">9573888</pub-id></mixed-citation></ref><ref id="cre270466-bib-0075"><mixed-citation publication-type="journal" id="cre270466-cit-0075">
+<string-name name-style="western">
+<surname>Wilmes</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nienkemper</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Drescher</surname>
+</string-name>. <year>2010</year>. “<article-title>Application and Effectiveness of a Mini‐Implant‐ and Tooth‐Borne Rapid Palatal Expansion Device: The Hybrid Hyrax</article-title>.” <source>World Journal of Orthodontics</source>
+<volume>11</volume>, no. <issue>4</issue>: <fpage>323</fpage>–<lpage>330</lpage>.<pub-id pub-id-type="pmid">21490997</pub-id></mixed-citation></ref><ref id="cre270466-bib-0076"><mixed-citation publication-type="journal" id="cre270466-cit-0076">
+<string-name name-style="western">
+<surname>Zere</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P. K.</given-names>
+<surname>Chaudhari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Saran</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Dhingra</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Tiwari</surname>
+</string-name>. <year>2018</year>. “<article-title>Developing Class III Malocclusions: Challenges and Solutions</article-title>.” <source>Clinical, Cosmetic and Investigational Dentistry</source>
+<volume>10</volume>: <fpage>99</fpage>–<lpage>116</lpage>. <pub-id pub-id-type="doi">10.2147/ccide.s134303</pub-id>.<pub-id pub-id-type="pmcid">PMC6016584</pub-id><pub-id pub-id-type="pmid">29950903</pub-id></mixed-citation></ref><ref id="cre270466-bib-0077"><mixed-citation publication-type="journal" id="cre270466-cit-0077">
+<string-name name-style="western">
+<surname>Ziyu</surname>, <given-names>L. I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. A. O.</given-names>
+<surname>Feiran</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. U.</given-names>
+<surname>Beibei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Yuanyin</surname>
+</string-name>. <year>2024</year>. “<article-title>Comparison of the Effects of Early Skeletal Class III Facemask Therapy Between Dental and Skeletal Anchora‐Ges</article-title>.” [实用口腔医学杂志]. <source>Journal of Practical Stomatology</source>, <issue>6</issue>: <fpage>109</fpage>–<lpage>116</lpage>. Retrieved from. <pub-id pub-id-type="doi">10.3969/j.issn.1001-3733.2024.01.019</pub-id>.</mixed-citation></ref></ref-list></back></article>

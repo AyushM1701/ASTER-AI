@@ -1,0 +1,552 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="joor70111" xml:lang="en" article-type="review-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Oral Rehabil</journal-id><journal-id journal-id-type="iso-abbrev">J Oral Rehabil</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">0433604</journal-id><journal-id journal-id-type="publisher-id">JOOR</journal-id><journal-title-group><journal-title>Journal of Oral Rehabilitation</journal-title></journal-title-group><issn pub-type="ppub">0305-182X</issn><issn pub-type="epub">1365-2842</issn><?publisher_abbrev blackwell?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12813523</article-id><article-id pub-id-type="pmcid-ver">PMC12813523.1</article-id><article-id pub-id-type="pmcaid">12813523</article-id><article-id pub-id-type="pmcaiid">12813523</article-id><article-id pub-id-type="pmid">41399921</article-id><article-id pub-id-type="doi">10.1111/joor.70111</article-id><article-id pub-id-type="publisher-id">JOOR70111</article-id><article-id pub-id-type="other">5347611</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Nutritional Outcomes of Overdentures vs. Complete Dentures in Older Edentulous Adults: A Systematic Review and Meta‐Analysis</article-title></title-group><contrib-group><contrib id="joor70111-cr-0001" contrib-type="author"><name name-style="western"><surname>Batista</surname><given-names initials="DS">Danielle Soley</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0008-4115-351X</contrib-id><xref rid="joor70111-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="joor70111-cr-0002" contrib-type="author"><name name-style="western"><surname>Manfron</surname><given-names initials="GAW">Gabriela Aparecida Winkert</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-9297-539X</contrib-id><xref rid="joor70111-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="joor70111-cr-0003" contrib-type="author"><name name-style="western"><surname>Bubna</surname><given-names initials="DP">Diulia Pereira</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0001-0337-4206</contrib-id><xref rid="joor70111-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="joor70111-cr-0004" contrib-type="author"><name name-style="western"><surname>Barbosa</surname><given-names initials="DM">Débora Marta</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6467-0909</contrib-id><xref rid="joor70111-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="joor70111-cr-0005" contrib-type="author"><name name-style="western"><surname>Stechman‐Neto</surname><given-names initials="J">José</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0259-2420</contrib-id><xref rid="joor70111-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="joor70111-cr-0006" contrib-type="author"><name name-style="western"><surname>Taveira</surname><given-names initials="KVM">Karinna Veríssimo Meira</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6978-4083</contrib-id><xref rid="joor70111-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="joor70111-cr-0007" contrib-type="author"><name name-style="western"><surname>de Araujo</surname><given-names initials="CM">Cristiano Miranda</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1325-4248</contrib-id><xref rid="joor70111-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="joor70111-cr-0008" contrib-type="author"><name name-style="western"><surname>Gonçalves</surname><given-names initials="FM">Flávio Magno</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7972-2844</contrib-id><xref rid="joor70111-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="joor70111-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Bronholo</surname><given-names initials="TDPM">Thalita de Paris Matos</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2974-4743</contrib-id><xref rid="joor70111-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="joor70111-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>thalitamatos@live.com</email></address></contrib></contrib-group><aff id="joor70111-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Dentistry</named-content>
+<institution>Tuiuti University of Paraná</institution>
+<city>Curitiba</city>
+<named-content content-type="country-part">Paraná</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="joor70111-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Postgraduate Program Dentistry and Health of Human Comunnication</named-content>
+<institution>Tuiuti University of Paraná</institution>
+<city>Curitiba</city>
+<country country="BR">Brazil</country>
+</aff><aff id="joor70111-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Postgraduate Program in Speech, Language and Hearing Sciences</named-content>
+<institution>Federal University of Rio Grande Do Norte</institution>
+<city>Natal</city>
+<country country="BR">Brazil</country>
+</aff><aff id="joor70111-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Postgraduate Program in Communication Disorders</named-content>
+<institution>Tuiuti University of Paraná</institution>
+<city>Curitiba</city>
+<country country="BR">Brazil</country>
+</aff><aff id="joor70111-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Postgraduate Program Dentistry</named-content>
+<institution>Tuiuti University of Paraná</institution>
+<city>Curitiba</city>
+<named-content content-type="country-part">Paraná</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="joor70111-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">School of Dentistry</named-content>
+<institution>Federal University of Paraná</institution>
+<city>Curitiba</city>
+<named-content content-type="country-part">Paraná</named-content>
+<country country="BR">Brazil</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Thalita de Paris Matos Bronholo (<email>thalitamatos@live.com</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>12</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2026</year></pub-date><volume>53</volume><issue seq="280">2</issue><issue-id pub-id-type="pmc-issue-id">505485</issue-id><issue-id pub-id-type="doi">10.1111/joor.v53.2</issue-id><fpage>592</fpage><lpage>602</lpage><history>
+<date date-type="rev-recd"><day>23</day><month>10</month><year>2025</year></date>
+<date date-type="received"><day>30</day><month>9</month><year>2025</year></date>
+<date date-type="accepted"><day>06</day><month>11</month><year>2025</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>19</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>20</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-20 00:25:12.943"><day>20</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Journal of Oral Rehabilitation</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JOOR-53-592.pdf"><?pdf-name JOOR-53-592.pdf?><?pdf-size 3665818?><?pdf-md5 91e266698155ce0ec0660178d2995536?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:58f4/12813523/91e266698155/JOOR-53-592.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JOOR-53-592.pdf"/><abstract><title>ABSTRACT</title><sec id="joor70111-sec-0001"><title>Objective</title><p>To investigate whether implant‐supported overdentures provide nutritional advantages compared with conventional complete dentures in older edentulous adults, through a systematic review and meta‐analysis.</p></sec><sec id="joor70111-sec-0002"><title>Methods</title><p>A comprehensive search was performed in PubMed/MEDLINE, Scopus, Web of Science, Cochrane Library, EMBASE, LILACS, LIVIVO and grey literature sources. Eligible studies included completely edentulous patients aged ≥ 60 years rehabilitated with overdentures or conventional complete dentures, with nutritional intake assessed using validated methods. Data extraction and risk of bias assessments were conducted independently by calibrated reviewers. Random‐effects meta‐analyses were performed, and the certainty of evidence was rated using GRADE.</p></sec><sec id="joor70111-sec-0003"><title>Results</title><p>Nine studies met the inclusion criteria, of which five were included in the quantitative synthesis. Overdenture users showed significantly higher vitamin B12 levels at 6‐month follow‐up (SMD = 0.60; 95% CI: 0.18–1.02; I<sup>2</sup> = 54%), but no consistent differences were observed for albumin or folate. Overall certainty of the evidence was rated as moderate for vitamin B12 and albumin, and low for folate, due to methodological limitations, heterogeneity in outcome measures and small sample sizes.</p></sec><sec id="joor70111-sec-0004"><title>Conclusion</title><p>While overdentures improve masticatory function and may transiently enhance vitamin B12 status, the current body of evidence does not support a consistent nutritional advantage over conventional dentures. High‐quality, long‐term trials are needed to clarify the systemic nutritional implications of prosthetic rehabilitation in older adults.</p></sec></abstract><abstract abstract-type="graphical"><p>The Challenge of Edentulism: Older edentulous adults often face significant difficulties in chewing, leading to restrictions in their diet and potentially affecting their overall nutritional status. Rehabilitation Options: Two primary prosthetic rehabilitation methods were compared: conventional complete dentures and implant‐supported overdentures, aiming to restore masticatory function. Nutritional Outcomes: A systematic review and meta‐analysis of biochemical markers revealed that while overdentures may offer masticatory improvements, the nutritional benefits (e.g., albumin, folate) were not consistently superior to conventional dentures. A transient increase in Vitamin B12 was observed in the overdenture group at 6 months. Key Clinical Takeaway: Restoring chewing function through prosthetic rehabilitation alone is often insufficient to guarantee improved nutritional status. An interdisciplinary approach, integrating prosthetic treatment with professional nutritional counselling, is vital for optimising the health and well‐being of older edentulous patients.<boxed-text position="anchor" content-type="graphic" id="joor70111-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JOOR-53-592-g005.jpg"><?image-name JOOR-53-592-g005.jpg?><?image-size 50478?><?image-md5 6bb3dcd704bf64fca05dd195f48daa46?><?image-image-server-status NEVER_LOAD?><?image-original-height 177?><?image-original-width 331?><?image-scaled-height 177?><?image-scaled-width 331?><?image-cloudpmc-urn urn:cdn:blobs/58f4/12813523/6bb3dcd704bf/JOOR-53-592-g005.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="joor70111-kwd-0001">complete dentures</kwd><kwd id="joor70111-kwd-0002">edentulism</kwd><kwd id="joor70111-kwd-0003">implant‐supported overdentures</kwd><kwd id="joor70111-kwd-0004">meta‐analysis</kwd><kwd id="joor70111-kwd-0005">nutrition</kwd><kwd id="joor70111-kwd-0006">systematic review</kwd></kwd-group><counts><fig-count count="8"/><table-count count="2"/><page-count count="11"/><word-count count="4900"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.8 mode:remove_FC converted:19.01.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="joor70111-body-0001"><sec id="joor70111-sec-0005"><label>1</label><title>Introduction</title><p>Edentulism, defined as the complete loss of teeth in one or both arches, affects approximately 15.4% of the Brazilian population, with a higher prevalence among individuals aged over 60 years [<xref rid="joor70111-bib-0001" ref-type="bibr">1</xref>]. This condition is associated with various functional impairments, including compromised mastication, aesthetic concerns and speech difficulties, which can negatively influence dietary intake and nutritional status. These changes have systemic implications, such as reduced lean body mass and increased risk of nutritional deficiencies—factors strongly associated with chronic diseases and cognitive decline in older adults [<xref rid="joor70111-bib-0002" ref-type="bibr">2</xref>]. Biochemical analyses have shown that edentulous individuals tend to consume fewer vegetables, fruits and fibres compared to those with natural dentition [<xref rid="joor70111-bib-0003" ref-type="bibr">3</xref>].</p><p>Oral rehabilitation plays a central role in restoring function and improving the overall health and quality of life of edentulous patients. Evidence indicates that prosthetic rehabilitation is linked to improved nutrition and reduced mortality in older adults [<xref rid="joor70111-bib-0004" ref-type="bibr">4</xref>, <xref rid="joor70111-bib-0005" ref-type="bibr">5</xref>]. Furthermore, patients rehabilitated with prostheses often report enhanced quality of life and a greater willingness to engage in healthier behaviours, especially when the prosthesis is well accepted and functionally satisfactory [<xref rid="joor70111-bib-0005" ref-type="bibr">5</xref>, <xref rid="joor70111-bib-0006" ref-type="bibr">6</xref>].</p><p>Among the available treatment modalities, conventional complete dentures (CDs) are the most commonly used due to their lower cost, non‐invasive nature and satisfactory aesthetic results. However, they often lack adequate stability and retention, particularly during the mastication of harder foods, which may compromise dietary choices and lead to nutritional deficits. Implant‐supported overdentures (IODs), by contrast, offer improved stability and retention by anchoring the prosthesis to the alveolar bone, reducing bone resorption and enhancing masticatory performance [<xref rid="joor70111-bib-0007" ref-type="bibr">7</xref>]. Nevertheless, IODs require surgical intervention, entail a postoperative recovery period and are associated with higher financial costs, making them less accessible to some populations [<xref rid="joor70111-bib-0008" ref-type="bibr">8</xref>].</p><p>Accordingly, the aim of this systematic review and meta‐analysis was to evaluate whether nutritional intake differs between edentulous older adults rehabilitated with conventional complete dentures versus implant‐supported overdentures, based on the most current and comprehensive evidence available.</p></sec><sec sec-type="materials-and-methods" id="joor70111-sec-0006"><label>2</label><title>Material and Methods</title><p>This systematic review was conducted in accordance with the <italic toggle="yes">Preferred Reporting Items for Systematic Reviews and Meta‐Analyses</italic> (PRISMA) guidelines [<xref rid="joor70111-bib-0009" ref-type="bibr">9</xref>] and was prospectively registered in the <italic toggle="yes">International Prospective Register of Systematic Reviews</italic> (PROSPERO). The registration number is CRD42023474621.</p><sec id="joor70111-sec-0007"><label>2.1</label><title>Eligibility Criteria</title><p>The Inclusion and Exclusion Criteria Were Established Using the PICOS Framework, as Follows:
+<list list-type="bullet" id="joor70111-list-0002"><list-item id="joor70111-li-0005"><p>
+<bold>Population (P):</bold> Edentulous individuals aged 60 years or older</p></list-item><list-item id="joor70111-li-0006"><p>
+<bold>Intervention (I):</bold> Oral rehabilitation with implant‐supported overdentures</p></list-item><list-item id="joor70111-li-0007"><p>
+<bold>Comparison (C):</bold> Rehabilitation with conventional complete dentures</p></list-item><list-item id="joor70111-li-0008"><p>
+<bold>Outcomes (O):</bold> Nutritional intake assessed using validated methods</p></list-item><list-item id="joor70111-li-0009"><p>
+<bold>Study design (S):</bold> Interventional and observational studies</p></list-item></list>
+</p></sec><sec id="joor70111-sec-0008"><label>2.2</label><title>Inclusion Criteria</title><p>Studies Were Eligible If They:
+<list list-type="bullet" id="joor70111-list-0003"><list-item id="joor70111-li-0010"><p>Included completely edentulous patients aged ≥ 60 years;</p></list-item><list-item id="joor70111-li-0011"><p>Compared nutritional outcomes between patients rehabilitated with conventional complete dentures and those with overdentures;</p></list-item><list-item id="joor70111-li-0012"><p>Assessed nutritional intake using validated dietary or biochemical methods.</p></list-item></list>
+</p></sec><sec id="joor70111-sec-0009"><label>2.3</label><title>Exclusion Criteria</title><p>Studies Were Excluded If They:
+<list list-type="bullet" id="joor70111-list-0004"><list-item id="joor70111-li-0013"><p>Included partially edentulous patients or individuals without prostheses;</p></list-item><list-item id="joor70111-li-0014"><p>Did not include a direct comparison between complete dentures and overdentures;</p></list-item><list-item id="joor70111-li-0015"><p>Were reviews, opinion pieces, in vitro or animal studies, conference abstracts, case reports or case series;</p></list-item><list-item id="joor70111-li-0016"><p>Failed to report nutritional outcomes;</p></list-item><list-item id="joor70111-li-0017"><p>Included patients younger than 60 years of age.</p></list-item></list>
+</p></sec><sec id="joor70111-sec-0010"><label>2.4</label><title>Information Sources and Search Strategy</title><p>A comprehensive search strategy was developed using a combination of controlled vocabulary (MeSH terms), free‐text terms and Boolean operators. Searches were performed in seven electronic databases: PubMed/MEDLINE, Scopus, Web of Science, Cochrane Library, EMBASE, Latin American and Caribbean Health Sciences Literature (LILACS) and LIVIVO. Grey literature was searched via Google Scholar and ProQuest.</p><p>All searches were conducted on 16 August 2023. Additionally, a manual search of the reference lists of included articles was performed using the Citation Chaser tool. Expert consultation was conducted to identify any potentially relevant unpublished or ongoing studies. The full search strategy is detailed in Appendix <xref rid="joor70111-supitem-0001" ref-type="supplementary-material">1</xref>.</p></sec><sec id="joor70111-sec-0011"><label>2.5</label><title>Study Selection</title><p>Two reviewers independently screened titles and abstracts for potential eligibility. Before full screening, a calibration exercise was performed involving 100 articles to ensure reviewer consistency. Inter‐rater agreement was assessed using Cohen's Kappa coefficient (κ), with a value &gt; 0.8 deemed acceptable to proceed.</p><p>Screening Was Conducted in Two Phases:
+<list list-type="order" id="joor70111-list-0005"><list-item id="joor70111-li-0018"><p>
+<bold>Phase 1</bold>: Title and abstract screening.</p></list-item><list-item id="joor70111-li-0019"><p>
+<bold>Phase 2</bold>: Full‐text assessment for final eligibility.</p></list-item></list>
+</p><p>The Rayyan platform (<italic toggle="yes">Rayyan Intelligent Systematic Review</italic>) was used to manage citations and facilitate independent, blinded screening.</p><p>Disagreements between reviewers were resolved through discussion or adjudication by a third reviewer.</p></sec><sec id="joor70111-sec-0012"><label>2.6</label><title>Data Extraction</title><p>Two Reviewers Independently Extracted Data Using a Pretested Data Collection Form. Extracted Information Included:
+<list list-type="bullet" id="joor70111-list-0006"><list-item id="joor70111-li-0020"><p>
+<bold>Study characteristics</bold>: authorship, year, country and study design;</p></list-item><list-item id="joor70111-li-0021"><p>
+<bold>Population data</bold>: sample size, sex, mean age;</p></list-item><list-item id="joor70111-li-0022"><p>
+<bold>Intervention and comparator</bold>: type of prosthetic rehabilitation;</p></list-item><list-item id="joor70111-li-0023"><p>
+<bold>Outcomes</bold>: nutritional intake measures and assessment methods;</p></list-item><list-item id="joor70111-li-0024"><p>
+<bold>Follow‐up duration</bold> and study conclusions.</p></list-item></list>
+</p><p>Discrepancies were resolved by discussion and consensus.</p></sec><sec id="joor70111-sec-0013"><label>2.7</label><title>Data Items</title><p>For Quantitative Synthesis, the Following Were Extracted:
+<list list-type="bullet" id="joor70111-list-0007"><list-item id="joor70111-li-0025"><p>Mean and standard deviation (SD) of nutritional variables;</p></list-item><list-item id="joor70111-li-0026"><p>Sample sizes per group;</p></list-item><list-item id="joor70111-li-0027"><p>Follow‐up time post‐intervention (in months).</p></list-item></list>
+</p><p>When SDs were not directly available, they were estimated using reported confidence intervals or other dispersion metrics.</p></sec><sec id="joor70111-sec-0014"><label>2.8</label><title>Risk of Bias Assessment</title><p>Risk of Bias in Observational Studies Was Assessed Using the <bold>JBI Critical Appraisal Tools (2020)</bold> [<xref rid="joor70111-bib-0010" ref-type="bibr">10</xref>], Applying the Checklist Appropriate to Each Study design. Each Domain was Classified as ‘Yes’, ‘No’, ‘Unclear’ or ‘Not Applicable’. An Overall Risk Classification was Assigned as Follows:
+<list list-type="bullet" id="joor70111-list-0008"><list-item id="joor70111-li-0028"><p>
+<bold>Low risk</bold>: &gt; 70% ‘Yes’ responses;</p></list-item><list-item id="joor70111-li-0029"><p>
+<bold>Moderate risk</bold>: 50%–69%;</p></list-item><list-item id="joor70111-li-0030"><p>
+<bold>High risk</bold>: &lt; 50%.</p></list-item></list>
+</p><p>For randomised controlled trials (RCTs), the <bold>Cochrane Risk of Bias Tool, version 2.0 (RoB 2)</bold> was applied. This tool evaluates five domains comprising 17 signalling questions, categorised as ‘Yes’, ‘Probably Yes’, ‘Probably No’ or ‘No’. RCTs were classified as ‘Low risk’, ‘Some concerns’ or ‘High risk’ of bias.</p></sec><sec id="joor70111-sec-0015"><label>2.9</label><title>Effect Measures</title><p>When outcome data were reported using different scales across studies, <bold>Standardised Mean Differences (SMD)</bold> were used to allow pooling in meta‐analysis. This enabled the integration of results into a unified effect size regardless of the original scale.</p></sec><sec id="joor70111-sec-0016"><label>2.10</label><title>Synthesis Methods</title><p>Random‐effects meta‐analyses were performed using the <bold>inverse variance method</bold>, with heterogeneity quantified by the <bold>I</bold>
+<sup>
+<bold>2</bold>
+</sup>
+<bold>statistic</bold> and between‐study variance estimated using the <bold>DerSimonian and Laird method</bold> (Tau<sup>2</sup>).</p><p>Statistical significance was set at <italic toggle="yes">p</italic> &lt; 0.05, with 95% confidence intervals (CI). All analyses were conducted in <bold>R (RStudio v1.2.1335, Boston, USA)</bold>, and forest plots were generated accordingly.</p></sec><sec id="joor70111-sec-0017"><label>2.11</label><title>Assessment of Certainty in Evidence</title><p>The Certainty of Evidence for Each Outcome Was Assessed Using the <bold>GRADE Approach (Grading of Recommendations Assessment, Development and Evaluation)</bold> [<xref rid="joor70111-bib-0011" ref-type="bibr">11</xref>, <xref rid="joor70111-bib-0012" ref-type="bibr">12</xref>]. The Following Domains Were Evaluated:
+<list list-type="bullet" id="joor70111-list-0009"><list-item id="joor70111-li-0031"><p>Risk of bias</p></list-item><list-item id="joor70111-li-0032"><p>Inconsistency</p></list-item><list-item id="joor70111-li-0033"><p>Indirectness</p></list-item><list-item id="joor70111-li-0034"><p>Imprecision</p></list-item><list-item id="joor70111-li-0035"><p>Publication bias</p></list-item></list>
+</p><p>Two reviewers (DSB and FMG) conducted the GRADE assessments independently. In case of disagreement, consensus was sought, with arbitration by a third reviewer (TPMB) when necessary. The certainty of evidence was classified as ‘High’, ‘Moderate’, ‘Low’ or ‘Very low’.</p></sec></sec><sec sec-type="results" id="joor70111-sec-0018"><label>3</label><title>Results</title><sec id="joor70111-sec-0019"><label>3.1</label><title>Study Selection</title><p>A total of 2808 records were retrieved from the electronic and grey literature searches. After removing duplicates, 2360 references remained for screening. Of these, 18 full‐text articles were assessed for eligibility in Phase 2, with 9 studies excluded for not meeting the inclusion criteria (see Appendix <xref rid="joor70111-supitem-0001" ref-type="supplementary-material">2</xref>). No additional studies were identified through manual search or expert consultation. The complete selection process is illustrated in Figure <xref rid="joor70111-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="joor70111-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Flowchart of the study selection process.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JOOR-53-592-g004.jpg"><?image-name JOOR-53-592-g004.jpg?><?image-size 98830?><?image-md5 1234b6e2f685af1a9c2182dc27c8ac89?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 669?><?image-original-width 1064?><?image-scaled-height 446?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/58f4/12813523/1234b6e2f685/JOOR-53-592-g004.jpg?><?thumb-name JOOR-53-592-g004.gif?><?thumb-size 12212?><?thumb-md5 eb716618e32f60cd67a5a8daf55a50f1?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 127?><?thumb-cloudpmc-urn urn:cdn:blobs/58f4/12813523/eb716618e32f/JOOR-53-592-g004.gif?></graphic></fig></sec><sec id="joor70111-sec-0020"><label>3.2</label><title>Study Characteristics</title><p>Nine studies met the eligibility criteria: three cohort studies [<xref rid="joor70111-bib-0013" ref-type="bibr">13</xref>, <xref rid="joor70111-bib-0014" ref-type="bibr">14</xref>, <xref rid="joor70111-bib-0015" ref-type="bibr">15</xref>], one cross‐sectional study [<xref rid="joor70111-bib-0006" ref-type="bibr">6</xref>] and five randomised controlled trials (RCTs) [<xref rid="joor70111-bib-0016" ref-type="bibr">16</xref>, <xref rid="joor70111-bib-0017" ref-type="bibr">17</xref>, <xref rid="joor70111-bib-0018" ref-type="bibr">18</xref>, <xref rid="joor70111-bib-0019" ref-type="bibr">19</xref>, <xref rid="joor70111-bib-0020" ref-type="bibr">20</xref>]. All cohort and cross‐sectional studies were conducted in Brazil [<xref rid="joor70111-bib-0006" ref-type="bibr">6</xref>, <xref rid="joor70111-bib-0013" ref-type="bibr">13</xref>, <xref rid="joor70111-bib-0014" ref-type="bibr">14</xref>, <xref rid="joor70111-bib-0015" ref-type="bibr">15</xref>]. The RCTs were conducted in Canada [<xref rid="joor70111-bib-0016" ref-type="bibr">16</xref>, <xref rid="joor70111-bib-0018" ref-type="bibr">18</xref>, <xref rid="joor70111-bib-0019" ref-type="bibr">19</xref>], Norway [<xref rid="joor70111-bib-0017" ref-type="bibr">17</xref>] and Switzerland [<xref rid="joor70111-bib-0020" ref-type="bibr">20</xref>]. Assessment tools varied across studies and included: food diaries; the Mini Nutritional Assessment (Guigoz test); anthropometric measurements; biochemical parameters (e.g., serum vitamin and protein levels).</p></sec><sec id="joor70111-sec-0021"><label>3.3</label><title>Participant Characteristics</title><p>Age range: 60 to 88 years; Sample sizes: 12 to 255 individuals; Both genders were represented, with a predominance of female participants.</p></sec><sec id="joor70111-sec-0022"><label>3.4</label><title>Risk of Bias in Included Studies</title><p>Among observational studies, only one [<xref rid="joor70111-bib-0014" ref-type="bibr">14</xref>] was judged to have a moderate risk of bias, primarily due to the lack of identification and control for confounding factors (Figures <xref rid="joor70111-fig-0002" ref-type="fig">2</xref> and <xref rid="joor70111-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="FIGURE" id="joor70111-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Risk of bias in the cohort studies.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JOOR-53-592-g008.jpg"><?image-name JOOR-53-592-g008.jpg?><?image-size 83592?><?image-md5 8a4f0fb198ff1db0b8a355de0009ed7f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 338?><?image-original-width 1064?><?image-scaled-height 225?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/58f4/12813523/8a4f0fb198ff/JOOR-53-592-g008.jpg?><?thumb-name JOOR-53-592-g008.gif?><?thumb-size 12566?><?thumb-md5 98a2bf7896ef2c9e330e18992db2cedb?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 64?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/58f4/12813523/98a2bf7896ef/JOOR-53-592-g008.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="joor70111-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Risk of bias in the cross‐sectional study.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JOOR-53-592-g007.jpg"><?image-name JOOR-53-592-g007.jpg?><?image-size 60199?><?image-md5 7897cc99c4267404dfb1808065d1b3d1?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 300?><?image-original-width 1064?><?image-scaled-height 200?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/58f4/12813523/7897cc99c426/JOOR-53-592-g007.jpg?><?thumb-name JOOR-53-592-g007.gif?><?thumb-size 9441?><?thumb-md5 8f3fde86d9d971520e0ee8d80fc08913?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 56?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/58f4/12813523/8f3fde86d9d9/JOOR-53-592-g007.gif?></graphic></fig><p>Of the five randomised clinical trials: three studies were rated as having a moderate risk of bias [<xref rid="joor70111-bib-0016" ref-type="bibr">16</xref>, <xref rid="joor70111-bib-0018" ref-type="bibr">18</xref>, <xref rid="joor70111-bib-0019" ref-type="bibr">19</xref>]; two studies were assessed as having a low risk of bias [<xref rid="joor70111-bib-0017" ref-type="bibr">17</xref>, <xref rid="joor70111-bib-0020" ref-type="bibr">20</xref>]. Factors contributing to increased risk included: incomplete reporting of randomisation procedures; absence of trial registration protocols; ambiguity in outcome assessment (Figure <xref rid="joor70111-fig-0004" ref-type="fig">4</xref>).</p><fig position="float" fig-type="FIGURE" id="joor70111-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Risk of bias in the randomised clinical trials.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="JOOR-53-592-g002.jpg"><?image-name JOOR-53-592-g002.jpg?><?image-size 50071?><?image-md5 62f9f3c521fddd287bac060f611ad613?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 256?><?image-original-width 1064?><?image-scaled-height 171?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/58f4/12813523/62f9f3c521fd/JOOR-53-592-g002.jpg?><?thumb-name JOOR-53-592-g002.gif?><?thumb-size 7250?><?thumb-md5 53ad2f54c15efd4d795e067be6bf0939?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 48?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/58f4/12813523/53ad2f54c15e/JOOR-53-592-g002.gif?></graphic></fig></sec><sec id="joor70111-sec-0023"><label>3.5</label><title>Individual Study Results</title><sec id="joor70111-sec-0024"><label>3.5.1</label><title>Nutrient Intake</title><p>The nutritional assessments in the included studies were conducted at baseline and follow‐up periods ranging from 3 to 12 months (Table <xref rid="joor70111-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="joor70111-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Characteristics of the selected studies.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Author, year and country</th><th align="center" valign="bottom" rowspan="1" colspan="1">Study design</th><th align="center" valign="bottom" rowspan="1" colspan="1">Sample (Gender)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Age</th><th align="center" valign="bottom" rowspan="1" colspan="1">Evaluation time</th><th align="center" valign="bottom" rowspan="1" colspan="1">Questionnaire/Tests</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Amaral et al., 2019, Brazil</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">12 (M = 4; F = 8)</td><td align="center" valign="top" rowspan="1" colspan="1">+ 60</td><td align="center" valign="top" rowspan="1" colspan="1">2–3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Jaw‐tracking kinesiographic device; Nutritional intake through a food diary.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Awad, MA, et al., 2012, Canada</td><td align="center" valign="top" rowspan="1" colspan="1">Randomised clinical trial</td><td align="center" valign="top" rowspan="1" colspan="1">255: Complete denture 127 (F = 71; M = 57); Overdenture—128 (F = 70; M = 57)</td><td align="center" valign="top" rowspan="1" colspan="1">+ 65</td><td align="center" valign="top" rowspan="1" colspan="1">6–12 months</td><td align="center" valign="top" rowspan="1" colspan="1">Venous blood sample, Likert scale questionnaire.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Carletti, TM, et al., 2019, Brazil</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">22: Overdenture—11 (n.r.); Complete denture—11 (n.r.)</td><td align="center" valign="top" rowspan="1" colspan="1">+ 60</td><td align="center" valign="top" rowspan="1" colspan="1">6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Dietary records over a period of 3 days; Dietbox programme.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">de Oliveira, TR, et al., 2004, Brazil</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">40: Complete denture—23 (n.r.); Overdenture—17 (n.r)</td><td align="center" valign="top" rowspan="1" colspan="1">Elderly people</td><td align="center" valign="top" rowspan="1" colspan="1">1 Year</td><td align="center" valign="top" rowspan="1" colspan="1">Mini Nutritional Assessment (Guigoz test), interviews.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gjengedal, H, et al., 2012, Norway</td><td align="center" valign="top" rowspan="1" colspan="1">Randomised clinical trial</td><td align="center" valign="top" rowspan="1" colspan="1">60: Complete denture—30 (n.r.); Overdenture—30 (n.r)</td><td align="center" valign="top" rowspan="1" colspan="1">+ 76</td><td align="center" valign="top" rowspan="1" colspan="1">2 years</td><td align="center" valign="top" rowspan="1" colspan="1">Dietary records by telephone (Tuesday to Friday) in the 4, 8 and 11 months (questionnaire structured).</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hamdan, NM, et.al, 2013, Canada</td><td align="center" valign="top" rowspan="1" colspan="1">Randomised clinical trial</td><td align="center" valign="top" rowspan="1" colspan="1">217: Complete denture—114 (F = 71; M = 57); Overdenture—103 (F = 70; M = 57)</td><td align="center" valign="top" rowspan="1" colspan="1">+ 65</td><td align="center" valign="top" rowspan="1" colspan="1">Before the treatment and 12 months</td><td align="center" valign="top" rowspan="1" colspan="1">3 days, 24‐h dietary records, at the beginning and 12 months after.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Morais, JA, et al., 2003, Canada</td><td align="center" valign="top" rowspan="1" colspan="1">Randomised clinical trial</td><td align="center" valign="top" rowspan="1" colspan="1">60: Complete denture – 30 (n.r); Overdenture—30 (n.r.)</td><td align="center" valign="top" rowspan="1" colspan="1">65–75</td><td align="center" valign="top" rowspan="1" colspan="1">Before treatment and 6 and 12 months after</td><td align="center" valign="top" rowspan="1" colspan="1">3 days of dietary records, blood parameters and anthropometric measurements collected at the beginning of the study, at 6 and 12 months after.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Muller, F, et al., 2013, Switzerland</td><td align="center" valign="top" rowspan="1" colspan="1">Randomised clinical trial</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>34: Complete denture—18 (F = 14; M = 4);</p>
+<p>Overdenture—16 (F = 9; M = 7)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">+ 75 years</td><td align="center" valign="top" rowspan="1" colspan="1">3–12 months</td><td align="center" valign="top" rowspan="1" colspan="1">Body mass index, Mini Nutritional Assessment, blood markers and chewing efficiency with chewing gum.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Osta El, Nada, et al., 2017, Lebanon</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">51 (M = 28; F = 23)</td><td align="center" valign="top" rowspan="1" colspan="1">+ 60</td><td align="center" valign="top" rowspan="1" colspan="1">Before treatment, 2–3 weeks after treatment, 3 and 6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Questionnaires, clinical examination, Mini Nutritional Assessment and GOHAI index.</td></tr></tbody></table><table-wrap-foot id="joor70111-ntgp-0001"><fn id="joor70111-note-0001"><p>Abbreviations: F: female; M: male; N.r: no related.</p></fn></table-wrap-foot></table-wrap><p>Key findings included: One study [<xref rid="joor70111-bib-0013" ref-type="bibr">13</xref>] reported a significant reduction in sodium intake and an increase in iron consumption among overdenture users. Another study [<xref rid="joor70111-bib-0006" ref-type="bibr">6</xref>] found that complete denture users had higher sodium intake, while overdenture users had elevated levels of vitamins B2 and B6. Despite these findings, both groups exhibited diets characterised by high caloric content and low nutritional quality, with deficiencies in magnesium, potassium, calcium, selenium, zinc, proteins, iron and vitamins.</p></sec><sec id="joor70111-sec-0025"><label>3.5.2</label><title>Patient Satisfaction and Eating Habits</title><p>Patients rehabilitated with overdentures reported higher levels of satisfaction compared to those using complete dentures, who expressed more dissatisfaction [<xref rid="joor70111-bib-0006" ref-type="bibr">6</xref>]. Improvements in masticatory performance were noted in the overdenture group, particularly in relation to the consumption of hard foods. However, both groups continued to exhibit low intake of essential vitamins and folate [<xref rid="joor70111-bib-0016" ref-type="bibr">16</xref>].</p></sec><sec id="joor70111-sec-0026"><label>3.5.3</label><title>Nutritional Status</title><p>Overdenture users generally demonstrated better nutritional status and a lower risk of malnutrition than complete denture users [<xref rid="joor70111-bib-0014" ref-type="bibr">14</xref>, <xref rid="joor70111-bib-0015" ref-type="bibr">15</xref>]. Although overdenture users consumed fewer nutrients, their anthropometric parameters were more favourable, suggesting reduced vulnerability to malnutrition.</p></sec><sec id="joor70111-sec-0027"><label>3.5.4</label><title>Masticatory Ability</title><p>Rehabilitation with overdentures was associated with improved masticatory function, as evidenced by a reduction in food avoidance and an expanded dietary repertoire. However, there were no significant changes in body mass, and dietary records did not reveal differences between groups regarding energy intake or macronutrients [<xref rid="joor70111-bib-0017" ref-type="bibr">17</xref>].</p></sec><sec id="joor70111-sec-0028"><label>3.5.5</label><title>Macronutrient Intake and Body Composition</title><p>Comparative analyses showed: Higher intake of proteins, fats, carbohydrates, vitamins and folate among complete denture users; overdenture users had higher levels of riboflavin and protein, but lower intake of folate and total energy; regarding body composition, overdenture users exhibited higher body mass index (BMI) and elevated albumin, folic acid and haemoglobin levels. In contrast, C‐reactive protein was higher in the complete denture group [<xref rid="joor70111-bib-0018" ref-type="bibr">18</xref>, <xref rid="joor70111-bib-0020" ref-type="bibr">20</xref>].</p></sec></sec><sec id="joor70111-sec-0029"><label>3.6</label><title>Quantitative Synthesis</title><p>Five studies were included in the meta‐analysis, focusing on the intake of vitamin B12, folate and albumin at various time points: pre‐intervention, and at 3, 6 and 12 months post‐rehabilitation. Vitamin B12: No significant overall difference was observed. However, at 6 months, overdenture users had higher B12 levels than those using complete dentures [SMD = 0.60; 95% CI: 0.18–1.02; I<sup>2</sup> = 54%] (Figure <xref rid="joor70111-fig-0005" ref-type="fig">5</xref>). Folate: No statistically significant difference between groups [SMD = −0.06; 95% CI: −0.28–0.17; I<sup>2</sup> = 53%] (Figure <xref rid="joor70111-fig-0006" ref-type="fig">6</xref>). Albumin: No significant difference was detected [SMD = −0.09; 95% CI: −0.86–0.69; I<sup>2</sup> = 98%] (Figure <xref rid="joor70111-fig-0007" ref-type="fig">7</xref>).</p><fig position="float" fig-type="FIGURE" id="joor70111-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Meta‐analysis results for vitamin B12.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="JOOR-53-592-g003.jpg"><?image-name JOOR-53-592-g003.jpg?><?image-size 79080?><?image-md5 80e0a24c46a35ed314eef995bee567c3?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 489?><?image-original-width 1064?><?image-scaled-height 326?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/58f4/12813523/80e0a24c46a3/JOOR-53-592-g003.jpg?><?thumb-name JOOR-53-592-g003.gif?><?thumb-size 10970?><?thumb-md5 291f95ff11d3f2d50f38de194273a55c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 174?><?thumb-cloudpmc-urn urn:cdn:blobs/58f4/12813523/291f95ff11d3/JOOR-53-592-g003.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="joor70111-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Meta‐analysis results for albumin.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="JOOR-53-592-g001.jpg"><?image-name JOOR-53-592-g001.jpg?><?image-size 95030?><?image-md5 5b665c61e11e635a475e1f341d1fe4eb?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 643?><?image-original-width 1064?><?image-scaled-height 428?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/58f4/12813523/5b665c61e11e/JOOR-53-592-g001.jpg?><?thumb-name JOOR-53-592-g001.gif?><?thumb-size 11342?><?thumb-md5 36a7593b044526c74d9623df7dd2d2f8?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 132?><?thumb-cloudpmc-urn urn:cdn:blobs/58f4/12813523/36a7593b0445/JOOR-53-592-g001.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="joor70111-fig-0007" orientation="portrait"><label>FIGURE 7</label><caption><p>Meta‐analysis results for folate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-15" orientation="portrait" xlink:href="JOOR-53-592-g006.jpg"><?image-name JOOR-53-592-g006.jpg?><?image-size 103535?><?image-md5 02b4dbd71fad3b1ed20211a41da9031a?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 653?><?image-original-width 1064?><?image-scaled-height 435?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/58f4/12813523/02b4dbd71fad/JOOR-53-592-g006.jpg?><?thumb-name JOOR-53-592-g006.gif?><?thumb-size 11690?><?thumb-md5 cf3c78eff837379fe7b5e32d0c4e5982?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 130?><?thumb-cloudpmc-urn urn:cdn:blobs/58f4/12813523/cf3c78eff837/JOOR-53-592-g006.gif?></graphic></fig></sec><sec id="joor70111-sec-0030"><label>3.7</label><title>Certainty of the Evidence</title><p>The certainty of evidence, assessed using the GRADE framework, was rated as: Moderate for outcomes related to vitamin B12 and albumin; Low for folate.</p><p>These ratings reflect methodological limitations such as moderate risk of bias (e.g., inadequate randomisation); inconsistency due to variation in assessment protocols; imprecision related to small sample sizes and wide confidence intervals.</p><p>No publication bias was identified, as comprehensive efforts were made to include all relevant sources, including grey literature. None of the included studies reported conflicts of interest. Four studies [<xref rid="joor70111-bib-0013" ref-type="bibr">13</xref>, <xref rid="joor70111-bib-0014" ref-type="bibr">14</xref>, <xref rid="joor70111-bib-0015" ref-type="bibr">15</xref>, <xref rid="joor70111-bib-0017" ref-type="bibr">17</xref>] were excluded from the GRADE assessment because they were not included in the quantitative synthesis (Table <xref rid="joor70111-tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="joor70111-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Evidence synthesis.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="7" valign="bottom" rowspan="1">Certainty assessment</th><th align="center" colspan="2" valign="bottom" rowspan="1">No of patients</th><th align="center" colspan="2" valign="bottom" rowspan="1">Effect</th><th align="center" rowspan="2" valign="bottom" colspan="1">Certainty</th><th align="center" rowspan="2" valign="bottom" colspan="1">Importance</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">No of studies</th><th align="center" valign="bottom" rowspan="1" colspan="1">Study design</th><th align="center" valign="bottom" rowspan="1" colspan="1">Risk of bias</th><th align="center" valign="bottom" rowspan="1" colspan="1">Inconsistency</th><th align="center" valign="bottom" rowspan="1" colspan="1">Indirectness</th><th align="center" valign="bottom" rowspan="1" colspan="1">Imprecision</th><th align="center" valign="bottom" rowspan="1" colspan="1">Other considerations</th><th align="center" valign="bottom" rowspan="1" colspan="1">Overdenture</th><th align="center" valign="bottom" rowspan="1" colspan="1">Prótese total</th><th align="center" valign="bottom" rowspan="1" colspan="1">Relative (95% CI)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Absolute (95% CI)</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="13" valign="top" rowspan="1">B12 Vitamin</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">RCT</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious<xref rid="joor70111-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious</td><td align="center" valign="top" rowspan="1" colspan="1">None</td><td align="center" valign="top" rowspan="1" colspan="1">635</td><td align="center" valign="top" rowspan="1" colspan="1">639</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">SMD <bold>0.17 SD higher</bold> (0.03 lower to 0.36 higher)</td><td align="center" valign="top" rowspan="1" colspan="1">⨁⨁⨁⨁ High<xref rid="joor70111-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Important</td></tr><tr><td align="left" colspan="13" valign="top" rowspan="1">Albumine</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">RCT</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious<xref rid="joor70111-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious</td><td align="center" valign="top" rowspan="1" colspan="1">None</td><td align="center" valign="top" rowspan="1" colspan="1">427</td><td align="center" valign="top" rowspan="1" colspan="1">409</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">SMD <bold>0.06 SD lower</bold> (0.28 lower to 0.17 higher)</td><td align="center" valign="top" rowspan="1" colspan="1">⨁⨁⨁⨁ High<xref rid="joor70111-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Important</td></tr><tr><td align="left" colspan="13" valign="top" rowspan="1">Folate</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">RCT</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious<xref rid="joor70111-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Very serious<xref rid="joor70111-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious</td><td align="center" valign="top" rowspan="1" colspan="1">Not serious</td><td align="center" valign="top" rowspan="1" colspan="1">None</td><td align="center" valign="top" rowspan="1" colspan="1">618</td><td align="center" valign="top" rowspan="1" colspan="1">588</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">SMD <bold>0.09 SD lower</bold> (0.86 lower to 0.69 higher)</td><td align="center" valign="top" rowspan="1" colspan="1">⨁⨁◯◯ Low<xref rid="joor70111-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>, <xref rid="joor70111-note-0006" ref-type="table-fn">
+<sup>
+d
+</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Important</td></tr></tbody></table><table-wrap-foot id="joor70111-ntgp-0002"><fn id="joor70111-note-0002"><p>Abbreviations: CI, Confidence interval; RCT, randomised clinical trial; SMD, Standardised mean difference.</p></fn><fn id="joor70111-note-0003"><label>
+<sup>a</sup>
+</label><p>Three studies with moderate risk of bias.</p></fn><fn id="joor70111-note-0004"><label>
+<sup>b</sup>
+</label><p>Two studies with moderate risk of bias.</p></fn><fn id="joor70111-note-0005"><label>
+<sup>c</sup>
+</label><p>All studies with moderate risk of bias.</p></fn><fn id="joor70111-note-0006"><label>
+<sup>d</sup>
+</label><p>Sample heterogeneity.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec sec-type="discussion" id="joor70111-sec-0031"><label>4</label><title>Discussion</title><p>Edentulism is a multifactorial condition commonly associated with advancing age, smoking, periodontal disease and dental caries. Socioeconomic determinants such as low income, limited education, restricted access to dental care and systemic health inequalities further contribute to its prevalence [<xref rid="joor70111-bib-0021" ref-type="bibr">21</xref>, <xref rid="joor70111-bib-0022" ref-type="bibr">22</xref>]. Prosthetic rehabilitation for edentulous patients typically involves either conventional complete dentures or implant‐supported overdentures (IODs) [<xref rid="joor70111-bib-0007" ref-type="bibr">7</xref>]. While IODs require surgical intervention—a factor that may discourage older individuals—and entail higher costs, they provide superior prosthesis retention, improved patient satisfaction and reduced alveolar bone resorption [<xref rid="joor70111-bib-0007" ref-type="bibr">7</xref>]. In contrast, conventional dentures are more accessible and non‐invasive but often lack functional stability, impairing the ability to chew hard or fibrous foods such as meats and raw vegetables [<xref rid="joor70111-bib-0007" ref-type="bibr">7</xref>].</p><p>This systematic review aimed to explore whether these different prosthetic modalities are associated with distinct nutritional outcomes in older adults. The findings suggest that overdenture users may exhibit better nutritional profiles in specific contexts, but the evidence remains inconclusive and heterogeneous.</p><p>The relationship between edentulism and overall health is well established. Tooth loss has been linked to an increased risk of cognitive disorders such as Alzheimer's disease and dementia, as well as to cardiovascular events [<xref rid="joor70111-bib-0002" ref-type="bibr">2</xref>, <xref rid="joor70111-bib-0004" ref-type="bibr">4</xref>]. Given that adequate nutrition is a key determinant of frailty and comorbidity in older adults [<xref rid="joor70111-bib-0016" ref-type="bibr">16</xref>, <xref rid="joor70111-bib-0023" ref-type="bibr">23</xref>, <xref rid="joor70111-bib-0024" ref-type="bibr">24</xref>], maintaining a nutrient‐rich diet is essential for preserving systemic health and quality of life. Oral rehabilitation may play a crucial role in enabling older individuals to adhere to such diets [<xref rid="joor70111-bib-0005" ref-type="bibr">5</xref>, <xref rid="joor70111-bib-0006" ref-type="bibr">6</xref>, <xref rid="joor70111-bib-0013" ref-type="bibr">13</xref>, <xref rid="joor70111-bib-0023" ref-type="bibr">23</xref>]. However, in the present review, quantitative analyses were limited to three biochemical markers—vitamin B12, folate and albumin—with statistically significant improvement observed only in vitamin B12 levels at six months among overdenture users.</p><p>These limited biochemical differences raise questions about behavioural and psychological factors influencing dietary patterns. It has been reported that psychosocial variables, such as mental health status and food‐related behaviours, significantly affect food choices in older adults [<xref rid="joor70111-bib-0014" ref-type="bibr">14</xref>]. As such, even when mechanical function is improved via overdentures, nutritional outcomes may remain unchanged without accompanying dietary counselling or behavioural support. The time‐dependent nature of habit formation may also explain why differences in vitamin B12 levels emerged only at six months, highlighting the potential for delayed nutritional improvements following prosthetic rehabilitation.</p><p>This limited biochemical response highlights a fundamental concept in geriatric rehabilitation: enhancing functional capacity does not guarantee behavioural change. While overdentures may improve masticatory efficiency, this mechanical improvement does not automatically translate into healthier dietary choices, particularly when ingrained food preferences and habits persist [<xref rid="joor70111-bib-0025" ref-type="bibr">25</xref>]. This gap between function and behaviour underscores the vital importance of nutritional counselling as an adjunct to prosthetic therapy [<xref rid="joor70111-bib-0026" ref-type="bibr">26</xref>]. A truly effective intervention likely requires an interdisciplinary approach, where dietary guidance helps patients leverage their restored masticatory ability to achieve meaningful nutritional improvements [<xref rid="joor70111-bib-0027" ref-type="bibr">27</xref>]. Consequently, the general lack of integrated nutritional counselling in the studies reviewed here may be a primary reason for the inconclusive evidence, suggesting a crucial direction for future clinical trial designs.</p><p>The individual study findings revealed conflicting patterns. For instance, Muller et al. [<xref rid="joor70111-bib-0020" ref-type="bibr">20</xref>] and El Osta et al. [<xref rid="joor70111-bib-0015" ref-type="bibr">15</xref>] observed improved anthropometric indicators in the overdenture group, while Gjengedal et al. [<xref rid="joor70111-bib-0017" ref-type="bibr">17</xref>] reported no significant differences. Carletti et al. [<xref rid="joor70111-bib-0006" ref-type="bibr">6</xref>] noted increased B2 and B6 levels in the overdenture group, whereas other studies [<xref rid="joor70111-bib-0016" ref-type="bibr">16</xref>, <xref rid="joor70111-bib-0018" ref-type="bibr">18</xref>] identified higher vitamin and folate levels in complete denture users. Interestingly, a consistent finding across two studies [<xref rid="joor70111-bib-0006" ref-type="bibr">6</xref>, <xref rid="joor70111-bib-0013" ref-type="bibr">13</xref>] was a reduction in sodium intake among overdenture users—an important result given the high cardiovascular risk associated with sodium excess in this age group.</p><p>From a broader perspective, overdenture users generally demonstrated better nutritional status and lower malnutrition risk [<xref rid="joor70111-bib-0014" ref-type="bibr">14</xref>, <xref rid="joor70111-bib-0015" ref-type="bibr">15</xref>]. This may be partially attributed to improved masticatory ability, which facilitates the consumption of harder and more fibrous foods [<xref rid="joor70111-bib-0016" ref-type="bibr">16</xref>, <xref rid="joor70111-bib-0017" ref-type="bibr">17</xref>, <xref rid="joor70111-bib-0019" ref-type="bibr">19</xref>]. Nevertheless, it is noteworthy that even with functional improvements, many patients did not significantly alter their dietary habits [<xref rid="joor70111-bib-0006" ref-type="bibr">6</xref>, <xref rid="joor70111-bib-0015" ref-type="bibr">15</xref>]. This stagnation could be explained by psychological barriers [<xref rid="joor70111-bib-0014" ref-type="bibr">14</xref>] or limited nutritional literacy, which may prevent effective dietary change [<xref rid="joor70111-bib-0006" ref-type="bibr">6</xref>, <xref rid="joor70111-bib-0015" ref-type="bibr">15</xref>]. These findings emphasise the need for an interdisciplinary approach to oral rehabilitation that integrates nutritional guidance and individualised patient education alongside prosthetic treatment.</p><p>Several limitations must be acknowledged. First, the majority of included studies lacked long‐term follow‐up, limiting the ability to assess sustained changes in dietary behaviour or nutritional status. Second, the inclusion of observational studies introduces inherent risks of bias due to uncontrolled confounding variables. Third, the methodological quality of some randomised trials was compromised by incomplete reporting of randomisation and blinding procedures. Additionally, heterogeneity in outcome measures—including variation in nutrient assessment methods and time points—impeded direct comparison and robust pooling of results.</p><p>Despite these limitations, this systematic review provides a comprehensive and up‐to‐date synthesis of the literature on prosthetic rehabilitation and nutrition in older edentulous individuals. The findings offer valuable clinical insights and underscore the importance of combining prosthetic interventions with supportive behavioural and nutritional strategies to optimise systemic health outcomes.</p></sec><sec sec-type="conclusions" id="joor70111-sec-0032"><label>5</label><title>Conclusion</title><p>Although implant‐supported overdentures are associated with improved masticatory efficiency and higher patient satisfaction, the current evidence does not support a consistent impact on nutritional intake when compared to conventional complete dentures. No significant differences were identified in key biochemical markers such as vitamin <styled-content style="fixed-case" toggle="no">B12</styled-content>, albumin and folate. Given the limited and heterogeneous nature of the available data, it remains inconclusive whether overdentures confer superior nutritional benefits over conventional prostheses. Further high‐quality, long‐term studies are needed to clarify the systemic nutritional implications of different prosthetic rehabilitation approaches in older edentulous populations.</p></sec><sec id="joor70111-sec-0033"><title>Funding</title><p>The authors have nothing to report.</p></sec><sec id="joor70111-sec-0035"><title>Ethics Statement</title><p>The authors have nothing to report.</p></sec><sec sec-type="conclusions" id="joor70111-sec-0036"><title>Consent</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="joor70111-sec-0034"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="joor70111-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Appendix S1:</bold> Supporting Information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JOOR-53-592-s001.docx" position="float" orientation="portrait"><?suppdata-name JOOR-53-592-s001.docx?><?suppdata-size 20491?><?suppdata-md5 6124e0b3e08b776b78cdf20e792256de?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:58f4/12813523/6124e0b3e08b/JOOR-53-592-s001.docx?></media></supplementary-material></sec></body><back><ack id="joor70111-sec-0037"><title>Acknowledgements</title><p>The authors have nothing to report. The Article Processing Charge for the publication of this research was funded by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior ‐ Brasil (CAPES) (ROR identifier: 00x0ma614).</p></ack><sec sec-type="data-availability" id="joor70111-sec-0039"><title>Data Availability Statement</title><p>All data supporting the findings of this study are included within the article and its supporting information.</p></sec><ref-list content-type="cited-references" id="joor70111-bibl-0001"><title>References</title><ref id="joor70111-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="joor70111-cit-0001">
+<string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Alves</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. V. A.</given-names>
+<surname>Cavalcanti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Calderon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Pernambuco</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Alchieri</surname>
+</string-name>, “<article-title>Quality of Life Related to Complete Denture</article-title>,” <source>Acta Odontológica Latinoamericana</source>
+<volume>31</volume>, no. <issue>2</issue> (<year>2018</year>): <fpage>3</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="pmid">30383072</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="joor70111-cit-0002">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Galindo‐Moreno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lopez‐Chaichio</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Padial‐Molina</surname>
+</string-name>, et al., “<article-title>The Impact of Tooth Loss on Cognitive Function</article-title>,” <source>Clinical Oral Investigations</source>
+<volume>26</volume>, no. <issue>12</issue> (<year>2022</year>): <fpage>1</fpage>–<lpage>8</lpage>, <pub-id pub-id-type="doi">10.1007/s00784-021-04318-4</pub-id>.<pub-id pub-id-type="pmcid">PMC8979879</pub-id><pub-id pub-id-type="pmid">34881401</pub-id></mixed-citation></ref><ref id="joor70111-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="joor70111-cit-0003">
+<string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Nowjack‐Raymer</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sheiham</surname>
+</string-name>, “<article-title>Association of Edentulism and Diet and Nutrition in US Adults</article-title>,” <source>Journal of Dental Research</source>
+<volume>82</volume>, no. <issue>2</issue> (<year>2003</year>): <fpage>123</fpage>–<lpage>126</lpage>, <pub-id pub-id-type="doi">10.1177/154405910308200209</pub-id>.<pub-id pub-id-type="pmid">12562885</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="joor70111-cit-0004">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Jia</surname>
+</string-name>, et al., “<article-title>Association of Tooth Loss and Diet Quality With Acceleration of Aging: Evidence From NHANES</article-title>,” <source>American Journal of Medicine</source>
+<volume>136</volume>, no. <issue>8</issue> (<year>2023</year>): <fpage>773</fpage>–<lpage>779</lpage>, <pub-id pub-id-type="doi">10.1016/j.amjmed.2023.04.008</pub-id>.<pub-id pub-id-type="pmid">37075877</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="joor70111-cit-0005">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gupta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Felton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Jemt</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Koka</surname>
+</string-name>, “<article-title>Rehabilitation of Edentulism and Mortality: A Systematic Review</article-title>,” <source>Journal of Prosthodontics</source>
+<volume>28</volume>, no. <issue>5</issue> (<year>2019</year>): <fpage>526</fpage>–<lpage>535</lpage>, <pub-id pub-id-type="doi">10.1111/jopr.12792</pub-id>.<pub-id pub-id-type="pmid">29573048</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="joor70111-cit-0006">
+<string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Carletti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Pinheiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. A.</given-names>
+<surname>Meira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Amaral</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. C. M.</given-names>
+<surname>Rodrigues Garcia</surname>
+</string-name>, “<article-title>Prostheses Satisfaction and Diet of Elderly Wearing a Single Implant Overdenture: A Six‐Month Assessment</article-title>,” <source>Special Care in Dentistry</source>
+<volume>39</volume>, no. <issue>5</issue> (<year>2019</year>): <fpage>471</fpage>–<lpage>477</lpage>, <pub-id pub-id-type="doi">10.1111/scd.12411</pub-id>.<pub-id pub-id-type="pmid">31368121</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="joor70111-cit-0007">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kutkut</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bertoli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Frazer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Pinto‐Sinai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. F.</given-names>
+<surname>Hidalgo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Studts</surname>
+</string-name>, “<article-title>A Systematic Review of Studies Comparing Conventional Complete Denture and Implant Retained Overdenture</article-title>,” <source>Journal of Prosthodontic Research</source>
+<volume>62</volume>, no. <issue>1</issue> (<year>2018</year>): <fpage>1</fpage>–<lpage>9</lpage>, <pub-id pub-id-type="doi">10.1016/j.jpor.2017.06.004</pub-id>.<pub-id pub-id-type="pmid">28666845</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="joor70111-cit-0008">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Yamazaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L. C.</given-names>
+<surname>Martiniuk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Irie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sokejima</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. M. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, “<article-title>Does a Mandibular Overdenture Improve Nutrient Intake and Markers of Nutritional Status Better Than Conventional Complete Denture? A Systematic Review and Meta‐Analysis</article-title>,” <source>BMJ Open</source>
+<volume>6</volume>, no. <issue>8</issue> (<year>2016</year>): <elocation-id>e011799</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjopen-2016-011799</pub-id>.<pub-id pub-id-type="pmcid">PMC4985797</pub-id><pub-id pub-id-type="pmid">27489156</pub-id></mixed-citation></ref><ref id="joor70111-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="joor70111-cit-0009">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>McKenzie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Bossuyt</surname>
+</string-name>, et al., “<article-title>The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews</article-title>,” <source>BMJ</source>
+<volume>372</volume> (<year>2021</year>): <elocation-id>n71</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmj.n71</pub-id>.<pub-id pub-id-type="pmid">33782057</pub-id>
+<pub-id pub-id-type="pmcid">PMC8005924</pub-id></mixed-citation></ref><ref id="joor70111-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="joor70111-cit-0010">
+<string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Tricco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Khalil</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Holly</surname>
+</string-name>, et al., “<article-title>Rapid Reviews and the Methodological Rigor of Evidence Synthesis: A JBI Position Statement</article-title>,” <source>JBI Evidence Synthesis</source>
+<volume>20</volume>, no. <issue>4</issue> (<year>2022</year>): <fpage>944</fpage>–<lpage>949</lpage>, <pub-id pub-id-type="doi">10.11124/JBIES-21-00371</pub-id>.<pub-id pub-id-type="pmid">35124684</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="joor70111-cit-0011">
+<string-name name-style="western">
+<given-names>G. H.</given-names>
+<surname>Guyatt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Oxman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. E.</given-names>
+<surname>Vist</surname>
+</string-name>, et al., “<article-title>GRADE: An Emerging Consensus on Rating Quality of Evidence and Strength of Recommendations</article-title>,” <source>BMJ</source>
+<volume>336</volume>, no. <issue>7650</issue> (<year>2008</year>): <fpage>924</fpage>–<lpage>926</lpage>, <pub-id pub-id-type="doi">10.1136/bmj.39489.470347.AD</pub-id>.<pub-id pub-id-type="pmid">18436948</pub-id>
+<pub-id pub-id-type="pmcid">PMC2335261</pub-id></mixed-citation></ref><ref id="joor70111-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="joor70111-cit-0012">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Manheimer</surname>
+</string-name>, “<article-title>Summary of Findings Tables: Presenting the Main Findings of Cochrane Complementary and Alternative Medicine‐Related Reviews in a Transparent and Simple Tabular Format</article-title>,” <source>Glob Adv Health Med</source>
+<volume>1</volume>, no. <issue>1</issue> (<year>2012</year>): <fpage>90</fpage>–<lpage>91</lpage>, <pub-id pub-id-type="doi">10.7453/gahmj.2012.1.1.015</pub-id>.<pub-id pub-id-type="pmid">24278805</pub-id>
+<pub-id pub-id-type="pmcid">PMC3833472</pub-id></mixed-citation></ref><ref id="joor70111-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="joor70111-cit-0013">
+<string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Amaral</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. A.</given-names>
+<surname>Souza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Pinheiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>Campos</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. C. M. R.</given-names>
+<surname>Garcia</surname>
+</string-name>, “<article-title>Sensorial Ability, Mastication and Nutrition of Single‐Implant Overdentures Wearers</article-title>,” <source>Brazilian Dental Journal</source>
+<volume>30</volume>, no. <issue>1</issue> (<year>2019</year>): <fpage>66</fpage>–<lpage>72</lpage>, <pub-id pub-id-type="doi">10.1590/0103-6440201902086</pub-id>.<pub-id pub-id-type="pmid">30864650</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="joor70111-cit-0014">
+<string-name name-style="western">
+<given-names>T. R. C.</given-names>
+<surname>Oliveira</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. L. M. A.</given-names>
+<surname>Frigerio</surname>
+</string-name>, “<article-title>Association Between Nutrition and the Prosthetic Condition in Edentulous Elderly</article-title>,” <source>Gerodontology</source>
+<volume>21</volume>, no. <issue>4</issue> (<year>2004</year>): <fpage>205</fpage>–<lpage>208</lpage>, <pub-id pub-id-type="doi">10.1111/j.1741-2358.2004.00032.x</pub-id>.<pub-id pub-id-type="pmid">15603279</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="joor70111-cit-0015">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>El Osta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>El Osta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Moukaddem</surname>
+</string-name>, et al., “<article-title>Impact of Implant‐Supported Prostheses on Nutritional Status and Oral Health Perception in Edentulous Patients</article-title>,” <source>Clinical Nutrition ESPEN</source>
+<volume>18</volume> (<year>2017</year>): <fpage>49</fpage>–<lpage>54</lpage>, <pub-id pub-id-type="doi">10.1016/j.clnesp.2017.01.001</pub-id>.<pub-id pub-id-type="pmid">29132738</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="joor70111-cit-0016">
+<string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Awad</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Morais</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wollin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Khalil</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Gray‐Donald</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Feine</surname>
+</string-name>, “<article-title>Implant Overdentures and Nutrition: A Randomized Controlled Trial</article-title>,” <source>Journal of Dental Research</source>
+<volume>91</volume>, no. <issue>1</issue> (<year>2012</year>): <fpage>39</fpage>–<lpage>46</lpage>, <pub-id pub-id-type="doi">10.1177/0022034511423396</pub-id>.<pub-id pub-id-type="pmid">21951464</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="joor70111-cit-0017">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Gjengedal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Dahl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Å.</given-names>
+<surname>Lavik</surname>
+</string-name>, et al., “<article-title>Randomized Clinical Trial Comparing Dietary Intake in Patients With Implant‐Retained Overdentures and Conventionally Relined Dentures</article-title>,” <source>International Journal of Prosthodontics</source>
+<volume>25</volume>, no. <issue>4</issue> (<year>2012</year>): <fpage>340</fpage>–<lpage>347</lpage>.<pub-id pub-id-type="pmid">22720283</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="joor70111-cit-0018">
+<string-name name-style="western">
+<given-names>N. M.</given-names>
+<surname>Hamdan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Gray‐Donald</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Awad</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Johnson‐Down</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wollin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Feine</surname>
+</string-name>, “<article-title>Do Implant Overdentures Improve Dietary Intake? A Randomized Clinical Trial</article-title>,” <source>Journal of Dental Research</source>
+<volume>92</volume>, no. <issue>12 Suppl</issue> (<year>2013</year>): <fpage>146S</fpage>–<lpage>153S</lpage>, <pub-id pub-id-type="doi">10.1177/0022034513504948</pub-id>.<pub-id pub-id-type="pmid">24158335</pub-id>
+<pub-id pub-id-type="pmcid">PMC3860059</pub-id></mixed-citation></ref><ref id="joor70111-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="joor70111-cit-0019">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Morais</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Heydecke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pawliuk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Lund</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Feine</surname>
+</string-name>, “<article-title>The Effects of Mandibular Two‐Implant Overdentures on Nutrition in Elderly Edentulous Individuals</article-title>,” <source>Journal of Dental Research</source>
+<volume>82</volume>, no. <issue>1</issue> (<year>2003</year>): <fpage>53</fpage>–<lpage>58</lpage>, <pub-id pub-id-type="doi">10.1177/154405910308200112</pub-id>.<pub-id pub-id-type="pmid">12508046</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="joor70111-cit-0020">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Müller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Duvernay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Loup</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Vazquez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. R.</given-names>
+<surname>Herrmann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Schimmel</surname>
+</string-name>, “<article-title>Implant‐Supported Mandibular Overdentures in Very Old Adults: A Randomized Controlled Trial</article-title>,” <source>Journal of Dental Research</source>
+<volume>92</volume>, no. <issue>12 Suppl</issue> (<year>2013</year>): <fpage>154S</fpage>–<lpage>160S</lpage>, <pub-id pub-id-type="doi">10.1177/0022034513509630</pub-id>.<pub-id pub-id-type="pmid">24158342</pub-id>
+<pub-id pub-id-type="pmcid">PMC3860063</pub-id></mixed-citation></ref><ref id="joor70111-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="joor70111-cit-0021">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Nagaraj</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Mankani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Madalli</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Astekar</surname>
+</string-name>, “<article-title>Socioeconomic Factors and Complete Edentulism in North Karnataka Population</article-title>,” <source>J Indian Prosthodont Soc</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2014</year>): <fpage>24</fpage>–<lpage>28</lpage>, <pub-id pub-id-type="doi">10.1007/s13191-012-0149-2</pub-id>.<pub-id pub-id-type="pmcid">PMC3935051</pub-id><pub-id pub-id-type="pmid">24604994</pub-id></mixed-citation></ref><ref id="joor70111-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="joor70111-cit-0022">
+<string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Shayegh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ebrahimi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M. R.</given-names>
+<surname>Hakimaneh</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Eisaei</surname>
+</string-name>, “<article-title>Prevalence of Complete Edentulism in Individuals at Least 30 Years Old in Iran Since 2000: A Systematic Review</article-title>,” <source>International Journal of Preventive Medicine</source>
+<volume>12</volume> (<year>2021</year>): <fpage>72</fpage>, <pub-id pub-id-type="doi">10.4103/ijpvm.IJPVM_481_19</pub-id>.<pub-id pub-id-type="pmid">34447514</pub-id>
+<pub-id pub-id-type="pmcid">PMC8356974</pub-id></mixed-citation></ref><ref id="joor70111-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="joor70111-cit-0023">
+<string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Cruz‐Jentoft</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Kiesswetter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Drey</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. C.</given-names>
+<surname>Sieber</surname>
+</string-name>, “<article-title>Nutrition, Frailty, and Sarcopenia</article-title>,” <source>Aging Clinical and Experimental Research</source>
+<volume>29</volume>, no. <issue>1</issue> (<year>2017</year>): <fpage>43</fpage>–<lpage>48</lpage>, <pub-id pub-id-type="doi">10.1007/s40520-016-0709-0</pub-id>.<pub-id pub-id-type="pmid">28155181</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="joor70111-cit-0024">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Gray</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Patel</surname>
+</string-name>, “<article-title>Implant‐Supported Overdentures: Part 1</article-title>,” <source>British Dental Journal</source>
+<volume>231</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>94</fpage>–<lpage>100</lpage>, <pub-id pub-id-type="doi">10.1038/s41415-021-3224-4</pub-id>.<pub-id pub-id-type="pmid">34302089</pub-id>
+</mixed-citation></ref><ref id="joor70111-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="joor70111-cit-0025">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Motokawa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Mikami</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Shirobe</surname>
+</string-name>, et al., “<article-title>Relationship Between Chewing Ability and Nutritional Status in Japanese Older Adults: A Cross‐Sectional Study</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>18</volume>, no. <issue>3</issue> (<year>2021</year>): <elocation-id>1216</elocation-id>, <pub-id pub-id-type="doi">10.3390/ijerph18031216</pub-id>.<pub-id pub-id-type="pmid">33572969</pub-id>
+<pub-id pub-id-type="pmcid">PMC7908427</pub-id></mixed-citation></ref><ref id="joor70111-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="joor70111-cit-0026">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Cifuentes‐Suazo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Alarcón‐Apablaza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jarpa‐Parra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Venegas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Marinelli</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Fuentes</surname>
+</string-name>, “<article-title>Dietary Counseling: An Option to Malnutrition and Masticatory Deficiency in Patients With Total Protheses? A Scoping Review</article-title>,” <source>Nutrients</source>
+<volume>17</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>141</elocation-id>, <pub-id pub-id-type="doi">10.3390/nu17010141</pub-id>.<pub-id pub-id-type="pmid">39796575</pub-id>
+<pub-id pub-id-type="pmcid">PMC11723342</pub-id></mixed-citation></ref><ref id="joor70111-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="joor70111-cit-0027">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kaye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>Chinn</surname>
+</string-name>, “<article-title>The Need for Effective Interprofessional Collaboration Between Nutrition and Dentistry</article-title>,” <source>Frontiers in Public Health</source>
+<volume>13</volume> (<year>2025</year>): <elocation-id>1534525</elocation-id>, <pub-id pub-id-type="doi">10.3389/fpubh.2025.1534525</pub-id>.<pub-id pub-id-type="pmid">40078754</pub-id>
+<pub-id pub-id-type="pmcid">PMC11897492</pub-id></mixed-citation></ref></ref-list></back></article>

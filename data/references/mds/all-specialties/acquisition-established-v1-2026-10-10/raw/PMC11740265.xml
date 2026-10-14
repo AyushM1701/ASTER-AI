@@ -1,0 +1,908 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="joor13845" xml:lang="en" article-type="review-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Oral Rehabil</journal-id><journal-id journal-id-type="iso-abbrev">J Oral Rehabil</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">0433604</journal-id><journal-id journal-id-type="publisher-id">JOOR</journal-id><journal-title-group><journal-title>Journal of Oral Rehabilitation</journal-title></journal-title-group><issn pub-type="ppub">0305-182X</issn><issn pub-type="epub">1365-2842</issn><?publisher_abbrev blackwell?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11740265</article-id><article-id pub-id-type="pmcid-ver">PMC11740265.1</article-id><article-id pub-id-type="pmcaid">11740265</article-id><article-id pub-id-type="pmcaiid">11740265</article-id><article-id pub-id-type="pmid">39252210</article-id><article-id pub-id-type="doi">10.1111/joor.13845</article-id><article-id pub-id-type="publisher-id">JOOR13845</article-id><article-id pub-id-type="other">JOR-23-0595.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Tobacco smoking and its impact on pain intensity of temporomandibular disorders: A systematic review and metanalysis</article-title><alt-title alt-title-type="left-running-head">Shetty et al.</alt-title></title-group><contrib-group><contrib id="joor13845-cr-0001" contrib-type="author"><name name-style="western"><surname>Shetty</surname><given-names initials="AA">Amarshree A.</given-names></name><xref rid="joor13845-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="joor13845-cr-0002" contrib-type="author"><name name-style="western"><surname>Almalki</surname><given-names initials="SA">Sultan Abdulrahman</given-names></name><xref rid="joor13845-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="joor13845-cr-0003" contrib-type="author"><name name-style="western"><surname>Al Jameel</surname><given-names initials="AH">AlBandary Hassan</given-names></name><xref rid="joor13845-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="joor13845-cr-0004" contrib-type="author"><name name-style="western"><surname>Gowdar</surname><given-names initials="IM">Inderjit Murugendrappa</given-names></name><xref rid="joor13845-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="joor13845-cr-0005" contrib-type="author"><name name-style="western"><surname>Ronsivalle</surname><given-names initials="V">Vincenzo</given-names></name><xref rid="joor13845-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="joor13845-cr-0006" contrib-type="author"><name name-style="western"><surname>Cicciù</surname><given-names initials="M">Marco</given-names></name><xref rid="joor13845-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="joor13845-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Minervini</surname><given-names initials="G">Giuseppe</given-names></name><xref rid="joor13845-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="joor13845-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>giuseppe.minervini@unicampania.it</email></address></contrib></contrib-group><aff id="joor13845-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Paediatric and Preventive Dentistry</named-content>
+<institution>A.B Shetty Memorial Institute of Dental Sciences, NITTE (Deemed to Be University)</institution>
+<city>Mangalore</city>
+<named-content content-type="country-part">Karnataka</named-content>
+<country country="IN">India</country>
+</aff><aff id="joor13845-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Preventive Dental Sciences, College of Dentistry</named-content>
+<institution>Prince Sattam Bin AbdulAziz University</institution>
+<city>Al‐kharj</city>
+<country country="SA">Saudi Arabia</country>
+</aff><aff id="joor13845-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Periodontics and Community Dentistry, College of Dentistry</named-content>
+<institution>King Saud University</institution>
+<city>Riyadh</city>
+<country country="SA">Saudi Arabia</country>
+</aff><aff id="joor13845-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biomedical and Surgical and Biomedical Sciences</named-content>
+<institution>Catania University</institution>
+<city>Catania</city>
+<country country="IT">Italy</country>
+</aff><aff id="joor13845-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Saveetha Dental College and Hospitals, Saveetha Institute of Medical and Technical Sciences (SIMATS)</named-content>
+<institution>Saveetha University</institution>
+<city>Chennai</city>
+<named-content content-type="country-part">Tamil Nadu</named-content>
+<country country="IN">India</country>
+</aff><aff id="joor13845-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Multidisciplinary Department of Medical‐Surgical and Dental Specialties</named-content>
+<institution>University of Campania Luigi Vanvitelli</institution>
+<city>Naples</city>
+<country country="IT">Italy</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Giuseppe Minervini, Multidisciplinary Department of Medical‐Surgical and Dental Specialties, University of Campania Luigi Vanvitelli, Naples 80121, Italy.<break/>
+Email: <email>giuseppe.minervini@unicampania.it</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>9</month><year>2024</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2025</year></pub-date><volume>52</volume><issue seq="190">2</issue><issue-id pub-id-type="pmc-issue-id">479768</issue-id><issue-id pub-id-type="doi">10.1111/joor.v52.2</issue-id><fpage>266</fpage><lpage>273</lpage><history>
+<date date-type="rev-recd"><day>01</day><month>8</month><year>2024</year></date>
+<date date-type="received"><day>18</day><month>9</month><year>2023</year></date>
+<date date-type="accepted"><day>07</day><month>8</month><year>2024</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>17</day><month>01</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>18</day><month>01</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-06-01 03:25:17.490"><day>01</day><month>06</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Journal of Oral Rehabilitation</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JOOR-52-266.pdf"><?pdf-name JOOR-52-266.pdf?><?pdf-size 1207824?><?pdf-md5 2a64cd7ad863509cae41e069978ed52c?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:7276/11740265/2a64cd7ad863/JOOR-52-266.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JOOR-52-266.pdf"/><abstract><title>Abstract</title><sec id="joor13845-sec-0001"><title>Background</title><p>Temporomandibular disorders (TMDs) encompass a spectrum of orofacial conditions characterised by pain and dysfunction in the temporomandibular joint and surrounding structures. Tobacco smoking has been posited as a potential factor influencing the prevalence and intensity of TMD. However, the nature and extent of this relationship remain unclear due to variations in study outcomes. This systematic review aimed to consolidate existing research findings to elucidate the association between tobacco smoking and TMD pain intensity.</p></sec><sec id="joor13845-sec-0002"><title>Methods</title><p>A comprehensive search of electronic databases was conducted to identify relevant studies published up to June 2023. Studies investigating the relationship between tobacco smoking and TMD pain were included. Data extraction was conducted by two reviewers. Quality assessment was performed using the New Castle‐Ottawa scale. Review Manager 5.4 was used to quantitatively analyse the results.</p></sec><sec id="joor13845-sec-0003"><title>Results</title><p>The review included four studies employing similar TMD assessment techniques. All studies reported elevated TMD pain intensity among tobacco users, with non‐smokers exhibiting lower pain intensity. The quality of the included studies was good. Meta‐analytic results showed that TMD pain intensity was higher in the smokers group compared to the non‐smokers group, with a weighted mean difference (WMD) of 0.65 (BPM) (95% CI: [0.10, 1.19], <italic toggle="no">p</italic> = .02).</p></sec><sec id="joor13845-sec-0004"><title>Conclusion</title><p>This systematic review provides a comprehensive synthesis of the existing literature on tobacco smoking and TMD symptoms. The findings underscore the multifaceted nature of the relationship between smoking and TMD pain, highlighting its clinical relevance and the need for tailored interventions. Further research is warranted to elucidate underlying mechanisms and potential moderating factors, contributing to a more nuanced understanding of this complex association.</p></sec></abstract><abstract abstract-type="graphical"><p>Tobacco smoking significantly increases the pain intensity in patients with temporomandibular disorders (TMD): A systematic review and meta‐analysis reveals the detrimental effects of smoking on TMD pain, highlighting the need for targeted interventions in smoking cessation and TMD management.<boxed-text position="anchor" content-type="graphic" id="joor13845-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JOOR-52-266-g002.jpg"><?image-name JOOR-52-266-g002.jpg?><?image-size 20020?><?image-md5 c968adadc87c72cf053cf67c5bd56059?><?image-image-server-status NEVER_LOAD?><?image-original-height 183?><?image-original-width 330?><?image-scaled-height 183?><?image-scaled-width 330?><?image-cloudpmc-urn urn:cdn:blobs/7276/11740265/c968adadc87c/JOOR-52-266-g002.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="joor13845-kwd-0001">orofacial pain</kwd><kwd id="joor13845-kwd-0002">pain intensity</kwd><kwd id="joor13845-kwd-0003">temporomandibular disorders</kwd><kwd id="joor13845-kwd-0004">tobacco smoking</kwd></kwd-group><counts><fig-count count="4"/><table-count count="4"/><page-count count="8"/><word-count count="4800"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.2 mode:remove_FC converted:17.01.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JOORNS13845-cit-2001">
+<string-name name-style="western">
+<surname>Shetty</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almalki</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al Jameel</surname>
+<given-names>AH</given-names>
+</string-name>, et al. <article-title>Tobacco smoking and its impact on pain intensity of temporomandibular disorders: A systematic review and metanalysis</article-title>. <source>J Oral Rehabil</source>. <year>2025</year>;<volume>52</volume>:<fpage>266</fpage>‐<lpage>273</lpage>. doi:<pub-id pub-id-type="doi">10.1111/joor.13845</pub-id>
+<pub-id pub-id-type="pmcid">PMC11740265</pub-id><pub-id pub-id-type="pmid">39252210</pub-id></mixed-citation>
+</p></notes></front><body id="joor13845-body-0001"><sec id="joor13845-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Temporomandibular disorders (TMDs) constitute a complex and multifactorial group of orofacial conditions characterised by pain and dysfunction in the temporomandibular joint (TMJ) and surrounding structures.<xref rid="joor13845-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> These conditions encompass a range of signs and symptoms, including orofacial pain, joint sounds, limited jaw mobility and associated musculoskeletal discomfort. TMD represents a significant public health concern due to its prevalence and the substantial impact it has on individuals' quality of life, encompassing aspects such as eating, speaking, and overall well‐being (Table <xref rid="joor13845-tbl-0001" ref-type="table">1</xref>). Smoking is also one of the causes of prosthesis failure.<xref rid="joor13845-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="joor13845-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="joor13845-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="joor13845-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="joor13845-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="joor13845-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="joor13845-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="joor13845-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p><table-wrap position="float" id="joor13845-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Abbreviations used in this review.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Term</th><th align="left" valign="bottom" rowspan="1" colspan="1">Abbreviation used</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Temporomandibular disorders</td><td align="left" valign="top" rowspan="1" colspan="1">TMDs</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Temporomandibular joint</td><td align="left" valign="top" rowspan="1" colspan="1">TMJ</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Current smokers</td><td align="left" valign="top" rowspan="1" colspan="1">CS</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Former smokers</td><td align="left" valign="top" rowspan="1" colspan="1">FS</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Non‐smokers</td><td align="left" valign="top" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Chronic Pain Grading Scale</td><td align="left" valign="top" rowspan="1" colspan="1">CPGS</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Odds ratio</td><td align="left" valign="top" rowspan="1" colspan="1">OR</td></tr></tbody></table></table-wrap><p>The use of tobacco products has long been acknowledged as a major risk factor for a number of chronic illnesses, such as cardiovascular disorders, chronic obstructive pulmonary disease and many types of cancer.<xref rid="joor13845-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Recently, its connections to osteoporosis and periodontal disease have also come under the spotlight. Notably, research has looked at the connection between smoking tobacco and chronic pain, with an emphasis on musculoskeletal sites, particularly the neck and lower back areas.<xref rid="joor13845-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="joor13845-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="joor13845-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="joor13845-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Surprisingly, little effort has been put into determining how smoking affects conditions other than the lower back.</p><p>Smoking tobacco is a widely acknowledged health risk factor that is mostly linked to respiratory and cardiovascular conditions, different malignancies and problems with dental health.<xref rid="joor13845-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> However, the connection between tobacco usage and TMD continues to be a topic of intense interest and research in the fields of dentistry and orofacial pain.<xref rid="joor13845-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="joor13845-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="joor13845-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="joor13845-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="joor13845-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="joor13845-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="joor13845-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="joor13845-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Although this link has been the subject of numerous studies, the results have been inconsistent, leading to no firm conclusions. It is important for both clinical and public health reasons to comprehend how tobacco use may affect the frequency and severity of TMD. Understanding this connection can help preventive measures, improve patient treatment, and direct efforts to lessen the burden of TMD in tobacco‐exposed populations. The purpose of this systematic review was to analyse and synthesise all available data on tobacco use's potential impact on the frequency and severity of pain due to TMDs.</p></sec><sec sec-type="materials-and-methods" id="joor13845-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec id="joor13845-sec-0007"><label>2.1</label><title>Eligibility criteria</title><p>The review adhered to the PRISMA protocol<xref rid="joor13845-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> so as to assure transparency and rigour in the review process by providing a strict, standardised structure.</p><p>The PECO (population, exposure, comparison and outcome) protocol for this investigation was defined to guide the selection process of articles.</p><p>Population (P): The target population consisted of human individuals.</p><p>Exposure (E): The exposure of interest in this review was the use of smoking tobacco. Only current smokers were considered. The exposure group consisted of individuals who were current smokers, encompassing a range of smoking habits and durations.</p><p>Comparison (C): The comparison group comprised individuals who were non‐smokers. This included those who had never smoked. The comparison group served as a reference to assess the differences in the prevalence and intensity of TMDs between smokers and non‐smokers.</p><p>Outcome (O): The primary outcome of interest in this review was the prevalence and intensity of TMD pain among individuals who smoke (current smokers) compared to those who do not smoke (non‐smokers). Prevalence was defined as the proportion of TMD cases within the population of smokers, while intensity referred to the severity and impact of TMD pain symptoms experienced by smokers compared to non‐smokers.</p><p>Clinical studies that explored the association between tobacco smoking and TMDs were included. Participants of all ages and genders diagnosed with TMD were considered eligible. There were no restrictions placed on the publication timeline or demographic characteristics. Peer‐reviewed articles published only in English were included. Animal studies, case studies and editorials were excluded. Non‐peer‐reviewed sources such as conference abstracts, dissertations and grey literature were also not included.</p></sec><sec id="joor13845-sec-0008"><label>2.2</label><title>Search strategy</title><p>The database search protocol was meticulously designed to ensure a comprehensive and systematic retrieval of relevant studies, as seen in Table <xref rid="joor13845-tbl-0002" ref-type="table">2</xref>. Eight different electronic databases were searched using MeSH (Medical Subject Headings) keywords incorporated with Boolean operators (AND, OR). For each database, a customised search string was created to accommodate the specific indexing and controlled vocabulary of that database.</p><table-wrap position="float" id="joor13845-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Search strings across the utilised databases.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Database</th><th align="left" valign="bottom" rowspan="1" colspan="1">Search String</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">PubMed</td><td align="left" valign="top" rowspan="1" colspan="1">(“Temporomandibular Joint Disorders”[Mesh] OR “Temporomandibular Joint Dysfunction Syndrome”[Mesh] OR “TMD” OR “Temporomandibular Disorder*” OR “TMJ Disorder*”) AND (“Smoking”[Mesh] OR “Tobacco Smoking”[Mesh] OR “Cigarette Smoking”[Mesh] OR “Tobacco Use”[Mesh] OR “Tobacco”[Mesh] OR “Smoker*”) AND (“Prevalence”[Mesh] OR “Incidence”[Mesh] OR “Epidemiology”[Mesh])</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Embase</td><td align="left" valign="top" rowspan="1" colspan="1">(‘Temporomandibular Joint Disorders’/exp OR ‘Tobacco Smoking’/exp) AND (‘Prevalence’/exp OR ‘Incidence’/exp)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CINAHL</td><td align="left" valign="top" rowspan="1" colspan="1">(“Temporomandibular Joint Disorders”[Mesh] OR “Temporomandibular Joint Dysfunction Syndrome”[Mesh] OR “TMD” OR “Temporomandibular Disorder*” OR “TMJ Disorder*”) AND (“Tobacco Use Cessation”[Mesh] OR “Smoking Cessation”[Mesh] OR “Smoking”[Mesh] OR “Tobacco Smoking”[Mesh] OR “Tobacco Use”[Mesh]) AND (“Incidence”[Mesh] OR “Prevalence”[Mesh] OR “Epidemiology”[Mesh])</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Web of Science</td><td align="left" valign="top" rowspan="1" colspan="1">(TS = (“Temporomandibular Disorders” OR “Temporomandibular Joint Dysfunction” OR “TMD”) AND TS = (“Smoking” OR “Tobacco Smoking” OR “Cigarette Smoking”)) OR (TS = (“Temporomandibular Disorders” OR “Temporomandibular Joint Dysfunction” OR “TMD”) AND TS = (“Prevalence” OR “Incidence” OR “Epidemiology”))</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Scopus</td><td align="left" valign="top" rowspan="1" colspan="1">(TITLE‐ABS‐KEY (“Temporomandibular Disorders” OR “Temporomandibular Joint Dysfunction” OR “TMD”) AND TITLE‐ABS‐KEY (“Smoking” OR “Tobacco Smoking” OR “Cigarette Smoking”)) OR (TITLE‐ABS‐KEY (“Temporomandibular Disorders” OR “Temporomandibular Joint Dysfunction” OR “TMD”) AND TITLE‐ABS‐KEY (“Prevalence” OR “Incidence” OR “Epidemiology”))</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PsycINFO</td><td align="left" valign="top" rowspan="1" colspan="1">(TI = (“Temporomandibular Disorders” OR “Temporomandibular Joint Dysfunction” OR “TMD”) AND TI = (“Smoking Behaviour” OR “Tobacco Dependence” OR “Oral Health”)) OR (TI = (“Temporomandibular Disorders” OR “Temporomandibular Joint Dysfunction” OR “TMD”) AND TI = (“Prevalence” OR “Incidence” OR “Epidemiology”))</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AMED (Allied and Complementary Medicine Database)</td><td align="left" valign="top" rowspan="1" colspan="1">(“Temporomandibular Joint Disorders”[Mesh] OR “Temporomandibular Joint Dysfunction Syndrome”[Mesh] OR “TMD” OR “Temporomandibular Disorder*” OR “TMJ Disorder*”) AND (“Smoking”[Mesh] OR “Tobacco”[Mesh] OR “Tobacco Smoking”[Mesh] OR “Tobacco Use”[Mesh]) AND (“Prevalence”[Mesh] OR “Incidence”[Mesh] OR “Epidemiology”[Mesh])</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ERIC (Education Resources Information Center)</td><td align="left" valign="top" rowspan="1" colspan="1">(“Temporomandibular Joint Disorders” OR “Temporomandibular Joint Dysfunction” OR “TMD”) AND (“Smoking Behaviour” OR “Tobacco Dependence” OR “Health Surveys”)</td></tr></tbody></table></table-wrap></sec><sec id="joor13845-sec-0009"><label>2.3</label><title>Data extraction</title><p>The data extraction included the assessment of variables such as study ID, publication year, study design, geographic location, sample size, age of participants and gender distribution. Technical data elicited details of the TMD evaluation technique, pain scale assessment, inferences observed and follow‐up period. Two independent reviewers extracted data from the included studies. To assess the reliability of data extraction, an interrater reliability test was conducted using Cohen's Kappa statistic. Any discrepancies in data extraction were addressed through discussion and consensus.</p></sec><sec id="joor13845-sec-0010"><label>2.4</label><title>Risk of bias in evaluation</title><p>For assessing the bias in the selected papers for this review, the Newcastle‐Ottawa Scale (NOS) was employed.<xref rid="joor13845-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> This tool assesses the quality of non‐randomised studies and assigns a score based on three domains. The NOS assigns a maximum of 9 stars to each study: 4 stars for the selection domain, 2 stars for the comparability domain and 3 stars for the exposure or outcome domain. A higher star rating indicates better methodological quality.</p></sec><sec id="joor13845-sec-0011"><label>2.5</label><title>Statistical analysis</title><p>Review Manager 5.4<xref rid="joor13845-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> was used for synthesising quantitative analysis. A random effect model was applied, considering the variability of the studies. The odds ratio at a 95% confidence interval was calculated. Forest plots were drawn to visualise the difference between the smokers group and the non‐smokers group for TMD pain intensity.</p></sec></sec><sec sec-type="results" id="joor13845-sec-0012"><label>3</label><title>RESULTS</title><sec id="joor13845-sec-0013"><label>3.1</label><title>Study selection</title><p>A comprehensive search of the literature yielded 642 records. Out of which, 55 duplicates were removed, leaving 587 papers to be screened. Of the total 137 reports in the final assessment, after excluding ineligible articles, only four studies<xref rid="joor13845-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="joor13845-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> were included in the final qualitative review, as seen in Figure <xref rid="joor13845-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="joor13845-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Study selection process for this review.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JOOR-52-266-g001.jpg"><?image-name JOOR-52-266-g001.jpg?><?image-size 87821?><?image-md5 123f25219f730a4e8c0fa9898cc37c6b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1175?><?image-original-width 1064?><?image-scaled-height 783?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7276/11740265/123f25219f73/JOOR-52-266-g001.jpg?><?thumb-name JOOR-52-266-g001.gif?><?thumb-size 3369?><?thumb-md5 ee0ca867bce730ddfc18f6fa35344a8d?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 110?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/7276/11740265/ee0ca867bce7/JOOR-52-266-g001.gif?></graphic></fig></sec><sec id="joor13845-sec-0014"><label>3.2</label><title>Study characteristics</title><p>The four studies included in this synthesised review were published between 2009 and 2017. Three studies were from the USA,<xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="joor13845-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> while one was from India.<xref rid="joor13845-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> The sample size ranged from 352 to 962. There were no age restrictions in the population studied, as tobacco use is prevalent across all age groups. Three studies employed a prospective study design,<xref rid="joor13845-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="joor13845-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> while one followed a retrospective study design.<xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> In all studies, the proportion of females significantly outweighed males. This gender skew may have relevance, as TMD is known to affect females more frequently than males, and gender can potentially interact with the impact of smoking on TMD symptoms. (Table <xref rid="joor13845-tbl-0003" ref-type="table">3</xref>).</p><table-wrap position="float" id="joor13845-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Demographic characteristics pertaining to the included papers.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Author</th><th align="left" valign="bottom" rowspan="1" colspan="1">Year</th><th align="left" valign="bottom" rowspan="1" colspan="1">Region assessed</th><th align="left" valign="bottom" rowspan="1" colspan="1">Sample size (<italic toggle="yes">n</italic>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Age (in years)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Gender ratio</th><th align="left" valign="bottom" rowspan="1" colspan="1">Protocol</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Katyayan et al.<xref rid="joor13845-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2017</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">962</td><td align="left" valign="top" rowspan="1" colspan="1">31–50</td><td align="left" valign="top" rowspan="1" colspan="1">599 females</td><td align="left" valign="top" rowspan="1" colspan="1">Prospective</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Melis et al.<xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2010</td><td align="left" valign="top" rowspan="1" colspan="1">USA</td><td align="left" valign="top" rowspan="1" colspan="1">352</td><td align="left" valign="top" rowspan="1" colspan="1">All ages</td><td align="left" valign="top" rowspan="1" colspan="1">264 females</td><td align="left" valign="top" rowspan="1" colspan="1">Prospective</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sanders et al.<xref rid="joor13845-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2012</td><td align="left" valign="top" rowspan="1" colspan="1">USA</td><td align="left" valign="top" rowspan="1" colspan="1">299</td><td align="left" valign="top" rowspan="1" colspan="1">18–60</td><td align="left" valign="top" rowspan="1" colspan="1">All females</td><td align="left" valign="top" rowspan="1" colspan="1">Prospective</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Weingarten et al.<xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2009</td><td align="left" valign="top" rowspan="1" colspan="1">USA</td><td align="left" valign="top" rowspan="1" colspan="1">606</td><td align="left" valign="top" rowspan="1" colspan="1">42.5 ± 15</td><td align="left" valign="top" rowspan="1" colspan="1">497 females</td><td align="left" valign="top" rowspan="1" colspan="1">Retrospective</td></tr></tbody></table></table-wrap></sec><sec id="joor13845-sec-0015"><label>3.3</label><title>Main findings</title><p>Table <xref rid="joor13845-tbl-0004" ref-type="table">4</xref> represents a comprehensive overview of findings from the included studies<xref rid="joor13845-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="joor13845-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> that collectively investigate the relationship between tobacco smoking and TMDs. All studies evaluated TMD symptoms using Research Diagnostic Criteria for Temporomandibular Disorders (RDC/TMD). Pain was assessed using Visual Analogue Scale (VAS),<xref rid="joor13845-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Numeric Rating Scale (NRS),<xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> and Clinical Pain Grade Scale (CPGS).<xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> The follow‐up period was for 6 months, as backed up by the International Association for the Study of Pain (IASP) Task Force on Taxonomy for Pain. Pain intensity was severe in all the studies in the ‘current smokers’ group as compared to ‘no smokers’.</p><table-wrap position="float" id="joor13845-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Characteristics pertaining to TMD pain intensity and tobacco smoking as observed in the selected papers.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Study</th><th align="left" valign="bottom" rowspan="1" colspan="1">Assessment technique</th><th align="left" valign="bottom" rowspan="1" colspan="1">Pain asssessment technique</th><th align="left" valign="bottom" rowspan="1" colspan="1">Inferences</th><th align="left" valign="bottom" rowspan="1" colspan="1">Follow up period</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Katyayan et al.<xref rid="joor13845-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>RDC/TMD</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">VAS (100 gauge)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>VAS score in YS was 44.89 + 20.03 as compared to 25.82 + 16.16</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">6 months</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Melis et al.<xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">RDC/TMD</td><td align="left" valign="top" rowspan="1" colspan="1">Numeric Rating scale (0–10 gauge)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Pain scores in YS was 6.6 + 2.1 as compared to 5.5 ± 2.5 in NS.</p>
+<p>Greater pain intensity was noted in subjects who smoked larger numbers. A significant positive correlation was also noted among females (<italic toggle="yes">p</italic> = .001)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">6 months</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sanders et al.<xref rid="joor13845-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">RDC/TMD</td><td align="left" valign="top" rowspan="1" colspan="1">Not specified</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>YS had 3.3 OR of TMD risk as compared to NS</p>
+<p>Older age had greater odds of TMD</p>
+<p>Other significant risk factors were allergies, IL—1 antagonist and anxiety score</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">6 months</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Weingarten et al.<xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">RDC/TMD</td><td align="left" valign="top" rowspan="1" colspan="1">Chronic Pain Grade Scale</td><td align="left" valign="top" rowspan="1" colspan="1">Pain in YS population was 4.2 ± 2.5 as compared to 3.3 ± 2.5, significant at <italic toggle="yes">p</italic> = .01 in the adjusted model</td><td align="left" valign="top" rowspan="1" colspan="1">Not applicable as it is a retrospective study</td></tr></tbody></table></table-wrap><p>Heavy smokers reported considerably higher pain intensity compared to non‐smokers in the studies of Melis et al.<xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> and Weingarten et al.<xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Melis et al.<xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> reported greater pain intensity in smokers as compared to non‐smokers. In addition, they also reported a positive correlation between the dose (numbers) of cigarettes and pain severity, which was more pronounced in the female patients. Weingarten et al.<xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> reported that current tobacco users experienced greater pain intensity. The authors also found functional impairment among tobacco users, with pain interference seen in daily activities affecting social life and work.</p><p>The relevance of psychosocial factors to TMD pain and impairment was investigated in the study of Sanders et al.<xref rid="joor13845-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> The study discovered that psychosocial stresses and coping techniques had a substantial impact on TMD pain intensity and impairment levels, even if tobacco smoking was not the main emphasis. These results can be linked to tobacco usage because smoking is frequently used as a stress‐reduction technique. According to Weingarten et al.,<xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> psychological discomfort, such as anxiety and depression, is frequently more prevalent in TMD patients. Psychosocial stressors have a major effect on TMD, especially in those who have a myofascial component. The authors reported that smokers experience more psychological distress than non‐smokers, and this anxiety is linked to worse TMD clinical aspects.</p></sec><sec id="joor13845-sec-0016"><label>3.4</label><title>Metanalytic results</title><p>The meta‐analysis included three studies comparing TMD pain intensity between smokers and non‐smokers. The forest plot illustrates the effect sizes and confidence intervals for each study, with squares representing the study‐specific effect sizes and horizontal lines indicating the 95% confidence intervals. The overall meta‐analysis result showed that TMD pain intensity was higher in the smokers group compared to the non‐smokers group, with a weighted mean difference (WMD) of 0.65 (BPM) (95% CI: [0.10, 1.19], <italic toggle="yes">p</italic> = .02). Heterogeneity among the studies was assessed using the I2 statistic, which was found to be I2 = 94%, indicating high heterogeneity as seen in Figure <xref rid="joor13845-fig-0002" ref-type="fig">2</xref>. Publication bias was assessed using a funnel plot, which indicated potential symmetry as seen in Figure <xref rid="joor13845-fig-0003" ref-type="fig">3</xref>.</p><fig position="float" fig-type="FIGURE" id="joor13845-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Comparative evaluation of TMD pain intensity between smokers group and non‐smokers group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JOOR-52-266-g003.jpg"><?image-name JOOR-52-266-g003.jpg?><?image-size 57929?><?image-md5 de7c760d904e03f56faa96d0c8749873?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 446?><?image-original-width 1064?><?image-scaled-height 297?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7276/11740265/de7c760d904e/JOOR-52-266-g003.jpg?><?thumb-name JOOR-52-266-g003.gif?><?thumb-size 5766?><?thumb-md5 7a1ec622b9eab043374d6318ffb08f61?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 190?><?thumb-cloudpmc-urn urn:cdn:blobs/7276/11740265/7a1ec622b9ea/JOOR-52-266-g003.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="joor13845-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Publication bias for TMD pain intensity between smokers group and non‐smokers group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JOOR-52-266-g004.jpg"><?image-name JOOR-52-266-g004.jpg?><?image-size 15397?><?image-md5 8d023d71cb4e730a1c9555a8110be13b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 688?><?image-original-width 1064?><?image-scaled-height 458?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7276/11740265/8d023d71cb4e/JOOR-52-266-g004.jpg?><?thumb-name JOOR-52-266-g004.gif?><?thumb-size 1529?><?thumb-md5 0db8afb2f0f6c9b128433b0e656e7f82?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 123?><?thumb-cloudpmc-urn urn:cdn:blobs/7276/11740265/0db8afb2f0f6/JOOR-52-266-g004.gif?></graphic></fig></sec><sec id="joor13845-sec-0017"><label>3.5</label><title>Risk of bias assessment</title><p>All the studies assessed as per the NOS were scored 7. None of the studies were age‐ and gender‐matched between smokers and nonsmokers, thus reducing scores in the selection domain. As Research Diagnostic Criteria for Temporomandibular Disorders (RDC/TMD) was used in all studies, no bias was noted in outcome domain.</p></sec></sec><sec sec-type="discussion" id="joor13845-sec-0018"><label>4</label><title>DISCUSSION</title><p>The findings of this systematic review showed that a definite association of impact of smoking on TMD pain and intensity. Tobacco smoking has the potential to aggravate TMDs through a combination of behavioural and biological causes. In the temporomandibular joint and related musculature, nicotine and other compounds in tobacco smoke can decrease blood flow, impair tissue oxygenation and promote inflammation. These effects can worsen discomfort and impede the healing process. In addition to its established effects on immunity, smoking may make one more susceptible to infections and inflammation, both of which can exacerbate the symptoms of TMD. In addition, smoking can cause bruxism or teeth grinding, which is a condition that puts extra strain on the temporomandibular joint. Another concern is psychological stress, since stress is known to exacerbate the discomfort of TMDs, and smoking is frequently used as a coping method. The confluence of immune response modification, behavioural factors and physiological stressors accounts for the increased pain sensitivity and functional impairment that are seen in TMD smokers.<xref rid="joor13845-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="joor13845-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="joor13845-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>Anxiety and depression are frequently seen in TMD sufferers. In addition to exacerbating pain perception, psychological anxiety can play a role in the development and maintenance of TMD symptoms. Anxiety and stress can result in habits like bruxism, which grinds teeth, aggravating tension‐related headaches. Smoking is a common coping strategy adopted by people, who are depressed or anxious. Smokers are more likely to experience psychological discomfort at higher levels, which may have an impact on the onset and severity of TMD. TMD symptoms might be greatly increased when mental health problems and smoking coexist. Smokers who additionally struggle with depression or anxiety are more likely to develop severe TMD discomfort and functional impairment.<xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="joor13845-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>Smokers with chronic pain frequently report increased pain intensity, increased functional impairment, increased anxiety and depression, and sleep difficulties.<xref rid="joor13845-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="joor13845-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="joor13845-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> According to a study, smokers with TMD are even more likely to experience side effects from treatments.<xref rid="joor13845-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Contrarily, another evaluation of individuals receiving multimodal care for chronic pain discovered that smokers had equivalent or even superior immediate therapeutic effects compared to non‐smokers, thus complicating the impact of smoking on the severity of TMD pain and treatment outcomes.<xref rid="joor13845-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="joor13845-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="joor13845-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+</p><p>Smoking may have an impact on pain through a variety of processes, some of which may include allergic or inflammatory pathways. Smoking is known to block anti‐inflammatory cytokines while causing pro‐inflammatory cytokines to be produced.<xref rid="joor13845-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="joor13845-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="joor13845-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> It increases the permeability of the respiratory epithelium and intensifies allergen sensitivity. Additionally, smokers have higher serum levels of immunoglobulin E, which decline with age. The molecular pathways through which smoking may affect the severity of chronic pain have been the subject of several studies.<xref rid="joor13845-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="joor13845-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="joor13845-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="joor13845-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+</p><p>Despite limited awareness, substantial epidemiological and clinical evidence underscores the plausible association between smoking and TMD‐associated pain, mirroring similar links established between tobacco use and diverse pain manifestations. Notably, the pivotal finding of this investigation highlights that the CS group across the selected papers<xref rid="joor13845-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="joor13845-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> exhibits elevated TMD pain intensity and manifests less favourable responses to treatment in contrast to their NS or FS counterparts. This empirical evidence lends credence to the hypothesis that smoking may inherently potentiate pain perception and reporting, corroborating insights from previous research that delineates a positive correlation between smoking and heightened pain intensity across various patient populations.<xref rid="joor13845-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="joor13845-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="joor13845-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="joor13845-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="joor13845-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+</p><p>For instance, an investigation by Yunus et al.,<xref rid="joor13845-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> which judiciously controlled for factors such as education and age, identified a notable positive relationship between smoking and pain among patients grappling with fibromyalgia. This finding aligns with a broader body of research linking smoking with augmented pain intensity in clinical contexts, further accentuating the potential role of smoking in modulating pain perception. However, nuances emerge in the assessment of pain intensity in smoking and nonsmoking TMD patients, as elucidated by the study conducted by Weingarten et al., which was included in our review.<xref rid="joor13845-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> This research indicated that pain intensity, as gauged by the graded chronic pain scale—an amalgamation of pain intensity and its resultant interference in daily life—no longer exhibited statistically significant differences between TMD patients who smoked and those who did not.</p><p>Collectively, these findings underscore the intricate interplay between smoking and pain perception, substantiating the need for comprehensive exploration of this association within the specific context of TMD. Such investigations carry implications not only for elucidating the underpinnings of pain in TMD patients but also for advancing our understanding of the broader mechanistic links between smoking and diverse forms of pain, ultimately paving the way for more targeted interventions and therapeutic strategies.</p><p>However, it is essential to acknowledge the limitations inherent in the methodology and scope of this systematic review. First, one significant limitation is the potential for publication bias. Systematic reviews rely on published studies, and there is a possibility that studies with negative or null findings regarding the association between smoking and TMD may not have been published or may not have been included in this review. This bias could influence the overall conclusions of the study. Second, the variability in methodologies and populations across the included studies is a limitation. The studies encompassed diverse regions, sample sizes, and follow‐up periods, which can introduce heterogeneity into the synthesis of findings. This heterogeneity may limit the ability to draw uniform conclusions about the relationship between smoking and TMD.</p></sec><sec sec-type="conclusions" id="joor13845-sec-0019"><label>5</label><title>CONCLUSION</title><p>The results of our review suggest that individuals who smoke tobacco are more likely to experience higher levels of pain intensity associated with TMDs when compared to non‐smokers. This finding underscores the detrimental impact of tobacco smoking on TMD‐related pain, highlighting the need for greater awareness and intervention in this population. Further research, including longitudinal studies and investigations into the underlying mechanisms, is needed to deepen our understanding of the relationship between tobacco smoking and TMD pain intensity.</p></sec><sec sec-type="COI-statement" id="joor13845-sec-0033"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflict of interest.</p></sec></body><back><sec sec-type="data-availability" id="joor13845-sec-0035"><title>DATA AVAILABILITY STATEMENT</title><p>The data will be available on reasonable request from the corresponding author.</p></sec><ref-list content-type="cited-references" id="joor13845-bibl-0001"><title>REFERENCES</title><ref id="joor13845-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="joor13845-cit-0001">
+<string-name name-style="western">
+<surname>Di Paola</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tortora</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Argenziano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marrapodi</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossi</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Emerging roles of the iron Chelators in inflammation</article-title>. <source>Int J Mol Sci</source>. <year>2022</year>;<volume>23</volume>:<fpage>7977</fpage>.<pub-id pub-id-type="pmid">35887336</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms23147977</pub-id><pub-id pub-id-type="pmcid">PMC9318075</pub-id></mixed-citation></ref><ref id="joor13845-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="joor13845-cit-0002">
+<string-name name-style="western">
+<surname>Marrapodi</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mascolo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>di Mauro</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mondillo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pota</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossi</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>The safety of blinatumomab in pediatric patients with acute lymphoblastic leukemia: A systematic review and meta‐analysis</article-title>. <source>Frontiers in Pediatrics</source>. <year>2022</year>;<volume>10</volume>:<elocation-id>929122</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fped.2022.929122</pub-id>
+<pub-id pub-id-type="pmid">35935358</pub-id>
+<pub-id pub-id-type="pmcid">PMC9354602</pub-id></mixed-citation></ref><ref id="joor13845-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="joor13845-cit-0003">
+<string-name name-style="western">
+<surname>Pasta</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>In Silico analysis of the MitraClip in a realistic human left heart model</article-title>. <source>PRO</source>. <year>2023</year>;<volume>5</volume>:<fpage>876</fpage>‐<lpage>887</lpage>.</mixed-citation></ref><ref id="joor13845-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="joor13845-cit-0004">
+<string-name name-style="western">
+<surname>Alkahtany</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beatty</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alsalleeh</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Color stability, physical properties and antifungal effects of ZrO2 additions to experimental maxillofacial silicones: comparisons with TiO2</article-title>. <source>PRO</source>. <year>2023</year>;<volume>5</volume>:<fpage>916</fpage>‐<lpage>938</lpage>.</mixed-citation></ref><ref id="joor13845-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="joor13845-cit-0005">
+<string-name name-style="western">
+<surname>Vozzo</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azevedo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandes</surname>
+<given-names>JCH</given-names>
+</string-name>, et al. <article-title>The success and complications of complete‐arch implant‐supported fixed monolithic zirconia restorations: a systematic review</article-title>. <source>PRO</source>. <year>2023</year>;<volume>5</volume>:<fpage>425</fpage>‐<lpage>436</lpage>.</mixed-citation></ref><ref id="joor13845-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="joor13845-cit-0006">
+<string-name name-style="western">
+<surname>Ghadirinejad</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Day</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Milimonfared</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taylor</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hashemi</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Fretting Wear and corrosion‐related risk factors in Total hip replacement: a literature review on implant retrieval studies and National Joint Replacement Registry Reports</article-title>. <source>PRO</source>. <year>2023</year>;<volume>5</volume>:<fpage>774</fpage>‐<lpage>791</lpage>.</mixed-citation></ref><ref id="joor13845-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="joor13845-cit-0007">
+<string-name name-style="western">
+<surname>Pelivan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Šeparović</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vuletić</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dulčić</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gabrić</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Radiological and periodontal evaluation of stock and custom CAD/CAM implant abutments—a one‐year follow‐up study</article-title>. <source>PRO</source>. <year>2023</year>;<volume>5</volume>:<fpage>437</fpage>‐<lpage>452</lpage>.</mixed-citation></ref><ref id="joor13845-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="joor13845-cit-0008">
+<string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hara</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hendawy</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>El‐Husseiny</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Asakura</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Development of small‐diameter artificial vascular grafts using transgenic silk fibroin</article-title>. <source>PRO</source>. <year>2023</year>;<volume>5</volume>:<fpage>763</fpage>‐<lpage>773</lpage>.</mixed-citation></ref><ref id="joor13845-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="joor13845-cit-0009">
+<string-name name-style="western">
+<surname>Weber</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boggero</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carlson</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertoli</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okeson</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Leeuw</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Smoking and posttraumatic stress disorder symptomatology in orofacial pain</article-title>. <source>J Dent Res</source>. <year>2016</year>;<volume>95</volume>:<fpage>1161</fpage>‐<lpage>1168</lpage>.<pub-id pub-id-type="pmid">27486084</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034516661774</pub-id><pub-id pub-id-type="pmcid">PMC5004244</pub-id></mixed-citation></ref><ref id="joor13845-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="joor13845-cit-0010">
+<string-name name-style="western">
+<surname>de Leeuw</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eisenlohr‐Moul</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertrand</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>The Association of Smoking Status with sleep disturbance, psychological functioning, and pain severity in patients with temporomandibular disorders</article-title>. <source>J Orofac Pain</source>. <year>2013</year>;<volume>27</volume>:<fpage>32</fpage>‐<lpage>41</lpage>.<pub-id pub-id-type="pmid">23424718</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.11607/jop.1040</pub-id></mixed-citation></ref><ref id="joor13845-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="joor13845-cit-0011">
+<string-name name-style="western">
+<surname>Hooten</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Townsend</surname>
+<given-names>CO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bruce</surname>
+<given-names>BK</given-names>
+</string-name>, et al. <article-title>Effects of smoking status on immediate treatment outcomes of multidisciplinary pain rehabilitation</article-title>. <source>Pain Med</source>. <year>2009</year>;<volume>10</volume>:<fpage>347</fpage>‐<lpage>355</lpage>.<pub-id pub-id-type="pmid">18721171</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1526-4637.2008.00494.x</pub-id></mixed-citation></ref><ref id="joor13845-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="joor13845-cit-0012">
+<string-name name-style="western">
+<surname>Keil</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lau</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roll</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Maternal smoking increases risk of allergic sensitization and wheezing only in children with allergic predisposition: longitudinal analysis from birth to 10 years</article-title>. <source>Allergy</source>. <year>2009</year>;<volume>64</volume>:<fpage>445</fpage>‐<lpage>451</lpage>.<pub-id pub-id-type="pmid">19170671</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1398-9995.2008.01867.x</pub-id></mixed-citation></ref><ref id="joor13845-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="joor13845-cit-0013">
+<string-name name-style="western">
+<surname>Girdler</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maixner</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naftel</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moretz</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Light</surname>
+<given-names>KC</given-names>
+</string-name>. <article-title>Cigarette smoking, stress‐induced analgesia and pain perception in men and women</article-title>. <source>Pain</source>. <year>2005</year>;<volume>114</volume>:<fpage>372</fpage>‐<lpage>385</lpage>.<pub-id pub-id-type="pmid">15777863</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2004.12.035</pub-id></mixed-citation></ref><ref id="joor13845-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="joor13845-cit-0014">
+<string-name name-style="western">
+<surname>Logan</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fillingim</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartoshuk</surname>
+<given-names>LM</given-names>
+</string-name>, et al. <article-title>Smoking status and pain level among head and neck cancer patients</article-title>. <source>J Pain</source>. <year>2010</year>;<volume>11</volume>:<fpage>528</fpage>‐<lpage>534</lpage>.<pub-id pub-id-type="pmid">20015696</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpain.2009.09.006</pub-id><pub-id pub-id-type="pmcid">PMC2879434</pub-id></mixed-citation></ref><ref id="joor13845-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="joor13845-cit-0015">
+<string-name name-style="western">
+<surname>Kaur</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chauhan</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shivakumar</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The predominance of tobacco propensities and tobacco‐related Oral lesions in textile mill Workers of Bhopal: a cross‐sectional study</article-title>. <source>Cureus</source>. <year>2023</year>;<volume>15</volume>:<elocation-id>e41085</elocation-id>. doi:<pub-id pub-id-type="doi">10.7759/cureus.41085</pub-id>
+<pub-id pub-id-type="pmid">37519575</pub-id>
+<pub-id pub-id-type="pmcid">PMC10375828</pub-id></mixed-citation></ref><ref id="joor13845-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="joor13845-cit-0016">
+<string-name name-style="western">
+<surname>Orzeszek</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piotr</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waliszewska‐Prosół</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Relationship between pain severity, satisfaction with life and the quality of sleep in Polish adults with temporomandibular disorders</article-title>. <source>Dental and Medical Problems</source>. <year>2023</year>;<volume>60</volume>(<issue>4</issue>):<fpage>609</fpage>‐<lpage>617</lpage>. doi:<pub-id pub-id-type="doi">10.17219/dmp/171894</pub-id>
+<pub-id pub-id-type="pmid">37873974</pub-id>
+</mixed-citation></ref><ref id="joor13845-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="joor13845-cit-0017">
+<string-name name-style="western">
+<surname>Malcangi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inchingolo</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patano</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Impacted central incisors in the upper jaw in an adolescent patient: Orthodontic‐surgical treatment—A case report</article-title>. <source>Applied Sciences</source>. <year>2022</year>;<volume>12</volume>(<issue>5</issue>):<elocation-id>2657</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/app12052657</pub-id>
+</mixed-citation></ref><ref id="joor13845-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="joor13845-cit-0018">
+<string-name name-style="western">
+<surname>Pittar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Firth</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennani</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farella</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The effect of passive clear aligners on masticatory muscle activity in adults with different levels of oral parafunction</article-title>. <source>J Oral Rehabil</source>. <year>2023</year>;<volume>50</volume>(<issue>12</issue>):<fpage>1409</fpage>‐<lpage>1421</lpage>. doi:<pub-id pub-id-type="doi">10.1111/joor.13575</pub-id>
+<pub-id pub-id-type="pmid">37615269</pub-id>
+</mixed-citation></ref><ref id="joor13845-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="joor13845-cit-0019">
+<string-name name-style="western">
+<surname>Franco</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basili</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Venditti</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Statistical analysis of the frequency distribution of signs and symptoms of patients with temporomandibular disorders</article-title>. <source>Oral Implantol (Rome)</source>. <year>2016</year>;<volume>9</volume>(<issue>4</issue>):<fpage>190</fpage>‐<lpage>201</lpage>. doi:<pub-id pub-id-type="doi">10.11138/orl/2016.9.4.190</pub-id>
+<pub-id pub-id-type="pmid">28042448</pub-id>
+<pub-id pub-id-type="pmcid">PMC5159943</pub-id></mixed-citation></ref><ref id="joor13845-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="joor13845-cit-0020">
+<string-name name-style="western">
+<surname>Arya</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaji</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boermeester</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>PRISMA reporting guidelines for meta‐analyses and systematic reviews</article-title>. <source>JAMA Surg</source>. <year>2021</year>;<volume>156</volume>:<fpage>789</fpage>.<pub-id pub-id-type="pmid">33825806</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamasurg.2021.0546</pub-id></mixed-citation></ref><ref id="joor13845-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="joor13845-cit-0021">
+<string-name name-style="western">
+<surname>Luchini</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stubbs</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solmi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Veronese</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Assessing the quality of studies in meta‐analyses: advantages and limitations of the Newcastle Ottawa scale</article-title>. <source>World J Metaanal</source>. <year>2017</year>;<volume>5</volume>:<fpage>80</fpage>.</mixed-citation></ref><ref id="joor13845-bib-0022"><label>22</label><mixed-citation publication-type="book" id="joor13845-cit-0022">
+<string-name name-style="western">
+<given-names>Julian PT</given-names>
+<surname>Higgins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Jelena</given-names>
+<surname>Savović</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Matthew J</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Roy G</given-names>
+<surname>Elbers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Jonathan AC</given-names>
+<surname>Sterne</surname>
+</string-name>. <source>Chapter 8: Assessing Risk of Bias in a Randomized trialReview Manager (RevMan)</source> [Computer program]. Version 5.4. <publisher-name>Cochrane</publisher-name>; (<year>2020</year>)</mixed-citation></ref><ref id="joor13845-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="joor13845-cit-0023">
+<string-name name-style="western">
+<surname>Katyayan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katyayan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Association of edentulousness and removable prosthesis rehabilitation with severity of signs and symptoms of temporomandibular disorders</article-title>. <source>Indian J Dent Res</source>. <year>2016</year>;<volume>27</volume>:<fpage>127</fpage>.<pub-id pub-id-type="pmid">27237201</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/0970-9290.183129</pub-id></mixed-citation></ref><ref id="joor13845-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="joor13845-cit-0024">
+<string-name name-style="western">
+<surname>Melis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lobo</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ceneviz</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Effect of cigarette smoking on pain intensity of TMD patients: a pilot study</article-title>. <source>Cranio</source>. <year>2010</year>;<volume>28</volume>:<fpage>187</fpage>‐<lpage>192</lpage>.<pub-id pub-id-type="pmid">20806737</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1179/crn.2010.026</pub-id></mixed-citation></ref><ref id="joor13845-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="joor13845-cit-0025">
+<string-name name-style="western">
+<surname>Sanders</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maixner</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nackley</surname>
+<given-names>AG</given-names>
+</string-name>, et al. <article-title>Excess risk of temporomandibular disorder associated with cigarette smoking in young adults</article-title>. <source>J Pain</source>. <year>2012</year>;<volume>13</volume>:<fpage>21</fpage>‐<lpage>31</lpage>.<pub-id pub-id-type="pmid">22036516</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpain.2011.08.003</pub-id><pub-id pub-id-type="pmcid">PMC3249502</pub-id></mixed-citation></ref><ref id="joor13845-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="joor13845-cit-0026">
+<string-name name-style="western">
+<surname>Weingarten</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iverson</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schroeder</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warner</surname>
+<given-names>DO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reid</surname>
+<given-names>KI</given-names>
+</string-name>. <article-title>Impact of tobacco use on the symptoms of painful temporomandibular joint disorders</article-title>. <source>Pain</source>. <year>2009</year>;<volume>147</volume>:<fpage>67</fpage>‐<lpage>71</lpage>.<pub-id pub-id-type="pmid">19793624</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2009.08.021</pub-id></mixed-citation></ref><ref id="joor13845-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="joor13845-cit-0027">
+<string-name name-style="western">
+<surname>Wänman</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Temporomandibular disorders among smokers and nonsmokers: a longitudinal cohort study</article-title>. <source>J Orofac Pain</source>. <year>2005</year>;<volume>19</volume>:<fpage>209</fpage>‐<lpage>217</lpage>.<pub-id pub-id-type="pmid">16106714</pub-id>
+</mixed-citation></ref><ref id="joor13845-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="joor13845-cit-0028">
+<string-name name-style="western">
+<surname>Koçer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koçer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Memişoğullari</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Domaç</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yüksel</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Interleukin‐6 levels in tension headache patients</article-title>. <source>Clin J Pain</source>. <year>2010</year>;<volume>26</volume>:<fpage>690</fpage>‐<lpage>693</lpage>.<pub-id pub-id-type="pmid">20664340</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AJP.0b013e3181e8d9b6</pub-id></mixed-citation></ref><ref id="joor13845-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="joor13845-cit-0029">
+<string-name name-style="western">
+<surname>Caminati</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guarnieri</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paggiaro</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Relevance of smoking habit in severe asthma patients: evidence from the severe asthma network in Italy (SANI) registry</article-title>. <source>J Clin Med</source>. <year>2022</year>;<volume>11</volume>:<fpage>7465</fpage>.<pub-id pub-id-type="pmid">36556081</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm11247465</pub-id><pub-id pub-id-type="pmcid">PMC9784435</pub-id></mixed-citation></ref><ref id="joor13845-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="joor13845-cit-0030">
+<string-name name-style="western">
+<surname>Grassi</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ciccolella</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Apolito</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Effect of low‐level laser irradiation on osteoblast proliferation and bone formation</article-title>. <source>J Biol Regul Homeost Agents</source>. <year>2011</year>;<volume>25</volume>:<fpage>603</fpage>‐<lpage>614</lpage>.<pub-id pub-id-type="pmid">22217992</pub-id>
+</mixed-citation></ref><ref id="joor13845-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="joor13845-cit-0031">
+<string-name name-style="western">
+<surname>Dohan Ehrenfest</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Corso</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inchingolo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sammartino</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charrier</surname>
+<given-names>J‐B</given-names>
+</string-name>. <article-title>Platelet‐rich plasma (PRP) and platelet‐rich fibrin (PRF) in human cell cultures: growth factor release and contradictory results</article-title>. <source>Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>. <year>2010</year>;<volume>110</volume>:<fpage>418</fpage>‐<lpage>421</lpage>.<pub-id pub-id-type="pmid">20868991</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tripleo.2010.05.059</pub-id></mixed-citation></ref><ref id="joor13845-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="joor13845-cit-0032">
+<string-name name-style="western">
+<surname>Favretti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iannuccelli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Franco</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Pain biomarkers in fibromyalgia syndrome: current understanding and future directions</article-title>. <source>Int J Mol Sci</source>. <year>2023</year>;<volume>24</volume>:<fpage>10443</fpage>.<pub-id pub-id-type="pmid">37445618</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms241310443</pub-id><pub-id pub-id-type="pmcid">PMC10341963</pub-id></mixed-citation></ref><ref id="joor13845-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="joor13845-cit-0033">
+<string-name name-style="western">
+<surname>del Arbol</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raya Muñoz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ojeda</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Plasma concentrations of beta‐endorphin in smokers who consume different numbers of cigarettes per day</article-title>. <source>Pharmacol Biochem Behav</source>. <year>2000</year>;<volume>67</volume>:<fpage>25</fpage>‐<lpage>28</lpage>.<pub-id pub-id-type="pmid">11113480</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0091-3057(00)00291-4</pub-id></mixed-citation></ref><ref id="joor13845-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="joor13845-cit-0034">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snow</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quon</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>I smoke to cope with pain: patients' perspectives on the link between cigarette smoking and pain</article-title>. <source>Wien Klin Wochenschr</source>. <year>2021</year>;<volume>133</volume>:<fpage>1012</fpage>‐<lpage>1019</lpage>.<pub-id pub-id-type="pmid">34460005</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00508-021-01931-x</pub-id></mixed-citation></ref><ref id="joor13845-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="joor13845-cit-0035">
+<string-name name-style="western">
+<surname>Wong</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karppinen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samartzis</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Low back pain in older adults: risk factors, management options and future directions</article-title>. <source>Scoliosis Spinal Disord</source>. <year>2017</year>;<volume>12</volume>:<fpage>14</fpage>.<pub-id pub-id-type="pmid">28435906</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13013-017-0121-3</pub-id><pub-id pub-id-type="pmcid">PMC5395891</pub-id></mixed-citation></ref><ref id="joor13845-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="joor13845-cit-0036">
+<string-name name-style="western">
+<surname>Szyszka‐Sommerfeld</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sycińska‐Dziarnowska</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spagnuolo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woźniak</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Surface electromyography in the assessment of masticatory muscle activity in patients with pain‐related temporomandibular disorders: a systematic review</article-title>. <source>Frontiers in Neurology</source>. <year>2023</year>;<volume>14</volume>:<elocation-id>1184036</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fneur.2023.1184036</pub-id>
+<pub-id pub-id-type="pmid">37206909</pub-id>
+<pub-id pub-id-type="pmcid">PMC10188953</pub-id></mixed-citation></ref><ref id="joor13845-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="joor13845-cit-0037">
+<string-name name-style="western">
+<surname>Bagis</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ayaz</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turgut</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Durkan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Özcan</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Gender difference in prevalence of signs and symptoms of temporomandibular joint disorders: a retrospective study on 243 consecutive patients</article-title>. <source>Int J Med Sci</source>. <year>2012</year>;<volume>9</volume>:<fpage>539</fpage>‐<lpage>544</lpage>.<pub-id pub-id-type="pmid">22991492</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7150/ijms.4474</pub-id><pub-id pub-id-type="pmcid">PMC3444974</pub-id></mixed-citation></ref><ref id="joor13845-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="joor13845-cit-0038">
+<string-name name-style="western">
+<surname>Macrì</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murmura</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scarano</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Festa</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Prevalence of temporomandibular disorders and its association with malocclusion in children: A transversal study</article-title>. <source>Frontiers in Public Health</source>. <year>2022</year>;<volume>10</volume>:<elocation-id>860833</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fpubh.2022.860833</pub-id>
+<pub-id pub-id-type="pmid">36159244</pub-id>
+<pub-id pub-id-type="pmcid">PMC9500209</pub-id></mixed-citation></ref><ref id="joor13845-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="joor13845-cit-0039">
+<string-name name-style="western">
+<surname>Miettinen</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lahti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sipilä</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Psychosocial aspects of temporomandibular disorders and oral health‐related quality‐of‐life</article-title>. <source>Acta Odontol Scand</source>. <year>2012</year>;<volume>70</volume>:<fpage>331</fpage>‐<lpage>336</lpage>.<pub-id pub-id-type="pmid">22300221</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/00016357.2011.654241</pub-id><pub-id pub-id-type="pmcid">PMC3793272</pub-id></mixed-citation></ref><ref id="joor13845-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="joor13845-cit-0040">
+<string-name name-style="western">
+<surname>Minervini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franco</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marrapodi</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almeida</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ronsivalle</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cicciù</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Prevalence of temporomandibular disorders (TMD) in obesity patients: A systematic review and meta‐analysis</article-title>. <source>Journal of Oral Rehabilitation</source>. <year>2023</year>;<volume>50</volume>(<issue>12</issue>):<fpage>1544</fpage>‐<lpage>1553</lpage>. doi:<pub-id pub-id-type="doi">10.1111/joor.13573</pub-id>
+<pub-id pub-id-type="pmid">37635375</pub-id>
+</mixed-citation></ref><ref id="joor13845-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="joor13845-cit-0041">
+<string-name name-style="western">
+<surname>Minervini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franco</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marrapodi</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Blasio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Isola</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cicciù</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Conservative treatment of temporomandibular joint condylar fractures: A systematic review conducted according to PRISMA guidelines and the cochrane handbook for systematic reviews of interventions</article-title>. <source>Journal of Oral Rehabilitation</source>. <year>2023</year>;<volume>50</volume>(<issue>9</issue>):<fpage>886</fpage>‐<lpage>893</lpage>. doi:<pub-id pub-id-type="doi">10.1111/joor.13497</pub-id>
+<pub-id pub-id-type="pmid">37191365</pub-id>
+</mixed-citation></ref><ref id="joor13845-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="joor13845-cit-0042">
+<string-name name-style="western">
+<surname>Minervini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franco</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marrapodi</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fiorillo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cervino</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cicciù</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Post‐traumatic stress, prevalence of temporomandibular disorders in war veterans: Systematic review with meta‐analysis</article-title>. <source>Journal of Oral Rehabilitation</source>. <year>2023</year>;<volume>50</volume>(<issue>10</issue>):<fpage>1101</fpage>‐<lpage>1109</lpage>. doi:<pub-id pub-id-type="doi">10.1111/joor.13535</pub-id>
+<pub-id pub-id-type="pmid">37300526</pub-id>
+</mixed-citation></ref><ref id="joor13845-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="joor13845-cit-0043">
+<string-name name-style="western">
+<surname>Minervini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franco</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marrapodi</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Blasio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ronsivalle</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cicciù</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Children oral health and parents education status: a cross sectional study</article-title>. <source>BMC Oral Health</source>. <year>2023</year>;<volume>23</volume>(<issue>1</issue>). doi:<pub-id pub-id-type="doi">10.1186/s12903-023-03424-x</pub-id>
+<pub-id pub-id-type="pmcid">PMC10594879</pub-id><pub-id pub-id-type="pmid">37875845</pub-id></mixed-citation></ref><ref id="joor13845-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="joor13845-cit-0044">
+<string-name name-style="western">
+<surname>Yunus</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arslan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aldag</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Relationship between fibromyalgia features and smoking</article-title>. <source>Scand J Rheumatol</source>. <year>2002</year>;<volume>31</volume>:<fpage>301</fpage>‐<lpage>305</lpage>.<pub-id pub-id-type="pmid">12455822</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/030097402760375214</pub-id></mixed-citation></ref></ref-list></back></article>

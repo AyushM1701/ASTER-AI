@@ -1,0 +1,845 @@
+{
+  "version": "mds-photographed-v1-2026-10-09",
+  "topics": [
+    {
+      "id": "MDS-01",
+      "area": "general_anatomy_histology",
+      "title": "Basic cell structure and cell function",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-02",
+      "area": "general_anatomy_histology",
+      "title": "Cell cycle, cell division and gametogenesis",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-03",
+      "area": "general_anatomy_histology",
+      "title": "Nucleus",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-04",
+      "area": "general_anatomy_histology",
+      "title": "Blood vessels",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-05",
+      "area": "general_anatomy_histology",
+      "title": "Epithelium",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-06",
+      "area": "general_anatomy_histology",
+      "title": "Connective tissue",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-07",
+      "area": "general_anatomy_histology",
+      "title": "Muscles of mastication and muscles of facial expression",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-08",
+      "area": "general_anatomy_histology",
+      "title": "Cranial nerves",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-09",
+      "area": "general_anatomy_histology",
+      "title": "Development, structure and function of lymph nodes",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-10",
+      "area": "general_anatomy_histology",
+      "title": "Monocyte-macrophage system",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-11",
+      "area": "general_anatomy_histology",
+      "title": "Lymph and lymphatic drainage, including head and neck",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-12",
+      "area": "general_anatomy_histology",
+      "title": "Histology of nerves, muscles and muscle-nerve physiology",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-13",
+      "area": "general_anatomy_histology",
+      "title": "Components of blood",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-14",
+      "area": "general_physiology_biochemistry",
+      "title": "Blood groups and blood grouping",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-15",
+      "area": "general_physiology_biochemistry",
+      "title": "Nervous system and orofacial receptors",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-16",
+      "area": "general_physiology_biochemistry",
+      "title": "Pain",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-17",
+      "area": "general_physiology_biochemistry",
+      "title": "Physiology of bone and homeostasis",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-18",
+      "area": "general_physiology_biochemistry",
+      "title": "Calcium and phosphorus metabolism and pathologic calcification",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-19",
+      "area": "general_physiology_biochemistry",
+      "title": "Mineralization in health and disease",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-20",
+      "area": "basic_pathology",
+      "title": "Amyloid and amyloidosis",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-21",
+      "area": "basic_pathology",
+      "title": "Apoptosis",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-22",
+      "area": "basic_pathology",
+      "title": "Inflammation",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-23",
+      "area": "basic_pathology",
+      "title": "Degeneration and necrosis",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-24",
+      "area": "basic_pathology",
+      "title": "Thrombosis and embolism",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-25",
+      "area": "basic_pathology",
+      "title": "Healing and regeneration",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-26",
+      "area": "basic_pathology",
+      "title": "Hard tissue healing",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-27",
+      "area": "basic_pathology",
+      "title": "Haemorrhage, shock and edema",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-28",
+      "area": "basic_pathology",
+      "title": "Haemostasis",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-29",
+      "area": "basic_pathology",
+      "title": "Ischaemia, infarction, gangrene and post-mortem changes",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-30",
+      "area": "basic_pathology",
+      "title": "Neoplasia",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-31",
+      "area": "oral_anatomy_histology",
+      "title": "Development of tooth",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-32",
+      "area": "oral_anatomy_histology",
+      "title": "Enamel and amelogenesis",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-33",
+      "area": "oral_anatomy_histology",
+      "title": "Dentin",
+      "image": 1,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-34",
+      "area": "oral_anatomy_histology",
+      "title": "Pulp",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-35",
+      "area": "oral_anatomy_histology",
+      "title": "Cementum and cementogenesis",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-36",
+      "area": "oral_anatomy_histology",
+      "title": "Periodontal ligament",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-37",
+      "area": "oral_anatomy_histology",
+      "title": "Alveolar bone",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-38",
+      "area": "oral_anatomy_histology",
+      "title": "Development, anatomy and histology of salivary glands",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-39",
+      "area": "oral_anatomy_histology",
+      "title": "Oral mucous membrane",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-40",
+      "area": "oral_anatomy_histology",
+      "title": "Dentogingival junction",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-41",
+      "area": "oral_anatomy_histology",
+      "title": "Temporomandibular joint",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-42",
+      "area": "oral_anatomy_histology",
+      "title": "Development, anatomy and histology of maxillary sinus",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-43",
+      "area": "oral_anatomy_histology",
+      "title": "Eruption and shedding",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-44",
+      "area": "biostatistics",
+      "title": "Basic principles",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-45",
+      "area": "biostatistics",
+      "title": "Collection and organization of data",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-46",
+      "area": "biostatistics",
+      "title": "Measures of central tendency",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-47",
+      "area": "biostatistics",
+      "title": "Measures of variability",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-48",
+      "area": "biostatistics",
+      "title": "Sampling and planning of health survey",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-49",
+      "area": "biostatistics",
+      "title": "Probability, normal distribution and [uncertain handwritten term] statistics",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": [
+        "inferential statistics",
+        "probability",
+        "normal distribution"
+      ],
+      "transcription_uncertainty": {
+        "visible_word": "appears to read indicative",
+        "possible_intended_term": "inferential statistics",
+        "confirmed_by_user": false
+      }
+    },
+    {
+      "id": "MDS-50",
+      "area": "biostatistics",
+      "title": "Estimating population values",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-51",
+      "area": "biostatistics",
+      "title": "Tests of significance (parametric/non-parametric)",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-52",
+      "area": "biostatistics",
+      "title": "Analysis of variance",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-53",
+      "area": "biostatistics",
+      "title": "Association, correlation and regression",
+      "image": 2,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-54",
+      "area": "oral_physiology",
+      "title": "Age changes in oral tissues",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-55",
+      "area": "oral_physiology",
+      "title": "Saliva and saliva as a diagnostic tool",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-56",
+      "area": "oral_physiology",
+      "title": "Mastication, speech and deglutition",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-57",
+      "area": "oral_physiology",
+      "title": "Taste",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-58",
+      "area": "embryology",
+      "title": "Basics of embryology",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-59",
+      "area": "embryology",
+      "title": "Development of face and tongue",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-60",
+      "area": "embryology",
+      "title": "Development and growth of maxilla and mandible",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-61",
+      "area": "embryology",
+      "title": "Development and growth of bone",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-62",
+      "area": "embryology",
+      "title": "Epithelial-mesenchymal interactions in craniofacial development",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-63",
+      "area": "microbiology",
+      "title": "Bacterial taxonomy and genetics",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-64",
+      "area": "microbiology",
+      "title": "Basic mycology",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-65",
+      "area": "microbiology",
+      "title": "Basic virology",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-66",
+      "area": "microbiology",
+      "title": "Mycobacteria",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-67",
+      "area": "microbiology",
+      "title": "Staphylococci and Streptococci",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-68",
+      "area": "microbiology",
+      "title": "Sterilization and disinfection",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-69",
+      "area": "microbiology",
+      "title": "Oral microflora",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-70",
+      "area": "immunology",
+      "title": "Antigens, antibodies and antigen-antibody reaction",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-71",
+      "area": "immunology",
+      "title": "Immune response",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-72",
+      "area": "immunology",
+      "title": "Hypersensitivity",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-73",
+      "area": "immunology",
+      "title": "Autoimmunity",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-74",
+      "area": "immunology",
+      "title": "Tumour immunology",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-75",
+      "area": "genetics",
+      "title": "Basics of genetics",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-76",
+      "area": "genetics",
+      "title": "Nucleic acids and protein synthesis",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-77",
+      "area": "genetics",
+      "title": "Karyotyping",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-78",
+      "area": "lab_techniques",
+      "title": "Decalcification",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-79",
+      "area": "lab_techniques",
+      "title": "Ground sectioning",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-80",
+      "area": "lab_techniques",
+      "title": "Light microscopy",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-81",
+      "area": "lab_techniques",
+      "title": "H&E staining",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-82",
+      "area": "lab_techniques",
+      "title": "Microtome",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-83",
+      "area": "lab_techniques",
+      "title": "Tissue processing",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-84",
+      "area": "lab_techniques",
+      "title": "Immunohistochemical techniques",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-85",
+      "area": "lab_techniques",
+      "title": "Electron microscopy",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-86",
+      "area": "lab_techniques",
+      "title": "Basic staining",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-87",
+      "area": "lab_techniques",
+      "title": "Biopsy",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-88",
+      "area": "lab_techniques",
+      "title": "Cytology",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    },
+    {
+      "id": "MDS-89",
+      "area": "lab_techniques",
+      "title": "Fixation and fixatives",
+      "image": 4,
+      "review_status": "developer_visual_transcription",
+      "clinical_review": false,
+      "aliases": []
+    }
+  ],
+  "topic_count": 89,
+  "images": [
+    {
+      "image": 1,
+      "sha256": "5343f80e743ada75b72d66d38f011570698a3efd817cf37030be569c8b57cdfc",
+      "duplicate_of": null
+    },
+    {
+      "image": 2,
+      "sha256": "00b521d12293ec88b58259adc903fb0faf2d96c8fd42f6eab24bae4147069d74",
+      "duplicate_of": null
+    },
+    {
+      "image": 3,
+      "sha256": "00b521d12293ec88b58259adc903fb0faf2d96c8fd42f6eab24bae4147069d74",
+      "duplicate_of": 2
+    },
+    {
+      "image": 4,
+      "sha256": "93a5698fb9590511f84b883eb4df5c3cd629d89dc00f505376b35f7a97e43c9b",
+      "duplicate_of": null
+    }
+  ],
+  "scope": "Only photographed entries, not the complete MDS curriculum",
+  "ignored_columns": [
+    "Topic assigned to"
+  ],
+  "faculty_review": "pending",
+  "specialty": "Oral Pathology and Oral Microbiology",
+  "specialty_confirmed_by_user": true
+}

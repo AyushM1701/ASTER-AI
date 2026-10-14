@@ -1,0 +1,1470 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cncy70153" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Cytopathol</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Cytopathol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">101499453</journal-id><journal-id journal-id-type="publisher-id">CNCY</journal-id><journal-title-group><journal-title>Cancer Cytopathology</journal-title></journal-title-group><issn pub-type="ppub">1934-662X</issn><issn pub-type="epub">1934-6638</issn><?publisher_abbrev blackwell?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13552385</article-id><article-id pub-id-type="pmcid-ver">PMC13552385.1</article-id><article-id pub-id-type="pmcaid">13552385</article-id><article-id pub-id-type="pmcaiid">13552385</article-id><article-id pub-id-type="pmid">42708877</article-id><article-id pub-id-type="doi">10.1002/cncy.70153</article-id><article-id pub-id-type="publisher-id">CNCY70153</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Primary pulmonary salivary gland‐type tumors in cytopathology practice: A systematic review and meta‐analysis</article-title><alt-title alt-title-type="right-running-head">PSGTs in cytopathology practice: A systematic review</alt-title></title-group><contrib-group><contrib id="cncy70153-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lagerstam</surname><given-names initials="H">Henri</given-names></name><degrees>BMed, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0005-5733-4559</contrib-id><xref rid="cncy70153-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cncy70153-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>henri.lagerstam@tuni.fi</email></address></contrib><contrib id="cncy70153-cr-0002" contrib-type="author"><name name-style="western"><surname>Kalfert</surname><given-names initials="D">David</given-names></name><degrees>MD, PhD</degrees><xref rid="cncy70153-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cncy70153-cr-0003" contrib-type="author"><name name-style="western"><surname>Kholová</surname><given-names initials="I">Ivana</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4089-0450</contrib-id><xref rid="cncy70153-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cncy70153-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="cncy70153-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Medicine and Health Technology</named-content>
+<institution>Tampere University</institution>
+<city>Tampere</city>
+<country country="FI">Finland</country>
+</aff><aff content-type="private-address" id="cncy70153-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Fimlab Laboratories, Pathology</institution>
+<city>Tampere</city>
+<country country="FI">Finland</country>
+</aff><aff id="cncy70153-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Otorhinolaryngology, Head and Neck Surgery</named-content>
+<named-content content-type="organisation-division">First Faculty of Medicine</named-content>
+<institution>University Hospital Motol and Homolka</institution>
+<institution>Charles University</institution>
+<city>Prague</city>
+<country country="CZ">Czech Republic</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Henri Lagerstam, Faculty of Medicine and Health Technology, Tampere University, Arvo Ylpön katu 34, 33520 Tampere, Finland.<break/>
+Email: <email>henri.lagerstam@tuni.fi</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>9</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2026</year></pub-date><volume>134</volume><issue seq="20">10</issue><issue-id pub-id-type="pmc-issue-id">521099</issue-id><issue-id pub-id-type="doi">10.1002/cncy.v134.10</issue-id><elocation-id>e70153</elocation-id><history>
+<date date-type="rev-recd"><day>08</day><month>8</month><year>2026</year></date>
+<date date-type="received"><day>18</day><month>6</month><year>2026</year></date>
+<date date-type="accepted"><day>20</day><month>8</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>08</day><month>09</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>09</day><month>09</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-09-09 09:59:42.717"><day>09</day><month>09</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). Cancer Cytopathology published by Wiley Periodicals LLC on behalf of American Cancer Society.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CNCY-134-0.pdf"><?pdf-name CNCY-134-0.pdf?><?pdf-size 1196968?><?pdf-md5 984745e71aec59c1d2f5047b1f842c9b?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:39fb/13552385/984745e71aec/CNCY-134-0.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CNCY-134-0.pdf"/><abstract><title>Abstract</title><sec id="cncy70153-sec-0001"><title>Background</title><p>Primary pulmonary salivary gland‐type tumors (PSGTs) are rare but clinically significant tumors that originate from the submucosal glands of the tracheobronchial tree. Cytologic samples taken during bronchoscopy are a key component of preoperative evaluation. However, cytologic diagnosis remains challenging because of the submucosal growth and morphologic overlap of PSGTs. In addition, current knowledge of the cytohistologic correlation of PSGTs is fragmented. The objective of this study was to assess the effectiveness of cytologic diagnoses of PSGTs.</p></sec><sec id="cncy70153-sec-0002"><title>Methods</title><p>A comprehensive, systematic literature search of the PubMed database was conducted to identify studies with cytologic and histologic diagnoses of PSGTs. Comprehensive data on diagnostic and clinical factors, when available, were collected for all individual patients. The data were tabulated in Microsoft Excel and analyzed using OpenMeta (Analyst) software.</p></sec><sec id="cncy70153-sec-0003"><title>Results</title><p>In total, 49 studies comprising 106 patients were identified. Final cytohistologic concordance was demonstrated in 48.1% of cases. Fine‐needle aspiration showed the highest sensitivity (75.0%), followed by bronchial/tracheal washing (38.1%), and bronchial brushing (34.2%). Adenoid cystic carcinoma was the most common histologic subtype, accounting for 67 cases, followed by mucoepidermoid carcinoma, which accounted for 27 cases.</p></sec><sec id="cncy70153-sec-0004"><title>Conclusions</title><p>The cytologic diagnosis of rare PSGTs remains challenging. Overall, cytohistologic concordance was 48.1%. However, fine‐needle aspiration demonstrated greater diagnostic accuracy than exfoliative cytology and may facilitate a more accurate preoperative assessment.</p></sec></abstract><abstract abstract-type="short"><p>This systematic review identified 49 studies on the cytologic diagnosis of primary pulmonary salivary gland‐type tumors involving 106 patients. Among cytologic sampling methods, fine‐needle aspiration demonstrated the highest sensitivity (75.0%), followed by bronchial/tracheal washing (38.1%), and bronchial brushing (34.2%).</p></abstract><kwd-group><kwd id="cncy70153-kwd-0001">cytopathology</kwd><kwd id="cncy70153-kwd-0002">lung</kwd><kwd id="cncy70153-kwd-0003">pulmonary</kwd><kwd id="cncy70153-kwd-0004">pulmonary salivary gland‐like tumor (PSGT)</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>The Cooperatio Program, research area SURG</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>State funding for university-level health research, Tampere University Hospital, Wellbeing Services County of Pirkanmaa</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Suomen Tuberkuloosin Vastustamisyhdistyksen Säätiö</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>Tampereen Tuberkuloosisäätiö</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="5"/><page-count count="16"/><word-count count="7950"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.7 mode:remove_FC converted:08.09.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="cncy70153-body-0001"><sec id="cncy70153-sec-0010"><title>INTRODUCTION</title><p>Primary pulmonary salivary gland‐type tumors (PSGTs) are rare but clinically significant tumors that originate from the submucosal glands of the tracheobronchial tree. Histologically, they resemble salivary gland tumors of the head and neck. Unlike salivary gland tumors of the head and neck, in which most tumors are benign neoplasms (such as pleomorphic adenoma and Warthin tumor, accounting for up to 80% of cases), the most common PSGTs are mucoepidermoid carcinoma (MEC) or adenoid cystic carcinoma (AdCC). In contrast, benign PSGTs are very rare.<xref rid="cncy70153-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cncy70153-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+</p><p>PSGTs generally originate in the central airways. Because of their anatomic location, these tumors are accessible by bronchoscopy, making cytologic sampling a key part of the preoperative assessment. Commonly used sampling methods include fine‐needle aspiration (FNA), bronchial brushing, bronchial washing, and bronchoalveolar lavage (BAL).<xref rid="cncy70153-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> PSGTs are sometimes covered by intact respiratory epithelium, which reduces the sensitivity of superficial sampling methods, such as BAL, bronchial washing, and brushing. Therefore, FNA, as a deeper sampling method, is often needed to obtain diagnostic samples from beneath the intact mucosa.<xref rid="cncy70153-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>In addition, there is morphologic overlap between PSGTs and more common pulmonary malignancies, such as small cell carcinoma, adenocarcinoma, and squamous cell carcinoma. Overlaps between these tumors increase the risk of misinterpretation and inappropriate clinical management. Accurate identification of these rare tumors is clinically important because their pathologic behavior, prognosis, and treatment response significantly differ from conventional lung cancers.<xref rid="cncy70153-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Chemotherapy for PSGTs is not well studied, and these tumors typically exhibit a poor response to conventional chemotherapy used for lung carcinomas. PSGTs are generally indolent and primarily should be treated with complete surgical resection. The prognosis of these tumors depends on subtype, but they generally have a better prognosis compared with conventional pulmonary tumors.<xref rid="cncy70153-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="cncy70153-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+</p><p>Because of the rarity of these tumors, current knowledge regarding the correlation between cytologic and histologic diagnoses in PSGTs remains fragmented and is based mainly on case reports and small case series. This study includes a comprehensive literature search. The objectives of this systematic review and meta‐analysis were to evaluate the published literature on PSGTs and to assess the role of cytopathology in diagnostic practice.</p></sec><sec id="cncy70153-sec-0020"><title>MATERIALS AND METHODS</title><p>A comprehensive literature search from the PubMed database was performed between September 30, 2025, and January 8, 2026, to identify all published studies of PSGTs of the lung and tracheobronchial tree that included cytologic evaluation. The search strategy used Boolean operators to combine three primary concepts searched within the title and abstract fields: (1) anatomic site (lung, pulmonary, bronchial, bronchi, trachea, tracheal, tracheobronchial, primary pulmonary, primary lung); (2) histologic subtype (salivary gland‐type, salivary gland‐like, MEC, adenoid cystic carcinoma, epithelial‐myoepithelial carcinoma (EMC), acinic cell carcinoma, secretory carcinoma, pleomorphic adenoma, carcinoma ex pleomorphic adenoma, hyalinizing clear cell carcinoma, myoepithelioma, myoepithelial carcinoma, oncocytoma, oncocytic carcinoma, polymorphous adenocarcinoma, cribriform adenocarcinoma, mammary analogue secretory carcinoma), and (3) cytologic methods (cytology, cytological, cytologic, cytopathology, cytopathologies, fine‐needle aspiration, FNA, FNAC, bronchial wash, bronchial washing, bronchial washings, tracheal wash, tracheal washing, tracheal washings, brushing, brushings, bronchial brushing, bronchial brushings, BAL, endobronchial ultrasound‐guided transbronchial needle aspiration, TBNA, transbronchial needle aspiration, cell block, cell‐block, smear, smears). In addition, the reference lists of three studies<xref rid="cncy70153-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="cncy70153-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="cncy70153-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> that potentially included literature reviews were manually examined to ensure that all relevant studies were part of the analysis.</p><p>Titles and abstracts were screened to identify eligible articles for the meta‐analysis. The first author independently screened titles, abstracts and full texts for eligibility. Any uncertainties or disagreements regarding the study were resolved by consensus with other authors. The inclusion criteria were as follows: (1) a histologically confirmed diagnosis of PSGT and (2) availability of cytologic evaluation.</p><p>Reviews, non‐English studies, and studies that did not meet the study objectives or inclusion criteria were excluded. During the full‐text review, studies lacking cytologic data, tumors identified as metastases from other sites, and cases in which cytologic diagnoses could not be clearly distinguished between individual cases were excluded. In addition, three studies<xref rid="cncy70153-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cncy70153-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cncy70153-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> were excluded because of a lack of histologic verification. The study selection process is illustrated in the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta‐Analyses) flow chart (Figure <xref rid="cncy70153-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="FIGURE" id="cncy70153-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>PRISMA flow chart illustrating the study selection process. PSGT indicates pulmonary salivary gland‐type tumor; PRISMA, Preferred Reporting Items for Systematic Reviews and Meta‐Analyses.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CNCY-134-0-g003.webp"><?image-name CNCY-134-0-g003.webp?><?image-size 58272?><?image-md5 b1d1001f9bedcbd46bd93ba9ff2cfdae?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1021?><?image-original-width 1064?><?image-scaled-height 1021?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/39fb/13552385/b1d1001f9bed/CNCY-134-0-g003.webp?><?thumb-name CNCY-134-0-g003.gif?><?thumb-size 8240?><?thumb-md5 11e706b95643632d08a627ecfea3927f?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 192?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/39fb/13552385/11e706b95643/CNCY-134-0-g003.gif?></graphic></fig><p>The following data were collected in Microsoft Excel for Microsoft 365 MSO (version 2511, Build 16.0.19426.20218, 64bit; Microsoft Corporation), when available: first author, publication year, geographic region, study period, institution type, cytologic sampling method, cytologic preparation type, staining methods, and the use of cell blocks. For each case, the following variables were collected, if available: sex, age, smoking status, clinical symptoms, imaging modalities, location and size of tumor, cytologic diagnosis, histologic diagnosis, treatment type, and survival data. Missing or unavailable data were recorded as not determined (ND).</p><p>Meta‐analyses were performed using OpenMeta (Analyst) software (Brown University). Pooled proportions were calculated using a binary random‐effects model with the Der Simonian–Laird method to estimate between‐study variance (τ<sup>2</sup>). Results are presented as pooled proportions with corresponding 95% confidence intervals (CIs). For studies with zero events, a continuity correction factor of 0.5 was applied only to zero‐event cells. Heterogeneity was assessed using the inconsistency index (I<sup>2</sup>) and χ<sup>2</sup> statistics. Forest plots were generated for all pooled analyses. A two‐sided <italic toggle="yes">p</italic> value &lt; .05 was considered statistically significant. The Preferred Reporting Items for Systematic Reviews and Meta‐Analyses guidelines<xref rid="cncy70153-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> were followed in the current meta‐analysis.</p></sec><sec id="cncy70153-sec-0030"><title>RESULTS</title><sec id="cncy70153-sec-0040"><title>Overview of the included studies</title><p>In total, 49 studies were identified. The studies were published between 1978 and 2024. Geographically, 24 studies were from Asia,<xref rid="cncy70153-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="cncy70153-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="cncy70153-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="cncy70153-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="cncy70153-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cncy70153-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="cncy70153-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="cncy70153-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cncy70153-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="cncy70153-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="cncy70153-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="cncy70153-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="cncy70153-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="cncy70153-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="cncy70153-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="cncy70153-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="cncy70153-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="cncy70153-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="cncy70153-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="cncy70153-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="cncy70153-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="cncy70153-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="cncy70153-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="cncy70153-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> 16 were from North America,<xref rid="cncy70153-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="cncy70153-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="cncy70153-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="cncy70153-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="cncy70153-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="cncy70153-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="cncy70153-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="cncy70153-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="cncy70153-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="cncy70153-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="cncy70153-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="cncy70153-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="cncy70153-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="cncy70153-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>, <xref rid="cncy70153-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="cncy70153-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> and seven were from Europe.<xref rid="cncy70153-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="cncy70153-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="cncy70153-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="cncy70153-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>, <xref rid="cncy70153-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>, <xref rid="cncy70153-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>, <xref rid="cncy70153-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> One study each originated from Oceania<xref rid="cncy70153-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> and Africa.<xref rid="cncy70153-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> The main characteristics of the included studies are summarized in Table <xref rid="cncy70153-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="cncy70153-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Characteristics of studies included in this systematic review and meta‐analysis.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Reference</th><th align="left" valign="bottom" rowspan="1" colspan="1">Country</th><th align="left" valign="bottom" rowspan="1" colspan="1">Continent</th><th align="left" valign="bottom" rowspan="1" colspan="1">Institutional/multi‐institutional/international</th><th align="left" valign="bottom" rowspan="1" colspan="1">Hospital type</th><th align="left" valign="bottom" rowspan="1" colspan="1">Sampling method</th><th align="left" valign="bottom" rowspan="1" colspan="1">FNA type</th><th align="left" valign="bottom" rowspan="1" colspan="1">Cytologic preparation</th><th align="left" valign="bottom" rowspan="1" colspan="1">Staining</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Ayed 2024<xref rid="cncy70153-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Tunisia</td><td align="left" valign="top" rowspan="1" colspan="1">Africa</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Ultrasound‐guided FNA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bhalara 2022<xref rid="cncy70153-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transthoracic FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Crush method</td><td align="left" valign="top" rowspan="1" colspan="1">May–Grunwald–Giemsa and H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Brooks &amp; Baandrup 1992<xref rid="cncy70153-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Denmark</td><td align="left" valign="top" rowspan="1" colspan="1">Europe</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transthoracic FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Air‐dried</td><td align="left" valign="top" rowspan="1" colspan="1">May–Grunwald–Giemsa</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Charles 2022<xref rid="cncy70153-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">EBUS‐TBNA</td><td align="left" valign="top" rowspan="1" colspan="1">ROSE, air‐dried, alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, Diff‐Quik</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Chen 1996<xref rid="cncy70153-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">Regional hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial brushing, bronchial washing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Chon 2011<xref rid="cncy70153-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">South Korea</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transthoracic FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Chuah 2007<xref rid="cncy70153-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Singapore</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">General hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial brushing, bronchial washing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Wet‐fixed, air‐dried</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou and Diff‐Quik</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cwierzyk 1985<xref rid="cncy70153-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">Community hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial brushing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Smear</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Daneshbod 2007<xref rid="cncy70153-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Iran</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial washing, bronchial brushing, sputum</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Air‐dried, alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, Wright</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Delpiano 2000<xref rid="cncy70153-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Italy</td><td align="left" valign="top" rowspan="1" colspan="1">Europe</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">General hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial brushing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">H&amp;E, Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Doxtader 2019<xref rid="cncy70153-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">Tertiary care center</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transbronchial FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Air‐dried, alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">Diff‐Quik, Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dyhdalo 2013<xref rid="cncy70153-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">Tertiary care center</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">EBUS‐TBNA</td><td align="left" valign="top" rowspan="1" colspan="1">Air‐dried</td><td align="left" valign="top" rowspan="1" colspan="1">Diff‐Quik</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fei 2024<xref rid="cncy70153-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Ultrasound‐guided FNA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Florentine 2006<xref rid="cncy70153-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial washing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">May–Grunwald–Giemsa, Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gao 2021<xref rid="cncy70153-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transbronchial FNA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gupta &amp; McHutchison 1992<xref rid="cncy70153-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">New Zealand</td><td align="left" valign="top" rowspan="1" colspan="1">Oceania</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Tracheal washing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Smear</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, Diff‐Quik, H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Idowu 2004<xref rid="cncy70153-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Not otherwise specified</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">Romanowsky</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ishikawa 2022<xref rid="cncy70153-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Japan</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">Regional hospital</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Stamp preparation</td><td align="left" valign="top" rowspan="1" colspan="1">Giemsa</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Jayaprakash 2014<xref rid="cncy70153-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchoalveolar lavage, sputum</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Jikuzono 2022<xref rid="cncy70153-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Japan</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Ultrasound‐guided FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kagotani 2014<xref rid="cncy70153-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Japan</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial brushing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, May–Grunwald–Giemsa</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kapatia 2020<xref rid="cncy70153-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transthoracic FNA and transbronchial FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Smear</td><td align="left" valign="top" rowspan="1" colspan="1">H&amp;E, May–Grunwald–Giemsa</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kaur 2019<xref rid="cncy70153-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transbronchial FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Smear</td><td align="left" valign="top" rowspan="1" colspan="1">May–Grunwald–Giemsa, H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kim 2011<xref rid="cncy70153-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">South Korea</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial brushing, bronchial washing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kim 2015<xref rid="cncy70153-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">South Korea</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA, bronchial washing</td><td align="left" valign="top" rowspan="1" colspan="1">EBUS‐TBNA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed, air‐dried</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kukwa 2014<xref rid="cncy70153-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Poland</td><td align="left" valign="top" rowspan="1" colspan="1">Europe</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Not otherwise specified</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kumar &amp; Monabati 1998<xref rid="cncy70153-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Iran</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial brushing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">Wright–Giemsa</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Laforga &amp; Aranda 1999<xref rid="cncy70153-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Spain</td><td align="left" valign="top" rowspan="1" colspan="1">Europe</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">Regional hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Not otherwise specified</td><td align="left" valign="top" rowspan="1" colspan="1">Smear</td><td align="left" valign="top" rowspan="1" colspan="1">Diff‐Quik, Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Lozowski 1983<xref rid="cncy70153-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial washing, bronchial brushing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mohammadnia 2020<xref rid="cncy70153-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Iran</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial washing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Monaco 2012<xref rid="cncy70153-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Image‐guided FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Smear</td><td align="left" valign="top" rowspan="1" colspan="1">Diff‐Quik, Papanicolaou, H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ng 2023<xref rid="cncy70153-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Hong Kong</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Multi‐institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital, regional hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial brushing, bronchial washing, bronchial aspiration, bronchoalveolar lavage</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Smear</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nguyen 1988<xref rid="cncy70153-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Canada</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Sputum, bronchial brushing, FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transthoracic FNA and transbronchial FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nuwal 2010<xref rid="cncy70153-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Not otherwise specified</td><td align="left" valign="top" rowspan="1" colspan="1">Smear</td><td align="left" valign="top" rowspan="1" colspan="1">May–Grunwald–Giemsa</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Puzyrenko 2021<xref rid="cncy70153-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">USA</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">EBUS‐TBNA</td><td align="left" valign="top" rowspan="1" colspan="1">Smear</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, Diff‐Quik, H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Qiu 2004<xref rid="cncy70153-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transbronchial FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed, air‐dried</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, Quik‐Dip</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Radhika 1993<xref rid="cncy70153-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial washing, sputum</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Air‐dried, alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">May–Grunwald–Giemsa, Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Romagosa 2002<xref rid="cncy70153-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Spain</td><td align="left" valign="top" rowspan="1" colspan="1">Europe</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA, sputum</td><td align="left" valign="top" rowspan="1" colspan="1">Transthoracic FNA and transbronchial FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed, air‐dried</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, Quick Panoptic</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Saglietti 2017<xref rid="cncy70153-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Italy</td><td align="left" valign="top" rowspan="1" colspan="1">Europe</td><td align="left" valign="top" rowspan="1" colspan="1">Multi‐institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial aspiration, bronchial brushing, bronchoalveolar lavage</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol fixed, air‐dried</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, May–Grunwald–Giemsa</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Scherl 2013<xref rid="cncy70153-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">International</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital, tertiary care hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Not otherwise specified</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Segletes 1999<xref rid="cncy70153-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">General hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA, bronchial brushing, bronchial washing</td><td align="left" valign="top" rowspan="1" colspan="1">Transthoracic FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed, air‐dried, direct</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, Romanowsky</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tao &amp; Robertson 1978<xref rid="cncy70153-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Canada</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">General hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA, sputum</td><td align="left" valign="top" rowspan="1" colspan="1">Transthoracic FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vallonthaiel 2017<xref rid="cncy70153-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial washing, bronchial brushing, bronchial aspiration</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed, air‐dried</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, May–Grunwald–Giemsa</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Watanabe 2004<xref rid="cncy70153-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Japan</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transbronchial FNA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, May–Giemsa</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">White 2021<xref rid="cncy70153-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">United States</td><td align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchoalveolar lavage, bronchial brushing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Yokouchi 2007<xref rid="cncy70153-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Japan</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">General hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial washing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Smear</td><td align="left" valign="top" rowspan="1" colspan="1">Papanicolaou, H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Zhou 2023<xref rid="cncy70153-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Multi‐institutional</td><td align="left" valign="top" rowspan="1" colspan="1">Regional hospital</td><td align="left" valign="top" rowspan="1" colspan="1">Bronchial brushing</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Alcohol‐fixed</td><td align="left" valign="top" rowspan="1" colspan="1">H&amp;E</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Zhou 2019<xref rid="cncy70153-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Asia</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Liquid‐based ThinPrep cytologic test</td><td align="left" valign="top" rowspan="1" colspan="1">ND</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Özkara &amp; Turan 2009<xref rid="cncy70153-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Turkey</td><td align="left" valign="top" rowspan="1" colspan="1">Europe</td><td align="left" valign="top" rowspan="1" colspan="1">Institutional</td><td align="left" valign="top" rowspan="1" colspan="1">University hospital</td><td align="left" valign="top" rowspan="1" colspan="1">FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Transbronchial FNA</td><td align="left" valign="top" rowspan="1" colspan="1">Air‐dried</td><td align="left" valign="top" rowspan="1" colspan="1">May–Grunwald–Giemsa</td></tr></tbody></table><table-wrap-foot id="cncy70153-ntgp-0001"><fn id="cncy70153-note-0001"><p>Abbreviations: EBUS‐TBNA, Endobronchial ultrasound‐guided transbronchial needle aspiration; FNA, fine‐needle aspiration; H&amp;E, hematoxylin and eosin; NA, not available; ND, not determined; ROSE, rapid on‐site examination.</p></fn></table-wrap-foot></table-wrap></sec><sec id="cncy70153-sec-0050"><title>Summary of clinical characteristics of patients</title><p>In total, 106 patients from 49 studies were included in the analysis. Of these 48 (45.3%) were male, and 58 (54.7%) were female. The median age was 55 years (range, 6–87 years). Smoking status was available for 42 patients (39.6%). Among these, 13 (31.0%) were current smokers, five (11.9%) were former smokers, and 24 (57.1%) were nonsmokers.</p></sec><sec id="cncy70153-sec-0060"><title>Tumor location</title><p>Tumor location showed distinct patterns across histologic subtypes. AdCC was predominantly located in the central airways (trachea, carina, and major bronchi) in 44 cases (65.7%), whereas 19 cases (28.4%) were located in lobar or more peripheral sites. In contrast, MEC was less frequently located in the central airways, with only six cases (22.2%), and was more often identified in lobar or peripheral locations, accounting for 16 cases (59.3%). Rare histologic subtypes showed no consistent anatomic pattern and were distributed sporadically across both central and peripheral sites.</p></sec><sec id="cncy70153-sec-0070"><title>Clinical symptoms</title><p>Clinical presentation varied across histologic subtypes but showed several consistent patterns. Symptom data were available for 74 patients (69.8%). Among the major entities, AdCC was most frequently associated with cough (55.0%) and dyspnea (40%) and, less commonly, with hemoptysis (25%), reflecting its typical central airway involvement and submucosal growth pattern. Similarly, MEC was most commonly associated with cough (72.7%), followed by dyspnea (27.3%), and hemoptysis (22.7%). Other symptoms, including chest pain, weight loss, fever, and a wide range of nonspecific manifestations (e.g., pneumonia, sputum production, stridor, or general symptoms), were reported less frequently and showed no clear pattern across histologic subtypes. A small proportion of patients were asymptomatic, including: 7.5% of patients with AdCC and 13.6% of those with MEC. Clinical symptoms according to histologic diagnoses are summarized in Table <xref rid="cncy70153-tbl-0002" ref-type="table">2</xref>.</p><table-wrap position="float" id="cncy70153-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Clinical symptoms according to histologic diagnoses.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr><th rowspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Histologic diagnosis</th><th rowspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">No. of cases with data available</th><th style="border-bottom:solid 1px #000000" colspan="18" align="left" valign="bottom" rowspan="1">No. (%)</th></tr><tr><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Cough</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Dyspnea</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Chest pain</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Hemoptysis</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Wheezing</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Weight loss</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Fever</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Other symptoms</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Asymptomatic</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Yes</th><th align="left" valign="bottom" rowspan="1" colspan="1">No</th><th align="left" valign="bottom" rowspan="1" colspan="1">Yes</th><th align="left" valign="bottom" rowspan="1" colspan="1">No</th><th align="left" valign="bottom" rowspan="1" colspan="1">Yes</th><th align="left" valign="bottom" rowspan="1" colspan="1">No</th><th align="left" valign="bottom" rowspan="1" colspan="1">Yes</th><th align="left" valign="bottom" rowspan="1" colspan="1">No</th><th align="left" valign="bottom" rowspan="1" colspan="1">Yes</th><th align="left" valign="bottom" rowspan="1" colspan="1">No</th><th align="left" valign="bottom" rowspan="1" colspan="1">Yes</th><th align="left" valign="bottom" rowspan="1" colspan="1">No</th><th align="left" valign="bottom" rowspan="1" colspan="1">Yes</th><th align="left" valign="bottom" rowspan="1" colspan="1">No</th><th align="left" valign="bottom" rowspan="1" colspan="1">Yes</th><th align="left" valign="bottom" rowspan="1" colspan="1">No</th><th align="left" valign="bottom" rowspan="1" colspan="1">Yes</th><th align="left" valign="bottom" rowspan="1" colspan="1">No</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Adenoid cystic carcinoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">40</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">22 (55.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">18 (45.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">16 (40.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">24 (60.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (10.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">36 (90.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (25.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">30 (75.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (5.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">38 (95.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (7.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">37 (92.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (7.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">37 (92.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">15 (37.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">25 (62.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (7.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">37 (92.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mucoepidermoid carcinoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">22</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">16 (72.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (27.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (27.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">16 (72.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (4.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">21 (95.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (22.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17 (77.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (4.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">21 (95.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (9.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20 (91.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (9.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20 (91.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (27.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">16 (72.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (13.6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19 (86.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Oncocytoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">4</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (50.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (50.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (25.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (75.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (25.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (75.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (25.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (75.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (25.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (75.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (100.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Epithelial‐myoepithelial carcinoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (33.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (66.6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (66.6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (33.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Acinic cell carcinoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hyalinizing clear cell carcinoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1(100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Myoepithelial carcinoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Myoepithelioma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Papillary mucous gland adenoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (100.0)</td></tr></tbody></table></table-wrap></sec><sec id="cncy70153-sec-0080"><title>Diagnostic methods</title><p>Among cases with available data, computed tomography was the most commonly used diagnostic method (<italic toggle="yes">n</italic> = 39; 69.6%), followed by bronchoscopy (<italic toggle="yes">n</italic> = 29; 51.8%) and chest x‐ray (<italic toggle="yes">n</italic> = 25; 44.6%). Positron emission tomography‐computed tomography, ultrasound, and magnetic resonance imaging were reported in seven, five, and two cases, respectively. FNA (<italic toggle="yes">n</italic> = 44; 30.3%) was the most common sampling method, followed by bronchial brushing (<italic toggle="yes">n</italic> = 38; 26.2%), and bronchial/tracheal washing (<italic toggle="yes">n</italic> = 21; 14.5%). Among FNA cases, 20 (45.5%) were transbronchial needle aspirations, nine (20.5%) were transthoracic needle aspirations, five (11.4%) were endobronchial ultrasound‐guided transbronchial needle aspirations, and 10 (22.7%) were not otherwise specified. The most frequent cytologic staining methods were the Papanicolaou stain (30 studies; 61.2%), followed by Giemsa stain (27 studies; 55.1%), and hematoxylin and eosin stain (15 studies; 30.6%). In addition, 11 studies (22.4%) reported the use of cell blocks in the diagnostic evaluation (Table <xref rid="cncy70153-tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="cncy70153-sec-0090"><title>Cytologic and histologic diagnoses</title><p>All included patients had one or more cytologic diagnoses, and histologic confirmation was available for all cases. Histologic diagnoses included AdCC in 67 cases, MEC in 27 cases, oncocytoma in four cases, EMC in three cases, and one case each of acinic cell carcinoma, myoepithelioma, myoepithelial carcinoma, mucous gland adenoma (MGA), and hyalinizing clear cell carcinoma (HCCC).</p><p>Among histologically verified AdCC cases, cytologic samples obtained by FNA, washing, and brushing resulted in a cytologic diagnosis of AdCC in 17, eight, and 12 cases, respectively. The most common false diagnoses were papillary carcinoma in two FNA cases; malignant, atypical cells, and suspicious for malignancy in two washing cases each; and atypia in three brushing cases. Among MEC cases, cytohistologic concordance was observed in 11 FNA specimens, one brushing specimen, and one BAL specimen. In FNA samples, false‐negative diagnoses included morphologic description only (<italic toggle="yes">n</italic> = 2) and adenosquamous carcinoma (<italic toggle="yes">n</italic> = 1). Among bronchial brushing specimens, five cases were interpreted as negative. All three EMC cases were sampled by FNA. Two cases were correctly diagnosed cytologically, whereas one case was falsely diagnosed as small cell carcinoma. Of the two oncocytoma cases obtained by FNA, one was correctly diagnosed as oncocytoma, whereas the other was diagnosed as metastatic hepatic carcinoma/neuroendocrine tumor. Among bronchial brushing specimens, oncocytoma was diagnosed cytologically as oncocytic neoplasia (<italic toggle="yes">n</italic> = 1), whereas another case was reported as having a differential diagnosis of oncocytoma versus oncocytic carcinoid. Cytologic diagnoses for each histologic subtype according to the cytologic sampling method are summarized in Table <xref rid="cncy70153-tbl-0003" ref-type="table">3</xref>. Figure <xref rid="cncy70153-fig-0002" ref-type="fig">2</xref> shows the cytomorphologic features of the most common PSGT entities.</p><table-wrap position="float" id="cncy70153-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Cytologic diagnoses according to histologic diagnoses and sampling methods.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr><th rowspan="2" style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom">Cytologic sampling method</th><th style="border-bottom:solid 1px #000000" colspan="9" align="left" valign="bottom" rowspan="1">Histologic diagnosis</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">ACC, <italic toggle="yes">n</italic> = 1</th><th align="left" valign="bottom" rowspan="1" colspan="1">ACC, <italic toggle="yes">n</italic> = 67</th><th align="left" valign="bottom" rowspan="1" colspan="1">MC, <italic toggle="yes">n</italic> = 27</th><th align="left" valign="bottom" rowspan="1" colspan="1">EMC, <italic toggle="yes">n</italic> = 3</th><th align="left" valign="bottom" rowspan="1" colspan="1">HCCC, <italic toggle="yes">n</italic> = 1</th><th align="left" valign="bottom" rowspan="1" colspan="1">MEC, <italic toggle="yes">n</italic> = 1</th><th align="left" valign="bottom" rowspan="1" colspan="1">Myoepithelioma, <italic toggle="yes">n</italic> = 1</th><th align="left" valign="bottom" rowspan="1" colspan="1">Oncocytoma, <italic toggle="yes">n</italic> = 4</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mucous gland adenoma, <italic toggle="yes">n</italic> = 1</th></tr></thead><tbody valign="top"><tr><td rowspan="7" align="left" valign="top" colspan="1">Cytologic diagnosis</td><td align="left" valign="top" rowspan="1" colspan="1">FNA, <italic toggle="yes">n</italic> = 44</td><td align="left" valign="top" rowspan="1" colspan="1">ACC, <italic toggle="yes">n</italic> = 1<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>AdCC, <italic toggle="yes">n</italic> = 17<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>Papillary ca., <italic toggle="yes">n</italic> = 2</p>
+<p>Morphologic description only, <italic toggle="yes">n</italic> = 1</p>
+<p>AdCC/carcinoid/adenoca., <italic toggle="yes">n</italic> = 1</p>
+<p>AdCC/EMC, <italic toggle="yes">n</italic> = 1</p>
+<p>AdCC cannot be excluded, <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>MEC, <italic toggle="yes">n</italic> = 11<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>Morphologic description only, <italic toggle="yes">n</italic> = 2</p>
+<p>Adenosquamous ca., <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>EMC, <italic toggle="yes">n</italic> = 2<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>Small cell ca., <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">HCCC, <italic toggle="yes">n</italic> = 1<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Oncocytoma, <italic toggle="yes">n</italic> = 1<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>Metastatic hepatic ca./neuroendocrine tumor, <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bronchial/tracheal washing, <italic toggle="yes">n</italic> = 21</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<p>AdCC, <italic toggle="yes">n</italic> = 8<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>Malignant, <italic toggle="yes">n</italic> = 2</p>
+<p>Atypical cells, <italic toggle="yes">n</italic> = 2</p>
+<p>Suspicious for malignancy, <italic toggle="yes">n</italic> = 2</p>
+<p>Morphologic description only, <italic toggle="yes">n</italic> = 2</p>
+<p>Benign inflammatory, <italic toggle="yes">n</italic> = 1</p>
+<p>Not diagnostic of AdCC, <italic toggle="yes">n</italic> = 1</p>
+<p>Negative, <italic toggle="yes">n</italic> = 1</p>
+<p>Carcinoid/AdCC, <italic toggle="yes">n</italic> = 1</p>
+<p>AdCC cannot be excluded, <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bronchial brushing, <italic toggle="yes">n</italic> = 38</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<p>AdCC, <italic toggle="yes">n</italic> = 11<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>Atypia, <italic toggle="yes">n</italic> = 3</p>
+<p>Small cell ca., <italic toggle="yes">n</italic> = 2</p>
+<p>Positive for malignant cells, <italic toggle="yes">n</italic> = 2</p>
+<p>Morphologic description only, <italic toggle="yes">n</italic> = 2</p>
+<p>Negative, <italic toggle="yes">n</italic> = 2</p>
+<p>Not diagnostic of AdCC, <italic toggle="yes">n</italic> = 1</p>
+<p>Suspicious for AdCC, <italic toggle="yes">n</italic> = 1<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>Metastatic breast ca., <italic toggle="yes">n</italic> = 1</p>
+<p>Atypical cells, <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Negative, <italic toggle="yes">n</italic> = 5</p>
+<p>Nonsmall cell lung cancer, compatible with MEC, <italic toggle="yes">n</italic> = 1<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>Malignant, <italic toggle="yes">n</italic> = 1</p>
+<p>Poorly differentiated ca., <italic toggle="yes">n</italic> = 1</p>
+<p>Adenoca., <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Oncocytic neoplasia, <italic toggle="yes">n</italic> = 1</p>
+<p>Oncocytoma/oncocytic carcinoid, <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Morphologic description only, <italic toggle="yes">n</italic> = 1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BAL, <italic toggle="yes">n</italic> = 12</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Suspicious for AdCC, <italic toggle="yes">n</italic> = 1<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>Negative, <italic toggle="yes">n</italic> = 5</p>
+<p>Atypia, <italic toggle="yes">n</italic> = 2</p>
+<p>Inflammation, <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Nonsmall cell lung cancer, compatible with MEC, <italic toggle="yes">n</italic> = 1<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>Atypical squamous cells, <italic toggle="yes">n</italic> = 1</p>
+<p>Negative, <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Aspiration, <italic toggle="yes">n</italic> = 14</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Inflammation, <italic toggle="yes">n</italic> = 1</p>
+<p>Atypia, <italic toggle="yes">n</italic> = 1</p>
+<p>SG‐type neoplasia, <italic toggle="yes">n</italic> = 1</p>
+<p>Metastatic breast ca., <italic toggle="yes">n</italic> = 1</p>
+<p>Negative, <italic toggle="yes">n</italic> = 1</p>
+<p>Suspicious for ca., <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Negative, <italic toggle="yes">n</italic> = 3</p>
+<p>Poorly differentiated ca., <italic toggle="yes">n</italic> = 2</p>
+<p>Suspicious for ca., <italic toggle="yes">n</italic> = 1</p>
+<p>Atypical squamous cells, <italic toggle="yes">n</italic> = 1</p>
+<p>Suspicious for ca., <italic toggle="yes">n</italic> = 1</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sputum, <italic toggle="yes">n</italic> = 13</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Negative, <italic toggle="yes">n</italic> = 5</p>
+<p>Positive, <italic toggle="yes">n</italic> = 1<xref rid="cncy70153-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Negative, <italic toggle="yes">n</italic> = 7</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Not determined, <italic toggle="yes">n</italic> = 3</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Atypical cells, <italic toggle="yes">n</italic> = 1</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Morphologic description only, <italic toggle="yes">n</italic> = 1</td><td align="left" valign="top" rowspan="1" colspan="1">Morphologic description only, <italic toggle="yes">n</italic> = 1</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="cncy70153-ntgp-0002"><fn id="cncy70153-note-0002"><p>Abbreviations: ACC, acinic cell carcinoma; AdCC, adenoid cystic carcinoma; Adenoca., adenocarcinoma; BAL, bronchoalveolar lavage; ca., carcinoma; EMC, epithelial‐myoepithelial carcinoma; FNA, fine‐needle aspiration; HCCC, hyalinizing clear cell carcinoma; MEC, mucoepidermoid carcinoma; SG, salivary gland.</p></fn><fn id="cncy70153-note-0003"><label>
+<sup>a</sup>
+</label><p>True‐positive case.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="cncy70153-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Cytomorphologic features of the most common and rare entities in fine‐needle aspiration. (A) Adenoid cystic carcinoma is the most common pulmonary salivary gland tumor and were encountered in 67 histologically verified cases in the current meta‐analysis. The correct cytologic diagnosis was acquired in 38 analyzed cases. The presented case was originally diagnosed as suspicious for malignancy, with no specific entity given. (B) Mucoepidermoid carcinoma is the second most common entity. The photomicrograph shows low‐grade mucoepidermoid carcinoma originally classified as atypical in brushing cytology sample. (C) Myoepithelial carcinoma is a rare pulmonary salivary gland tumor. The presented case was diagnosed as suspicious for malignancy, highly probable large cell carcinoma, in a fine‐needle aspiration specimen. (D) Acinic cell carcinoma is also rare in pulmonary topography. The presented case was diagnosed as metastasis in a fine‐needle aspiration sample but was revealed as primary in a later fine‐needle aspiration (Papanicolaou stain in A–D; original magnification ×600 in A; ×400 in B, C, and D).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CNCY-134-0-g002.webp"><?image-name CNCY-134-0-g002.webp?><?image-size 93134?><?image-md5 afb417c0a799cd1b4b387255ab304c5f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 667?><?image-original-width 1064?><?image-scaled-height 667?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/39fb/13552385/afb417c0a799/CNCY-134-0-g002.webp?><?thumb-name CNCY-134-0-g002.gif?><?thumb-size 20312?><?thumb-md5 1f510f02c693041fdb623b5e1a5fb769?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 125?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/39fb/13552385/1f510f02c693/CNCY-134-0-g002.gif?></graphic></fig></sec><sec id="cncy70153-sec-0100"><title>Diagnostic accuracy</title><p>Overall, the final cytologic and histologic diagnoses were concordant in 48.1% of cases. Among the sampling methods, FNA demonstrated the highest overall cytohistologic concordance (75.0%), followed by bronchial/tracheal washing (38.1%), and bronchial brushing (34.2%), as shown in Table <xref rid="cncy70153-tbl-0004" ref-type="table">4</xref>.</p><table-wrap position="float" id="cncy70153-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Cytohistologic concordance according to cytologic sampling method in pulmonary salivary gland‐type tumors.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Final cytologic diagnosis</th><th align="left" valign="bottom" rowspan="1" colspan="1">Fine‐needle aspiration</th><th align="left" valign="bottom" rowspan="1" colspan="1">BAL</th><th align="left" valign="bottom" rowspan="1" colspan="1">Bronchial aspiration</th><th align="left" valign="bottom" rowspan="1" colspan="1">Bronchial/tracheal washing</th><th align="left" valign="bottom" rowspan="1" colspan="1">Bronchial brushing</th><th align="left" valign="bottom" rowspan="1" colspan="1">Sputum</th><th align="left" valign="bottom" rowspan="1" colspan="1">ND</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Diagnostic accuracy, %</td><td align="char" char="." valign="top" rowspan="1" colspan="1">48.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">75.0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">16.7</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">38.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">34.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">7.7</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0</td></tr></tbody></table><table-wrap-foot id="cncy70153-ntgp-0003"><fn id="cncy70153-note-0004"><p>Abbreviations: BAL, bronchoalveolar lavage; ND, not determined.</p></fn></table-wrap-foot></table-wrap><p>When comparing the two most common tumor types, pooled cytohistologic concordance was 56.7% (95% CI, 43.8%–69.6%; I<sup>2</sup> = 60.2%) for AdCC and 54.0% (95% CI, 29.9%–78.2%; I<sup>2</sup> = 69.5%) for MEC.</p><p>For AdCC, pooled diagnostic accuracy varied across sampling methods. FNA showed the highest pooled concordance rate (65.9%; 95% CI, 53.4%–78.4%; I<sup>2</sup> = 0%), followed by bronchial brushing (50.4%; 95% CI, 35.9%–65.0%; I<sup>2</sup> = 0%), and bronchial/tracheal washing (48.5%; 95% CI, 26.0%–71.0%; I<sup>2</sup> = 56.3%; Figure <xref rid="cncy70153-fig-0003" ref-type="fig">3A–C</xref>).</p><fig position="float" fig-type="FIGURE" id="cncy70153-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>(A) Forest plot showing the proportion of cases with concordance between FNA and histologically confirmed AdCC. Based on 23 cases, the pooled concordance rate was 65.9% (95% CI, 53.4%–78.4%) using a random‐effects model, with no observed heterogeneity (I<sup>2</sup> = 0.0%; <italic toggle="yes">p</italic> = .590). (B) Forest plot showing the proportion of cases with concordance between bronchial/tracheal washing cytology and histologically confirmed AdCC. Based on 20 cases, the pooled concordance rate was 48.5% (95% CI, 26.0%–71.0%) using a random‐effects model, with moderate heterogeneity (I<sup>2</sup> = 56.31%; <italic toggle="yes">p</italic> = .011). (C) Forest plot showing the proportion of cases with concordance between bronchial brushing cytology and histologically confirmed AdCC. Based on 26 cases, the pooled concordance rate was 50.4% (95% CI, 35.9%–65.0%) using a random‐effects model, with no observed heterogeneity (I<sup>2</sup> = 0.0%; <italic toggle="yes">p</italic> = .513). AdCC indicates adenoid cystic carcinoma; CI, confidence interval; Ev/Trt, events/total; FNA, fine‐needle aspiration; I<sup>2</sup>, inconsistency index.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CNCY-134-0-g001.webp"><?image-name CNCY-134-0-g001.webp?><?image-size 109256?><?image-md5 683710a1b2f16fff41d4013443a7848b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1544?><?image-original-width 1064?><?image-scaled-height 1544?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/39fb/13552385/683710a1b2f1/CNCY-134-0-g001.webp?><?thumb-name CNCY-134-0-g001.gif?><?thumb-size 6813?><?thumb-md5 cb1e49c9f635ccd7e7e4238ad018a361?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 200?><?thumb-scaled-width 138?><?thumb-cloudpmc-urn urn:cdn:blobs/39fb/13552385/cb1e49c9f635/CNCY-134-0-g001.gif?></graphic></fig></sec><sec id="cncy70153-sec-0110"><title>Treatment</title><p>Treatment data were available for 52 patients (49.1%). Surgery alone was the most common treatment modality, used in 35 patients (67.3%), followed by surgery combined with radiation therapy in seven patients (13.5%). Among patients with AdCC, multimodal treatment approaches were more common and included combinations of surgery, radiotherapy, and chemotherapy as well as single‐modality treatment. In contrast, patients with MEC were treated primarily with surgery alone. Rare histologic subtypes were generally treated with surgery. Table <xref rid="cncy70153-tbl-0005" ref-type="table">5</xref> summarizes treatment methods according to histologic diagnoses.</p><table-wrap position="float" id="cncy70153-tbl-0005" content-type="TABLE" orientation="portrait"><label>TABLE 5</label><caption><p>Treatment type according to the histologic diagnosis.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Histologic diagnosis</th><th align="left" valign="bottom" rowspan="1" colspan="1">Surgery</th><th align="left" valign="bottom" rowspan="1" colspan="1">Radiation</th><th align="left" valign="bottom" rowspan="1" colspan="1">Chemotherapy</th><th align="left" valign="bottom" rowspan="1" colspan="1">Surgery + radiation</th><th align="left" valign="bottom" rowspan="1" colspan="1">Surgery + chemotherapy</th><th align="left" valign="bottom" rowspan="1" colspan="1">Radiation + chemotherapy</th><th align="left" valign="bottom" rowspan="1" colspan="1">Surgery + radiation + chemotherapy</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Acinic cell carcinoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AdCC</td><td align="char" char="." valign="top" rowspan="1" colspan="1">15</td><td align="char" char="." valign="top" rowspan="1" colspan="1">4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EMC</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HCCC</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MEC</td><td align="char" char="." valign="top" rowspan="1" colspan="1">12</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Myoepithelial carcinoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Myoepithelioma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Oncocytoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Papillary mucous gland adenoma</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total</td><td align="char" char="." valign="top" rowspan="1" colspan="1">35</td><td align="char" char="." valign="top" rowspan="1" colspan="1">5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">7</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td></tr></tbody></table><table-wrap-foot id="cncy70153-ntgp-0004"><fn id="cncy70153-note-0005"><p>Abbreviations: AdCC, adenoid cystic carcinoma; EMC, epithelial‐myoepithelial carcinoma; HCCC, hyalinizing clear cell carcinoma; MEC, mucoepidermoid carcinoma.</p></fn></table-wrap-foot></table-wrap></sec><sec id="cncy70153-sec-0120"><title>Clinical follow‐up and outcome</title><p>Regarding the clinical outcomes of AdCC, 15 patients were reported to be disease‐free during follow‐up, with a median duration of 24 months (range, 8–108 months). Four deaths were reported in this group. Two patients died of the primary disease at 9 and 48 months after the initial diagnosis, whereas two patients died of unrelated causes. Local recurrence was observed in three patients at 48, 123, and 177 months after the initial diagnosis. In addition, distant metastases were reported in six patients at a median time of 34 months (range, 12–36 months) after the initial diagnosis.</p><p>Among patients with MEC, follow‐up data were available for 12. Of these, 10 patients were reported to be disease‐free, with a median follow‐up time of 13.5 months (range, 6–36 months), whereas two patients died 18 and 60 months after the initial diagnosis. Among patients with EMC, two remained disease‐free during 10‐month and 12‐month follow‐up periods, whereas one patient died 2.5 months after the initial diagnosis. Patients with single cases of HCCC and myoepithelial carcinoma were reported to be disease‐free during the 12‐month follow‐up period. In addition, one patient with acinic cell carcinoma remained disease‐free throughout the 4‐month follow‐up period.</p></sec></sec><sec id="cncy70153-sec-0130"><title>DISCUSSION</title><p>This systematic review and meta‐analysis aimed to evaluate the concordance between cytopathologic and histologic diagnoses in previously published patients with PSGT. In addition, the review aimed to summarize the diagnostic features and clinical characteristics of patients with PSGTs. In total, 49 case reports and small case series were identified, comprising 106 patients with histologically verified PSGTs and corresponding cytologic diagnoses.</p><p>Previous studies have demonstrated that MEC typically arises more distally in the tracheobronchial tree, whereas AdCC more commonly involves the central airways, particularly the trachea and main bronchi.<xref rid="cncy70153-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="cncy70153-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>, <xref rid="cncy70153-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> In the current review, tumor location demonstrated distinct patterns across histologic subtypes. AdCC was predominantly located in the central airways, whereas MEC exhibited a more peripheral and heterogeneous distribution, with tumors occurring in both the central bronchi and lung parenchyma.</p><p>These anatomic differences may partially explain the observed variation in clinical presentation. Dyspnea was more common in patients with AdCC than in those with MEC (40.0% vs. 27.3%), whereas cough was more frequently reported in patients with MEC (72.7% vs. 55.0%). Nevertheless, PSGTs cannot be reliably distinguished from other primary pulmonary tumors based on symptoms alone because the clinical presentation of lower airway PSGTs is generally dominated by nonspecific respiratory symptoms, particularly cough, dyspnea, and hemoptysis, whereas systemic or atypical symptoms are rare. In addition, some cases are asymptomatic and detected incidentally.<xref rid="cncy70153-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>
+</p><p>According to the fifth edition of the World Health Organization (WHO) classification of thoracic tumors,<xref rid="cncy70153-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> seven tumor subtypes are classified as PSGTs: pleomorphic adenoma, myoepithelioma, MEC, AdCC, EMC, HCCC, and myoepithelial carcinoma. In the current analysis, acinic cell carcinoma and oncocytoma were also included, although they are not classified as PSGTs in the WHO classification. However, both are well recognized salivary tumors of the major and minor salivary glands.</p><p>In addition, MGA was included in this study although it is classified as a pulmonary adenoma in the WHO classification. MGA is still thought to arise from the submucosal seromucous gland of the bronchi,<xref rid="cncy70153-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> and a study by Sasaki et al.<xref rid="cncy70153-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref> demonstrated high expression of salivary gland‐related genes by RNA sequencing. MGA is also an important differential diagnosis for low‐grade MEC. In the current study, MEC was the second most common histologic diagnosis after AdCC. Mucinous adenocarcinoma may mimic low‐grade MEC, whereas squamous cell carcinoma and adenosquamous carcinoma are differential diagnoses for high‐grade MEC.<xref rid="cncy70153-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="cncy70153-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Consistent with these observations, adenosquamous carcinoma and adenocarcinoma were among the false‐negative cytologic diagnoses in MEC cases in the current study.</p><p>For AdCC, adenocarcinoma is the main differential diagnosis.<xref rid="cncy70153-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="cncy70153-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> In addition, small cell carcinoma can be a differential diagnosis for cases in which basaloid cells are densely packed,<xref rid="cncy70153-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> as was seen in two cases in the current study. Furthermore, because of tracheal involvement and infiltrative growth, papillary carcinoma of the thyroid gland may also be considered a differential diagnosis in some cases of AdCC, as demonstrated in two studies included in this analysis.<xref rid="cncy70153-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="cncy70153-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+</p><p>In this systematic review, fewer than one half of PSGT cases showed concordance between the cytologic and histologic diagnoses. Among the sampling methods, FNA demonstrated the highest cytohistologic concordance (75.0%) compared with bronchial/tracheal washing (38.1%), bronchial brushing (34.2%), and BAL (16.7%). Notably, FNA and bronchial brushing showed no observed heterogeneity (I<sup>2</sup> = 0.0%) for AdCC, indicating highly consistent diagnostic performance across studies and increasing the reliability of the pooled estimates. In contrast, bronchial/tracheal washing showed moderate heterogeneity (I<sup>2</sup> = 56.3%), suggesting greater variability across studies and reducing the precision and generalizability of the pooled results. Deeper sampling techniques are more effective for obtaining diagnostic tumor cells from PSGTs beneath the intact mucosa.<xref rid="cncy70153-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> These findings are supported by previous studies of conventional primary pulmonary cancers. Sareen and Pandey<xref rid="cncy70153-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> evaluated 453 BAL/washing samples, 45 bronchial brushing specimens, and 52 computed tomography‐guided FNA specimens from pulmonary cancers and reported the highest sensitivity for FNA (87.25%), followed by bronchial brushing (86.67%), and BAL/washing (72.69%). Another study from India<xref rid="cncy70153-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> included 67 patients with lung cancer in whom BAL, bronchial brushing, and FNA were performed. Similarly, another study demonstrated that the sensitivity of BAL, bronchial brushing, and FNA was 47.6%, 65.1%, 88.9%, respectively. It also indicated that combining different cytologic methods can increase the diagnostic yield of lung tumor cytology.<xref rid="cncy70153-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>
+</p><p>Surgery is the primary treatment modality for PSGTs. In the current study, surgery alone was used in 35 patients (67.3%) who had available treatment data. Similarly, Kumar et al.<xref rid="cncy70153-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> analyzed 486 cases of primary pulmonary AdCC and 546 cases of pulmonary MEC and reported that 467 (45%) patients underwent surgery alone.</p><p>Radiation is occasionally used as adjuvant therapy with surgery in PSGTs. In this study, adjuvant radiotherapy combined with surgery was used in six patients who had of AdCC and one who had HCCC. In the study by Kumar et al. adjuvant radiotherapy was received by 21% of patients and was more commonly used in AdCC than in MEC.<xref rid="cncy70153-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> In the current study, six of seven patients treated with surgery and adjuvant radiotherapy had AdCC. Data on the use of chemotherapy remain limited because of the rarity of these tumors.<xref rid="cncy70153-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>In the study by Kumar et al.,<xref rid="cncy70153-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> data on chemotherapy were available for only 13% of patients, and only 43 patients received chemotherapy alone, limiting conclusions regarding its efficacy. Similarly, in the current analysis, chemotherapy was received by only five patients and was the sole treatment modality in only two patients.</p><p>Compared with conventional pulmonary carcinomas, PSGTs generally have a better prognosis. In the study by Wu et al.,<xref rid="cncy70153-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> the 5‐year overall survival rate and median survival were 41% and 121 months, respectively, for PSGTs, compared with 7% and 12 months, respectively, for pulmonary squamous cell carcinoma. In the same study, patients with pulmonary adenocarcinoma had a median survival of 14 months.</p><p>When comparing AdCC with MEC, AdCC has generally been associated with a poorer prognosis. In a study by Garg et al.,<xref rid="cncy70153-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref> 3‐year, 5‐year, and 10‐year overall survival rates were 93.8%, 90.0%, and 85.0%, respectively, for MEC and 76.7%, 62.8%, and 50.5%, respectively, for AdCC. Furthermore, AdCC was associated with higher rates of local recurrence and metastases. In the same study,<xref rid="cncy70153-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref> disease recurrence was observed in 12.9% of patients with MEC and in 37.5% of those with AdCC. Similarly, Kumar et al.<xref rid="cncy70153-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> reported that, after 5 years, the hazard ratio for AdCC was 3.3 times higher than that for MEC. However, Deb and Suster<xref rid="cncy70153-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref> demonstrated that high‐grade MEC has a significantly worse prognosis than low‐grade or intermediate‐grade MEC.</p><p>The findings of this study are generally consistent with those of previous studies, although the number of cases, was small and a more detailed analysis could not be conducted. Overall, AdCC was associated with a poorer prognosis and a higher frequency of local recurrences (<italic toggle="yes">n</italic> = 3) and distant metastases (<italic toggle="yes">n</italic> = 6).</p><p>A significant limitation of this study is that it is based on small case series and individual case reports. Interpretation of the findings is further limited by incomplete and heterogeneous reporting across the included studies. Therefore, broad conclusions cannot be drawn from these results. Future multi‐institutional studies with standardized and more comprehensive data collection are needed to obtain more robust evidence for further interpretation.</p><sec id="cncy70153-sec-0140"><title>Conclusion</title><p>In conclusion, this meta‐analysis demonstrated that FNA improves the diagnostic accuracy of these rare pulmonary tumors compared with exfoliative cytology. Further research is needed to better define the role of cytologic methods in the evaluation of these rare tumors.</p></sec></sec><sec id="cncy70153-sec-0150"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>Henri Lagerstam:</bold> Conceptualization, data curation, formal analysis, investigation, methodology, visualization; writing—original draft; and writing—review and editing. <bold>David Kalfert:</bold> Methodology; validation; formal analysis; investigation; data curation; writing—review and editing; and visualization. <bold>Ivana Kholová:</bold> Conceptualization; data curation; formal analysis; investigation; methodology; project administration; resources; visualization; supervision; validation; writing—original draft; and writing—review and editing.</p></sec><sec sec-type="COI-statement" id="cncy70153-sec-0170"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="cncy70153-sec-0160"><title>ACKNOWLEDGMENTS</title><p>We acknowledge Professor Jose Antonio Jimenez Heffernan for kindly providing Figure 2B. This study was funded by grants from the Foundation of the Finnish Anti‐Tuberculosis Association (to Henri Lagerstam and Ivana Kholová); the Tampere Tuberculosis Foundation (to Henri Lagerstam and Ivana Kholová); state funding for university‐level health research, Tampere University Hospital, Wellbeing Services County of Pirkanmaa (to Ivana Kholová); and the Cooperatio Program (David Kalfert). Open access publishing facilitated by Tampereen yliopisto ja Tampereen ammattikorkeakoulu, as part of the Wiley ‐ FinELib agreement.</p></ack><ref-list content-type="cited-references" id="cncy70153-bibl-0001"><title>REFERENCES</title><ref id="cncy70153-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cncy70153-cit-0001">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Clinical, laboratory, pathological, and radiological characteristics and prognosis of patients with pulmonary salivary gland‐type tumors</article-title>. <source>J Cancer Res Clin Oncol</source>. <year>2023</year>;<volume>149</volume>(<issue>7</issue>):<fpage>4025</fpage>‐<lpage>4039</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00432-022-04295-5</pub-id>
+<pub-id pub-id-type="pmid">36038675</pub-id>
+<pub-id pub-id-type="pmcid">PMC10314873</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cncy70153-cit-0002">
+<string-name name-style="western">
+<surname>Naso</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roden</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>Recent developments in the pathology of primary pulmonary salivary gland‐type tumours</article-title>. <source>Histopathology</source>. <year>2024</year>;<volume>84</volume>(<issue>1</issue>):<fpage>102</fpage>‐<lpage>123</lpage>. doi:<pub-id pub-id-type="doi">10.1111/his.15039</pub-id>
+<pub-id pub-id-type="pmid">37694812</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cncy70153-cit-0003">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilani</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Salivary gland‐type tumors of the lung</article-title>. <source>Arch Pathol Lab Med</source>. <year>2021</year>;<volume>145</volume>(<issue>11</issue>):<fpage>1379</fpage>‐<lpage>1386</lpage>. doi:<pub-id pub-id-type="doi">10.5858/arpa.2021-0093-RA</pub-id>
+<pub-id pub-id-type="pmid">34673911</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cncy70153-cit-0004">
+<string-name name-style="western">
+<surname>Saglietti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Volante</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>La Rosa</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Cytology of primary salivary gland‐type tumors of the lower respiratory tract: report of 15 cases and review of the literature</article-title>. <source>Front Med</source>. <year>2017</year>;<volume>4</volume>:<elocation-id>43</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fmed.2017.00043</pub-id>
+<pub-id pub-id-type="pmcid">PMC5402173</pub-id><pub-id pub-id-type="pmid">28484699</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cncy70153-cit-0005">
+<string-name name-style="western">
+<surname>Falk</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weissferdt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalhor</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moran</surname>
+<given-names>CA</given-names>
+</string-name>. <article-title>Primary pulmonary salivary gland‐type tumors: a review and update</article-title>. <source>Adv Anat Pathol</source>. <year>2016</year>;<volume>23</volume>(<issue>1</issue>):<fpage>13</fpage>‐<lpage>23</lpage>. doi:<pub-id pub-id-type="doi">10.1097/PAP.0000000000000099</pub-id>
+<pub-id pub-id-type="pmid">26645458</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cncy70153-cit-0006">
+<string-name name-style="western">
+<surname>Horio</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuroda</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masago</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsushita</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sasaki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fujiwara</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Current diagnosis and treatment of salivary gland‐type tumors of the lung</article-title>. <source>Jpn J Clin Oncol</source>. <year>2024</year>;<volume>54</volume>(<issue>3</issue>):<fpage>229</fpage>‐<lpage>247</lpage>. doi:<pub-id pub-id-type="doi">10.1093/jjco/hyad160</pub-id>
+<pub-id pub-id-type="pmid">38018262</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cncy70153-cit-0007">
+<string-name name-style="western">
+<surname>Kaur</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mitra</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dey</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Fine‐needle aspiration cytology of an adenoid cystic carcinoma of trachea: common tumor in uncommon location</article-title>. <source>Diagn Cytopathol</source>. <year>2019</year>;<volume>47</volume>(<issue>8</issue>):<fpage>808</fpage>‐<lpage>812</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.24182</pub-id>
+<pub-id pub-id-type="pmid">30953393</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cncy70153-cit-0008">
+<string-name name-style="western">
+<surname>Ng</surname>
+<given-names>JKM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tse</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>JJX</given-names>
+</string-name>. <article-title>Bronchial cytology of pulmonary adenoid cystic carcinoma—a multi‐institute series with emphasis on immunocytochemistry</article-title>. <source>Ann Diagn Pathol</source>. <year>2023</year>;<volume>64</volume>:<elocation-id>152132</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.anndiagpath.2023.152132</pub-id>
+<pub-id pub-id-type="pmid">36963153</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cncy70153-cit-0009">
+<string-name name-style="western">
+<surname>Kundu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Handa</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Punia</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dass</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saini</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Adenoid cystic carcinoma: a study of 19 cases of salivary and extra‐salivary tumours diagnosed by fine needle aspiration cytology</article-title>. <source>Diagn Cytopathol</source>. <year>2018</year>;<volume>46</volume>(<issue>12</issue>):<fpage>1004</fpage>‐<lpage>1009</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.24075</pub-id>
+<pub-id pub-id-type="pmid">30284389</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cncy70153-cit-0010">
+<string-name name-style="western">
+<surname>Buchanan</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fauck</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>RK</given-names>
+</string-name>. <article-title>Cytologic diagnosis of adenoid cystic carcinoma in tracheal wash specimens</article-title>. <source>Diagn Cytopathol</source>. <year>1988</year>;<volume>4</volume>:<fpage>130</fpage>‐<lpage>132</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.2840040210</pub-id>
+<pub-id pub-id-type="pmid">2854045</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cncy70153-cit-0011">
+<string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Modi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dorai</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guron</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>A rare case of lung carcinoma with mucoepidermoid histopathology: a case report and review of the literature</article-title>. <source>Ann Clin Lab Sci</source>. <year>2015</year>;<volume>45</volume>:<fpage>219</fpage>‐<lpage>221</lpage>.<pub-id pub-id-type="pmid">25887880</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cncy70153-cit-0012">
+<string-name name-style="western">
+<surname>Page</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKenzie</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bossuyt</surname>
+<given-names>PM</given-names>
+</string-name>, et al. <article-title>The PRISMA 2020 statement: an updated guideline for reporting systematic reviews</article-title>. <source>PLoS Med</source>. <year>2021</year>;<volume>18</volume>(<issue>3</issue>):<elocation-id>e1003583</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pmed.1003583</pub-id>
+<pub-id pub-id-type="pmid">33780438</pub-id>
+<pub-id pub-id-type="pmcid">PMC8007028</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0013"><label>13</label><mixed-citation publication-type="book" id="cncy70153-cit-0013">
+<string-name name-style="western">
+<surname>Bhalara</surname>
+<given-names>RV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gandhi</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Popat</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peshivadia</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhalodiya</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhruva</surname>
+<given-names>G</given-names>
+</string-name>. <part-title>A rare case about cytomorphology of primary adenoid cystic carcinoma of lung</part-title>. In: <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Anand</surname>
+<given-names>DA</given-names>
+</string-name>
+</person-group>, ed. <source>Issues and Developments in Medicine and Medical Research</source>. Vol. <volume>10</volume>. <publisher-name>B. P. International</publisher-name>; <year>2022</year>:<fpage>15</fpage>‐<lpage>22</lpage>. doi:<pub-id pub-id-type="doi">10.9734/bpi/idmmr/v10/1744B</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cncy70153-cit-0014">
+<string-name name-style="western">
+<surname>Chon</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oh</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shinn</surname>
+<given-names>SH</given-names>
+</string-name>. <article-title>Primary peripheral pulmonary adenoid cystic carcinoma: report of a case diagnosed by fine needle aspiration cytology</article-title>. <source>Diagn Cytopathol</source>. <year>2011</year>;<volume>39</volume>(<issue>4</issue>):<fpage>283</fpage>‐<lpage>287</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.21409</pub-id>
+<pub-id pub-id-type="pmid">20607807</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cncy70153-cit-0015">
+<string-name name-style="western">
+<surname>Chuah</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lim</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koh</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>HW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yap</surname>
+<given-names>WM</given-names>
+</string-name>. <article-title>Diagnosis of adenoid cystic carcinoma of the lung by bronchial brushing: a case report</article-title>. <source>Acta Cytol</source>. <year>2007</year>;<volume>51</volume>(<issue>4</issue>):<fpage>563</fpage>‐<lpage>566</lpage>. doi:<pub-id pub-id-type="doi">10.1159/000325795</pub-id>
+<pub-id pub-id-type="pmid">17718122</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cncy70153-cit-0016">
+<string-name name-style="western">
+<surname>Daneshbod</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Modjtahedi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atefi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bedayat</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daneshbod</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Exfoliative cytologic findings of primary pulmonary adenoid cystic carcinoma: a report of 2 cases with a review of the cytologic features</article-title>. <source>Acta Cytol</source>. <year>2007</year>;<volume>51</volume>(<issue>4</issue>):<fpage>558</fpage>‐<lpage>562</lpage>. doi:<pub-id pub-id-type="doi">10.1159/000325794</pub-id>
+<pub-id pub-id-type="pmid">17718121</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cncy70153-cit-0017">
+<string-name name-style="western">
+<surname>Fei</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Adenoid cystic carcinoma of trachea mimicking a thyroid follicular tumor: a case report and literature review</article-title>. <source>Radiol Case Rep</source>. <year>2024</year>;<volume>19</volume>(<issue>12</issue>):<fpage>5653</fpage>‐<lpage>5657</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.radcr.2024.08.085</pub-id>
+<pub-id pub-id-type="pmid">39296750</pub-id>
+<pub-id pub-id-type="pmcid">PMC11406798</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cncy70153-cit-0018">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>A case of solid variant of adenoid cystic carcinoma from trachea: a case report and review of literature</article-title>. <source>Onco Targets Ther</source>. <year>2021</year>;<volume>14</volume>:<fpage>1997</fpage>‐<lpage>2002</lpage>. doi:<pub-id pub-id-type="doi">10.2147/OTT.S296400</pub-id>
+<pub-id pub-id-type="pmid">33776449</pub-id>
+<pub-id pub-id-type="pmcid">PMC7987321</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cncy70153-cit-0019">
+<string-name name-style="western">
+<surname>Ishikawa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fujisawa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yasumura</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Histopathology and cytology of pulmonary myoepithelial neoplasms: 2 cases</article-title>. <source>Case Rep Oncol</source>. <year>2022</year>;<volume>15</volume>:<fpage>599</fpage>‐<lpage>605</lpage>. doi:<pub-id pub-id-type="doi">10.1159/000524769</pub-id>
+<pub-id pub-id-type="pmid">35949910</pub-id>
+<pub-id pub-id-type="pmcid">PMC9247487</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cncy70153-cit-0020">
+<string-name name-style="western">
+<surname>Jayaprakash</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kishanprasad</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ismail</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raju</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dasguptha</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Mucoepidermoid lung carcinoma in child</article-title>. <source>Ann Med Health Sci Res</source>. <year>2014</year>;<volume>4</volume>(<issue>2</issue>):<fpage>276</fpage>‐<lpage>278</lpage>. doi:<pub-id pub-id-type="doi">10.4103/2141-9248.129063</pub-id>
+<pub-id pub-id-type="pmid">24761253</pub-id>
+<pub-id pub-id-type="pmcid">PMC3991955</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cncy70153-cit-0021">
+<string-name name-style="western">
+<surname>Jikuzono</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suzuki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishibashi</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Clinical utility of fine‐needle aspiration cytology for adenoid cystic carcinoma of the trachea with thyroid invasion: a case report</article-title>. <source>J Nippon Med Sch</source>. <year>2022</year>;<volume>89</volume>(<issue>4</issue>):<fpage>460</fpage>‐<lpage>465</lpage>. doi:<pub-id pub-id-type="doi">10.1272/jnms.JNMS.2022_89-207</pub-id>
+<pub-id pub-id-type="pmid">33867428</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cncy70153-cit-0022">
+<string-name name-style="western">
+<surname>Kagotani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishida</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoshida</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iwai</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okabe</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Cytological features of dedifferentiated adenoid cystic carcinoma of the trachea: a case report</article-title>. <source>Diagn Cytopathol</source>. <year>2014</year>;<volume>42</volume>(<issue>10</issue>):<fpage>880</fpage>‐<lpage>883</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.23064</pub-id>
+<pub-id pub-id-type="pmid">24574373</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cncy70153-cit-0023">
+<string-name name-style="western">
+<surname>Kapatia</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rajasekaran</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rohilla</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Fine‐needle aspiration cytology of extra‐salivary adenoid cystic carcinoma</article-title>. <source>Cytopathology</source>. <year>2020</year>;<volume>31</volume>(<issue>3</issue>):<fpage>215</fpage>‐<lpage>222</lpage>. doi:<pub-id pub-id-type="doi">10.1111/cyt.12789</pub-id>
+<pub-id pub-id-type="pmid">31743547</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cncy70153-cit-0024">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kwon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Bronchial brushing cytologic finding of primary pulmonary adenoid cystic carcinoma misinterpreted as small cell carcinoma—a case report with literature review</article-title>. <source>Korean J Pathol</source>. <year>2011</year>;<volume>45</volume>(<issue>4</issue>):<elocation-id>441</elocation-id>. doi:<pub-id pub-id-type="doi">10.4132/KoreanJPathol.2011.45.4.441</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cncy70153-cit-0025">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Comprehensive cytomorphologic analysis of pulmonary adenoid cystic carcinoma: comparison to small cell carcinoma and non‐pulmonary adenoid cystic carcinoma</article-title>. <source>J Pathol Transl Med</source>. <year>2015</year>;<volume>49</volume>(<issue>6</issue>):<fpage>511</fpage>‐<lpage>519</lpage>. doi:<pub-id pub-id-type="doi">10.4132/jptm.2015.09.07</pub-id>
+<pub-id pub-id-type="pmid">26477588</pub-id>
+<pub-id pub-id-type="pmcid">PMC4696527</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cncy70153-cit-0026">
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monabati</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Bronchial oncocytoma diagnosed by brushing cytology</article-title>. <source>Acta Cytol</source>. <year>1998</year>;<volume>42</volume>:<fpage>1056</fpage>‐<lpage>1057</lpage>.<pub-id pub-id-type="pmid">9684608</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cncy70153-cit-0027">
+<string-name name-style="western">
+<surname>Mohammadnia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hosseinzadeh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohammadzadeh</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Tracheal adenoid cystic carcinoma presented with chronic asthma diagnosed by bronchial washing cytology</article-title>. <source>Case Rep Med</source>. <year>2020</year>;<volume>2020</volume>:<elocation-id>6543097</elocation-id>. doi:<pub-id pub-id-type="doi">10.1155/2020/6543097</pub-id>
+<pub-id pub-id-type="pmid">32015749</pub-id>
+<pub-id pub-id-type="pmcid">PMC6988659</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cncy70153-cit-0028">
+<string-name name-style="western">
+<surname>Nuwal</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dixit</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singhal</surname>
+<given-names>AK</given-names>
+</string-name>. <article-title>Primary adenoid cystic carcinoma of trachea presenting as midline neck swelling and mimicking thyroid tumor: a case report and review of literature</article-title>. <source>Lung India</source>. <year>2010</year>;<volume>27</volume>(<issue>3</issue>):<fpage>167</fpage>‐<lpage>169</lpage>. doi:<pub-id pub-id-type="doi">10.4103/0970-2113.68330</pub-id>
+<pub-id pub-id-type="pmid">20931039</pub-id>
+<pub-id pub-id-type="pmcid">PMC2946722</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cncy70153-cit-0029">
+<string-name name-style="western">
+<surname>Radhika</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dey</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rajwanshi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guleria</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhusnurmath</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Adenoid cystic carcinoma in a bronchial washing. A case report</article-title>. <source>Acta Cytol</source>. <year>1993</year>;<volume>37</volume>:<fpage>97</fpage>‐<lpage>99</lpage>.<pub-id pub-id-type="pmid">7679538</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cncy70153-cit-0030">
+<string-name name-style="western">
+<surname>Vallonthaiel</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>c‐Myb overexpression in cytology smears of tracheobronchial and pulmonary adenoid cystic carcinomas</article-title>. <source>Acta Cytol</source>. <year>2017</year>;<volume>61</volume>(<issue>1</issue>):<fpage>77</fpage>‐<lpage>83</lpage>. doi:<pub-id pub-id-type="doi">10.1159/000453103</pub-id>
+<pub-id pub-id-type="pmid">27974718</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cncy70153-cit-0031">
+<string-name name-style="western">
+<surname>Watanabe</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ono</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoshi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanzawa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishida</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Fine‐needle aspiration cytology of bronchial acinic cell carcinoma: a case report</article-title>. <source>Diagn Cytopathol</source>. <year>2004</year>;<volume>30</volume>(<issue>5</issue>):<fpage>359</fpage>‐<lpage>361</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.20054</pub-id>
+<pub-id pub-id-type="pmid">15108238</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cncy70153-cit-0032">
+<string-name name-style="western">
+<surname>Yokouchi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otsuka</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otoguro</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Primary peripheral adenoid cystic carcinoma of the lung and literature comparison of features</article-title>. <source>Intern Med</source>. <year>2007</year>;<volume>46</volume>(<issue>21</issue>):<fpage>1799</fpage>‐<lpage>1803</lpage>. doi:<pub-id pub-id-type="doi">10.2169/internalmedicine.46.0331</pub-id>
+<pub-id pub-id-type="pmid">17978538</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cncy70153-cit-0033">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>A cytodiagnosis of adenoid cystic carcinoma of the tracheobronchial tree through a systematic clinical case comparison and analysis</article-title>. <source>BMC Pulm Med</source>. <year>2023</year>;<volume>23</volume>(<issue>1</issue>):<fpage>334</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s12890-023-02628-9</pub-id>
+<pub-id pub-id-type="pmid">37684618</pub-id>
+<pub-id pub-id-type="pmcid">PMC10492350</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cncy70153-cit-0034">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Challenges in diagnosis of pulmonary mucoepidermoid carcinoma: a case report</article-title>. <source>Medicine (Baltimore)</source>. <year>2019</year>;<volume>98</volume>(<issue>44</issue>):<elocation-id>e17684</elocation-id>. doi:<pub-id pub-id-type="doi">10.1097/MD.0000000000017684</pub-id>
+<pub-id pub-id-type="pmid">31689789</pub-id>
+<pub-id pub-id-type="pmcid">PMC6946499</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cncy70153-cit-0035">
+<string-name name-style="western">
+<surname>Charles</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murray</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gray</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Pulmonary epithelial‐myoepithelial carcinoma (P‐EMC) with focal high grade transformation: molecular and cytologic findings</article-title>. <source>Diagn Cytopathol</source>. <year>2022</year>;<volume>50</volume>(<issue>6</issue>):<fpage>E156</fpage>‐<lpage>E162</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.24936</pub-id>
+<pub-id pub-id-type="pmid">35100487</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cncy70153-cit-0036">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>KT</given-names>
+</string-name>. <article-title>Exfoliative cytology of tracheobronchial adenoid cystic carcinoma</article-title>. <source>Diagn Cytopathol</source>. <year>1996</year>;<volume>15</volume>(<issue>2</issue>):<fpage>132</fpage>‐<lpage>135</lpage>. doi:<pub-id pub-id-type="doi">10.1002/(sici)1097-0339(199608)15:2&lt;132::aid-dc10&gt;3.0.co;2-i</pub-id>
+<pub-id pub-id-type="pmid">8872436</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cncy70153-cit-0037">
+<string-name name-style="western">
+<surname>Cwierzyk</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glasberg</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Virshup</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cranmer</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Pulmonary oncocytoma. Report of a case with cytologic, histologic and electron microscopic study</article-title>. <source>Acta Cytol</source>. <year>1985</year>;<volume>29</volume>:<fpage>620</fpage>‐<lpage>623</lpage>.<pub-id pub-id-type="pmid">2992204</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cncy70153-cit-0038">
+<string-name name-style="western">
+<surname>Doxtader</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shah</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dyhdalo</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farver</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Primary salivary gland‐type tumors of the tracheobronchial tree diagnosed by transbronchial fine needle aspiration: clinical and cytomorphologic features with histopathologic correlation</article-title>. <source>Diagn Cytopathol</source>. <year>2019</year>;<volume>47</volume>(<issue>11</issue>):<fpage>1168</fpage>‐<lpage>1176</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.24285</pub-id>
+<pub-id pub-id-type="pmid">31343850</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cncy70153-cit-0039">
+<string-name name-style="western">
+<surname>Dyhdalo</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Endobronchial ultrasound‐guided fine‐needle aspiration cytology of bronchial low‐grade mucoepidermoid carcinoma: rapid on‐site evaluation of cytopathologic findings</article-title>. <source>Diagn Cytopathol</source>. <year>2013</year>;<volume>41</volume>(<issue>12</issue>):<fpage>1096</fpage>‐<lpage>1099</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.22928</pub-id>
+<pub-id pub-id-type="pmid">23008143</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cncy70153-cit-0040">
+<string-name name-style="western">
+<surname>Florentine</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fink</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Avidan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braslavsky</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raza</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cobb</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>Extra‐salivary gland presentations of adenoid cystic carcinoma: a report of three cases</article-title>. <source>Diagn Cytopathol</source>. <year>2006</year>;<volume>34</volume>(<issue>7</issue>):<fpage>491</fpage>‐<lpage>494</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.20500</pub-id>
+<pub-id pub-id-type="pmid">16783770</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cncy70153-cit-0041">
+<string-name name-style="western">
+<surname>Idowu</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reiter</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Powers</surname>
+<given-names>CN</given-names>
+</string-name>. <article-title>Adenoid cystic carcinoma: a pitfall in aspiration cytology of the thyroid</article-title>. <source>Am J Clin Pathol</source>. <year>2004</year>;<volume>121</volume>(<issue>4</issue>):<fpage>551</fpage>‐<lpage>556</lpage>. doi:<pub-id pub-id-type="doi">10.1309/NKED-4TJX-UENR-21M2</pub-id>
+<pub-id pub-id-type="pmid">15080307</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cncy70153-cit-0042">
+<string-name name-style="western">
+<surname>Lozowski</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mishriki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solitare</surname>
+<given-names>GB</given-names>
+</string-name>. <article-title>Cytopathologic features of adenoid cystic carcinoma. Case report and literature review</article-title>. <source>Acta Cytol</source>. <year>1983</year>;<volume>27</volume>:<fpage>317</fpage>‐<lpage>322</lpage>.<pub-id pub-id-type="pmid">6306972</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cncy70153-cit-0043">
+<string-name name-style="western">
+<surname>Monaco</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khalbuss</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ustinova</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The cytomorphologic spectrum of salivary gland type tumors in the lung and mediastinum: a report of 16 patients</article-title>. <source>Diagn Cytopathol</source>. <year>2012</year>;<volume>40</volume>(<issue>12</issue>):<fpage>1062</fpage>‐<lpage>1070</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.21733</pub-id>
+<pub-id pub-id-type="pmid">21591276</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cncy70153-cit-0044">
+<string-name name-style="western">
+<surname>Nguyen</surname>
+<given-names>GK</given-names>
+</string-name>. <article-title>Cytology of bronchial gland carcinoma</article-title>. <source>Acta Cytol</source>. <year>1988</year>;<volume>32</volume>(<issue>2</issue>):<fpage>235</fpage>‐<lpage>239</lpage>.<pub-id pub-id-type="pmid">2831689</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cncy70153-cit-0045">
+<string-name name-style="western">
+<surname>Puzyrenko</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shponka</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheinin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giorgadze</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nomani</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Primary pulmonary mucoepidermoid carcinoma: cyto‐histologic correlation and review of the literature</article-title>. <source>Ann Diagn Pathol</source>. <year>2021</year>;<volume>51</volume>:<elocation-id>151698</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.anndiagpath.2020.151698</pub-id>
+<pub-id pub-id-type="pmid">33450549</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cncy70153-cit-0046">
+<string-name name-style="western">
+<surname>Qiu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nampoothiri</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaharopoulos</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Logroño</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Primary pulmonary adenoid cystic carcinoma: report of a case diagnosed by fine‐needle aspiration cytology</article-title>. <source>Diagn Cytopathol</source>. <year>2004</year>;<volume>30</volume>(<issue>1</issue>):<fpage>51</fpage>‐<lpage>56</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.10422</pub-id>
+<pub-id pub-id-type="pmid">14696146</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cncy70153-cit-0047">
+<string-name name-style="western">
+<surname>Scherl</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alon</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karle</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clain</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khorsandi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Urken</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Rare tracheal tumors and lesions initially diagnosed as isolated differentiated thyroid cancers</article-title>. <source>Thyroid</source>. <year>2013</year>;<volume>23</volume>:<fpage>79</fpage>‐<lpage>83</lpage>. doi:<pub-id pub-id-type="doi">10.1089/thy.2012.0192</pub-id>
+<pub-id pub-id-type="pmid">23072609</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cncy70153-cit-0048">
+<string-name name-style="western">
+<surname>Segletes</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steffee</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geisinger</surname>
+<given-names>KR</given-names>
+</string-name>. <article-title>Cytology of primary pulmonary mucoepidermoid and adenoid cystic carcinoma. a report of four cases</article-title>. <source>Acta Cytol</source>. <year>1999</year>;<volume>43</volume>(<issue>6</issue>):<fpage>1091</fpage>‐<lpage>1097</lpage>. doi:<pub-id pub-id-type="doi">10.1159/000331358</pub-id>
+<pub-id pub-id-type="pmid">10578983</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cncy70153-cit-0049">
+<string-name name-style="western">
+<surname>Tao</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>DI</given-names>
+</string-name>. <article-title>Cytologic diagnosis of bronchial mucoepidermoid carcinoma by fine needle aspiration biopsy</article-title>. <source>Acta Cytol</source>. <year>1978</year>;<volume>22</volume>:<fpage>221</fpage>‐<lpage>224</lpage>.<pub-id pub-id-type="pmid">281824</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cncy70153-cit-0050">
+<string-name name-style="western">
+<surname>White</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Askeland</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bohy</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>A rare case of primary pulmonary adenoid cystic carcinoma and the diagnostic challenges on cytology</article-title>. <source>S D Med</source>. <year>2021</year>;<volume>74</volume>:<fpage>329</fpage>‐<lpage>331</lpage>.<pub-id pub-id-type="pmid">34449997</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cncy70153-cit-0051">
+<string-name name-style="western">
+<surname>Brooks</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baandrup</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Peripheral low‐grade mucoepidermoid carcinoma of the lung—needle aspiration cytodiagnosis and histology</article-title>. <source>Cytopathology</source>. <year>1992</year>;<volume>3</volume>(<issue>4</issue>):<fpage>259</fpage>‐<lpage>265</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1365-2303.1992.tb00516.x</pub-id>
+<pub-id pub-id-type="pmid">1421009</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="cncy70153-cit-0052">
+<string-name name-style="western">
+<surname>Delpiano</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claren</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sironi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cenacchi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spinelli</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Cytological appearance of papillary mucous gland adenoma of the left lobar bronchus with histological confirmation</article-title>. <source>Cytopathology</source>. <year>2000</year>;<volume>11</volume>:<fpage>193</fpage>‐<lpage>196</lpage>. doi:<pub-id pub-id-type="doi">10.1046/j.1365-2303.2000.00243.x</pub-id>
+<pub-id pub-id-type="pmid">10877281</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cncy70153-cit-0053">
+<string-name name-style="western">
+<surname>Kukwa</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Korzeń</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wojtowicz</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Tracheal adenoid cystic carcinoma mimicking a thyroid tumor: a case report</article-title>. <source>Oncol Lett</source>. <year>2014</year>;<volume>8</volume>(<issue>3</issue>):<fpage>1312</fpage>‐<lpage>1316</lpage>. doi:<pub-id pub-id-type="doi">10.3892/ol.2014.2282</pub-id>
+<pub-id pub-id-type="pmid">25120714</pub-id>
+<pub-id pub-id-type="pmcid">PMC4114646</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="cncy70153-cit-0054">
+<string-name name-style="western">
+<surname>Laforga</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aranda</surname>
+<given-names>FI</given-names>
+</string-name>. <article-title>Multicentric oncocytoma of the lung diagnosed by fine‐needle aspiration</article-title>. <source>Diagn Cytopathol</source>. <year>1999</year>;<volume>21</volume>(<issue>1</issue>):<fpage>51</fpage>‐<lpage>54</lpage>. doi:<pub-id pub-id-type="doi">10.1002/(sici)1097-0339(199907)21:1&lt;51::aid-dc14&gt;3.0.co;2-y</pub-id>
+<pub-id pub-id-type="pmid">10405810</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="cncy70153-cit-0055">
+<string-name name-style="western">
+<surname>Romagosa</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morente</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramírez</surname>
+<given-names>JF</given-names>
+</string-name>, et al. <article-title>Intranuclear inclusions in fine needle aspirates of bronchial low grade mucoepidermoid carcinoma with clear cell change: a report of two cases</article-title>. <source>Acta Cytol</source>. <year>2002</year>;<volume>46</volume>(<issue>1</issue>):<fpage>57</fpage>‐<lpage>60</lpage>. doi:<pub-id pub-id-type="doi">10.1159/000326717</pub-id>
+<pub-id pub-id-type="pmid">11843560</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="cncy70153-cit-0056">
+<string-name name-style="western">
+<surname>Özkara</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turan</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Fine needle aspiration cytopathology of primary solid adenoid cystic carcinoma of the lung: a case report</article-title>. <source>Acta Cytol</source>. <year>2009</year>;<volume>53</volume>(<issue>6</issue>):<fpage>707</fpage>‐<lpage>710</lpage>. doi:<pub-id pub-id-type="doi">10.1159/000325416</pub-id>
+<pub-id pub-id-type="pmid">20014565</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="cncy70153-cit-0057">
+<string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McHutchison</surname>
+<given-names>AG</given-names>
+</string-name>. <article-title>Cytologic findings of adenoid cystic carcinoma in a tracheal wash specimen</article-title>. <source>Diagn Cytopathol</source>. <year>1992</year>;<volume>8</volume>(<issue>2</issue>):<fpage>196</fpage>‐<lpage>197</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.2840080222</pub-id>
+<pub-id pub-id-type="pmid">1314732</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="cncy70153-cit-0058">
+<string-name name-style="western">
+<surname>Ayed</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tbini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riahi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Idriss</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salah</surname>
+<given-names>MB</given-names>
+</string-name>. <article-title>Tracheal adenoid cystic carcinoma presenting as a locally advanced thyroid gland carcinoma</article-title>. <source>Radiol Case Rep</source>. <year>2024</year>;<volume>20</volume>(<issue>3</issue>):<fpage>1406</fpage>‐<lpage>1409</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.radcr.2024.11.058</pub-id>
+<pub-id pub-id-type="pmid">39807115</pub-id>
+<pub-id pub-id-type="pmcid">PMC11728663</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="cncy70153-cit-0059">
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soni</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garg</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>A comparative study of primary adenoid cystic and mucoepidermoid carcinoma of lung</article-title>. <source>Front Oncol</source>. <year>2018</year>;<volume>8</volume>:<elocation-id>153</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fonc.2018.00153</pub-id>
+<pub-id pub-id-type="pmid">29868475</pub-id>
+<pub-id pub-id-type="pmcid">PMC5962707</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="cncy70153-cit-0060">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yi</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>CT features and differential diagnosis of primary pulmonary mucoepidermoid carcinoma and pulmonary adenoid cystic carcinoma</article-title>. <source>J Thorac Dis</source>. <year>2018</year>;<volume>10</volume>(<issue>12</issue>):<fpage>6501</fpage>‐<lpage>6508</lpage>. doi:<pub-id pub-id-type="doi">10.21037/jtd.2018.11.71</pub-id>
+<pub-id pub-id-type="pmid">30746194</pub-id>
+<pub-id pub-id-type="pmcid">PMC6344748</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="cncy70153-cit-0061">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Radiological and clinical features and outcomes of patients with primary pulmonary salivary gland‐type tumors</article-title>. <source>Can Respir J</source>. <year>2019</year>;<volume>2019</volume>:<fpage>1</fpage>‐<lpage>10</lpage>. doi:<pub-id pub-id-type="doi">10.1155/2019/1475024</pub-id>
+<pub-id pub-id-type="pmcid">PMC6466881</pub-id><pub-id pub-id-type="pmid">31065298</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="cncy70153-cit-0062">
+<collab collab-type="authors">World Health Organization (WHO) Classification of Tumours Editorial Board</collab>
+. <part-title>Thoracic Tumours. WHO Classification of Tumours</part-title>. In: <source>International Agency for Research on Cancer</source>. <edition>5th ed.</edition> Vol. <volume>5</volume>. <year>2021</year>.</mixed-citation></ref><ref id="cncy70153-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="cncy70153-cit-0063">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>XT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>XF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>XY</given-names>
+</string-name>. <article-title>Peripheral mucous gland adenoma of the lung with parenchymal involvement and smooth muscle in the stroma: a rare case report and literature review</article-title>. <source>Medicine (Baltimore)</source>. <year>2018</year>;<volume>97</volume>(<issue>3</issue>):<elocation-id>e9597</elocation-id>. doi:<pub-id pub-id-type="doi">10.1097/MD.0000000000009597</pub-id>
+<pub-id pub-id-type="pmid">29504983</pub-id>
+<pub-id pub-id-type="pmcid">PMC5779752</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="cncy70153-cit-0064">
+<string-name name-style="western">
+<surname>Sasaki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masago</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kogure</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Mucous gland adenoma of the lung: a neoplastic counterpart of mucinous bronchial glands</article-title>. <source>Mod Pathol</source>. <year>2023</year>;<volume>36</volume>(<issue>6</issue>):<elocation-id>100182</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.modpat.2023.100182</pub-id>
+<pub-id pub-id-type="pmid">37028599</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0065"><label>65</label><mixed-citation publication-type="book" id="cncy70153-cit-0065">
+<collab collab-type="authors">International Academy of Cytology (IAC)‐International Agency for Research on Cancer (IARC)‐World Health Organization (WHO) Joint Editorial Board WHO Reporting System for Lung Cytopathology</collab>
+. <source>IAC‐IARC‐WHO Cytopathology Systems</source>. <edition>1st ed.</edition> Vol. <volume>1</volume>. <publisher-name>IARC</publisher-name>; <year>2022</year>.</mixed-citation></ref><ref id="cncy70153-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="cncy70153-cit-0066">
+<string-name name-style="western">
+<surname>Sareen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pandey</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Lung malignancy: diagnostic accuracies of bronchoalveolar lavage, bronchial brushing, and fine needle aspiration cytology</article-title>. <source>Lung India</source>. <year>2016</year>;<volume>33</volume>(<issue>6</issue>):<fpage>635</fpage>‐<lpage>641</lpage>. doi:<pub-id pub-id-type="doi">10.4103/0970-2113.192882</pub-id>
+<pub-id pub-id-type="pmid">27890992</pub-id>
+<pub-id pub-id-type="pmcid">PMC5112820</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="cncy70153-cit-0067">
+<string-name name-style="western">
+<surname>Tomar</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vijay</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nuwal</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dixit</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Comparative study of bronchoalveolar lavage, bronchial brushing, and FNAC in diagnosing malignant neoplasms of lungs</article-title>. <source>J Cytol</source>. <year>2016</year>;<volume>33</volume>(<issue>4</issue>):<fpage>210</fpage>. doi:<pub-id pub-id-type="doi">10.4103/0970-9371.190448</pub-id>
+<pub-id pub-id-type="pmid">28028336</pub-id>
+<pub-id pub-id-type="pmcid">PMC5156984</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="cncy70153-cit-0068">
+<string-name name-style="western">
+<surname>Garg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Handa</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janmeja</surname>
+<given-names>AK</given-names>
+</string-name>. <article-title>Comparative analysis of various cytohistological techniques in diagnosis of lung diseases</article-title>. <source>Diagn Cytopathol</source>. <year>2007</year>;<volume>35</volume>(<issue>1</issue>):<fpage>26</fpage>‐<lpage>31</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dc.20577</pub-id>
+<pub-id pub-id-type="pmid">17173290</pub-id>
+</mixed-citation></ref><ref id="cncy70153-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="cncy70153-cit-0069">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qian</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>CW</given-names>
+</string-name>, et al. <article-title>The clinical and prognostic characteristics of primary salivary gland‐type carcinoma in the lung: a population‐based study</article-title>. <source>Cancers (Basel)</source>. <year>2022</year>;<volume>14</volume>(<issue>19</issue>):<elocation-id>4668</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/cancers14194668</pub-id>
+<pub-id pub-id-type="pmid">36230589</pub-id>
+<pub-id pub-id-type="pmcid">PMC9564309</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="cncy70153-cit-0070">
+<string-name name-style="western">
+<surname>Garg</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rai</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jakhetiya</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Primary salivary gland‐type tumors of the lung: a systematic review and pooled analysis</article-title>. <source>Lung India</source>. <year>2019</year>;<volume>36</volume>(<issue>2</issue>):<fpage>118</fpage>‐<lpage>122</lpage>. doi:<pub-id pub-id-type="doi">10.4103/lungindia.lungindia_284_18</pub-id>
+<pub-id pub-id-type="pmid">30829245</pub-id>
+<pub-id pub-id-type="pmcid">PMC6410586</pub-id></mixed-citation></ref><ref id="cncy70153-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="cncy70153-cit-0071">
+<string-name name-style="western">
+<surname>Deb</surname>
+<given-names>PQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suster</surname>
+<given-names>DI</given-names>
+</string-name>. <article-title>Outcome of primary lung salivary gland‐type carcinoma: a population‐based study</article-title>. <source>Int J Surg Pathol</source>. <year>2025</year>;<volume>33</volume>(<issue>1</issue>):<fpage>49</fpage>‐<lpage>58</lpage>. doi:<pub-id pub-id-type="doi">10.1177/10668969241256107</pub-id>
+<pub-id pub-id-type="pmid">38839261</pub-id>
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,736 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="ijod4230936" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Dent</journal-id><journal-id journal-id-type="iso-abbrev">Int J Dent</journal-id><journal-id journal-id-type="pmc-domain-id">1197</journal-id><journal-id journal-id-type="pmc-domain">ijd</journal-id><journal-id journal-id-type="nlm-id">101524183</journal-id><journal-id journal-id-type="publisher-id">IJOD</journal-id><journal-title-group><journal-title>International Journal of Dentistry</journal-title></journal-title-group><issn pub-type="ppub">1687-8728</issn><issn pub-type="epub">1687-8736</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13519956</article-id><article-id pub-id-type="pmcid-ver">PMC13519956.1</article-id><article-id pub-id-type="pmcaid">13519956</article-id><article-id pub-id-type="pmcaiid">13519956</article-id><article-id pub-id-type="pmid">42662148</article-id><article-id pub-id-type="doi">10.1155/ijod/4230936</article-id><article-id pub-id-type="publisher-id">IJOD4230936</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Anti‐Fibrotic MicroRNA‐Based Intervention in Oral Submucous Fibrosis: A Scoping Review</article-title></title-group><contrib-group><contrib id="cr-0001" contrib-type="author"><name name-style="western"><surname>Shetty</surname><given-names initials="SS">Smitha Sammith</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5742-3288</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0002" contrib-type="author"><name name-style="western"><surname>Sharma</surname><given-names initials="M">Mohit</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9235-0176</contrib-id><xref rid="aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cr-0003" contrib-type="author" corresp="yes"><name name-style="western"><surname>Radhakrishnan</surname><given-names initials="R">Raghu</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0088-4777</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>raghu.ar@manipal.edu</email></address></contrib></contrib-group><contrib-group><contrib id="cr-0004" contrib-type="editor"><name name-style="western"><surname>Wesley</surname><given-names initials="H">Hannah</given-names></name><address><email>hwesley@wiley.com</email></address></contrib></contrib-group><aff id="aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Oral and Maxillofacial Pathology and Microbiology</named-content>, <institution>Manipal College of Dental Sciences</institution>, <institution>Manipal Academy of Higher Education</institution>, <city>Manipal</city>
+<postal-code>576104</postal-code>, <country>India</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://manipal.edu" ext-link-type="uri">manipal.edu</ext-link>
+</aff><aff id="aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Oral Pathology</named-content>, <named-content content-type="organisation-division">Faculty of Dental Sciences</named-content>, <institution>SGT University</institution>, <city>Gurugram</city>, <named-content content-type="country-part">Haryana</named-content>, <postal-code>122505</postal-code>, <country>India</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://sgtuniversity.org" ext-link-type="uri">sgtuniversity.org</ext-link>
+</aff><aff id="aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Oral and Maxillofacial Pathology</named-content>, <institution>School of Clinical Dentistry</institution>, <institution>University of Sheffield</institution>, <city>Sheffield</city>
+<postal-code>S10 2TA</postal-code>, <country>UK</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://sheffield.ac.uk" ext-link-type="uri">sheffield.ac.uk</ext-link>
+</aff><aff id="aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Unit of Oral and Maxillofacial Pathology</named-content>, <institution>Oman Dental College</institution>, Maabela South P.O. Box Mina Al Fahal, <city>Muscat</city>
+<postal-code>116</postal-code>, <country>Oman</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://odc.edu.om" ext-link-type="uri">odc.edu.om</ext-link>
+</aff><pub-date pub-type="epub"><day>27</day><month>8</month><year>2026</year></pub-date><pub-date pub-type="collection"><year>2026</year></pub-date><volume>2026</volume><issue-id pub-id-type="pmc-issue-id">503718</issue-id><elocation-id>4230936</elocation-id><history>
+<date date-type="rev-recd"><day>18</day><month>7</month><year>2026</year></date>
+<date date-type="received"><day>09</day><month>5</month><year>2026</year></date>
+<date date-type="accepted"><day>11</day><month>8</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>27</day><month>08</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>28</day><month>08</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-09-25 23:57:02.257"><day>25</day><month>09</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">Copyright © 2026 Smitha Sammith Shetty et al. International Journal of Dentistry published by John Wiley &amp; Sons Ltd.</copyright-statement><copyright-year>2026</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="IJOD-2026-4230936.pdf"><?pdf-name IJOD-2026-4230936.pdf?><?pdf-size 673999?><?pdf-md5 eeba55eb975104f9b050ccf0ed607807?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:c26a/13519956/eeba55eb9751/IJOD-2026-4230936.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:IJOD-2026-4230936.pdf"/><abstract><sec id="sec-0001"><title>Background</title><p>Conventional therapies for oral submucous fibrosis (OSF) are largely conservative and have limited ability to modify the underlying fibrotic process or prevent disease progression. This limitation highlights the need for targeted molecular therapies. MicroRNAs (miRNAs) have recently emerged as promising anti‐fibrotic regulators capable of modulating key profibrotic signalling pathways.</p></sec><sec id="sec-0002"><title>Objective</title><p>To systematically map and synthesise available evidence on antifibrotic miRNA‐based therapeutic interventions in OSF, including their mechanisms of action, delivery strategies, molecular targets and treatment outcomes.</p></sec><sec id="sec-0003"><title>Methods</title><p>This scoping review followed the PRISMA‐ScR guidelines and employed the Arksey and O’Malley framework. A comprehensive search was performed in various databases such as PubMed, Scopus, Web of Science, Embase, Cochrane Library and Google Scholar to collect pertinent data. Studies considered eligible comprised of experimental, in vitro, in vivo, and quasi‐experimental research assessing anti‐fibrotic miRNAs in OSF models.</p></sec><sec id="sec-0004"><title>Results</title><p>Of the 329 records identified, 10 studies fulfilled the inclusion criteria. Most employed in vitro fibrotic oral fibroblast models, with two incorporating in vivo animal models. Several miRNAs with antifibrotic properties were identified, including miR‐29b, miR‐760‐3p, miR‐145 inhibitor, miR‐424 inhibitor, miR‐503, miR‐30b‐5p, miR‐181a‐5p, miR‐29c, miR‐375 and miR‐204, which attenuate fibrotic responses by targeting genes and signalling pathways involved in fibrosis, including TGF‐β/Smad, RAS/RAF/MEK/ERK, and epithelial–mesenchymal transition (EMT).</p></sec><sec id="sec-0005"><title>Conclusion</title><p>Anti‐fibrotic miRNA‐based interventions demonstrate promising antifibrotic activity in preclinical models of OSF by modulating the profibrotic pathways and reducing fibrosis. Advanced delivery platforms have helped to overcome challenges associated with miRNA delivery; however, evidence remains largely limited to in vitro and in vivo studies and does not establish reversal of established fibrosis or clinical efficacy in patients. Future research should prioritise standardisation of experimental models and well‐designed clinical trials for better understanding of therapeutic relevance and translational potential of miRNA in OSF.</p></sec></abstract><kwd-group><title>Keywords</title><kwd id="kwd-0001">anti-fibrotic therapy</kwd><kwd id="kwd-0002">extracellular matrix</kwd><kwd id="kwd-0003">fibrosis</kwd><kwd id="kwd-0004">microRNA</kwd><kwd id="kwd-0005">oral submucous fibrosis</kwd><kwd id="kwd-0006">targeted therapy</kwd></kwd-group><counts><fig-count count="2"/><table-count count="2"/><ref-count count="42"/><page-count count="10"/><word-count count="5303"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.6 mode:remove_FC converted:27.08.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ijod4230936-cit-2001">
+<string-name name-style="western">
+<surname>Shetty</surname>, <given-names>Smitha Sammith</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sharma</surname>, <given-names>Mohit</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Radhakrishnan</surname>, <given-names>Raghu</given-names>
+</string-name>, 
+<article-title>Anti‐Fibrotic MicroRNA‐Based Intervention in Oral Submucous Fibrosis: A Scoping Review</article-title>, 
+<source>International Journal of Dentistry</source>, <volume>2026</volume>, <elocation-id>4230936</elocation-id>, 10 pages, <year>2026</year>. 
+<pub-id pub-id-type="doi">10.1155/ijod/4230936</pub-id>
+<pub-id pub-id-type="pmcid">PMC13519956</pub-id><pub-id pub-id-type="pmid">42662148</pub-id></mixed-citation>
+</p><fn-group><fn id="note-0001"><p>
+<bold>Academic Editor:</bold> Hannah Wesley</p></fn></fn-group></notes></front><body><sec id="sec-0006"><title>1. Introduction</title><p>Oral submucous fibrosis (OSF) is a chronic and progressive condition that affects the oral mucosa, primarily in Southeast Asia, where the practice of chewing areca nut is widespread. This disorder is characterised by increasing stiffness of the mucosal tissue, a constant burning sensation, and a gradual reduction in the ability to open the mouth. These symptoms make eating and speaking more difficult, ultimately affecting the individual’s overall quality of life [<xref rid="bib-0001" ref-type="bibr">1</xref>]. This condition is recognised as an oral potentially malignant disorder (OPMD) due to its established risk of transforming into oral cancer [<xref rid="bib-0002" ref-type="bibr">2</xref>]. Epidemiological research indicates that the rate of malignant transformation varies between 7% and 13%, with more advanced stages of OSF showing a notably increased risk [<xref rid="bib-0001" ref-type="bibr">1</xref>, <xref rid="bib-0003" ref-type="bibr">3</xref>, <xref rid="bib-0004" ref-type="bibr">4</xref>]. Pathologically, OSF is marked by an inflammatory reaction adjacent to the epithelium, leading to progressive fibro‐elastic alterations in the lamina propria and accompanied by epithelial atrophy [<xref rid="bib-0005" ref-type="bibr">5</xref>]. This abnormal fibrotic process is driven by persistent inflammation, which maintains fibroblast activity, enhances collagen production, and hinders matrix degradation through the release of profibrotic cytokines, notably transforming growth factor‐β (TGF‐β) [<xref rid="bib-0006" ref-type="bibr">6</xref>, <xref rid="bib-0007" ref-type="bibr">7</xref>]. The disturbance in the homeostatic equilibrium between collagen remodelling coupled with aberrant crosslinking promotes excessive collagen stabilisation and resistance to proteolytic breakdown, contributing to the progressive and largely irreversible nature of fibrosis observed in advanced OSF [<xref rid="bib-0007" ref-type="bibr">7</xref>].</p><p>Recent advances in OSF treatment have transitioned from merely managing symptoms to adopting anti‐fibrotic methods that focus on the underlying mechanisms. These methods specifically target the fibrotic pathways involved in fibrosis, such as TGF‐β/Smad signalling, MEK1/ERK (mitogen‐activated protein kinase [MAPK]/extracellular signal‐regulated kinase) signalling, c‐Jun N‐terminal kinase (JNK), NF‐κB (nuclear factor kappa‐light‐chain‐enhancer of activated B cells) and p38 MAPK pathways [<xref rid="bib-0008" ref-type="bibr">8</xref>]. Pharmacological strategies focus on altering the deposition of the extracellular matrix (ECM) by employing proteolytic enzymes like hyaluronidase [<xref rid="bib-0009" ref-type="bibr">9</xref>] and collagenase [<xref rid="bib-0010" ref-type="bibr">10</xref>]. They also aim to reduce chronic inflammation with the help of corticosteroids [<xref rid="bib-0009" ref-type="bibr">9</xref>], interferon‐γ [<xref rid="bib-0011" ref-type="bibr">11</xref>] and colchicine [<xref rid="bib-0012" ref-type="bibr">12</xref>], while addressing microvascular compromise in OSF by using vasodilators such as isoxsuprine [<xref rid="bib-0013" ref-type="bibr">13</xref>] and pentoxifylline [<xref rid="bib-0014" ref-type="bibr">14</xref>]. Antioxidants and natural compounds like lycopene [<xref rid="bib-0015" ref-type="bibr">15</xref>] and curcumin [<xref rid="bib-0016" ref-type="bibr">16</xref>] mitigate OSF progression by counteracting oxidative stress [<xref rid="bib-0008" ref-type="bibr">8</xref>]. Recent advancements indicate a paradigm shift towards targeting myofibroblast activation, immune dysregulation and epithelial–mesenchymal crosstalk. This is achieved with anti‐fibrotic therapies, which employ biomaterial‐based hydrogels (BG/HA) [<xref rid="bib-0017" ref-type="bibr">17</xref>] and extracellular vesicles (EVs) sourced from mesenchymal stem cells [<xref rid="bib-0018" ref-type="bibr">18</xref>].</p><p>With advances in molecular biology, microRNAs (miRNAs) have emerged as promising anti‐fibrotic agents given their capacity to regulate critical fibrogenic pathways including collagen production, ECM remodelling, and epithelial–mesenchymal transition (EMT) [<xref rid="bib-0019" ref-type="bibr">19</xref>, <xref rid="bib-0020" ref-type="bibr">20</xref>]. Interestingly, certain miRNAs exert anti‐fibrotic effects by targeting ECM‐related genes, profibrotic mediators, or negatively regulating TGF‐β signalling, thereby attenuating fibrotic signalling cascades [<xref rid="bib-0020" ref-type="bibr">20</xref>]. In this scoping review, we aimed to thoroughly explore the role of miRNA in OSF, with particular focus on anti‐fibrotic miRNA interventions, their mechanisms, therapeutic potential, and implications for future therapeutic research.</p></sec><sec id="sec-0007"><title>2. Methods</title><p>This scoping review was conducted and reported in accordance with the 2018 PRISMA‐ScR [<xref rid="bib-0021" ref-type="bibr">21</xref>] guidelines (Supporting Information <xref rid="sec-0039" ref-type="sec">1</xref>: Table <xref rid="sec-0039" ref-type="sec">S1</xref>), adhering to the methodological framework initially proposed by Arksey and O’Malley [<xref rid="bib-0022" ref-type="bibr">22</xref>]. The review is registered with the Open Science Framework (OSF) under Registration DOI 10.17605/OSF.IO/YFS5E. The framework comprised the following steps.</p><sec id="sec-0008"><title>2.1. Formulation of Research Questions</title><p>The research questions and sub‐questions were formulated as follows.</p><p>What are the different anti‐fibrotic miRNAs used in the treatment of OSF?<list list-type="simple"><list-item><label>a.</label><p>What are the different modes of treatment using anti‐fibrotic miRNAs in the treatment of OSF?</p></list-item><list-item><label>b.</label><p>What are the outcomes of treatment with anti‐fibrotic miRNAs in OSF?</p></list-item></list>
+</p><p>In this scoping review, the Population–Concept–Context (PCC) framework was utilised to explore questions regarding miRNA‐based anti‐fibrotic treatments for OSF.</p><sec id="sec-0009"><title>2.1.1. Population</title><p>The population of interest comprised cases of OSF across all stages of the disease. Studies conducted using animal models as well as in vitro experimental studies, were also included. Studies not related to OSF, those involving OSF with epithelial dysplasia, or studies focusing on other oral lesions were excluded.</p></sec><sec id="sec-0010"><title>2.1.2. Concept</title><p>This review explored studies that investigated the use of anti‐fibrotic miRNAs as therapeutic interventions, including approaches that modulate miRNA activity through miRNA mimics/inhibitors or specialised delivery systems, and the resulting treatment outcomes. Studies focusing on pharmacological treatments not involving miRNAs, as well as those evaluating surgical interventions, were excluded.</p></sec><sec id="sec-0011"><title>2.1.3. Context</title><p>Evidence from any clinical, laboratory, or translational research was considered without geographical restriction.</p></sec></sec><sec id="sec-0012"><title>2.2. Study Designs</title><p>Studies addressing anti‐fibrotic miRNA interventions in OSF were included. This review encompassed both experimental and quasi‐experimental designs, such as randomised and non‐randomised controlled trials. Additionally, in vitro and in vivo studies, as well as systematic reviews meeting the inclusion criteria, were assessed for their relevance to the research question. Articles without available full texts were excluded, and only literature published in English was considered in this review.</p></sec><sec id="sec-0013"><title>2.3. Search Strategy and Identification of Relevant Literature</title><p>Electronic databases, including PubMed, Embase, Scopus, Web of Science, Cochrane Library and Google Scholar, were systematically searched to identify the grey literature. This search covered the period from the inception of these databases to the present, aiming to capture the latest advancements in miRNA research. The databases were searched on 29 December 2025 by the SSS and further validated by RR.</p><p>The search approach integrated both controlled vocabulary terms and free‐text keywords associated with OSF, fibrosis and miRNAs. Search strings were adapted for each database using appropriate indexing terms (e.g., MeSH and Emtree). The calibrated PubMed string used in the search was: ((((((oral submucous fibrosis[MeSH Terms]) OR (OSF[Title/Abstract])) OR (OSMF[Title/Abstract])) OR (“oral potentially malignant disorder”[Title/Abstract])) OR (“oral submucosal fibrosis”[Title/Abstract])) AND (((((microrna[MeSH Terms]) OR (MiRNA <sup>∗</sup>[Title/Abstract])) OR (miR[Title/Abstract])) OR (“antifibrotic miRNA”[Title/Abstract])) OR (“antifibrotic miRNA”[Title/Abstract]))) AND ((intervention[Title/Abstract]) OR (therapy[Title/Abstract])) Supporting Information <xref rid="sec-0039" ref-type="sec">2</xref>: Table <xref rid="sec-0039" ref-type="sec">S2</xref>.</p></sec><sec id="sec-0014"><title>2.4. Source of Evidence Selection</title><p>Following the search, the results were compiled and uploaded into Rayyan software [<xref rid="bib-0023" ref-type="bibr">23</xref>], where duplicate entries were eliminated. A pilot test was conducted to evaluate the screening process. Subsequently, two reviewers, SSS and RR, independently assessed the titles and abstracts according to the inclusion criteria. Full texts of potentially relevant sources were obtained, and their citation details were imported into Rayyan software (Cambridge, MA 02142, USA) [<xref rid="bib-0023" ref-type="bibr">23</xref>]. The selected citations underwent a comprehensive evaluation against the inclusion criteria by two independent reviewers, SSS and RR. Any discrepancies between the reviewers during the selection process were resolved through discussion or by consulting a third reviewer, MS.</p></sec><sec id="sec-0015"><title>2.5. Data Charting Methodology</title><p>A form for data collection was systematically designed and trialled to ensure that data extraction remained consistent across various study designs. Extracted data included bibliographic details, study design, model system (human, animal, in vitro), specific miRNAs investigated, treatment/delivery therapeutic strategy (miRNA mimic/inhibitor/delivery system), target genes, key signalling pathways, key outcomes related to fibrosis and reported limitations or confounders.</p></sec><sec id="sec-0016"><title>2.6. Synthesis of Results</title><p>The results were presented in a narrative format, with tables providing thematic support. The results were presented as authors, study year, country, the study design, the model (human oral mucosal fibroblasts [hOMFs], fibrotic buccal mucosa fibroblasts [fBMFs], rat or mouse model), anti‐fibrotic miRNAs, target genes, key pathways and key findings (Table <xref rid="tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Characteristics of included studies.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">Author (year)</th><th align="center" rowspan="1" colspan="1">Country</th><th align="center" rowspan="1" colspan="1">Study design</th><th align="center" rowspan="1" colspan="1">Cell line/model</th><th align="center" rowspan="1" colspan="1">miRNA / lncRNA</th><th align="center" rowspan="1" colspan="1">Treatment/delivery</th><th align="center" rowspan="1" colspan="1">Target gene(s)</th><th align="center" rowspan="1" colspan="1">Key pathway(s)</th><th align="center" rowspan="1" colspan="1">Biological outcome</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Han et al. 2021 [<xref rid="bib-0018" ref-type="bibr">18</xref>]</td><td align="center" rowspan="1" colspan="1">China</td><td align="center" rowspan="1" colspan="1">In vitro</td><td align="center" rowspan="1" colspan="1">fBMFs</td><td align="center" rowspan="1" colspan="1">miR‐375</td><td align="center" rowspan="1" colspan="1">ADSC‐derived EVs</td><td align="center" rowspan="1" colspan="1">FOXF1</td><td align="center" rowspan="1" colspan="1">Fibrotic signalling</td><td align="center" rowspan="1" colspan="1">miR‐375 inhibited the transition of fibroblast to myofibroblasts, decreased proliferation, migration, and invasion, elevated apoptosis of fBMFs, and inhibited levels of fibrosis markers α‐SMA, collagen I, collagen III</td></tr><tr><td align="left" rowspan="1" colspan="1">Cheng et al. 2025 [<xref rid="bib-0024" ref-type="bibr">24</xref>]</td><td align="center" rowspan="1" colspan="1">Taiwan</td><td align="center" rowspan="1" colspan="1">In vitro</td><td align="center" rowspan="1" colspan="1">hOMFs</td><td align="center" rowspan="1" colspan="1">miR‐145 miR‐424</td><td align="center" rowspan="1" colspan="1">Chitosan nanoparticles with miR‐145 and miR‐424 inhibitors</td><td align="center" rowspan="1" colspan="1">TGFB1, ACTA2, COL1A, COL3A, COL4A, TIMP2, and ZEB1</td><td align="center" rowspan="1" colspan="1">TGF‐β/Smad signalling</td><td align="center" rowspan="1" colspan="1">Chitosan nanoparticle‐based miRNA delivery reduced fibroblast activation and collagen synthesis exhibiting strong antifibrotic activity.</td></tr><tr><td align="left" rowspan="1" colspan="1">Yang et al. 2022 [<xref rid="bib-0025" ref-type="bibr">25</xref>]</td><td align="center" rowspan="1" colspan="1">Taiwan</td><td align="center" rowspan="1" colspan="1">In vitro</td><td align="center" rowspan="1" colspan="1">fBMFs</td><td align="center" rowspan="1" colspan="1">miR‐29c</td><td align="center" rowspan="1" colspan="1">miRNA mimic</td><td align="center" rowspan="1" colspan="1">Tropomyosin‐1 (TPM1)</td><td align="center" rowspan="1" colspan="1">TGF‐β/Smad signalling</td><td align="center" rowspan="1" colspan="1">miR‐29c reduced migration ability and collagen gel contractility of fBMFs, thus demonstrating an inhibitory effect on myofibroblast activation</td></tr><tr><td align="left" rowspan="1" colspan="1">Yu et al. 2021 [<xref rid="bib-0026" ref-type="bibr">26</xref>]</td><td align="center" rowspan="1" colspan="1">Taiwan</td><td align="center" rowspan="1" colspan="1">In vitro</td><td align="center" rowspan="1" colspan="1">fBMFs from OSF tissues, 293T cells</td><td align="center" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p>miR‐29b</p></list-item><list-item><p>H19</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">miR‐29b mimic + silencing of H19 via shRNA</td><td align="center" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p>COL1A1</p></list-item><list-item><p>ACTA2</p></list-item><list-item><p>fibronectin</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">TGF‐β/Smad3 signalling</td><td align="center" rowspan="1" colspan="1">miR‐29b reversed fibrosis by reducing type 1 collagen and myofibroblast activities</td></tr><tr><td align="left" rowspan="1" colspan="1">Lee et al. 2021 [<xref rid="bib-0027" ref-type="bibr">27</xref>]</td><td align="center" rowspan="1" colspan="1">Taiwan</td><td align="center" rowspan="1" colspan="1">In vitro</td><td align="center" rowspan="1" colspan="1">fBMFs</td><td align="center" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p>miR‐204</p></list-item><list-item><p>LINC00084</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">miRNA mimic (+silencing of LINC00084)</td><td align="center" rowspan="1" colspan="1">ZEB1</td><td align="center" rowspan="1" colspan="1">EMT</td><td align="center" rowspan="1" colspan="1">miR‐204 decreases the expression of the epithelial‐mesenchymal transition inducer ZEB1, thereby abrogating the LINC00084‐induced myofibroblast activation.</td></tr><tr><td align="left" rowspan="1" colspan="1">Fu et al. 2025 [<xref rid="bib-0028" ref-type="bibr">28</xref>]</td><td align="center" rowspan="1" colspan="1">China</td><td align="center" rowspan="1" colspan="1">In vitro + In vivo</td><td align="center" rowspan="1" colspan="1">hOMFs; OSF Rat models</td><td align="center" rowspan="1" colspan="1">miR‐29b</td><td align="center" rowspan="1" colspan="1">Tetrahedral framework nucleic acids (tFNAs) Nanodrug</td><td align="center" rowspan="1" colspan="1">COL1A1, ACTA2, and fibronectinSmad2/3</td><td align="center" rowspan="1" colspan="1">TGF‐β/Smad signalling pathway, Nrf2/HO‐1 antioxidant pathway,</td><td align="center" rowspan="1" colspan="1">T‐29b (tFNA+miR‐29b) inhibited the activation of human oral mucosal fibroblasts (hOMF) and reduced the expression of fibrosis‐related proteins like α‐SMA and Collagen I</td></tr><tr><td align="left" rowspan="1" colspan="1">Wang et al. 2023 [<xref rid="bib-0029" ref-type="bibr">29</xref>]</td><td align="center" rowspan="1" colspan="1">China</td><td align="center" rowspan="1" colspan="1">In vitro + In vivo</td><td align="center" rowspan="1" colspan="1">fBMFs; OSF mouse model</td><td align="center" rowspan="1" colspan="1">miR‐760‐3p</td><td align="center" rowspan="1" colspan="1">ADSC‐derived EVs</td><td align="center" rowspan="1" colspan="1">IGF1R</td><td align="center" rowspan="1" colspan="1">TGF‐β1/Smad3</td><td align="center" rowspan="1" colspan="1">EV‐mediated miR‐760‐3p suppress cell proliferation, migration, and invasion, and reduce levels of fibrosis markers α‐SMA, collagen I, and collagen III in fBMFs.</td></tr><tr><td align="left" rowspan="1" colspan="1">Wen et al. 2024 [<xref rid="bib-0030" ref-type="bibr">30</xref>]</td><td align="center" rowspan="1" colspan="1">China</td><td align="center" rowspan="1" colspan="1">In vitro</td><td align="center" rowspan="1" colspan="1">hOMFs</td><td align="center" rowspan="1" colspan="1">miR‐503</td><td align="center" rowspan="1" colspan="1">miRNA mimic</td><td align="center" rowspan="1" colspan="1">RAF</td><td align="center" rowspan="1" colspan="1">RAS/RAF/MEK/ERK</td><td align="center" rowspan="1" colspan="1">miR‐503 inhibits the proliferation, migration, differentiation, and collagen synthesis of PDGF‐BB‐induced oral mucosal FBs.</td></tr><tr><td align="left" rowspan="1" colspan="1">Xie et al. 2024 [<xref rid="bib-0031" ref-type="bibr">31</xref>]</td><td align="center" rowspan="1" colspan="1">China</td><td align="center" rowspan="1" colspan="1">In vitro</td><td align="center" rowspan="1" colspan="1">hOMFs</td><td align="center" rowspan="1" colspan="1">miR‐30b‐5p</td><td align="center" rowspan="1" colspan="1">Puerarin treatment and miRNA mimic</td><td align="center" rowspan="1" colspan="1">FAP</td><td align="center" rowspan="1" colspan="1">Fibroblast activation</td><td align="center" rowspan="1" colspan="1">Natural compound‐induced miR‐30b‐5p suppressed the excessive proliferation of hOMFs and declined fibrosis with downregulation of COL3A1, COL1A1, MMP1 and MMP3</td></tr><tr><td align="left" rowspan="1" colspan="1">Shao et al. 2024 [<xref rid="bib-0032" ref-type="bibr">32</xref>]</td><td align="center" rowspan="1" colspan="1">China</td><td align="center" rowspan="1" colspan="1">In vitro</td><td align="center" rowspan="1" colspan="1">fBMFs</td><td align="center" rowspan="1" colspan="1">miR‐181a‐5p</td><td align="center" rowspan="1" colspan="1">ADSC‐derived exosomes</td><td align="center" rowspan="1" colspan="1">Smad2</td><td align="center" rowspan="1" colspan="1">TGF‐β/Smad</td><td align="center" rowspan="1" colspan="1">miR181a‐5p suppressed myofibroblast transdifferentiation.</td></tr></tbody></table></table-wrap></sec><sec id="sec-0017"><title>2.7. Quality Assessment of Studies</title><p>The ToxRTool criteria, known as the Toxicological Data Reliability Assessment Tool [<xref rid="bib-0033" ref-type="bibr">33</xref>], was employed for methodological quality assessment of studies included in the Scoping review. Although originally developed for toxicological research, ToxRTool provides a structured and transparent framework for evaluating key methodological domains, including study design, characterisation of the test system, description of experimental procedures, reporting of outcomes, and documentation of results for both in vitro and in vivo experiments [<xref rid="bib-0033" ref-type="bibr">33</xref>]. These criteria are equally relevant to in vitro and in vivo miRNA studies, where experimental design and reproducible reporting are essential for interpreting biological effects. Thus, ToxRTool for in vivo studies evaluated the methodology using a 21‐point checklist that covers aspects such as the test substance and test organism identification, the study design, the results, and the plausibility of both the design and data. Studies scoring between 18 and 21 points are deemed reliable without restrictions, those scoring 13–17 points are considered reliable but with potential restrictions, and those with fewer than 13 points are regarded as unreliable. In the case of in vitro studies, the tool uses an 18‐point checklist focusing on the test substance and system identification, the study design, the results, and the plausibility of the design and data. Studies achieving 15–18 points are considered reliable without restrictions, those with 11–14 points are reliable with possible restrictions, and studies scoring below 11 points are deemed unreliable [<xref rid="bib-0033" ref-type="bibr">33</xref>].</p></sec></sec><sec id="sec-0018"><title>3. Results</title><p>Searches were electronically performed on several databases: PubMed (MEDLINE) (<italic toggle="yes">n</italic> = 11), Scopus (<italic toggle="yes">n</italic> = 155), Web of Science (Clarivate) (<italic toggle="yes">n</italic> = 61), EMBASE (Elsevier) (<italic toggle="yes">n</italic> = 102), Cochrane (<italic toggle="yes">n</italic> = 0) and Google Scholar, with no relevant grey literature found. Out of the 329 records obtained, 234 duplicates were eliminated using Rayyan. Subsequently, 95 articles underwent Title Abstract screening, and 32 were deemed suitable for full‐text review. From these 32 articles, 10 were selected for analysis, while the rest were excluded due to incorrect research questions (<italic toggle="yes">n</italic> = 20) and articles in foreign languages (<italic toggle="yes">n</italic> = 2). Figure <xref rid="fig-0001" ref-type="fig">1</xref> displays the PRISMA flow diagram.</p><fig position="float" fig-type="Figure" id="fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>A PRISMA flowchart of the study selection process.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="IJOD-2026-4230936-g001.webp"><?image-name IJOD-2026-4230936-g001.webp?><?image-size 17618?><?image-md5 430ed93aef47a574daba1649871c2ecb?><?image-image-server-status NEVER_LOAD?><?image-original-height 346?><?image-original-width 600?><?image-scaled-height 346?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/c26a/13519956/430ed93aef47/IJOD-2026-4230936-g001.webp?><?thumb-name IJOD-2026-4230936-g001.gif?><?thumb-size 5604?><?thumb-md5 fecc2813900563aef06a0d676054f1cf?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 115?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/c26a/13519956/fecc28139005/IJOD-2026-4230936-g001.gif?></graphic></fig><sec id="sec-0019"><title>3.1. Characteristics of Included Studies</title><sec id="sec-0020"><title>3.1.1. Study Settings and Study Design</title><p>Among the included studies, four studies were conducted in Taiwan [<xref rid="bib-0024" ref-type="bibr">24</xref>–<xref rid="bib-0027" ref-type="bibr">27</xref>] and six of the studies in China [<xref rid="bib-0018" ref-type="bibr">18</xref>, <xref rid="bib-0028" ref-type="bibr">28</xref>–<xref rid="bib-0032" ref-type="bibr">32</xref>]. All included studies predominantly employed in vitro models to explore the anti‐fibrotic mechanism of miRNAs in OSF at the cellular level to elucidate regulating molecular pathways, miRNA–target gene interactions, and regulation of downstream fibrotic markers. Two studies incorporated in vivo OSF animal models, which complemented the in vitro findings and helped validate their translational relevance [<xref rid="bib-0028" ref-type="bibr">28</xref>, <xref rid="bib-0029" ref-type="bibr">29</xref>] (Table <xref rid="tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="sec-0021"><title>3.1.2. Experimental Models and Interventions</title><p>Most studies utilised arecoline or TGF‐β‐induced fibrotic oral fibroblast models, including hOMFs [<xref rid="bib-0024" ref-type="bibr">24</xref>, <xref rid="bib-0028" ref-type="bibr">28</xref>, <xref rid="bib-0030" ref-type="bibr">30</xref>, <xref rid="bib-0031" ref-type="bibr">31</xref>] and fBMFs [<xref rid="bib-0018" ref-type="bibr">18</xref>, <xref rid="bib-0025" ref-type="bibr">25</xref>–<xref rid="bib-0027" ref-type="bibr">27</xref>, <xref rid="bib-0029" ref-type="bibr">29</xref>, <xref rid="bib-0032" ref-type="bibr">32</xref>], to mimic the OSF associated fibrosis. These models consistently demonstrated an increase in collagen deposition, myofibroblast differentiation and upregulation of fibrotic markers, thereby providing a robust platform for evaluating anti‐fibrotic interventions.</p><p>Therapeutic interventions primarily focused on miRNA modulation to counteract fibrotic signalling. The different approaches included the use of miRNA mimics/inhibitors [<xref rid="bib-0024" ref-type="bibr">24</xref>–<xref rid="bib-0027" ref-type="bibr">27</xref>, <xref rid="bib-0030" ref-type="bibr">30</xref>], EVs [<xref rid="bib-0018" ref-type="bibr">18</xref>, <xref rid="bib-0029" ref-type="bibr">29</xref>, <xref rid="bib-0032" ref-type="bibr">32</xref>] or nanoparticle (NP)‐based miRNA delivery systems, which are designed to enhance miRNA stability and cellular uptake [<xref rid="bib-0024" ref-type="bibr">24</xref>, <xref rid="bib-0028" ref-type="bibr">28</xref>]. In addition, two studies investigated the natural compounds as upstream regulators of anti‐fibrotic miRNAs [<xref rid="bib-0024" ref-type="bibr">24</xref>, <xref rid="bib-0031" ref-type="bibr">31</xref>], highlighting the potential of phytochemicals to indirectly modulate fibrotic pathways through miRNA‐mediated mechanisms (Table <xref rid="tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="sec-0022"><title>3.1.3. Anti‐Fibrotic miRNAs</title><sec id="sec-0023"><title>3.1.3.1. miRNAs Exhibiting Anti‐Fibrotic Mechanistic Role in OSF</title><p>A diverse set of miRNAs demonstrated anti‐fibrotic activity in OSF models, highlighting the complexity and redundancy of miRNA‐mediated regulation of fibrosis. The anti‐fibrotic miRNAs identified from the reviewed studies that modulate the molecular pathways involved in OSF‐associated fibrosis are miR‐29c [<xref rid="bib-0025" ref-type="bibr">25</xref>], miR‐29b [<xref rid="bib-0026" ref-type="bibr">26</xref>], miR‐204 [<xref rid="bib-0027" ref-type="bibr">27</xref>] and miR‐503 [<xref rid="bib-0030" ref-type="bibr">30</xref>].</p></sec><sec id="sec-0024"><title>3.1.3.2. miRNAs With Anti‐Fibrotic Therapeutic Potential in OSF</title><p>miRNAs hold considerable promise as therapeutic agents for OSF, their application is hindered by challenges such as instability, inefficient cellular uptake and delivery‐specific limitations. The reviewed studies reported the successful delivery of miRNAs, including miR‐375 [<xref rid="bib-0018" ref-type="bibr">18</xref>], miR‐145 inhibitor, miR‐424 inhibitor [<xref rid="bib-0024" ref-type="bibr">24</xref>], miR‐29b [<xref rid="bib-0028" ref-type="bibr">28</xref>], miR‐760‐3p [<xref rid="bib-0029" ref-type="bibr">29</xref>], miR‐30b‐5p [<xref rid="bib-0031" ref-type="bibr">31</xref>] and miR‐181a‐5p [<xref rid="bib-0032" ref-type="bibr">32</xref>] using advanced delivery platforms.</p></sec><sec id="sec-0025"><title>3.1.3.3. miRNA Targets and Regulating Pathways</title><p>The anti‐fibrotic miRNAs identified exhibit their anti‐fibrotic role by targeting genes that drive increased collagen production, promote myofibroblast differentiation, or regulate key signalling pathways involved in fibrosis. miR‐29b emerged as a central regulator, targeting COL1A1, ACTA2, fibronectin, downstream of the Nrf2/HO‐1 antioxidant pathway and TGF‐β/Smad2/3 pathway [<xref rid="bib-0026" ref-type="bibr">26</xref>, <xref rid="bib-0028" ref-type="bibr">28</xref>]. Similarly, miR‐145 and miR‐424 inhibitors targeted TGF‐β1, COL1A1 and ACTA2, leading to repression of the TGF‐β/Smad pathway [<xref rid="bib-0024" ref-type="bibr">24</xref>]. miR‐760‐3p exerted anti‐fibrotic effects by targeting insulin‐like growth factor 1 receptor (IGF1R), subsequently inhibiting TGF‐β1/Smad3 signalling, while miR‐181a‐5p directly suppressed Smad2, further dampening TGF‐β–driven fibrogenesis [<xref rid="bib-0029" ref-type="bibr">29</xref>]. miR‐503 targets RAF and modulates the RAS/RAF/MEK/ERK pathway [<xref rid="bib-0030" ref-type="bibr">30</xref>]. In addition, miR‐30b‐5p inhibited fibroblast activation protein (FAP), reducing fibroblast activation [<xref rid="bib-0031" ref-type="bibr">31</xref>]. miR‐29c targeted tropomyosin‐1 (TPM1) [<xref rid="bib-0025" ref-type="bibr">25</xref>], leading to suppression of TGF‐β/Smad signalling, while miR‐375 inhibited FOXF1 [<xref rid="bib-0018" ref-type="bibr">18</xref>], a transcription factor associated with fibrotic signalling pathways. Furthermore, miR‐204 targeted ZEB1 [<xref rid="bib-0027" ref-type="bibr">27</xref>], resulting in inhibition of EMT, a process that contributes to fibroblast accumulation and fibrosis (Figure <xref rid="fig-0002" ref-type="fig">2</xref>) [<xref rid="bib-0034" ref-type="bibr">34</xref>].</p><fig position="float" fig-type="Figure" id="fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>miRNA‐based anti‐fibrotic interventions in OSF.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="IJOD-2026-4230936-g002.webp"><?image-name IJOD-2026-4230936-g002.webp?><?image-size 25324?><?image-md5 98e880a01e46ace7b96a67972859eedd?><?image-image-server-status NEVER_LOAD?><?image-original-height 291?><?image-original-width 600?><?image-scaled-height 291?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/c26a/13519956/98e880a01e46/IJOD-2026-4230936-g002.webp?><?thumb-name IJOD-2026-4230936-g002.gif?><?thumb-size 6498?><?thumb-md5 833130201448c8c075d564333a406995?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 97?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/c26a/13519956/833130201448/IJOD-2026-4230936-g002.gif?></graphic></fig></sec></sec><sec id="sec-0026"><title>3.1.4. Quality Assessment</title><p>Among the 10 studies evaluated, two conducted both in vivo and in vitro experiments and were classified as ‘reliable without restriction’ for both types. Of the eight studies that exclusively focused on in vitro experiments, six were rated as ‘reliable without restriction’, while two were categorised as ‘reliable with restriction’ based on the ToxRTool criteria. Overall, the studies included in the review exhibited strong methodological quality. The evaluation of the methodological quality of the studies included in the scoping review is detailed in Table <xref rid="tbl-0002" ref-type="table">2</xref>. The quality assessment of the included studies was undertaken to characterise methodological reliability and reporting quality rather than to interpret the risk of bias, consistent with the exploratory objectives of a scoping review.</p><table-wrap position="float" id="tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Quality assessment of studies using ToxRTool criteria.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">
+<p>In vivo studies</p>
+<p>Author/year of publication</p>
+</th><th align="center" rowspan="1" colspan="1">Group I: Test substance identification</th><th align="center" rowspan="1" colspan="1">Group II: Test organism characterisation</th><th align="center" rowspan="1" colspan="1">Group III: Study design description</th><th align="center" rowspan="1" colspan="1">Group IV: Study results documentation</th><th align="center" rowspan="1" colspan="1">Group V: Plausibility of study design and results</th><th align="center" rowspan="1" colspan="1">Total</th><th align="center" rowspan="1" colspan="1">Reliability categorisation</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Fu et al. 2025 [<xref rid="bib-0028" ref-type="bibr">28</xref>]</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">7</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">18</td><td align="center" rowspan="1" colspan="1">Reliable without restrictions</td></tr><tr><td align="left" rowspan="1" colspan="1">Wang et al. 2023 [<xref rid="bib-0029" ref-type="bibr">29</xref>]</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">Reliable without restrictions</td></tr><tr style="border-bottom:solid 1px #000000"><td colspan="8" rowspan="1">  </td></tr><tr><td align="left" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><p>
+<bold>In vitro Studies</bold>
+</p></list-item><list-item><p>
+<bold>Author/ Year of publication</bold>
+</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>Group I: Test substance identification</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>Group II: Test system characterisation</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>Criteria Group III: Study design description</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>Criteria Group IV: Study results documentation</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>Criteria Group V: Plausibility of study design and data</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>Total</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>Reliability categorisation</bold>
+</td></tr><tr style="border-bottom:solid 1px #000000"><td colspan="8" rowspan="1">  </td></tr><tr><td align="left" rowspan="1" colspan="1">Han et al. 2021 [<xref rid="bib-0018" ref-type="bibr">18</xref>]</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">Reliable without restrictions</td></tr><tr><td align="left" rowspan="1" colspan="1">Cheng et al. 2025 [<xref rid="bib-0024" ref-type="bibr">24</xref>]</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">16</td><td align="center" rowspan="1" colspan="1">Reliable without restrictions</td></tr><tr><td align="left" rowspan="1" colspan="1">Yang et al. 2022 [<xref rid="bib-0025" ref-type="bibr">25</xref>]</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">Reliable with restrictions</td></tr><tr><td align="left" rowspan="1" colspan="1">Yu et al. 2021 [<xref rid="bib-0026" ref-type="bibr">26</xref>]</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">Reliable without restrictions</td></tr><tr><td align="left" rowspan="1" colspan="1">Lee et al. 2021 [<xref rid="bib-0027" ref-type="bibr">27</xref>]</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">Reliable without restrictions</td></tr><tr><td align="left" rowspan="1" colspan="1">Fu et al. 2025 [<xref rid="bib-0028" ref-type="bibr">28</xref>]</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">Reliable without restrictions</td></tr><tr><td align="left" rowspan="1" colspan="1">Wang et al. 2023 [<xref rid="bib-0029" ref-type="bibr">29</xref>]</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">Reliable without restrictions</td></tr><tr><td align="left" rowspan="1" colspan="1">Wen et al. 2024 [<xref rid="bib-0030" ref-type="bibr">30</xref>]</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">14</td><td align="center" rowspan="1" colspan="1">Reliable with restrictions</td></tr><tr><td align="left" rowspan="1" colspan="1">Xie et al. 2024 [<xref rid="bib-0031" ref-type="bibr">31</xref>]</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">Reliable without restrictions</td></tr><tr><td align="left" rowspan="1" colspan="1">Shao et al. 2024 [<xref rid="bib-0032" ref-type="bibr">32</xref>]</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">16</td><td align="center" rowspan="1" colspan="1">Reliable without restrictions</td></tr></tbody></table></table-wrap></sec></sec></sec><sec id="sec-0027"><title>4. Discussion</title><p>OSF exhibits the potential for malignant change with progression and is characterised by a gradual and progressive fibrotic transformation of the submucosal connective tissue, leading to functional and structural impairment of the oral mucosa [<xref rid="bib-0035" ref-type="bibr">35</xref>]. This review seeks to systematically document effective anti‐fibrotic miRNA therapeutic interventions for OSF, highlighting existing gaps in management and emphasising the urgent need for efficient treatment strategies for the reversal of fibrosis.</p><sec id="sec-0028"><title>4.1. Targeted Anti‐Fibrotic Therapy Using NP‐Based miRNA Delivery Systems</title><p>NP‐based drug delivery systems present a favourable strategy to facilitate targeted and site‐specific drug delivery and allowing sustained therapeutic effects [<xref rid="bib-0036" ref-type="bibr">36</xref>]. Among the diverse nano‐sized carriers explored for therapeutic applications in fibrosis, glycochitosan NPs (CNPs), derived from chitosan (CS), have gained considerable attention as a promising delivery platform owing to their capacity to efficiently encapsulate siRNAs, miRNAs and other therapeutic agents, making them suitable for targeted gene‐based interventions in fibrosis [<xref rid="bib-0037" ref-type="bibr">37</xref>]. Similarly, tetrahedral framework nucleic acids (tFNAs) are a novel type of three‐dimensional DNA nanomaterial, formed by assembling four single‐stranded DNA (ssDNA) strands that are precisely designed [<xref rid="bib-0038" ref-type="bibr">38</xref>]. They act as efficient carriers for small‐molecule drugs and miRNAs, making them a promising platform for intracellular drug delivery. As a result, tFNAs can function as effective vehicles for transporting miRNAs into cells, enabling them to exert their intended biological activities [<xref rid="bib-0039" ref-type="bibr">39</xref>].</p><p>In this review, we identified two studies that investigated the efficiency of NP‐based miRNA interventions in OSF. Cheng et al. (2025) proposed CS NPs as an efficient delivery system for miRNAs, including miR‐145 and miR‐424 [<xref rid="bib-0024" ref-type="bibr">24</xref>]. These nanoencapsulations shield the negatively charged groups in miRNAs to facilitate better cellular uptake and improve the delivery efficiency. CS‐mediated delivery of miR‐145 and miR‐424 inhibitors significantly reduced fibroblast activation and collagen synthesis, demonstrating potent anti‐fibrotic effects [<xref rid="bib-0024" ref-type="bibr">24</xref>]. This effect was mediated through the downregulation of mRNA expression of significant profibrotic markers, namely, TGFB1, TIMP2, COL1A1, COL3A1, COL4A1, ACTA2 and ZEB1, in arecoline‐stimulated myofibroblasts, thereby suppressing the profibrotic TGF‐β signalling pathway. These results suggest that miRNA‐loaded CS NPs (miR/CS NPs) have the potential to enhance the delivery efficiency in the treatment of OSF [<xref rid="bib-0024" ref-type="bibr">24</xref>]. Fu et al. [<xref rid="bib-0028" ref-type="bibr">28</xref>] (2025) investigated the anti‐fibrotic effects of miR‐29b in OSF through a new nanodrug named T‐29b, which consists of tFNAs carrying miR‐29b. Studies conducted in vitro and on arecoline‐induced OSF rat models revealed that T‐29b significantly inhibits the activation of hOMFs and decreases the levels of fibrosis‐associated proteins like α‐SMA and collagen I. Additionally, T‐29b was observed to lower the generation of reactive oxygen species (ROS) in hOMFs by influencing the TGF‐β/Smad and Nrf2/HO‐1 signalling pathways [<xref rid="bib-0028" ref-type="bibr">28</xref>]. Arecoline‐induced OSF models showed improved epithelial and lamina propria morphology with reduced collagen deposition following T‐29b treatment, suggesting its potential therapeutic utility in OSF treatment [<xref rid="bib-0028" ref-type="bibr">28</xref>].</p></sec><sec id="sec-0029"><title>4.2. Adipose Tissue‐Derived Stromal Cell (ADSC)‐Derived EVs/Exosomes–Mediated Anti‐Fibrotic miRNA Therapy</title><p>Adipose tissue‐derived stromal cells (ADSCs), which are a distinct group of mesenchymal stromal cells sourced from adipose tissue, release EVs crucial for communication between cells. These EVs function as biological transporters, carrying miRNAs, proteins, and cytokines, thus enabling cell signalling and the exchange of regulatory molecules among cells [<xref rid="bib-0029" ref-type="bibr">29</xref>]. We reviewed three studies that investigated the specific roles and therapeutic efficacy of ADSC‐derived EVs in reducing fibrosis. Shao et al. [<xref rid="bib-0032" ref-type="bibr">32</xref> studied the anti‐fibrotic potential of miR‐181a‐5p‐enriched ADSC‐Exosomes (ADSC‐Exo) on OSF. The study reported that treatment of arecoline‐induced myofibroblasts with ADSC‐Exo promoted cellular proliferation and migration but attenuated myofibroblast differentiation and significantly inhibited collagen deposition. The combined effects resulted in an anti‐fibrotic outcome, which in turn inhibited the progression of OSF [<xref rid="bib-0032" ref-type="bibr">32</xref>]. miR‐181a‐5p, which is abundantly expressed in ADSC‐Exo, directly binds to the 3<sup>′</sup>‐UTR of the Smad2 mRNA. This binding inhibits the TGF‐β signalling pathway, thereby exerting anti‐fibrotic effect OSF [<xref rid="bib-0032" ref-type="bibr">32</xref>]. Wang et al. [<xref rid="bib-0029" ref-type="bibr">29</xref>] explored the potential of EVs derived from ADSC‐EVs to reduce OSF by influencing the expression of the anti‐fibrotic miR‐760–3p. Their study demonstrated that ADSC‐EVs significantly upregulated miR‐760‐3p, leading to reduced cell proliferation, migration and invasion, along with decreased expression of fibrosis‐associated markers in fBMFs [<xref rid="bib-0029" ref-type="bibr">29</xref>]. The anti‐fibrotic effects of ADSC‐EVs were mediated via the miR‐760‐3p/IGF1R axis, which subsequently inhibited the activation of the TGF‐β1/Smad3 signalling pathway [<xref rid="bib-0029" ref-type="bibr">29</xref>]. The OSF model treated with ADSC‐EVs exhibited improved epithelial and lamina propria architecture compared with the ADSC‐EV group with miR‐760‐3p inhibition, which demonstrated buccal mucosal epithelial contraction, increased inflammatory cell infiltration and reduced vascularity within the lamina propria, highlighting the role of miR‐760‐3p in mediating the therapeutic effects of ADSC‐EVs [<xref rid="bib-0029" ref-type="bibr">29</xref>]. Similarly, Han et al. (2021) investigated the potential role of ADSC‐EVs transduced with miR‐375 on OSF‐associated fBMFs. Overexpression of miR‐375 in ADSC‐EVs significantly reduced invasion, proliferation and migration while promoting apoptosis of fBMFs through suppression of its target gene FOXF1 [<xref rid="bib-0018" ref-type="bibr">18</xref>]. Consequently, ADSC‐EVs exerted anti‐fibrotic effects and attenuated the progression of OSF via modulation of the miR‐375/FOXF1 signalling axis. This is further supported by the downregulation of key fibrosis‐associated markers, including collagen type I/III and α‐SMA [<xref rid="bib-0018" ref-type="bibr">18</xref>].</p></sec><sec id="sec-0030"><title>4.3. miRNA Mimic–Driven Strategies to Elucidate Anti‐Fibrotic Mechanisms</title><p>miRNA‐based anti‐fibrotic therapies are carried out by upregulating specific miRNAs, which can be achieved either through the administration of synthetic miRNA mimics or via the delivery of vectors engineered to express the desired miRNAs [<xref rid="bib-0040" ref-type="bibr">40</xref>]. Several studies employed miRNA mimics to investigate the anti‐fibrotic potential of miRNAs. Wen et al. [<xref rid="bib-0030" ref-type="bibr">30</xref>] investigated the anti‐fibrotic potential of miR‐503 in OSF and its interaction with platelet‐derived growth factor‐BB (PDGF‐BB). PDGF‐BB is recognised as a potent profibrotic mediator that stimulates the proliferation of oral mucosal fibroblasts and facilitates their transformation into myofibroblasts, thereby promoting fibrosis [<xref rid="bib-0041" ref-type="bibr">41</xref>]. The overexpression of miR‐503, facilitated through miRNA mimics, effectively suppressed PDGF‐BB‐induced differentiation, proliferation, migration and collagen synthesis in oral mucosal fibroblasts. This suppression was evidenced by the lower expression of fibrotic markers, including collagen‐I and α‐SMA [<xref rid="bib-0030" ref-type="bibr">30</xref>]. miR‐503 achieves this protective effect by negatively regulating RAF expression, thereby inhibiting the RAS/RAF/MEK/ERK signalling pathway. By attenuating this pathway, miR‐503 effectively curtails the profibrotic response initiated by PDGF‐BB in oral mucosal fibroblasts, underscoring its potential as an anti‐fibrotic therapeutic agent in OSF [<xref rid="bib-0030" ref-type="bibr">30</xref>]. Yu et al. [<xref rid="bib-0026" ref-type="bibr">26</xref>] reported that the long non‐coding RNA H19 acts as a competitive endogenous RNA (ceRNA) that binds and sequesters the anti‐fibrotic miRNA miR‐29b, thereby blocking its ability to regulate type I collagen (COL1A1). Silencing H19 increases miR‐29b expression in fBMFs, which subsequently reduces myofibroblast‐like characteristics [<xref rid="bib-0026" ref-type="bibr">26</xref>]. Experimentally increasing miR‐29b levels in fBMFs through miRNA mimics results in reduced collagen gel contraction and cell migration. This intervention also diminishes the expression of critical fibrosis markers, including α‐SMA, type I collagen, and fibronectin, thereby exerting an anti‐fibrotic effect [<xref rid="bib-0026" ref-type="bibr">26</xref>]. Yang et al. [<xref rid="bib-0025" ref-type="bibr">25</xref>] documented that miR‐29c expression was decreased in fBMFs obtained from OSF specimens. By experimentally increasing the expression of miR‐29c through miRNA mimics, a decrease in cell migration and collagen gel contractility was observed, suggesting that miR‐29c inhibits the activation of myofibroblasts [<xref rid="bib-0025" ref-type="bibr">25</xref>]. Tropomyosin‐1 (TPM1), a cytoskeletal regulatory protein, has been identified as a direct target of miR‐29c. TPM1 plays a crucial role in stabilising actin filaments and facilitating actin–myosin interactions, which are essential for cell motility and myofibroblast activity [<xref rid="bib-0042" ref-type="bibr">42</xref>]. TPM1 is upregulated in TGF‐β/Smad signalling and facilitates the activation of fibrotic cells. Thus, miR‐29c‐mediated suppression of TPM1 limits cytoskeletal remodelling, reduces myofibroblast activation, and attenuates fibrosis [<xref rid="bib-0025" ref-type="bibr">25</xref>]. Xie et al. [<xref rid="bib-0031" ref-type="bibr">31</xref>] investigated the anti‐fibrotic effects of the Chinese medicine Puerarin (Pue) in OSF. Pue intervention effectively reduced the overproduction of hOMFs triggered by TGF‐β1 and restore the expression levels of the anti‐fibrotic miR‐30 family, with miR‐30b‐5p showing the most notable change [<xref rid="bib-0031" ref-type="bibr">31</xref>]. Thus, experimental transfection of hOMFs with a miR‐30b‐5p mimic suppressed TGF‐β1–induced cell proliferation. Additionally, miR‐30b‐5p suppressed the TGF‐β1‐induced expression of FAP and its downstream fibrotic targets, such as MMP1, MMP3, COL1A1, and COL3A1, thus demonstrating a substantial anti‐fibrotic effect [<xref rid="bib-0031" ref-type="bibr">31</xref>]. Lee et al. [<xref rid="bib-0027" ref-type="bibr">27</xref>] reported that the long non‐coding RNA LINC00084 is significantly upregulated in OSF tissues and in fBMFs. Mechanistically, LINC00084 functions as a molecular sponge for miR‐204, thereby elevating the expression of the transcription factor ZEB1, which promotes myofibroblast differentiation while suppressing the anti‐fibrotic activity of miR‐204 [<xref rid="bib-0027" ref-type="bibr">27</xref>]. Conversely, silencing LINC00084 increases miR‐204 levels in fBMFs, leading to reduced myofibroblast activation via the downregulation of ZEB1 [<xref rid="bib-0027" ref-type="bibr">27</xref>]. Experimental overexpression of miR‐204 with miR‐204 mimics showed that both collagen gel contractility and migration were decreased in fBMFs, exhibiting an anti‐fibrotic role in OSF [<xref rid="bib-0027" ref-type="bibr">27</xref>].</p><p>This scoping review is limited by the scarcity of evidence pertaining to the anti‐fibrotic role of miRNAs, which is predominantly derived from in vitro and animal studies. All the included studies are from China or Taiwan; this limits the generalizability of the evidence to other populations due to the variability in genetic background, environmental exposures, and different forms of areca nut consumption. Further, the current miRNA‐based interventions demonstrate the modulation of fibrotic pathways and repression of fibrotic factors resulting in decreased collagen deposition, but whether these approaches can reverse established fibrosis remains unclear.</p></sec></sec><sec id="sec-0031"><title>5. Conclusion</title><p>This scoping review provides insights into current preclinical evidence on the anti‐fibrotic potential of miRNA‐based interventions in OSF. The available experimental studies indicate that specific miRNAs can effectively suppress fibroblast activation, collagen accumulation, and profibrotic signalling pathways, particularly those mediated by TGF‐β. Advanced delivery platforms such as NPs, EVs, and nucleic acid nanostructures further enhance therapeutic stability, targeting and cellular uptake. However, the current evidence base is largely limited to in vitro studies, with minimal in vivo validation and no clinical trials of OSF to date. Consequently, the current evidence supports the attenuation or prevention of fibrotic changes in experimental models rather than the reversal of established fibrosis or clinical efficacy in humans. Future research should prioritise standardisation of experimental models, longitudinal animal studies, evaluating long‐term safety and well‐designed clinical trials to determine therapeutic efficacy and feasibility of miRNAs‐based therapies. Collectively, the available evidence suggests that anti‐fibrotic miRNAs may represent a potential therapeutic approach for modulating fibrosis‐related pathways in OSF; however, their clinical applicability remains uncertain and requires further preclinical and clinical validation.</p></sec><sec id="sec-0032"><title>Author Contributions</title><p>
+<bold>Smitha Sammith Shetty:</bold> conceptualisation, methodology, software, data curation, investigation, validation, formal analysis, visualisation, writing – original draft. <bold>Mohit Sharma:</bold> methodology, investigation, data curation, writing – reviewing and editing. <bold>Raghu Radhakrishnan</bold>: conceptualisation, methodology, software, investigation, supervision, project administration, writing – review and editing.</p></sec><sec id="sec-0033"><title>Funding</title><p>This study did not receive any specific funding.</p></sec><sec id="sec-0034"><title>Disclosure</title><p>All authors have read and approved the final version of the manuscript. Raghu Radhakrishnan: corresponding author, had full access to all the data in this study and takes complete responsibility for the integrity of the data and the accuracy of the data analysis.</p></sec><sec id="sec-0035"><title>Ethics Statement</title><p>Ethical approval was not required for this study as it is a scoping review.</p></sec><sec sec-type="COI-statement" id="sec-0036"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec id="sec-0039"><title>Supporting Information</title><p>Additional supporting information can be found online in the Supporting Information section.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="link-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Information 1</bold> Table S1: PRISMA‐ScR Checklist for Scoping Reviews.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="IJOD-2026-4230936-s002.pdf" position="float" orientation="portrait"><?suppdata-name IJOD-2026-4230936-s002.pdf?><?suppdata-size 661777?><?suppdata-md5 9206b61a56d73ef1c6aa42e5595fa311?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:c26a/13519956/9206b61a56d7/IJOD-2026-4230936-s002.pdf?></media></supplementary-material><supplementary-material id="link-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Information 2</bold> Table S2: Search Strategy.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="IJOD-2026-4230936-s001.docx" position="float" orientation="portrait"><?suppdata-name IJOD-2026-4230936-s001.docx?><?suppdata-size 15244?><?suppdata-md5 76039c2dcb3d71d1c998215253a6dd85?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:c26a/13519956/76039c2dcb3d/IJOD-2026-4230936-s001.docx?></media></supplementary-material></sec></body><back><sec sec-type="data-availability" id="sec-0038"><title>Data Availability Statement</title><p>Data sharing not applicable—no new data generated or the article describes entirely theoretical research.</p></sec><ref-list><ref id="bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cit-0001">
+<string-name name-style="western">
+<surname>Shen</surname>
+<given-names>Y.-W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shih</surname>
+<given-names>Y.-H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fuh</surname>
+<given-names>L.-J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Shieh</surname>
+<given-names>T.-M.</given-names>
+</string-name>, <article-title>Oral Submucous Fibrosis: A Review on Biomarkers, Pathogenic Mechanisms, and Treatments</article-title>, <source>International Journal of Molecular Sciences</source>. (<year>2020</year>) <volume>21</volume>, no. 19, <pub-id pub-id-type="doi">10.3390/ijms21197231</pub-id>, <elocation-id>7231</elocation-id>.<pub-id pub-id-type="pmid">33008091</pub-id>
+<pub-id pub-id-type="pmcid">PMC7582467</pub-id></mixed-citation></ref><ref id="bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cit-0002">
+<string-name name-style="western">
+<surname>Kujan</surname>
+<given-names>O.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mello</surname>
+<given-names>F. W.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Warnakulasuriya</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Malignant Transformation of Oral Submucous Fibrosis: A Systematic Review and Meta-Analysis</article-title>, <source>Oral Diseases</source>. (<year>2021</year>) <volume>27</volume>, no. 8, <fpage>1936</fpage>–<lpage>1946</lpage>, <pub-id pub-id-type="doi">10.1111/odi.13727</pub-id>.<pub-id pub-id-type="pmid">33205543</pub-id>
+</mixed-citation></ref><ref id="bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cit-0003">
+<string-name name-style="western">
+<surname>Shetty</surname>
+<given-names>S. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Padam</surname>
+<given-names>K. S. R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kudva</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Patel</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Radhakrishnan</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>The Interplay of EMT and Stemness Driving malignant Transformation of Oral Submucous Fibrosis</article-title>, <source>Journal of Oral Biology and Craniofacial Research</source>. (<year>2024</year>) <volume>14</volume>, no. 1, <fpage>63</fpage>–<lpage>71</lpage>, <pub-id pub-id-type="doi">10.1016/j.jobcr.2023.12.006</pub-id>.<pub-id pub-id-type="pmid">38261875</pub-id>
+<pub-id pub-id-type="pmcid">PMC10794927</pub-id></mixed-citation></ref><ref id="bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cit-0004">
+<string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Luo</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zi</surname>
+<given-names>M.</given-names>
+</string-name>, et al.<article-title>Comprehensive Analysis of Clinicopathological Characteristics in Oral Squamous Cell Carcinoma Arising From Oral Submucous Fibrosis: A Retrospective Study</article-title>, <source>Discover Oncology</source>. (<year>2024</year>) <volume>15</volume>, no. 1, <pub-id pub-id-type="doi">10.1007/s12672-024-01351-z</pub-id>, <elocation-id>455</elocation-id>.<pub-id pub-id-type="pmid">39289291</pub-id>
+<pub-id pub-id-type="pmcid">PMC11408422</pub-id></mixed-citation></ref><ref id="bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cit-0005">
+<string-name name-style="western">
+<surname>Pindborg</surname>
+<given-names>J. J.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Sirsat</surname>
+<given-names>S. M.</given-names>
+</string-name>, <article-title>Oral Submucous Fibrosis, Oral Surgery, Oral Medicine</article-title>, <source>Oral Surgery, Oral Medicine, Oral Pathology</source>. (<year>1966</year>) <volume>22</volume>, no. 6, <fpage>764</fpage>–<lpage>779</lpage>, <pub-id pub-id-type="doi">10.1016/0030-4220(66)90367-7</pub-id>.<pub-id pub-id-type="pmid">5224185</pub-id>
+</mixed-citation></ref><ref id="bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cit-0006">
+<string-name name-style="western">
+<surname>Ekanayaka</surname>
+<given-names>R. P.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Tilakaratne</surname>
+<given-names>W. M.</given-names>
+</string-name>, <article-title>Oral Submucous Fibrosis: Review on Mechanisms of malignant Transformation, Oral Surgery, Oral Medicine</article-title>, <source>Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology</source>. (<year>2016</year>) <volume>122</volume>, no. 2, <fpage>192</fpage>–<lpage>199</lpage>, <pub-id pub-id-type="doi">10.1016/j.oooo.2015.12.018</pub-id>.<pub-id pub-id-type="pmid">27289264</pub-id>
+</mixed-citation></ref><ref id="bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cit-0007">
+<string-name name-style="western">
+<surname>Rajalalitha</surname>
+<given-names>P.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Vali</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Molecular Pathogenesis of Oral Submucous Fibrosis—A Collagen Metabolic Disorder</article-title>, <source>Journal of Oral Pathology &amp; Medicine</source>. (<year>2005</year>) <volume>34</volume>, no. 6, <fpage>321</fpage>–<lpage>328</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-0714.2005.00325.x</pub-id>.<pub-id pub-id-type="pmid">15946178</pub-id>
+</mixed-citation></ref><ref id="bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cit-0008">
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Z.</given-names>
+</string-name>, et al.<article-title>Oral Submucous Fibrosis: Pathogenesis and Therapeutic Approaches</article-title>, <source>International Journal of Oral Science</source>. (<year>2025</year>) <volume>17</volume>, no. 1, <pub-id pub-id-type="doi">10.1038/s41368-024-00344-6</pub-id>, <elocation-id>8</elocation-id>.<pub-id pub-id-type="pmid">39890798</pub-id>
+<pub-id pub-id-type="pmcid">PMC11785813</pub-id></mixed-citation></ref><ref id="bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cit-0009">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mao</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Liang</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>H.</given-names>
+</string-name>, <article-title>Efficacy of Hyaluronidase Combined With Corticosteroids in Treatment of Oral Submucous Fibrosis: A Meta-Analysis of Randomized Controlled Clinical Trials</article-title>, <source>Journal of Oral Pathology &amp; Medicine</source>. (<year>2020</year>) <volume>49</volume>, no. 4, <fpage>311</fpage>–<lpage>319</lpage>, <pub-id pub-id-type="doi">10.1111/jop.13009</pub-id>.<pub-id pub-id-type="pmid">32145110</pub-id>
+</mixed-citation></ref><ref id="bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cit-0010">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>H.-J.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>J.-C.</given-names>
+</string-name>, <article-title>Treatment of Oral Submucous Fibrosis by Collagenase: Effects on Oral Opening and Eating Function</article-title>, <source>Oral Diseases</source>. (<year>2007</year>) <volume>13</volume>, no. 4, <fpage>407</fpage>–<lpage>413</lpage>, <pub-id pub-id-type="doi">10.1111/j.1601-0825.2006.01313.x</pub-id>.<pub-id pub-id-type="pmid">17577328</pub-id>
+</mixed-citation></ref><ref id="bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cit-0011">
+<string-name name-style="western">
+<surname>Haque</surname>
+<given-names>M. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Meghji</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Nazir</surname>
+<given-names>R.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Harris</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>Interferon Gamma (IFN-γ) May Reverse Oral Submucous Fibrosis</article-title>, <source>Journal of Oral Pathology and Medicine</source>. (<year>2001</year>) <volume>30</volume>, no. 1, <fpage>12</fpage>–<lpage>21</lpage>, <pub-id pub-id-type="doi">10.1034/j.1600-0714.2001.300103.x</pub-id>.<pub-id pub-id-type="pmid">11140895</pub-id>
+</mixed-citation></ref><ref id="bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cit-0012">
+<string-name name-style="western">
+<surname>Krishnamoorthy</surname>
+<given-names>B.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Khan</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>Management of Oral Submucous Fibrosis by Two Different Drug Regimens: A Comparative Study</article-title>, <source>Dental Research Journal</source>. (<year>2013</year>) <volume>10</volume>, no. 4, <fpage>527</fpage>–<lpage>32</lpage>.<pub-id pub-id-type="pmid">24130591</pub-id>
+<pub-id pub-id-type="pmcid">PMC3793419</pub-id></mixed-citation></ref><ref id="bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cit-0013">
+<string-name name-style="western">
+<surname>Bhadage</surname>
+<given-names>C. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Umarji</surname>
+<given-names>H. R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shah</surname>
+<given-names>K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Välimaa</surname>
+<given-names>H.</given-names>
+</string-name>, <article-title>Vasodilator Isoxsuprine Alleviates Symptoms of Oral Submucous Fibrosis</article-title>, <source>Clinical Oral Investigations</source>. (<year>2013</year>) <volume>17</volume>, no. 5, <fpage>1375</fpage>–<lpage>1382</lpage>, <pub-id pub-id-type="doi">10.1007/s00784-012-0824-z</pub-id>.<pub-id pub-id-type="pmid">22893038</pub-id>
+</mixed-citation></ref><ref id="bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cit-0014">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>F.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Wei</surname>
+<given-names>Z.</given-names>
+</string-name>, et al.<article-title>Evaluating the Efficacy of Pentoxifylline in the Treatment of Oral Submucous Fibrosis: A Meta-Analysis</article-title>, <source>Oral Diseases</source>. (<year>2018</year>) <volume>24</volume>, no. 5, <fpage>706</fpage>–<lpage>716</lpage>, <pub-id pub-id-type="doi">10.1111/odi.12715</pub-id>.<pub-id pub-id-type="pmid">28737007</pub-id>
+</mixed-citation></ref><ref id="bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cit-0015">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Liang</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>Efficacy of Lycopene in the Treatment of Oral Submucous Fibrosis: A Meta-Analysis of Randomized Controlled Trials</article-title>, <source>Journal of Evidence-Based Dental Practice</source>. (<year>2020</year>) <volume>20</volume>, no. 4, <pub-id pub-id-type="doi">10.1016/j.jebdp.2020.101471</pub-id>, <elocation-id>101471</elocation-id>.<pub-id pub-id-type="pmid">33303091</pub-id>
+</mixed-citation></ref><ref id="bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cit-0016">
+<string-name name-style="western">
+<surname>Hazarey</surname>
+<given-names>V. K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sakrikar</surname>
+<given-names>A. R.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Ganvir</surname>
+<given-names>S. M.</given-names>
+</string-name>, <article-title>Efficacy of Curcumin in the Treatment for Oral Submucous Fibrosis—A Randomized Clinical Trial</article-title>, <source>Journal of Oral and Maxillofacial Pathology</source>. (<year>2015</year>) <volume>19</volume>, no. 2, <fpage>145</fpage>–<lpage>152</lpage>, <pub-id pub-id-type="doi">10.4103/0973-029X.164524</pub-id>.<pub-id pub-id-type="pmid">26604488</pub-id>
+<pub-id pub-id-type="pmcid">PMC4611920</pub-id></mixed-citation></ref><ref id="bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cit-0017">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Z.-X.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Z.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Yan</surname>
+<given-names>J.-F.</given-names>
+</string-name>, et al.<article-title>A Biomaterial-Based Therapy Using a Sodium Hyaluronate/Bioglass Composite Hydrogel for the Treatment of Oral Submucous Fibrosis</article-title>, <source>Acta Biomaterialia</source>. (<year>2023</year>) <volume>157</volume>, <fpage>639</fpage>–<lpage>654</lpage>, <pub-id pub-id-type="doi">10.1016/j.actbio.2022.12.006</pub-id>.<pub-id pub-id-type="pmid">36509401</pub-id>
+</mixed-citation></ref><ref id="bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cit-0018">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shi</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>D.</given-names>
+</string-name>, <article-title>Adipose-Derived Stem Cell-Derived Extracellular Vesicles Inhibit the Fibrosis of Fibrotic Buccal Mucosal Fibroblasts via the MicroRNA-375/FOXF1 Axis</article-title>, <source>Stem Cells International</source>. (<year>2021</year>) <volume>2021</volume>, <pub-id pub-id-type="doi">10.1155/2021/9964159</pub-id>, <elocation-id>9964159</elocation-id>.<pub-id pub-id-type="pmid">34257670</pub-id>
+<pub-id pub-id-type="pmcid">PMC8245228</pub-id></mixed-citation></ref><ref id="bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cit-0019">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>S.-D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>H.-J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>S.-J.</given-names>
+</string-name>, <article-title>Regulatory Mechanisms of the Molecular Pathways in Fibrosis Induced by MicroRNAs</article-title>, <source>Chinese Medical Journal</source>. (<year>2016</year>) <volume>129</volume>, no. 19, <fpage>2365</fpage>–<lpage>2372</lpage>, <pub-id pub-id-type="doi">10.4103/0366-6999.190677</pub-id>.<pub-id pub-id-type="pmid">27647197</pub-id>
+<pub-id pub-id-type="pmcid">PMC5040024</pub-id></mixed-citation></ref><ref id="bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cit-0020">
+<string-name name-style="western">
+<surname>Jishnu</surname>
+<given-names>P. V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shenoy</surname>
+<given-names>S. U.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chopra</surname>
+<given-names>A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Radhakrishnan</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>Comprehensive Analysis of microRNAs and Their Target Genes in Oral Submucous Fibrosis</article-title>, <source>Oral Diseases</source>. (<year>2023</year>) <volume>29</volume>, no. 5, <fpage>1894</fpage>–<lpage>1904</lpage>, <pub-id pub-id-type="doi">10.1111/odi.14219</pub-id>.<pub-id pub-id-type="pmid">35466497</pub-id>
+</mixed-citation></ref><ref id="bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cit-0021">
+<string-name name-style="western">
+<surname>Tricco</surname>
+<given-names>A. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lillie</surname>
+<given-names>E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zarin</surname>
+<given-names>W.</given-names>
+</string-name>, et al.<article-title>PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation</article-title>, <source>Annals of Internal Medicine</source>. (<year>2018</year>) <volume>169</volume>, no. 7, <fpage>467</fpage>–<lpage>473</lpage>, <pub-id pub-id-type="doi">10.7326/M18-0850</pub-id>.<pub-id pub-id-type="pmid">30178033</pub-id>
+</mixed-citation></ref><ref id="bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cit-0022">
+<string-name name-style="western">
+<surname>Arksey</surname>
+<given-names>H.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>O.’Malley</surname>
+<given-names>L.</given-names>
+</string-name>, <article-title>Scoping Studies: Towards a Methodological Framework</article-title>, <source>International Journal of Social Research Methodology</source>. (<year>2005</year>) <volume>8</volume>, no. 1, <fpage>19</fpage>–<lpage>32</lpage>, <pub-id pub-id-type="doi">10.1080/1364557032000119616</pub-id>.</mixed-citation></ref><ref id="bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cit-0023">
+<string-name name-style="western">
+<surname>Ouzzani</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hammady</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fedorowicz</surname>
+<given-names>Z.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Elmagarmid</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Rayyan—A Web and Mobile App for Systematic Reviews</article-title>, <source>Systematic Reviews</source>. (<year>2016</year>) <volume>5</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s13643-016-0384-4</pub-id>, <elocation-id>210</elocation-id>.<pub-id pub-id-type="pmid">27919275</pub-id>
+<pub-id pub-id-type="pmcid">PMC5139140</pub-id></mixed-citation></ref><ref id="bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cit-0024">
+<string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>Y.-H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>H.-Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kato</surname>
+<given-names>K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>K.-C.</given-names>
+</string-name>, <article-title>Chitosan Nanoparticles as a Targeted Delivery System for Anti-Fibrotic microRNAs for Oral Submucosal Fibrosis Treatment</article-title>, <source>Colloids and Surfaces B: Biointerfaces</source>. (<year>2025</year>) <volume>252</volume>, <pub-id pub-id-type="doi">10.1016/j.colsurfb.2025.114657</pub-id>, <elocation-id>114657</elocation-id>.<pub-id pub-id-type="pmid">40184720</pub-id>
+</mixed-citation></ref><ref id="bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cit-0025">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>P.-Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ho</surname>
+<given-names>D. C.-Y.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>S.-H.</given-names>
+</string-name>, et al.<article-title>Down-Regulation of miR-29c Promotes the Progression of Oral Submucous Fibrosis Through Targeting Tropomyosin-1</article-title>, <source>Journal of the Formosan Medical Association</source>. (<year>2022</year>) <volume>121</volume>, no. 6, <fpage>1117</fpage>–<lpage>1122</lpage>, <pub-id pub-id-type="doi">10.1016/j.jfma.2021.10.006</pub-id>.<pub-id pub-id-type="pmid">34696938</pub-id>
+</mixed-citation></ref><ref id="bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cit-0026">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>C.-C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Liao</surname>
+<given-names>Y.-W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hsieh</surname>
+<given-names>P.-L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Chang</surname>
+<given-names>Y.-C.</given-names>
+</string-name>, <article-title>Targeting lncRNA H19/miR-29b/COL1A1 Axis Impedes Myofibroblast Activities of Precancerous Oral Submucous Fibrosis</article-title>, <source>International Journal of Molecular Sciences</source>. (<year>2021</year>) <volume>22</volume>, no. 4, <pub-id pub-id-type="doi">10.3390/ijms22042216</pub-id>, <elocation-id>2216</elocation-id>.<pub-id pub-id-type="pmid">33672311</pub-id>
+<pub-id pub-id-type="pmcid">PMC7926971</pub-id></mixed-citation></ref><ref id="bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cit-0027">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>Y.-H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Liao</surname>
+<given-names>Y.-W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>M.-Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hsieh</surname>
+<given-names>P.-L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>C.-C.</given-names>
+</string-name>, <article-title>LINC00084/miR-204/ZEB1 Axis Mediates Myofibroblastic Differentiation Activity in Fibrotic Buccal Mucosa Fibroblasts: Therapeutic Target for Oral Submucous Fibrosis</article-title>, <source>Journal of Personalized Medicine</source>. (<year>2021</year>) <volume>11</volume>, no. 8, <pub-id pub-id-type="doi">10.3390/jpm11080707</pub-id>, <elocation-id>707</elocation-id>.<pub-id pub-id-type="pmid">34442351</pub-id>
+<pub-id pub-id-type="pmcid">PMC8398589</pub-id></mixed-citation></ref><ref id="bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cit-0028">
+<string-name name-style="western">
+<surname>Fu</surname>
+<given-names>X.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>C.</given-names>
+</string-name>, et al.<article-title>Tetrahedral Framework Nucleic Acid-Based Delivery of microRNA-29b: A Precision Nanotherapeutic Strategy for Oral Submucous Fibrosis</article-title>, <source>Chemical Engineering Journal</source>. (<year>2025</year>) <volume>515</volume>, <pub-id pub-id-type="doi">10.1016/j.cej.2025.163736</pub-id>, <elocation-id>163736</elocation-id>.</mixed-citation></ref><ref id="bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cit-0029">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>Y.</given-names>
+</string-name>, <article-title>Mechanism of Adipose Tissue-Derived Stromal Cell-Extracellular Vesicles in Treating Oral Submucous Fibrosis by Blocking the TGF-β1/Smad3 Pathway via the miR-760-3p/IGF1R Axis</article-title>, <source>Biomolecules and Biomedicine</source>. (<year>2024</year>) <volume>24</volume>, no. 4, <fpage>827</fpage>–<lpage>839</lpage>, <pub-id pub-id-type="doi">10.17305/bb.2023.9944</pub-id>.<pub-id pub-id-type="pmcid">PMC11293217</pub-id><pub-id pub-id-type="pmid">38059910</pub-id></mixed-citation></ref><ref id="bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cit-0030">
+<string-name name-style="western">
+<surname>Wen</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jian</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>MicroRNA-503 Suppresses Oral Mucosal Fibroblast Differentiation by Regulating RAS/RAF/MEK/ERK Signaling Pathway</article-title>, <source>Biomolecules</source>. (<year>2024</year>) <volume>14</volume>, no. 10, <pub-id pub-id-type="doi">10.3390/biom14101259</pub-id>, <elocation-id>1259</elocation-id>.<pub-id pub-id-type="pmid">39456192</pub-id>
+<pub-id pub-id-type="pmcid">PMC11505938</pub-id></mixed-citation></ref><ref id="bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cit-0031">
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>J.</given-names>
+</string-name>, et al.<article-title>Puerarin Mediated miR-30b-5p Targeting Fibroblast Activation Protein Against Oral Submucous Fibrosis</article-title>, <source>Biocell</source>. (<year>2024</year>) <volume>48</volume>, no. 4, <fpage>591</fpage>–<lpage>599</lpage>, <pub-id pub-id-type="doi">10.32604/biocell.2024.046691</pub-id>.</mixed-citation></ref><ref id="bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cit-0032">
+<string-name name-style="western">
+<surname>Shao</surname>
+<given-names>Z.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>X.</given-names>
+</string-name>, et al.<article-title>Exosomes Derived from Human Adipose Mesenchymal Stem Cells Inhibits Fibrosis and Treats Oral Submucous Fibrosis via the miR-181a-5p/Smad2 Axis</article-title>, <source>Tissue Engineering and Regenerative Medicine</source>. (<year>2024</year>) <volume>21</volume>, no. 1, <fpage>123</fpage>–<lpage>135</lpage>, <pub-id pub-id-type="doi">10.1007/s13770-023-00579-0</pub-id>.<pub-id pub-id-type="pmid">37755664</pub-id>
+<pub-id pub-id-type="pmcid">PMC10764695</pub-id></mixed-citation></ref><ref id="bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cit-0033">
+<string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schwarz</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Burkholder</surname>
+<given-names>I.</given-names>
+</string-name>, et al.<article-title>ToxRTool”, A New Tool to Assess the Reliability of Toxicological Data</article-title>, <source>Toxicology Letters</source>. (<year>2009</year>) <volume>189</volume>, no. 2, <fpage>138</fpage>–<lpage>144</lpage>, <pub-id pub-id-type="doi">10.1016/j.toxlet.2009.05.013</pub-id>.<pub-id pub-id-type="pmid">19477248</pub-id>
+</mixed-citation></ref><ref id="bib-0034"><label>34</label><mixed-citation publication-type="miscellaneous" id="cit-0034">
+<string-name name-style="western">
+<surname>Chandrashekar</surname>
+<given-names>C.</given-names>
+</string-name>, <article-title>BioRender Figure</article-title>, <article-title>BioRender</article-title>, <year>2026</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://BioRender.com/zqrdgrd" ext-link-type="uri">https://BioRender.com/zqrdgrd</ext-link>.</mixed-citation></ref><ref id="bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cit-0035">
+<string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sarode</surname>
+<given-names>S. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sarode</surname>
+<given-names>G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Radhakrishnan</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>Areca Nut-Induced Oral Fibrosis—Reassessing the Biology of Oral Submucous Fibrosis</article-title>, <source>Journal of Oral Biosciences</source>. (<year>2024</year>) <volume>66</volume>, no. 2, <fpage>320</fpage>–<lpage>328</lpage>, <pub-id pub-id-type="doi">10.1016/j.job.2024.02.005</pub-id>.<pub-id pub-id-type="pmid">38395254</pub-id>
+</mixed-citation></ref><ref id="bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cit-0036">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y.-N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>M.-Q.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H.-J.</given-names>
+</string-name>, et al.<article-title>Nanoparticle-Based Drug Delivery Systems: A Promising Approach for the Treatment of Liver Fibrosis</article-title>, <source>International Journal of Pharmaceutics: X</source>. (<year>2025</year>) <volume>10</volume>, <pub-id pub-id-type="doi">10.1016/j.ijpx.2025.100411</pub-id>, <elocation-id>100411</elocation-id>.<pub-id pub-id-type="pmid">41113346</pub-id>
+<pub-id pub-id-type="pmcid">PMC12528922</pub-id></mixed-citation></ref><ref id="bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cit-0037">
+<string-name name-style="western">
+<surname>Desai</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rana</surname>
+<given-names>D.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Salave</surname>
+<given-names>S.</given-names>
+</string-name>, et al.<article-title>Chitosan: A Potential Biopolymer in Drug Delivery and Biomedical Applications</article-title>, <source>Pharmaceutics</source>. (<year>2023</year>) <volume>15</volume>, no. 4, <pub-id pub-id-type="doi">10.3390/pharmaceutics15041313</pub-id>, <elocation-id>1313</elocation-id>.<pub-id pub-id-type="pmid">37111795</pub-id>
+<pub-id pub-id-type="pmcid">PMC10144389</pub-id></mixed-citation></ref><ref id="bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cit-0038">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Huang</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y.</given-names>
+</string-name>, <article-title>Tetrahedral Framework Nucleic Acids-Based Delivery of microRNA-155 Alleviates Intervertebral Disc Degeneration Through Targeting Bcl-2/Bax Apoptosis Pathway</article-title>, <source>Cell Proliferation</source>. (<year>2024</year>) <volume>57</volume>, no. 11, <pub-id pub-id-type="doi">10.1111/cpr.13689</pub-id>.<pub-id pub-id-type="pmcid">PMC11533059</pub-id><pub-id pub-id-type="pmid">38899529</pub-id></mixed-citation></ref><ref id="bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cit-0039">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shi</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>Y.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Shi</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Tetrahedral Framework Nucleic Acids Prevent Epithelial-Mesenchymal Transition-Mediated Diabetic Fibrosis by Targeting the Wnt/β-Catenin Signaling Pathway</article-title>, <source>Chinese Chemical Letters</source>. (<year>2025</year>) <volume>36</volume>, no. 5, <pub-id pub-id-type="doi">10.1016/j.cclet.2024.110140</pub-id>, <elocation-id>110140</elocation-id>.</mixed-citation></ref><ref id="bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cit-0040">
+<string-name name-style="western">
+<surname>Ishida</surname>
+<given-names>M.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Selaru</surname>
+<given-names>F. M.</given-names>
+</string-name>, <article-title>miRNA-Based Therapeutic Strategies</article-title>, <source>Current Pathobiology Reports</source>. (<year>2013</year>) <volume>1</volume>, no. 1, <fpage>63</fpage>–<lpage>70</lpage>, <pub-id pub-id-type="doi">10.1007/s40139-012-0004-5</pub-id>.<pub-id pub-id-type="pmcid">PMC3601800</pub-id><pub-id pub-id-type="pmid">23524956</pub-id></mixed-citation></ref><ref id="bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cit-0041">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>You</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gong</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>B.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>C.</given-names>
+</string-name>, <article-title>PDGF-BB Induces Conversion, Proliferation, Migration, and Collagen Synthesis of Oral Mucosal Fibroblasts Through PDGFR-β/PI3K/AKT Signaling Pathway</article-title>, <source>Cancer Biomarkers</source>. (<year>2021</year>) <volume>30</volume>, no. 4, <fpage>407</fpage>–<lpage>415</lpage>, <pub-id pub-id-type="doi">10.3233/CBM-201681</pub-id>.<pub-id pub-id-type="pmid">33492283</pub-id>
+<pub-id pub-id-type="pmcid">PMC12499994</pub-id></mixed-citation></ref><ref id="bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cit-0042">
+<string-name name-style="western">
+<surname>Otogawa</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ogawa</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shiga</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ikeda</surname>
+<given-names>K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Kawada</surname>
+<given-names>N.</given-names>
+</string-name>, <article-title>Induction of Tropomyosin During Hepatic Stellate Cell Activation and the Progression of Liver Fibrosis</article-title>, <source>Hepatology International</source>. (<year>2009</year>) <volume>3</volume>, no. 2, <fpage>378</fpage>–<lpage>383</lpage>, <pub-id pub-id-type="doi">10.1007/s12072-008-9113-y</pub-id>.<pub-id pub-id-type="pmid">19669364</pub-id>
+<pub-id pub-id-type="pmcid">PMC2716761</pub-id></mixed-citation></ref></ref-list></back></article>

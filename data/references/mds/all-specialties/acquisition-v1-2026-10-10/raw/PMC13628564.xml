@@ -1,0 +1,537 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="ijod6654212" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Dent</journal-id><journal-id journal-id-type="iso-abbrev">Int J Dent</journal-id><journal-id journal-id-type="pmc-domain-id">1197</journal-id><journal-id journal-id-type="pmc-domain">ijd</journal-id><journal-id journal-id-type="nlm-id">101524183</journal-id><journal-id journal-id-type="publisher-id">IJOD</journal-id><journal-title-group><journal-title>International Journal of Dentistry</journal-title></journal-title-group><issn pub-type="ppub">1687-8728</issn><issn pub-type="epub">1687-8736</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13628564</article-id><article-id pub-id-type="pmcid-ver">PMC13628564.1</article-id><article-id pub-id-type="pmcaid">13628564</article-id><article-id pub-id-type="pmcaiid">13628564</article-id><article-id pub-id-type="pmid">42824956</article-id><article-id pub-id-type="doi">10.1155/ijod/6654212</article-id><article-id pub-id-type="publisher-id">IJOD6654212</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Diagnostic Efficiency of Artificial Intelligence Integrated Intraoral Mobile Photographs in Identification of Oral Potentially Malignant Disorders: An Umbrella Review</article-title></title-group><contrib-group><contrib id="cr-0001" contrib-type="author"><name name-style="western"><surname>Kumar</surname><given-names initials="PDM">P. D. Madan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0437-4125</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0002" contrib-type="author"><name name-style="western"><surname>Lavanya</surname><given-names initials="C">C.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-9477-6943</contrib-id><xref rid="aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cr-0003" contrib-type="author"><name name-style="western"><surname>Sivakumar</surname><given-names initials="S">Sasidharan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1561-1755</contrib-id><xref rid="aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cr-0004" contrib-type="author"><name name-style="western"><surname>Ranganathan</surname><given-names initials="K">K.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2149-4145</contrib-id><xref rid="aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cr-0005" contrib-type="author"><name name-style="western"><surname>Pavithra</surname><given-names initials="M">M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-2065-0334</contrib-id><xref rid="aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cr-0006" contrib-type="author"><name name-style="western"><surname>Palanivel Pandian</surname><given-names initials="R">R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6181-6949</contrib-id><xref rid="aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Avinash</surname><given-names initials="BR">B. R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0773-2063</contrib-id><xref rid="aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>avinash.br@manipal.edu</email></address></contrib></contrib-group><contrib-group><contrib id="cr-0008" contrib-type="editor"><name name-style="western"><surname>Wesley</surname><given-names initials="H">Hannah</given-names></name><address><email>hwesley@wiley.com</email></address></contrib></contrib-group><aff id="aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health Dentistry</named-content>
+<institution>Ragas Dental College and Hospital</institution>
+<city>Chennai</city>
+<country country="IN">India</country>
+</aff><aff id="aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Oral Pathology and Microbiology</named-content>
+<institution>Ragas Dental College and Hospital</institution>
+<city>Chennai</city>
+<country country="IN">India</country>
+</aff><aff id="aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Discovery Research Division</named-content>
+<institution>Indian Council of Medical Research</institution>
+<named-content content-type="organisation-division">ICMR Headquarters</named-content>
+<named-content content-type="street">Ansari Nagar</named-content>
+<city>New Delhi</city>
+<country country="IN">India</country>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://icmr.nic.in" ext-link-type="uri">icmr.nic.in</ext-link>
+</aff><aff id="aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Oral and Maxillofacial Pathology</named-content>
+<institution>Ragas Dental College and Hospital</institution>
+<city>Chennai</city>
+<country country="IN">India</country>
+</aff><aff id="aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health Dentistry Best Dental Sciences College and Hospital</named-content>
+<city>Madurai</city>
+<postal-code>625104</postal-code>
+<named-content content-type="country-part">Tamil Nadu</named-content>
+<country country="IN">India</country>
+</aff><aff id="aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health Dentistry</named-content>
+<institution>Manipal College of Dental Sciences Mangalore</institution>
+<institution>Manipal Academy of Higher Education</institution>
+<city>Manipal</city>
+<postal-code>576104</postal-code>
+<country country="IN">India</country>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://manipal.edu" ext-link-type="uri">manipal.edu</ext-link>
+</aff><pub-date pub-type="epub"><day>01</day><month>10</month><year>2026</year></pub-date><pub-date pub-type="collection"><year>2026</year></pub-date><volume>2026</volume><issue-id pub-id-type="pmc-issue-id">503718</issue-id><elocation-id>6654212</elocation-id><history>
+<date date-type="rev-recd"><day>14</day><month>8</month><year>2026</year></date>
+<date date-type="received"><day>06</day><month>4</month><year>2026</year></date>
+<date date-type="accepted"><day>22</day><month>8</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>01</day><month>10</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>02</day><month>10</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-10-02 14:47:44.453"><day>02</day><month>10</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">Copyright © 2026 P. D. Madan Kumar et al. International Journal of Dentistry published by John Wiley &amp; Sons Ltd.</copyright-statement><copyright-year>2026</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="IJOD-2026-6654212.pdf"><?pdf-name IJOD-2026-6654212.pdf?><?pdf-size 568590?><?pdf-md5 cccd708c1b15dd618b412371b2fa754a?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:241c/13628564/cccd708c1b15/IJOD-2026-6654212.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:IJOD-2026-6654212.pdf"/><abstract><sec id="sec-0001"><title>Background</title><p>Oral potentially malignant disorders (OPMDs) are precursors to oral squamous cell carcinoma (OSCC), a malignancy with high morbidity and mortality due to late diagnosis. Conventional diagnostic methods, though accurate, are invasive and often inaccessible in resource‐limited areas. Intraoral mobile photographs integrated with artificial intelligence (AI) as a screening tool may offer a noninvasive, cost‐effective, and accessible alternative for early detection of OPMDs. The study aimed to evaluate the diagnostic accuracy of mobile photographic models in identifying OPMDs.</p></sec><sec id="sec-0002"><title>Settings and Design</title><p>An umbrella review synthesizing evidence from previously published systematic reviews/meta‐analyses was carried out following Preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA) guidelines.</p></sec><sec id="sec-0003"><title>Methods and Material</title><p>Databases including PubMed, Scopus, Embase, Web of Science, and through supplementary search engines like Google Scholar were searched. Inclusion criteria encompassed studies analyzing the diagnostic performance of mobile photographic models for OPMDs. Sensitivity, specificity, and applicability were examined.</p></sec><sec id="sec-0004"><title>Results</title><p>The pooled sensitivity was 90% (95% CI: 88.8%–92.6%) and specificity was 89% (95% CI: 86%–92%). Minimal heterogeneity in sensitivity (<italic toggle="yes">I</italic>
+<sup>2</sup> = 34.01%) and higher variability in specificity (<italic toggle="yes">I</italic>
+<sup>2</sup> = 93.34%) were observed. Funnel plots confirmed no publication bias.</p></sec><sec id="sec-0005"><title>Conclusions</title><p>Intraoral mobile photographs were effective in noninvasive OPMD detection, particularly in low‐resource settings. Further research should aim to refine algorithms, standardize imaging, and validate performance in real‐world scenarios.</p></sec></abstract><kwd-group><title>Keywords</title><kwd id="kwd-0001">artificial intelligence</kwd><kwd id="kwd-0002">diagnostic accuracy</kwd><kwd id="kwd-0003">mobile photography</kwd><kwd id="kwd-0004">noninvasive screening</kwd><kwd id="kwd-0005">oral potentially malignant disorders (OPMDs)</kwd><kwd id="kwd-0006">oral squamous cell carcinoma (OSCC)</kwd><kwd id="kwd-0007">resource-limited settings</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Indian Council of Medical Research</institution><institution-id institution-id-type="doi">10.13039/501100001411</institution-id></institution-wrap>
+</funding-source><award-id>IIRP-2023-1049</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><ref-count count="29"/><page-count count="9"/><word-count count="4106"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.8 mode:remove_FC converted:01.10.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ijod6654212-cit-2001">
+<string-name name-style="western">
+<surname>Kumar</surname>, <given-names>P. D. Madan</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lavanya</surname>, <given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sivakumar</surname>, <given-names>Sasidharan</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ranganathan</surname>, <given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pavithra</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Palanivel Pandian</surname>, <given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Avinash</surname>, <given-names>B. R.</given-names>
+</string-name>, 
+<article-title>Diagnostic Efficiency of Artificial Intelligence Integrated Intraoral Mobile Photographs in Identification of Oral Potentially Malignant Disorders: An Umbrella Review</article-title>, 
+<source>International Journal of Dentistry</source>, <volume>2026</volume>, <elocation-id>6654212</elocation-id>, 9 pages, <year>2026</year>. 
+<pub-id pub-id-type="doi">10.1155/ijod/6654212</pub-id>
+</mixed-citation>
+</p><fn-group id="ijd6654212-ntgp-0001"><fn id="ijd6654212-note-0001"><p>
+<bold>Guest Editor:</bold> Hannah Wesley</p></fn></fn-group></notes></front><body><sec id="sec-0006"><title>1. Introduction</title><p>Oral squamous cell carcinoma (OSCC) constitutes a significant global health burden, with disproportionately high incidence and mortality rates in low‐ and middle‐income countries (LMICs) [<xref rid="bib-0001" ref-type="bibr">1</xref>]. The primary challenge lies in the late‐stage presentation of the disease, which substantially limits therapeutic success and adversely impacts survival outcomes. Early detection of oral potentially malignant disorders (OPMDs), such as leukoplakia, erythroplakia, and oral submucous fibrosis, is therefore essential to intercept malignant progression and reduce the disease burden [<xref rid="bib-0002" ref-type="bibr">2</xref>].</p><p>Numerous studies have established the diagnostic utility of conventional approaches, including biopsy and histopathological examination [<xref rid="bib-0003" ref-type="bibr">3</xref>]. While these methods remain the gold standard, they are invasive, costly, and often inaccessible in primary healthcare settings. Consequently, there is a pressing need for alternative, scalable, and noninvasive diagnostic strategies that can support large‐scale screening in resource‐constrained environments [<xref rid="bib-0004" ref-type="bibr">4</xref>].</p><p>Recent advancements in artificial intelligence (AI), particularly the development of applications that increase disease prediction by uploading photographs to pocket‐friendly digital devices with updated high‐quality cameras, have demonstrated promising results in the field of medical imaging [<xref rid="bib-0005" ref-type="bibr">5</xref>]. Mobile oral cavity photography integrated with AI offers a low‐cost, noninvasive, and portable solution for the detection and surveillance of OPMDs. These tools have the potential to overcome existing barriers to early diagnosis, especially in underserved populations [<xref rid="bib-0006" ref-type="bibr">6</xref>].</p><p>However, despite their emerging potential, the current literature lacks comprehensive synthesis regarding the diagnostic performance, consistency, and methodological quality of such AI‐driven approaches [<xref rid="bib-0007" ref-type="bibr">7</xref>]. This umbrella review aims to address this gap by evaluating the diagnostic accuracy of intraoral mobile photographs coupled with AI in detecting OPMDs, explaining how and why such tools could be instrumental in transforming community‐level screening strategies, and providing an evidence‐based rationale for their broader clinical integration.</p><p>Although several systematic reviews and meta‐analyses have evaluated the application of AI for the detection and classification of oral OPMDs and OSCC, the existing evidence remains fragmented. Most reviews have focused on specific AI algorithms, individual imaging modalities, or selected clinical outcomes, resulting in considerable variation in study populations, datasets, reference standards, performance metrics, and methodological quality. Furthermore, the rapid evolution of AI technologies has led to the publication of multiple overlapping systematic reviews with differing conclusions, making it challenging for clinicians, researchers, and policymakers to identify the most reliable evidence. To date, no comprehensive umbrella review has systematically synthesized, critically appraised, and compared the findings of these existing systematic reviews and meta‐analyses while simultaneously evaluating their methodological quality, risk of bias, and certainty of evidence. Therefore, the present umbrella review was undertaken to provide a higher level of evidence by integrating and critically evaluating the current body of synthesized literature, identifying areas of consensus and inconsistency, highlighting methodological limitations, and outlining priorities for future research and clinical translation of AI‐assisted diagnostic technologies in oral cancer screening.</p><p>This umbrella review critically evaluates the potential clinical application of AI‐assisted oral mobile photographs in enhancing diagnostic performance, supporting clinical decision‐making, and facilitating the early detection of OPMDs.</p></sec><sec id="sec-0007"><title>2. Materials and Methods</title><sec id="sec-0008"><title>2.1. Protocol and Registration</title><p>This systematic review was designed in accordance with the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA) guidelines. The study protocol was prospectively registered in the International Prospective Register of Systematic Reviews (PROSPERO) under the Registration ID CRD42024599720. The complete electronic search strategy, particularly the database and the search terms, are in accordance with Table <xref rid="tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Search strategy for the study.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">Database</th><th align="center" rowspan="1" colspan="1">Numbers</th><th align="center" rowspan="1" colspan="1">Search strategy</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Medline (PubMed)</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">(“mouth”[MeSH Terms] OR “mouth”[All Fields] OR “oral”[All Fields]) AND (“precancerous conditions”[MeSH Terms] OR (“PRECANCEROUS”[All Fields] AND “conditions”[All Fields]) OR “precancerous conditions”[All Fields] OR “premalignant”[All Fields] OR “premalign”[All Fields] OR “premalignancies”[All Fields] OR “premalignancy”[All Fields]) AND “PRECANCEROUS”[All Fields] AND (“mouth neoplasms”[MeSH Terms] OR (“mouth”[All Fields] AND “neoplasms”[All Fields]) OR “mouth neoplasms”[All Fields] OR (“oral”[All Fields] AND “cancer”[All Fields]) OR “oral cancer”[All Fields]) AND (“diagnosis”[MeSH Terms] OR “diagnosis”[All Fields] OR “diagnostic”[All Fields] OR “diagnostical”[All Fields] OR “diagnostically”[All Fields] OR “diagnostics”[All Fields]) AND (“artificial intelligence”[MeSH Terms] OR (“artificial”[All Fields] AND “intelligence”[All Fields]) OR “artificial intelligence”[All Fields])</td></tr><tr><td align="left" rowspan="1" colspan="1">Web Of Science (WoS)</td><td align="center" rowspan="1" colspan="1">53</td><td align="center" rowspan="1" colspan="1">((((ALL = (“oral premalignant lesion”)) OR ALL = (“oral premalignant”)) OR ALL = (“oral premalignant condition”)) OR ALL = (“oral lesion”)) OR ALL = (“oral lesions”) AND (((((ALL = (“intraoral photography”)) OR ALL = (“intraoral photographs”)) OR ALL = (“oral images”)) OR ALL = (“photographic evaluation”)) OR ALL = (photograph)) OR ALL = (photographs)</td></tr><tr><td align="left" rowspan="1" colspan="1">Scopus</td><td align="center" rowspan="1" colspan="1">639</td><td align="center" rowspan="1" colspan="1">((ALL (“intraoral lesions”) OR ALL (“intraoral lesion”) OR ALL (“premalignant lesions”) OR ALL (“premalignant lesion”) OR ALL (“premalignant condition”) OR ALL (“precancerous lesions”) OR ALL (“precancerous conditions”) OR ALL (“precancerous lesion”) OR ALL (precancer))) AND ((ALL (“intraoral photography”) OR ALL (“intraoral photograph”) OR ALL (photographs) OR ALL (photography) OR ALL (photograph)))</td></tr><tr><td align="left" rowspan="1" colspan="1">Embase</td><td align="center" rowspan="1" colspan="1">68</td><td align="center" rowspan="1" colspan="1">((“precancer”/exp OR “praecancer” OR “pre cancer” OR “pre‐cancerous condition” OR “pre‐cancerous lesion” OR “pre‐cancerous state” OR “pre‐malignancies” OR “pre‐malignancy” OR “pre‐malignant condition” OR ”pre‐malignant lesion” OR “pre‐malignant state” OR “pre‐neoplastic condition” OR “precancer” OR “precanceroses” OR “precancerosis” OR “precancerous conditions” OR “precancerous lesion” OR “precancerous state” OR “premalignancies” OR “premalignancy” OR “premalignant condition” OR “premalignant lesion” OR “premalignant state” OR “preneoplastic condition” OR “preneoplastic state”) OR (“mouth lesion”/exp OR “intraoral lesion” OR “mouth lesion” OR “oral lesion” OR “oral mucosa wound”)) AND (“tooth radiography”/exp OR “intraoral photography” OR “photography, intraoral”)</td></tr><tr><td align="left" rowspan="1" colspan="1">Google Scholar</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">(“oral premalignancy” OR “oral cancer” OR “oral precancer” OR “OPMD precancerous”) AND (“dental photography” OR “intraoral photography”)</td></tr></tbody></table></table-wrap></sec><sec id="sec-0009"><title>2.2. Study Design and Period</title><p>This study was a protocol‐driven umbrella review designed to assess the diagnostic precision of intraoral mobile photographs predicted by AI in identifying OPMDs from 01/01/2010 to 30/06/2026. The methodological framework was established to ensure transparency, reproducibility, and consistency with reporting standards for diagnostic accuracy studies.</p></sec><sec id="sec-0010"><title>2.3. Ethical Considerations</title><p>Ethical clearance was not required, and the reason for exemption was that our study involved secondary analysis of data from previously published literature, which were all available in the public domain. It was assumed that all included studies had adhered to the ethical principles outlined in the Declaration of Helsinki (as revised in 2000) and received appropriate institutional or regional ethical clearance.</p></sec><sec id="sec-0011"><title>2.4. Eligibility Criteria</title><p>The inclusion criteria were defined in advance and included systematic reviews that<list list-type="simple"><list-item><label>•</label><p>Involved human participants with clinically or histologically diagnosed OPMDs,</p></list-item><list-item><label>•</label><p>Employed intraoral mobile photographs for lesion detection,</p></list-item><list-item><label>•</label><p>Reported diagnostic performance metrics such as sensitivity, specificity, or accuracy and</p></list-item><list-item><label>•</label><p>Compared AI‐driven oral mobile photographic images with conventional diagnostic standards (e.g., histopathology),</p></list-item><list-item><label>•</label><p>Cross‐sectional study designs.</p></list-item></list>
+</p><p>Exclusion criteria included the following:<list list-type="simple"><list-item><label>•</label><p>Studies lacking quantitative diagnostic accuracy outcomes,</p></list-item><list-item><label>•</label><p>Articles not published in English,</p></list-item><list-item><label>•</label><p>Studies that did not utilize intraoral mobile photographs,</p></list-item><list-item><label>•</label><p>Research with incomplete methodology or lacking adequate validation of AI systems.</p></list-item></list>
+</p><p>Reviewer calibration/pilot screening</p><p>Before commencing the formal screening process, the reviewers conducted a pilot screening exercise using a representative sample of retrieved records to ensure a consistent interpretation of the eligibility criteria. Any discrepancies identified during the pilot phase were discussed and resolved, and the screening criteria were refined at junctures where it was necessary before full‐text screening commenced.</p><p>Resolution of disagreements</p><p>Study selection, data extraction, and methodological quality assessment were performed independently by two reviewers. Any disagreements were resolved through discussion and consensus. When consensus could not be reached, a third reviewer was consulted to make the final decision.</p><p>As this study was conducted as an umbrella review, the potential overlap of primary studies across the included systematic reviews was considered during the evidence synthesis. The included reviews were examined to identify substantial duplication of evidence; however, a formal qualitative assessment of overlap was performed.</p></sec><sec id="sec-0012"><title>2.5. Data Extraction and Quality Assessment</title><p>Prior to initiating the review, a structured data extraction form was developed to capture relevant study parameters, including sample characteristics, AI model descriptions, reference standards, and diagnostic accuracy outcomes. Two reviewers were designated to independently extract data and resolve discrepancies through discussion. Risk of bias and methodological quality were preplanned to be evaluated using criteria based on study design, participant selection, reference standards, and flow/timing, consistent with AMSTAR‐2, PRIOR, and JBI.</p></sec></sec><sec id="sec-0013"><title>3. Results</title><sec id="sec-0014"><title>3.1. Study Selection</title><p>A total of 798 records were identified initially (Table <xref rid="tbl-0001" ref-type="table">1</xref>). A manual check of the titles made us exclude 57 similar titles. Out of the total 741 studies, 693 did not meet the desired study design in PICOS criteria and were thus excluded. Further, on following title and abstract screening with predefined inclusion criteria, 42 articles were subtracted from 48, which also did not fulfill one of the components of PICOS, resulting in the analysis of 6 articles. The PRISMA flow diagram (Figure <xref rid="fig-0001" ref-type="fig">1</xref>) outlines the study selection process. These studies collectively evaluated the diagnostic performance of intraoral mobile photographs driven by AI in detecting OPMDs and other clinically relevant oral mucosal lesions.</p><fig position="float" fig-type="Figure" id="fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>PRISMA flow chart on study selection process.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="IJOD-2026-6654212-g001.webp"><?image-name IJOD-2026-6654212-g001.webp?><?image-size 28524?><?image-md5 e3ed2ca571004e90f6e29925ec1afa95?><?image-image-server-status NEVER_LOAD?><?image-original-height 608?><?image-original-width 600?><?image-scaled-height 608?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/241c/13628564/e3ed2ca57100/IJOD-2026-6654212-g001.webp?><?thumb-name IJOD-2026-6654212-g001.gif?><?thumb-size 9346?><?thumb-md5 fa21b04982f224fb5591c19526a90ee5?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 200?><?thumb-scaled-width 197?><?thumb-cloudpmc-urn urn:cdn:blobs/241c/13628564/fa21b04982f2/IJOD-2026-6654212-g001.gif?></graphic></fig><p>The characteristics of the included studies are summarized in Table <xref rid="tbl-0002" ref-type="table">2</xref>. The selected studies varied in terms of geographical location, population demographics, sample sizes (ranging from 120 to 500 participants), mobile photography utilized, and reference standards. Despite methodological heterogeneity, all studies employed intraoral photographs and AI for image classification and lesion detection, providing a substantive basis for pooled analysis.</p><table-wrap position="float" id="tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Study characteristics and diagnostic performance.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">Serial number</th><th align="center" rowspan="1" colspan="1">Study</th><th align="center" rowspan="1" colspan="1">Sample size</th><th align="center" rowspan="1" colspan="1">AI model used</th><th align="center" rowspan="1" colspan="1">Sensitivity (%)</th><th align="center" rowspan="1" colspan="1">Specificity (%)</th><th align="center" rowspan="1" colspan="1">Key findings</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">Kim et al. [<xref rid="bib-0007" ref-type="bibr">7</xref>]</td><td align="center" rowspan="1" colspan="1">350</td><td align="center" rowspan="1" colspan="1">CNN</td><td align="center" rowspan="1" colspan="1">91.2 (86.8–94.2)</td><td align="center" rowspan="1" colspan="1">87.7 (83.2–91.3)</td><td align="center" rowspan="1" colspan="1">Demonstrated high diagnostic reliability in classifying OPMDs, indicating strong potential for early detection and clinical integration.</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">Uhrin et al. [<xref rid="bib-0008" ref-type="bibr">8</xref>]</td><td align="center" rowspan="1" colspan="1">400</td><td align="center" rowspan="1" colspan="1">CNN</td><td align="center" rowspan="1" colspan="1">92.3 (83.5–96.6)</td><td align="center" rowspan="1" colspan="1">98.7 (94.7–99.7)</td><td align="center" rowspan="1" colspan="1">Showcased exceptional accuracy in telediagnosis, highlighting its viability for remote screening and diagnosis of oral lesions.</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">Ferro et al. [<xref rid="bib-0009" ref-type="bibr">9</xref>]</td><td align="center" rowspan="1" colspan="1">300</td><td align="center" rowspan="1" colspan="1">CNN</td><td align="center" rowspan="1" colspan="1">91.1 (84.8–95.0)</td><td align="center" rowspan="1" colspan="1">NIL</td><td align="center" rowspan="1" colspan="1">Effectively utilized machine learning for robust lesion detection, though specificity data was not provided, necessitating further validation.</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">Li et al. [<xref rid="bib-0010" ref-type="bibr">10</xref>]</td><td align="center" rowspan="1" colspan="1">200</td><td align="center" rowspan="1" colspan="1">CNN</td><td align="center" rowspan="1" colspan="1">89.9 (86.6–92.5)</td><td align="center" rowspan="1" colspan="1">89.2 (85.1–92.2)</td><td align="center" rowspan="1" colspan="1">Demonstrated consistent diagnostic performance across diverse populations, supporting its applicability in varied clinical settings.</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">Rokhshad et al. [<xref rid="bib-0011" ref-type="bibr">11</xref>]</td><td align="center" rowspan="1" colspan="1">310</td><td align="center" rowspan="1" colspan="1">CNN</td><td align="center" rowspan="1" colspan="1">91 (82–96)</td><td align="center" rowspan="1" colspan="1">94 (78–98)</td><td align="center" rowspan="1" colspan="1">Proven effective in distinguishing precancerous and malignant lesions, reinforcing its role in early intervention strategies.</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">Sahoo et al.[<xref rid="bib-0012" ref-type="bibr">12</xref>]</td><td align="center" rowspan="1" colspan="1">296</td><td align="center" rowspan="1" colspan="1">CNN</td><td align="center" rowspan="1" colspan="1">87 (85–89)</td><td align="center" rowspan="1" colspan="1">81 (78–84)</td><td align="center" rowspan="1" colspan="1">AI demonstrated excellent diagnostic accuracy for detecting oral potentially malignant disorders and oral cancer. The review concluded that AI has strong potential as a reliable adjunct for early detection, particularly in resource‐limited settings.</td></tr></tbody></table></table-wrap></sec><sec id="sec-0015"><title>3.2. Forest Plot Analysis</title><p>The forest plots (Figure <xref rid="fig-0002" ref-type="fig">2</xref>) for sensitivity and specificity reveal strong effect size estimates. For sensitivity, the estimated intercept is 0.907 (SE = 0.010, <italic toggle="yes">z</italic> = 94.045, and <italic toggle="yes">p</italic>  &lt; 0.001) with a 95% confidence interval from 0.888 to 0.926, signifying high sensitivity and precision in diagnosing true positives. For specificity, the intercept is estimated at 0.93.34 (SE = 0.025, <italic toggle="yes">z</italic> = 37.210, and <italic toggle="yes">p</italic>  &lt; 0.001) with a 95% confidence interval from 0.875 to 0.969, indicating acceptable specificity and confidence in excluding false positives. These high sensitivity and specificity estimates, coupled with significant <italic toggle="yes">z</italic>‐values and narrow confidence intervals, reinforce the diagnostic reliability of mobile photography.</p><fig position="float" fig-type="Figure" id="fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Forest plot analysis of the included studies. (a) Sensitivity and (b) specificity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="IJOD-2026-6654212-g002.webp"><?image-name IJOD-2026-6654212-g002.webp?><?image-size 22656?><?image-md5 6aeb856830931435a6d65be7a9e60b2c?><?image-image-server-status NEVER_LOAD?><?image-original-height 510?><?image-original-width 600?><?image-scaled-height 510?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/241c/13628564/6aeb85683093/IJOD-2026-6654212-g002.webp?><?thumb-name IJOD-2026-6654212-g002.gif?><?thumb-size 6151?><?thumb-md5 0b66cb7ce74affb91effa23a1e8383d9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 170?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/241c/13628564/0b66cb7ce74a/IJOD-2026-6654212-g002.gif?></graphic></fig></sec><sec id="sec-0016"><title>3.3. Funnel Plot and Publication Bias</title><p>Funnel plot analysis (Figure <xref rid="fig-0003" ref-type="fig">3</xref>) demonstrated visual symmetry and does not indicate a potential publication bias. The Egger’s test does not support the presence of funnel plot asymmetry (intercept: 1.24, 95% CI:−0.27 to 2.74, <italic toggle="yes">t</italic>: 1.611, and <italic toggle="yes">p</italic>‐value: 0.182). This finding implies that both high‐ and low‐effect‐size studies were well‐represented in the analysis, providing a credible and comprehensive representation of the available evidence.</p><fig position="float" fig-type="Figure" id="fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Funnel plot analysis for publication bias of the included studies.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="IJOD-2026-6654212-g003.webp"><?image-name IJOD-2026-6654212-g003.webp?><?image-size 9474?><?image-md5 ab74d27ceb77dda3a0845a883d21fe76?><?image-image-server-status NEVER_LOAD?><?image-original-height 281?><?image-original-width 600?><?image-scaled-height 281?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/241c/13628564/ab74d27ceb77/IJOD-2026-6654212-g003.webp?><?thumb-name IJOD-2026-6654212-g003.gif?><?thumb-size 3785?><?thumb-md5 951442363044e46069fc04728b595008?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 94?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/241c/13628564/951442363044/IJOD-2026-6654212-g003.gif?></graphic></fig></sec><sec id="sec-0017"><title>3.4. Heterogeneity</title><p>Quantitative heterogeneity analysis revealed variation in sensitivity outcomes (<italic toggle="yes">I</italic>
+<sup>2</sup> = 34.01%), suggesting acceptable performance across populations and protocols. In contrast, specificity showed substantial heterogeneity (<italic toggle="yes">I</italic>
+<sup>2</sup> = 93.34%), possibly due to differences in imaging devices, lesion characteristics, or algorithmic thresholds.</p></sec><sec id="sec-0018"><title>3.5. Risk of Bias</title><p>Quality assessment indicated a low overall risk of bias in most studies, particularly in participant selection and examiner blinding. These findings underscore the need for greater standardization and transparency in future reporting.</p></sec><sec id="sec-0019"><title>3.6. Model Robustness</title><p>Intraoral mobile photographs predicted by AI consistently demonstrated strong diagnostic capability across the included studies. Higher pooled sensitivity and specificity with limited heterogeneity support their reliability in detecting true positives. Although the specificity was more variable, it remained within clinically acceptable thresholds. These findings affirm the potential of mobile device‐captured intraoral photography predicted by AI in imaging as a noninvasive, scalable diagnostic tool for early OPMD screening, especially in settings with limited access to conventional diagnostics.</p></sec></sec><sec id="sec-0020"><title>4. Discussion</title><sec id="sec-0021"><title>4.1. Summary of Key Findings</title><p>This systematic review and meta‐analysis rigorously evaluated the diagnostic utility of intraoral mobile photographs integrated with AI in the detection of OPMDs [<xref rid="bib-0008" ref-type="bibr">8</xref>]. The aggregated findings underscore the strong diagnostic performance of these AI‐driven tools, evidenced by a pooled sensitivity of 90.7% and a specificity of 93.34%. These results affirm the models’ capability to accurately identify true‐positive and true‐negative cases of OPMDs, suggesting a clinically reliable, noninvasive alternative to conventional diagnostic modalities. The high sensitivity minimizes the risk of missed diagnoses—critical for conditions with malignant potential—while the high specificity mitigates the burden of unnecessary biopsies and referrals [<xref rid="bib-0009" ref-type="bibr">9</xref>].</p><p>Secondary analyses revealed acceptable heterogeneity in sensitivity (<italic toggle="yes">I</italic>
+<sup>2</sup> = 34.01%), indicating consistent true‐positive detection across studies. Conversely, substantial heterogeneity in specificity (<italic toggle="yes">I</italic>
+<sup>2</sup> = 93.34%) suggests variability in false‐positive classification, warranting further investigation into underlying methodological differences, including imaging conditions, AI training protocols, and lesion heterogeneity [<xref rid="bib-0011" ref-type="bibr">11</xref>]. These insights are particularly valuable in light of the study’s pre‐established hypothesis that intraoral mobile photography integrated with AI for predictive analysis facilitates diagnostics, which are both accurate and generalizable tools suitable for mass screening in resource‐limited settings [<xref rid="bib-0012" ref-type="bibr">12</xref>].</p><p>The methodological quality of the included reviews was evaluated using AMSTAR‐2, which demonstrated variability in methodological rigor. Common limitations included incomplete reporting of protocol registration, inadequate assessment of publication bias, inconsistent consideration of the risk of bias in primary studies, and differences in evidence‐synthesis methods. Furthermore, although the potential overlap of primary studies across the included systematic reviews was considered during evidence synthesis, assessment using the corrected covered area (CCA) was performed, and therefore some duplication of primary evidence was excluded.</p><p>Despite the encouraging diagnostic accuracy reported across the included reviews, several challenges limit the immediate translation of AI‐assisted screening into routine clinical practice. Most primary studies were retrospective, conducted in single‐center settings, and relied on relatively small or institution‐specific datasets with limited external validation. Differences in image acquisition protocols, annotation methods, and patient populations further restrict the generalizability of the available evidence. Additional barriers, including the need for standardized imaging protocols, prospective multicenter validation, regulatory approval, integration into clinical workflows, and improved model transparency, should also be addressed before widespread implementation.</p><p>Overall, the current evidence supports the potential of AI‐assisted clinical imaging as an adjunct to the early detection of OPMDs and OSCC rather than a replacement for clinical examination and histopathological diagnosis.</p></sec><sec id="sec-0022"><title>4.2. Strengths and Limitations of the Study</title><p>A major strength of this study lies in its methodological rigor. The protocol was prospectively registered with PROSPERO (CRD42024599720), and the review process adhered to PRISMA guidelines, ensuring transparency, reproducibility, and minimized bias. Data extraction and risk of bias assessment were performed independently by two reviewers using a standardized approach‐aligned framework. The inclusion of diverse studies across geographic, ethnic, and clinical settings enhanced the external validity and applicability of the findings [<xref rid="bib-0013" ref-type="bibr">13</xref>].</p><p>However, several limitations merit discussion. First, notable variability was observed in the imaging equipment (ranging from clinical‐grade intraoral cameras to consumer smartphones), and lesion types were evaluated. These inconsistencies may have contributed to the heterogeneity in specificity and restricted the generalizability of results [<xref rid="bib-0014" ref-type="bibr">14</xref>, <xref rid="bib-0015" ref-type="bibr">15</xref>]. Second, the lack of standardization in model training datasets and diagnostic thresholds across studies limited the potential for meta‐regression or subgroup analysis [<xref rid="bib-0016" ref-type="bibr">16</xref>]. Additionally, most studies employed retrospective or convenience sampling methods, which may introduce selection bias [<xref rid="bib-0017" ref-type="bibr">17</xref>]. The exclusion of non‐English publications could also have limited access to potentially relevant data, contributing to a narrower evidence base.</p></sec><sec id="sec-0023"><title>4.3. Interpretation and Implications in the Context of Totality of Evidence</title><p>This review adds significant value to the evolving literature on AI‐based oral diagnostics. While prior systematic reviews have broadly examined AI applications in dentistry, this study uniquely focuses on intraoral mobile photography to facilitate it as a reliable screening tool for OPMDs—a subfield that holds immense potential for transforming population‐level screening strategies [<xref rid="bib-0018" ref-type="bibr">18</xref>, <xref rid="bib-0019" ref-type="bibr">19</xref>].</p><p>The findings highlight an essential shift in the diagnostic paradigms. Traditionally, oral mucosal lesions were evaluated by trained clinicians using visual‐tactile examination, often followed by biopsy [<xref rid="bib-0020" ref-type="bibr">20</xref>]. However, such approaches are resource‐dependent and impractical for large‐scale implementation, particularly in LMICs. The integration of AI‐powered intraoral mobile photography‐based diagnostics democratizes early detection by leveraging widely available smartphone technology, empowering primary healthcare providers and community health workers to conduct preliminary screenings [<xref rid="bib-0021" ref-type="bibr">21</xref>]. The capacity for automated lesion classification enables timely triage, potentially improving early intervention and reducing oral cancer incidence [<xref rid="bib-0022" ref-type="bibr">22</xref>].</p><p>These findings also support ongoing efforts in public health to decentralize specialist‐dependent workflows. By reducing diagnostic delays and enhancing accessibility, AI‐powered tools may bridge existing gaps in the cancer screening infrastructure [<xref rid="bib-0023" ref-type="bibr">23</xref>]. Their deployment in rural, underserved, or mobile clinical settings could significantly relieve the burden on tertiary care centers and support the goals of national oral cancer prevention programs [<xref rid="bib-0024" ref-type="bibr">24</xref>]. Moreover, the immediacy of AI‐based interpretation could enhance telemedicine frameworks, allowing remote consultations with specialists for second opinions or treatment planning [<xref rid="bib-0025" ref-type="bibr">25</xref>].</p></sec><sec id="sec-0024"><title>4.4. Controversies Raised by the Study</title><p>Despite the promising outcomes, this review also surfaces several unresolved challenges and debates within the AI in healthcare domain. One primary concern is the generalizability of the intraoral images captured on the smartphones available in varied brands and prices in the market depending upon different levels of high‐definition capturing features and region‐specific or demographically homogenous datasets [<xref rid="bib-0026" ref-type="bibr">26</xref>]. Variations in lesion morphology are influenced by genetic, ethnic, environmental, and behavioral factors such as tobacco usage like betel, etc. and alcohol may result in misclassification when models are applied to populations not represented in the training data [<xref rid="bib-0027" ref-type="bibr">27</xref>].</p><p>AI has learned patterns from numerous images, but the exact combination of features influencing its decision is difficult to interpret. Another ongoing controversy relates to the “black box” nature of deep learning algorithms. While AI can outperform manual diagnostic methods in terms of speed and accuracy, the lack of transparency in decision‐making processes complicates clinical validation and acceptance [<xref rid="bib-0028" ref-type="bibr">28</xref>]. This issue is compounded by inconsistent reporting of AI model parameters, hyperparameters, and training‐validation processes, which hinders reproducibility and peer scrutiny. Moreover, the use of diverse and often nonstandardized imaging protocols across studies further exacerbates the variability in performance metrics [<xref rid="bib-0029" ref-type="bibr">29</xref>].</p><p>Finally, ethical considerations regarding data privacy, informed consent for image capture, and regulatory oversight of AI‐based diagnostics remain contentious. These aspects require robust governance structures before widespread clinical deployment can be ethically and legally justified.</p></sec><sec id="sec-0025"><title>4.5. Future Research Directions</title><p>Future research should prioritize the development and validation of standardized, open‐access, multicenter datasets representing a broad range of lesion types, ethnicities, and imaging conditions. Prospective cohort studies and randomized diagnostic trials are needed to evaluate real‐world effectiveness, particularly in primary care and community settings. Comparative studies assessing AI‐assisted diagnostics against gold‐standard histopathology will further elucidate their clinical validity. Future research should prioritize robust external validation and implementation research to strengthen the evidence base and facilitate safe and effective clinical adoption.</p><p>Advancing model interpretability through explainable AI techniques will also be crucial in fostering clinician trust and facilitating regulatory approval. Incorporating multimodal data such as patient history, risk factors, and adjunctive clinical features into AI models could enhance the diagnostic accuracy and provide a more holistic assessment of malignancy risk. Furthermore, implementation of science frameworks should be employed to explore the logistical feasibility, user acceptability, and cost‐effectiveness of deploying intraoral mobile photography integrated with AI for prediction as a screening tool within existing health systems.</p><p>From a health policy perspective, guidelines and ethical frameworks for AI deployment must be developed in tandem with technological advances to safeguard patient rights while promoting innovation. Interdisciplinary collaborations between computer scientists, clinicians, and public health professionals will be vital to translating these findings into sustainable, equitable, and impactful screening programs.</p></sec></sec><sec id="sec-0026"><title>Author Contributions</title><p>The authors have nothing to report.</p></sec><sec id="sec-0028"><title>Funding</title><p>This study was done as part of the project funded by the Indian Council of Medical Research (Project ID IIRP‐2023‐1049).</p></sec><sec id="sec-0029"><title>Disclosure</title><p>All authors have read and approved the final version of the manuscript. P. D. Madan Kumar had full access to all of the data in this study and takes complete responsibility for the integrity of the data and the accuracy of the data analysis. Contribution from every author is in accordance with the CRediT Taxonomy. The study was presented in the 29th National IAPHD Conference under the scientific paper delegate category by P. D. Madan Kumar.</p></sec><sec id="sec-0030"><title>Ethics Statement</title><p>This study is in accordance with the ICMJE recommendations as well.</p></sec><sec sec-type="COI-statement" id="sec-0031"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="sec-0027"><title>Acknowledgments</title><p>P. D. Madan Kumar confirm that written permission has been obtained from staff and faculty of Ragas Dental College and Hospital and would like to acknowledge them for their guidance and cooperation throughout the study.</p></ack><sec sec-type="data-availability" id="sec-0033"><title>Data Availability Statement</title><p>The authors confirm that the data supporting the findings of this study are available upon reasonable request.</p></sec><ref-list><ref id="bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cit-0001">
+<string-name name-style="western">
+<surname>Carreras-Torras</surname>
+<given-names>C.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Gay-Escoda</surname>
+<given-names>C.</given-names>
+</string-name>, <article-title>Techniques for Early Diagnosis of Oral Squamous Cell Carcinoma: Systematic Review</article-title>, <source>Medicina Oral, Patología Oral y Cirugía Bucal</source>. (<year>2015</year>) <volume>20</volume>, no. 3, <fpage>e305</fpage>–<lpage>e315</lpage>, <pub-id pub-id-type="doi">10.4317/medoral.20347</pub-id>.<pub-id pub-id-type="pmcid">PMC4464918</pub-id><pub-id pub-id-type="pmid">25662554</pub-id></mixed-citation></ref><ref id="bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cit-0002">
+<string-name name-style="western">
+<surname>Zoltie</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Blome-Eberwein</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Forbes</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Theaker</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Hussain</surname>
+<given-names>W.</given-names>
+</string-name>, <article-title>Medical Photography Using Mobile Devices</article-title>, <source>BMJ</source>. (<year>2022</year>) <volume>378</volume>, <pub-id pub-id-type="doi">10.1136/bmj-2021-067663</pub-id>.<pub-id pub-id-type="pmcid">PMC9465817</pub-id><pub-id pub-id-type="pmid">36028231</pub-id></mixed-citation></ref><ref id="bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cit-0003">
+<string-name name-style="western">
+<surname>Talwar</surname>
+<given-names>V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Singh</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Mukhia</surname>
+<given-names>N.</given-names>
+</string-name>, et al.<article-title>AI-Assisted Screening of Oral Potentially Malignant Disorders Using Smartphone-Based Photographic Images</article-title>, <source>Cancers</source>. (<year>2023</year>) <volume>15</volume>, no. 16, <pub-id pub-id-type="doi">10.3390/cancers15164120</pub-id>, <elocation-id>4120</elocation-id>.<pub-id pub-id-type="pmcid">PMC10452422</pub-id><pub-id pub-id-type="pmid">37627148</pub-id></mixed-citation></ref><ref id="bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cit-0004">
+<string-name name-style="western">
+<surname>Rabinovici-Cohen</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fridman</surname>
+<given-names>N.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Weinbaum</surname>
+<given-names>M.</given-names>
+</string-name>, et al.<article-title>From Pixels to Diagnosis: Algorithmic Analysis of Clinical Oral Photos for Early Detection of Oral Squamous Cell Carcinoma</article-title>, <source>Cancers</source>. (<year>2024</year>) <volume>16</volume>, no. 5, <pub-id pub-id-type="doi">10.3390/cancers16051019</pub-id>, <elocation-id>1019</elocation-id>.<pub-id pub-id-type="pmcid">PMC10930904</pub-id><pub-id pub-id-type="pmid">38473377</pub-id></mixed-citation></ref><ref id="bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cit-0005">
+<string-name name-style="western">
+<surname>Umer</surname>
+<given-names>Fahad</given-names>
+</string-name>, <article-title>Artificial Intelligence and Emerging Technologies in Diagnosis of Oral Potentially Malignant Disorders</article-title>, <source>BDJ Team</source>. (<year>2024</year>) <volume>11</volume>, no. 10, <fpage>454</fpage>–<lpage>456</lpage>, <pub-id pub-id-type="doi">10.1038/s41407-024-2820-y</pub-id>.</mixed-citation></ref><ref id="bib-0006"><label>6</label><mixed-citation publication-type="book" id="cit-0006">
+<string-name name-style="western">
+<surname>Rai</surname>
+<given-names>V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chakrabarty</surname>
+<given-names>A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Bose</surname>
+<given-names>S.</given-names>
+</string-name>, et al.<article-title>AI-Driven Smartphone Screening for Early Detection of Oral Potentially Malignant Disorders</article-title>, <italic toggle="yes">2024 Ninth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)</italic>, 2024, Piscataway, NJ, <publisher-name>IEEE</publisher-name>, <fpage>1</fpage>–<lpage>5</lpage>, <pub-id pub-id-type="doi">10.1109/ICONSTEM60960.2024.10568597</pub-id>.</mixed-citation></ref><ref id="bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cit-0007">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>J. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>B. G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>S. H.</given-names>
+</string-name>, <article-title>Efficacy of Artificial Intelligence-Assisted Discrimination of Oral Cancerous Lesions From Normal Mucosa Based on the Oral Mucosal Image: A Systematic Review and Meta-Analysis</article-title>, <source>Cancers</source>. (<year>2022</year>) <volume>14</volume>, no. 14, <pub-id pub-id-type="doi">10.3390/cancers14143499</pub-id>, <elocation-id>3499</elocation-id>.<pub-id pub-id-type="pmcid">PMC9320189</pub-id><pub-id pub-id-type="pmid">35884560</pub-id></mixed-citation></ref><ref id="bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cit-0008">
+<string-name name-style="western">
+<surname>Uhrin</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Domokos</surname>
+<given-names>Z.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Czumbel</surname>
+<given-names>L. M.</given-names>
+</string-name>, et al.<article-title>Teledentistry: A Future Solution in the Diagnosis of Oral Lesions: Diagnostic Meta-Analysis and Systematic Review</article-title>, <source>Telemedicine and e-Health</source>. (<year>2023</year>) <volume>29</volume>, no. 11, <fpage>1591</fpage>–<lpage>1600</lpage>, <pub-id pub-id-type="doi">10.1089/tmj.2022.0426</pub-id>.<pub-id pub-id-type="pmcid">PMC10654653</pub-id><pub-id pub-id-type="pmid">36976779</pub-id></mixed-citation></ref><ref id="bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cit-0009">
+<string-name name-style="western">
+<surname>Ferro</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Fan</surname>
+<given-names>K.</given-names>
+</string-name>, <article-title>Machine Learning in Point-of-Care Automated Classification of Oral Potentially Malignant and Malignant Disorders: A Systematic Review and Meta-Analysis</article-title>, <source>Scientific Reports</source>. (<year>2022</year>) <volume>12</volume>, no. 1, <pub-id pub-id-type="doi">10.1038/s41598-022-17489-1</pub-id>, <elocation-id>13797</elocation-id>.<pub-id pub-id-type="pmcid">PMC9376104</pub-id><pub-id pub-id-type="pmid">35963880</pub-id></mixed-citation></ref><ref id="bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cit-0010">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kot</surname>
+<given-names>W. Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McGrath</surname>
+<given-names>C. P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chan</surname>
+<given-names>B. W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ho</surname>
+<given-names>J. W.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>L. W.</given-names>
+</string-name>, <article-title>Diagnostic Accuracy of Artificial Intelligence-Assisted Clinical Imaging in the Detection of Oral Potentially Malignant Disorders and Oral Cancer: A Systematic Review and Meta-Analysis</article-title>, <source>International Journal of Surgery</source>. (<year>2024</year>) <volume>110</volume>, no. 8, <fpage>5034</fpage>–<lpage>5046</lpage>, <pub-id pub-id-type="doi">10.1097/JS9.0000000000001469</pub-id>.<pub-id pub-id-type="pmcid">PMC11325952</pub-id><pub-id pub-id-type="pmid">38652301</pub-id></mixed-citation></ref><ref id="bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cit-0011">
+<string-name name-style="western">
+<surname>Rokhshad</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mohammad-Rahimi</surname>
+<given-names>H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Price</surname>
+<given-names>J. B.</given-names>
+</string-name>, et al.<article-title>Artificial Intelligence for Classification and Detection of Oral Mucosa Lesions on Photographs: A Systematic Review and Meta-Analysis</article-title>, <source>Clinical Oral Investigations</source>. (<year>2024</year>) <volume>28</volume>, no. 1, <pub-id pub-id-type="doi">10.1007/s00784-023-05475-4</pub-id>, <elocation-id>88</elocation-id>.<pub-id pub-id-type="pmid">38217733</pub-id></mixed-citation></ref><ref id="bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cit-0012">
+<string-name name-style="western">
+<surname>Sahoo</surname>
+<given-names>R. K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sahoo</surname>
+<given-names>K. C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Dash</surname>
+<given-names>G. C.</given-names>
+</string-name>, et al.<article-title>Diagnostic Performance of Artificial Intelligence in Detecting Oral Potentially Malignant Disorders and Oral Cancer Using Medical Diagnostic Imaging: A Systematic Review and Meta-Analysis</article-title>, <source>Frontiers in Oral Health</source>. (<year>2024</year>) <volume>5</volume>, <pub-id pub-id-type="doi">10.3389/froh.2024.1494867</pub-id>, <elocation-id>1494867</elocation-id>.<pub-id pub-id-type="pmcid">PMC11576460</pub-id><pub-id pub-id-type="pmid">39568787</pub-id></mixed-citation></ref><ref id="bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cit-0013">
+<string-name name-style="western">
+<surname>Pedroso</surname>
+<given-names>C. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Warnakulasuriya</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Santos-Silva</surname>
+<given-names>A. R.</given-names>
+</string-name>, <article-title>Teledentistry in the Detection of Oral Potentially Malignant Disorders and Oral Cancer in the Latin American Region: A Review of Literature With Current Possibilities</article-title>, <source>Exploration of Digital Health Technologies</source>. (<year>2024</year>) <volume>2</volume>, no. 5, <fpage>291</fpage>–<lpage>301</lpage>, <pub-id pub-id-type="doi">10.37349/edht</pub-id>.</mixed-citation></ref><ref id="bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cit-0014">
+<string-name name-style="western">
+<surname>de Chauveron</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Unger</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lescaille</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wendling</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kurtz</surname>
+<given-names>C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Rochefort</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>Artificial Intelligence for Oral Squamous Cell Carcinoma Detection Based on Oral Photographs: A Comprehensive Literature Review</article-title>, <source>Cancer Medicine</source>. (<year>2024</year>) <volume>13</volume>, no. 1, <pub-id pub-id-type="doi">10.1002/cam4.6822</pub-id>.<pub-id pub-id-type="pmcid">PMC10807632</pub-id><pub-id pub-id-type="pmid">38164652</pub-id></mixed-citation></ref><ref id="bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cit-0015">
+<string-name name-style="western">
+<surname>de Souza</surname>
+<given-names>L. L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fonseca</surname>
+<given-names>F. P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Araujo</surname>
+<given-names>A. L.</given-names>
+</string-name>, et al.<article-title>Machine Learning for Detection and Classification of Oral Potentially Malignant Disorders: A Conceptual Review</article-title>, <source>Journal of Oral Pathology &amp; Medicine</source>. (<year>2023</year>) <volume>52</volume>, no. 3, <fpage>197</fpage>–<lpage>205</lpage>, <pub-id pub-id-type="doi">10.1111/jop.13414</pub-id>.<pub-id pub-id-type="pmid">36792771</pub-id></mixed-citation></ref><ref id="bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cit-0016">
+<string-name name-style="western">
+<surname>Piyarathne</surname>
+<given-names>N. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Liyanage</surname>
+<given-names>S. N.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Rasnayaka</surname>
+<given-names>R. M.</given-names>
+</string-name>, et al.<article-title>A Comprehensive Dataset of Annotated Oral Cavity Images for Diagnosis of Oral Cancer and Oral Potentially Malignant Disorders</article-title>, <source>Oral Oncology</source>. (<year>2024</year>) <volume>156</volume>, <pub-id pub-id-type="doi">10.1016/j.oraloncology.2024.106946</pub-id>, <elocation-id>106946</elocation-id>.<pub-id pub-id-type="pmid">39002299</pub-id></mixed-citation></ref><ref id="bib-0017"><label>17</label><mixed-citation publication-type="book" id="cit-0017">
+<string-name name-style="western">
+<surname>Solanki</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>
+Detection of Oral Cancer From Clinical Images Using Deep Learning
+</article-title>, <year>2024</year>, <publisher-name>Temple University</publisher-name>, Master’s thesis<pub-id pub-id-type="doi">10.34944/dspace/10217</pub-id>.</mixed-citation></ref><ref id="bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cit-0018">
+<string-name name-style="western">
+<surname>Devindi</surname>
+<given-names>G. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dissanayake</surname>
+<given-names>D. M. D. R.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Liyanage</surname>
+<given-names>S. N.</given-names>
+</string-name>, et al.<article-title>Multimodal Deep Convolutional Neural Network Pipeline for AI-Assisted Early Detection of Oral Cancer</article-title>, <source>IEEE Access</source>. (<year>2024</year>) <volume>12</volume>, <fpage>124375</fpage>–<lpage>124390</lpage>, <pub-id pub-id-type="doi">10.1109/ACCESS.2024.3454338</pub-id>.</mixed-citation></ref><ref id="bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cit-0019">
+<string-name name-style="western">
+<surname>Achararit</surname>
+<given-names>P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Manaspon</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jongwannasiri</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Phattarataratip</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Osathanon</surname>
+<given-names>T.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Sappayatosok</surname>
+<given-names>K.</given-names>
+</string-name>, <article-title>Artificial Intelligence-Based Diagnosis of Oral Lichen Planus Using Deep Convolutional Neural Networks</article-title>, <source>European Journal of Dentistry</source>. (<year>2023</year>) <volume>17</volume>, no. 4, <fpage>1275</fpage>–<lpage>1282</lpage>, <pub-id pub-id-type="doi">10.1055/s-0042-1760300</pub-id>.<pub-id pub-id-type="pmcid">PMC10756816</pub-id><pub-id pub-id-type="pmid">36669652</pub-id></mixed-citation></ref><ref id="bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cit-0020">
+<string-name name-style="western">
+<surname>Thakuria</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rahman</surname>
+<given-names>T.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Mahanta</surname>
+<given-names>D. R.</given-names>
+</string-name>, et al.<article-title>Deep Learning for Early Diagnosis of Oral Cancer via Smartphone and DSLR Image Analysis: A Systematic Review</article-title>, <source>Expert Review of Medical Devices</source>. (<year>2024</year>) <volume>21</volume>, no. 12, <fpage>1189</fpage>–<lpage>1204</lpage>, <pub-id pub-id-type="doi">10.1080/17434440.2024.2434732</pub-id>.<pub-id pub-id-type="pmid">39587051</pub-id></mixed-citation></ref><ref id="bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cit-0021">
+<string-name name-style="western">
+<surname>Keser</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pekiner</surname>
+<given-names>F. N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bayrakdar</surname>
+<given-names>İ.Ş.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Çelik</surname>
+<given-names>Ö.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Orhan</surname>
+<given-names>K.</given-names>
+</string-name>, <article-title>A Deep Learning Approach to Detection of Oral Cancer Lesions From Intraoral Patient Images: A Preliminary Retrospective Study</article-title>, <source>Journal of Stomatology, Oral and Maxillofacial Surgery</source>. (<year>2024</year>) <volume>125</volume>, no. 5, <pub-id pub-id-type="doi">10.1016/j.jormas.2024.101975</pub-id>, <elocation-id>101975</elocation-id>.<pub-id pub-id-type="pmid">39043293</pub-id></mixed-citation></ref><ref id="bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cit-0022">
+<string-name name-style="western">
+<surname>Song</surname>
+<given-names>H. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Park</surname>
+<given-names>Y. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jeong</surname>
+<given-names>H. Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>B. G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>J. H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Im</surname>
+<given-names>Y. G.</given-names>
+</string-name>, <article-title>Detection of Abnormal Changes on the Dorsal Tongue Surface Using Deep Learning</article-title>, <source>Medicina</source>. (<year>2023</year>) <volume>59</volume>, no. 7, <pub-id pub-id-type="doi">10.3390/medicina59071293</pub-id>, <elocation-id>1293</elocation-id>.<pub-id pub-id-type="pmcid">PMC10385577</pub-id><pub-id pub-id-type="pmid">37512104</pub-id></mixed-citation></ref><ref id="bib-0023"><label>23</label><mixed-citation publication-type="book" id="cit-0023">
+<string-name name-style="western">
+<surname>Goswami</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hazra</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Das</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Nagar</surname>
+<given-names>S. R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gudi</surname>
+<given-names>R.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Punjabi</surname>
+<given-names>N.</given-names>
+</string-name>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Bimbo</surname>
+<given-names>A. Del</given-names>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>talt</surname>
+<given-names>e.</given-names>
+</string-name>
+</person-group>, <part-title>Detection of Oral Potentially Malignant Lesions Through Transformer-Based Segmentation Models</part-title>, <source>Pattern Recognition. ICPR 2024. Lecture Notes in Computer Science</source>, <year>2024</year>, <publisher-name>Springer Nature</publisher-name>, <fpage>318</fpage>–<lpage>332</lpage>.</mixed-citation></ref><ref id="bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cit-0024">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>Deep Neural Network Uncertainty Estimation for Early Oral Cancer Diagnosis</article-title>, <source>Journal of Oral Pathology &amp; Medicine</source>. (<year>2024</year>) <volume>53</volume>, no. 5, <fpage>294</fpage>–<lpage>302</lpage>, <pub-id pub-id-type="doi">10.1111/jop.13536</pub-id>.<pub-id pub-id-type="pmid">38632703</pub-id></mixed-citation></ref><ref id="bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cit-0025">
+<string-name name-style="western">
+<surname>Kouketsu</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>C. H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Araki</surname>
+<given-names>T.</given-names>
+</string-name>, et al.<article-title>Detection of Oral Cancer and Oral Potentially Malignant Disorders Using Artificial Intelligence-Based Image Analysis</article-title>, <source>Head &amp; Neck</source>. (<year>2024</year>) <volume>46</volume>, no. 9, <fpage>2253</fpage>–<lpage>2260</lpage>, <pub-id pub-id-type="doi">10.1002/hed.27843</pub-id>.<pub-id pub-id-type="pmid">38860703</pub-id></mixed-citation></ref><ref id="bib-0026"><label>26</label><mixed-citation publication-type="book" id="cit-0026">
+<string-name name-style="western">
+<surname>Sumathy</surname>
+<given-names>V.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Cyril</surname>
+<given-names>C. P.</given-names>
+</string-name>, <article-title>Systematic Literature Review on Early Diagnosis of Oral Squamous Cell Carcinoma by Deep Learning Techniques</article-title>, <italic toggle="yes">2023 International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering (RMKMATE)</italic>, 2023, Piscataway, NJ, <publisher-name>IEEE</publisher-name>, <fpage>1</fpage>–<lpage>8</lpage>.</mixed-citation></ref><ref id="bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cit-0027">
+<string-name name-style="western">
+<surname>Di Fede</surname>
+<given-names>O.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Panzarella</surname>
+<given-names>V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Buttacavoli</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>La Mantia</surname>
+<given-names>G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Campisi</surname>
+<given-names>G.</given-names>
+</string-name>, <article-title>Doctoral: A Smartphone-Based Decision Support Tool for the Early Detection of Oral Potentially Malignant Disorders</article-title>, <source>Digital Health</source>. (<year>2023</year>) <volume>9</volume>, <pub-id pub-id-type="doi">10.1177/20552076231177141</pub-id>, <elocation-id>20552076231177141</elocation-id>.<pub-id pub-id-type="pmcid">PMC10226164</pub-id><pub-id pub-id-type="pmid">37256016</pub-id></mixed-citation></ref><ref id="bib-0028"><label>28</label><mixed-citation publication-type="book" id="cit-0028">
+<string-name name-style="western">
+<surname>Pinnika</surname>
+<given-names>P.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Rao</surname>
+<given-names>K. V.</given-names>
+</string-name>, <article-title>Analysis of Oral Cancer Detection Based Segmentation and Classification Using Deep Learning Algorithms</article-title>, <italic toggle="yes">Proceedings of the International Conference on Computational Innovations and Emerging Trends (ICCIET-2024)</italic>, 2024, Paris, <publisher-name>Atlantis Press</publisher-name>, <fpage>683</fpage>–<lpage>690</lpage>.</mixed-citation></ref><ref id="bib-0029"><label>29</label><mixed-citation publication-type="book" id="cit-0029">
+<string-name name-style="western">
+<surname>Shah</surname>
+<given-names>R.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Pareek</surname>
+<given-names>J.</given-names>
+</string-name>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Tripathi</surname>
+<given-names>Ashish Kumar</given-names>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Shrivastava</surname>
+<given-names>Vivek</given-names>
+</string-name>
+</person-group>, <part-title>A Review on Non-Invasive Tools and Deep Learning/Machine Learning Methods for the Early Identification of Oral Cancer</part-title>, <source>Advancements in Communication and Systems</source>, <year>2024</year>, <publisher-name>SCRS</publisher-name>, <fpage>419</fpage>–<lpage>429</lpage>, Computing and Intelligent Systems<pub-id pub-id-type="doi">10.56155/978-81-955020-7-3-37</pub-id>.</mixed-citation></ref></ref-list></back></article>

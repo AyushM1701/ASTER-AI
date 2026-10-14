@@ -1,0 +1,1027 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="ijod7239600" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Dent</journal-id><journal-id journal-id-type="iso-abbrev">Int J Dent</journal-id><journal-id journal-id-type="pmc-domain-id">1197</journal-id><journal-id journal-id-type="pmc-domain">ijd</journal-id><journal-id journal-id-type="nlm-id">101524183</journal-id><journal-id journal-id-type="publisher-id">IJOD</journal-id><journal-title-group><journal-title>International Journal of Dentistry</journal-title></journal-title-group><issn pub-type="ppub">1687-8728</issn><issn pub-type="epub">1687-8736</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13430044</article-id><article-id pub-id-type="pmcid-ver">PMC13430044.1</article-id><article-id pub-id-type="pmcaid">13430044</article-id><article-id pub-id-type="pmcaiid">13430044</article-id><article-id pub-id-type="pmid">42549006</article-id><article-id pub-id-type="doi">10.1155/ijod/7239600</article-id><article-id pub-id-type="publisher-id">IJOD7239600</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>The Bacteria‐Fungi‐Phage Interplay in Periodontitis and Peri‐Implantitis</article-title></title-group><contrib-group><contrib id="cr-0001" contrib-type="author"><name name-style="western"><surname>Ji</surname><given-names initials="Z">Zhaoxin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0001-3247-8960</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0002" contrib-type="author"><name name-style="western"><surname>Kang</surname><given-names initials="L">Lingying</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0005-9482-4696</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0003" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="S">Sirui</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-8228-769X</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0004" contrib-type="author" corresp="yes"><name name-style="western"><surname>Jiang</surname><given-names initials="Q">Qingsong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2553-1863</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>qsjiang@ccmu.edu.cn</email></address></contrib><contrib id="cr-0005" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wei</surname><given-names initials="W">Wei</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5874-3825</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>hxkqww@163.com</email></address></contrib></contrib-group><contrib-group><contrib id="cr-0006" contrib-type="editor"><name name-style="western"><surname>Ardila</surname><given-names initials="CM">Carlos M.</given-names></name><address><email>martin.ardila@udea.edu.co</email></address></contrib></contrib-group><aff id="aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Beijing Stomatological Hospital</institution>, <institution>Capital Medical University</institution>, <city>Beijing</city>, <country>China</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ccmu.edu.cn" ext-link-type="uri">ccmu.edu.cn</ext-link>
+</aff><pub-date pub-type="epub"><day>02</day><month>8</month><year>2026</year></pub-date><pub-date pub-type="collection"><year>2026</year></pub-date><volume>2026</volume><issue-id pub-id-type="pmc-issue-id">503718</issue-id><elocation-id>7239600</elocation-id><history>
+<date date-type="rev-recd"><day>18</day><month>6</month><year>2026</year></date>
+<date date-type="received"><day>04</day><month>11</month><year>2025</year></date>
+<date date-type="accepted"><day>01</day><month>7</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>02</day><month>08</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>04</day><month>08</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-09-30 12:49:01.280"><day>30</day><month>09</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">Copyright © 2026 Zhaoxin Ji et al. International Journal of Dentistry published by John Wiley &amp; Sons Ltd.</copyright-statement><copyright-year>2026</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="IJOD-2026-7239600.pdf"><?pdf-name IJOD-2026-7239600.pdf?><?pdf-size 1242436?><?pdf-md5 9732ab7b9bbfbfc1e4af72babfe09367?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:6493/13430044/9732ab7b9bbf/IJOD-2026-7239600.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:IJOD-2026-7239600.pdf"/><abstract><sec id="sec-0001"><title>Objective</title><p>This review aims to summarize current evidence on the interactions among bacteria, fungi, and bacteriophages in periodontitis and peri‐implantitis, and to discuss their ecological significance, pathogenic mechanisms, and potential clinical implications.</p></sec><sec id="sec-0002"><title>Subjects and Methods</title><p>This review synthesizes current insights into the roles of the oral microbiome in these diseases, with a focus on the critical interplay between bacteria, fungi, and bacteriophages.</p></sec><sec id="sec-0003"><title>Results</title><p>Our analysis demonstrates that disease progression is marked by a shift toward polymicrobial synergy. Keystone pathogens and opportunistic fungi engage in intricate interactions within biofilms, including physical coadhesion and metabolic cross‐feeding, which enhance microbial resilience and virulence. Bacteriophages, acting as natural modulators of bacterial populations, emerge as a promising therapeutic approach to disrupt these pathogenic communities. This bacteria‐fungi‐phage consortium synergistically modulates host immune responses, fostering chronic inflammation and tissue destruction.</p></sec><sec id="sec-0004"><title>Conclusion</title><p>An integrated, multikingdom perspective on the oral ecosystem is critical for clinical advancement. Future strategies should prioritize personalized interventions that combine multiomics biomarker analysis with targeted therapies to effectively disrupt polymicrobial biofilms, restore homeostasis, and overcome antimicrobial resistance.</p></sec></abstract><kwd-group><title>Keywords</title><kwd id="kwd-0001">bacteria–fungi interactions</kwd><kwd id="kwd-0002">dysbiosis</kwd><kwd id="kwd-0003">oral microbiome</kwd><kwd id="kwd-0004">oral mycobiome</kwd><kwd id="kwd-0005">peri-implantitis</kwd><kwd id="kwd-0006">periodontitis</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>82501147</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Beijing Stomatological Hospital, Capital Medical University Young Scientist Program</institution></institution-wrap>
+</funding-source><award-id>YSP202314</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Capital Health Development Scientific Research Special Project</institution></institution-wrap>
+</funding-source><award-id>2022-1-2141</award-id></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>Beijing Municipal Hospital Management Center</institution></institution-wrap>
+</funding-source><award-id>ZLRK202530</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="0"/><ref-count count="69"/><page-count count="9"/><word-count count="4815"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.8 mode:remove_FC converted:29.09.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ijod7239600-cit-2001">
+<string-name name-style="western">
+<surname>Ji</surname>, <given-names>Zhaoxin</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kang</surname>, <given-names>Lingying</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Liu</surname>, <given-names>Sirui</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jiang</surname>, <given-names>Qingsong</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wei</surname>, <given-names>Wei</given-names>
+</string-name>, 
+<article-title>The Bacteria‐Fungi‐Phage Interplay in Periodontitis and Peri‐Implantitis</article-title>, 
+<source>International Journal of Dentistry</source>, <volume>2026</volume>, <elocation-id>7239600</elocation-id>, 9 pages, <year>2026</year>. 
+<pub-id pub-id-type="doi">10.1155/ijod/7239600</pub-id>
+<pub-id pub-id-type="pmcid">PMC13430044</pub-id><pub-id pub-id-type="pmid">42549006</pub-id></mixed-citation>
+</p><fn-group id="ijd7239600-ntgp-0001"><fn id="ijd7239600-note-0001"><p>
+<bold>Guest Editor:</bold> Carlos M. Ardila</p></fn></fn-group></notes></front><body><sec id="sec-0005"><title>1. Introduction</title><p>As the most prevalent chronic inflammatory diseases in the oral cavity, periodontitis and peri‐implantitis are the primary drivers of natural tooth and implant loss. Periodontitis is a plaque biofilm‐induced chronic inflammatory disease that affects the tooth‐supporting tissues, including the gingiva, periodontal ligament, cementum, and alveolar bone. It is characterized by gingival inflammation, periodontal pocket formation, clinical attachment loss, and progressive alveolar bone resorption, ultimately leading to tooth mobility and tooth loss if left untreated [<xref rid="bib-0001" ref-type="bibr">1</xref>]. The impact of these conditions is substantial and far‐reaching, creating a health burden and a cascade of economic consequences that present a pressing global challenge. Findings from the Global Burden of Disease Study point to periodontitis as a major global health concern, afflicting close to 10% of humanity and ranking it as the sixth most common disease worldwide [<xref rid="bib-0002" ref-type="bibr">2</xref>]. Peri‐implantitis is a plaque‐associated pathological condition occurring in tissues around dental implants, characterized by inflammation of the peri‐implant mucosa and progressive loss of supporting bone [<xref rid="bib-0003" ref-type="bibr">3</xref>]. It affects 20%–45% of implant recipients and remains a leading cause of implant failure [<xref rid="bib-0004" ref-type="bibr">4</xref>]. Despite extensive research and established treatments, both diseases remain major causes of oral rehabilitation failure, highlighting the need for a deeper understanding of their microbial underpinnings.</p><p>Through the lens of a bacterium‐centric paradigm, research has consistently pointed to a critical consortium of pathogens—notably <italic toggle="yes">Porphyromonas gingivalis</italic>, <italic toggle="yes">Tannerella forsythia</italic>, and <italic toggle="yes">Treponema denticola</italic>—as key drivers of disease etiology [<xref rid="bib-0005" ref-type="bibr">5</xref>]. While this paradigm has profoundly shaped our understanding of bacterial dysbiosis and host‐microbe dynamics, it is now confronted with significant limitations. The bacterial model alone cannot fully explain the marked heterogeneity in disease progression nor why certain individuals exhibit tissue breakdown despite similar bacterial profiles. Moreover, therapies exclusively targeting bacteria often yield inconsistent clinical outcomes, suggesting that crucial ecological factors have been overlooked.</p><p>Recent advances in microbial ecology have fundamentally redefined our perspective: the focus has moved beyond individual pathogens to a polymicrobial synergy and dysbiosis model. This new paradigm posits that disease emerges from complex cooperative interactions across diverse microbial kingdoms. Within this context, the oral mycobiome has emerged as a key yet underappreciated player. <italic toggle="yes">Candida albicans</italic> (<italic toggle="yes">C. albicans</italic>), though a commensal organism, forms intimate partnerships with bacteria in mixed‐species biofilms, where it enhances bacterial adhesion, provides anaerobic niches, and amplifies inflammation [<xref rid="bib-0006" ref-type="bibr">6</xref>–<xref rid="bib-0008" ref-type="bibr">8</xref>]. Such cross‐kingdom cooperation not only strengthens biofilm resilience but also modulates host immunity, accelerating tissue destruction and contributing to treatment resistance. Adding another layer of complexity, bacteriophages represent a third major biological force shaping the oral ecosystem [<xref rid="bib-0009" ref-type="bibr">9</xref>]. Far from being passive residents, phages actively modulate bacterial population dynamics, horizontal gene transfer, and virulence factor expression [<xref rid="bib-0010" ref-type="bibr">10</xref>]. This dual role makes them a compelling target: one that promises to yield profound mechanistic insights and enable precise clinical interventions in the management of these complex diseases.</p><p>Despite these advances, a significant gap remains between cutting‐edge microbiome discoveries and their integration into a coherent clinical framework for managing oral inflammatory diseases. This review critically evaluates current evidence on the interplay among bacteria, fungi, and bacteriophages in the oral microbiome associated with periodontitis and peri‐implantitis.</p></sec><sec id="sec-0006"><title>2. The Oral Bacteriome in Periodontitis and Peri‐Implantitis</title><sec id="sec-0007"><title>2.1. The Healthy Oral Bacteriome</title><p>The oral microbiome comprises bacteria, fungi, viruses, and archaea. Among these microbial communities, the bacteriome constitutes the dominant component and plays a central role in maintaining oral ecological homeostasis [<xref rid="bib-0011" ref-type="bibr">11</xref>]. The dominant phyla in a healthy oral microbiome are <italic toggle="yes">Firmicutes</italic>, <italic toggle="yes">Bacteroidetes</italic>, <italic toggle="yes">Actinobacteria</italic>, and <italic toggle="yes">Proteobacteria</italic>, with <italic toggle="yes">Streptococcus</italic>, <italic toggle="yes">Veillonella</italic>, <italic toggle="yes">Prevotella</italic>, and <italic toggle="yes">Actinomyces</italic> being the most abundant genera [<xref rid="bib-0012" ref-type="bibr">12</xref>, <xref rid="bib-0013" ref-type="bibr">13</xref>]. The healthy microbiome maintains a state of homeostasis, where beneficial microorganisms inhibit the growth of harmful pathogens through mechanisms such as competitive exclusion and antimicrobial peptide secretion [<xref rid="bib-0014" ref-type="bibr">14</xref>].</p></sec><sec id="sec-0008"><title>2.2. The Bacteriome in Periodontitis</title><p>Dysbiosis, the microbial imbalance that occurs in periodontal disease, is characterized by an increase in the abundance of pathogenic bacteria, which disrupt the balance of the microbial community. In periodontitis, the microbial composition shifts towards a dominance of red‐complex bacteria, including <italic toggle="yes">Porphyromonas gingivalis</italic>, <italic toggle="yes">Tannerella forsythia</italic>, and <italic toggle="yes">Treponema denticola</italic>, which are considered the keystone pathogens driving disease progression [<xref rid="bib-0015" ref-type="bibr">15</xref>]. Recent studies utilizing 16S rRNA gene sequencing have provided insights into the complex microbial shifts that occur during periodontitis. 16S rRNA sequencing studies have shown that periodontitis and peri‐implantitis are associated with an altered abundance of anaerobic Gram‐negative taxa, including <italic toggle="yes">Porphyromonas</italic>, <italic toggle="yes">Tannerella</italic>, and <italic toggle="yes">Treponema</italic>, accompanied by reduced microbial diversity and disruption of ecological balance [<xref rid="bib-0016" ref-type="bibr">16</xref>]. Similar dysbiotic shifts have been reported around diseased implants, although the relative abundance of specific taxa may differ from that observed in periodontitis [<xref rid="bib-0017" ref-type="bibr">17</xref>]. Inflammatory cytokines such as tumor necrosis factor‐alpha (TNF‐α), interleukin‐1 beta (IL‐1β), and interleukin‐6 (IL‐6) are upregulated in response to the increased abundance of pathogenic bacteria, exacerbating tissue destruction and periodontal pocket formation [<xref rid="bib-0018" ref-type="bibr">18</xref>]. Integrating state‐of‐the‐art high‐throughput microbial sequencing techniques with function‐based analytical methods enables a more comprehensive and high‐resolution perspective for microbiome reconstruction in periodontitis [<xref rid="bib-0019" ref-type="bibr">19</xref>].</p></sec><sec id="sec-0009"><title>2.3. The Bacteriome in Peri‐Implantitis</title><p>Peri‐implantitis, a condition characterized by inflammation around dental implants, shares many similarities with periodontitis in terms of microbial composition. However, the bacteriome in peri‐implantitis is often more diverse and complex due to the distinct surface characteristics of dental implants and the unique microenvironment they create. Studies have shown that the microbiome around implants is characterized by a higher prevalence of anaerobic and Gram‐negative bacteria, including <italic toggle="yes">P. gingivalis</italic>, <italic toggle="yes">Fusobacterium nucleatum</italic>, and <italic toggle="yes">Prevotella intermedia</italic>, which are also associated with periodontitis. Furthermore, the immune response associated with peri‐implantitis was found to exhibit a skewed pattern, with a dominant presence of Th2 and Th17 cell subsets [<xref rid="bib-0020" ref-type="bibr">20</xref>]. 16S rRNA sequencing and metagenomic analyses of peri‐implant biofilms have revealed that pathogenicity islands and virulence genes from these microbiomes are enriched in peri‐implantitis samples [<xref rid="bib-0021" ref-type="bibr">21</xref>], leading to greater difficulty in achieving effective treatment and implant survival. 16S rRNA sequencing studies have shown that peri‐implantitis is associated with a more diverse and heterogeneous microbial community than periodontitis [<xref rid="bib-0017" ref-type="bibr">17</xref>]. Besides classical periodontal pathogens, peri‐implant lesions frequently harbor opportunistic species such as <italic toggle="yes">Staphylococcus</italic>, <italic toggle="yes">Pseudomonas</italic>, and <italic toggle="yes">Enterococcus</italic>. Moreover, several studies have reported increased fungal colonization and a greater prevalence of nonoral microorganisms, suggesting that peri‐implantitis may represent a distinct ecological niche with unique microbial interactions [<xref rid="bib-0022" ref-type="bibr">22</xref>].</p></sec></sec><sec id="sec-0010"><title>3. The Oral Mycobiome in Periodontitis and Peri‐Implantitis</title><sec id="sec-0011"><title>3.1. The Healthy Oral Mycobiome</title><p>The oral mycobiome represents the fungal component of the oral microbiome and constitutes a minor but indispensable part of the oral microbial ecosystem [<xref rid="bib-0023" ref-type="bibr">23</xref>]. In healthy individuals, <italic toggle="yes">Candida</italic> species are predominant, followed by <italic toggle="yes">Cladosporium</italic>, <italic toggle="yes">Aureobasidium</italic>, <italic toggle="yes">Aspergillus</italic>, <italic toggle="yes">Fusarium</italic>, and <italic toggle="yes">Cryptococcus</italic>. Ghannoum et al. [<xref rid="bib-0024" ref-type="bibr">24</xref>] first established the concept of an oral “mycobiome” by internal transcribed spacer (ITS)‐based sequencing, demonstrating that fungi from both the <italic toggle="yes">Ascomycota</italic> and <italic toggle="yes">Basidiomycota</italic> phyla coexist with commensal bacteria to maintain homeostasis. Subsequent studies confirmed that in healthy individuals, fungal diversity remains relatively stable across sex and age, with <italic toggle="yes">Candida</italic>, <italic toggle="yes">Malassezia</italic>, and <italic toggle="yes">Saccharomyces</italic> being the dominant genera [<xref rid="bib-0025" ref-type="bibr">25</xref>].</p></sec><sec id="sec-0012"><title>3.2. The Mycobiome in Periodontitis</title><p>Periodontitis is characterized by a dysbiotic shift in both bacterial and fungal communities. Although substantial interindividual variability exists, studies have reported shifts in the composition of the oral mycobiome in periodontitis, indicating that fungal communities may contribute to disease‐associated microbial dysbiosis. Among the fungal taxa detected in periodontal sites, <italic toggle="yes">Candida</italic> species are frequently identified and have attracted increasing attention because of their potential role in oral biofilm development and host–microbe interactions [<xref rid="bib-0007" ref-type="bibr">7</xref>, <xref rid="bib-0026" ref-type="bibr">26</xref>]. In vitro and clinical data suggest that <italic toggle="yes">C. albicans</italic> forms synergistic biofilms with <italic toggle="yes">Porphyromonas gingivalis</italic>, enhancing bacterial adhesion and inflammation [<xref rid="bib-0023" ref-type="bibr">23</xref>]. The hyphal form of <italic toggle="yes">C. albicans</italic> demonstrates higher invasive capability and elicits stronger epithelial immune responses, contributing to tissue destruction and chronicity [<xref rid="bib-0027" ref-type="bibr">27</xref>].</p></sec><sec id="sec-0013"><title>3.3. The Mycobiome in Peri‐Implantitis</title><p>Fungal colonization is more prevalent in peri‐implantitis compared with healthy implants. A systematic review found <italic toggle="yes">C. albicans</italic>, <italic toggle="yes">C. parapsilosis</italic>, and <italic toggle="yes">C. tropicalis</italic> to be the most common species associated with peri‐implant infections [<xref rid="bib-0028" ref-type="bibr">28</xref>]. Quantitative polymerase chain reaction (qPCR) analyses have revealed higher fungal loads in peri‐implant sulcus fluid, inside implant‐abutment connections, and in adjacent gingival sites [<xref rid="bib-0029" ref-type="bibr">29</xref>]. The presence of <italic toggle="yes">Candida</italic> biofilms on implant surfaces may facilitate bacterial adhesion and contribute to a proinflammatory microenvironment, potentially aggravating peri‐implant tissue destruction. These findings suggest that fungal colonization may contribute to biofilm maturation, microbial persistence, and inflammatory tissue destruction around the implants.</p><p>Overall, the eukaryotic nature of fungi fundamentally distinguishes them from prokaryotic bacteria, endowing them with an enhanced capacity to activate the host immune system. Moreover, their ability to undergo morphological transitions into invasive hyphae allows fungi to penetrate host tissues, further contributing to their pathogenic potential [<xref rid="bib-0030" ref-type="bibr">30</xref>].</p></sec></sec><sec id="sec-0014"><title>4. The Bacteriophages in Periodontitis and Peri‐Implantitis</title><p>Bacteriophages (phages) are viruses that specifically target and infect bacteria, playing a crucial role in regulating bacterial populations within the oral microbiome. Their capacity to disrupt biofilms is a key therapeutic attribute, enhancing effectiveness against diverse oral pathogens in periodontitis, peri‐implantitis, and apical periodontitis [<xref rid="bib-0031" ref-type="bibr">31</xref>]. In healthy individuals, phages help maintain microbial balance by controlling bacteria implicated in periodontal diseases [<xref rid="bib-0032" ref-type="bibr">32</xref>].</p><p>Importantly, although periodontitis and peri‐implantitis share overlapping microbial dysbiosis profiles, phage behavior and therapeutic performance may differ between these two disease environments due to ecological and structural conditions [<xref rid="bib-0033" ref-type="bibr">33</xref>] (Figure <xref rid="fig-0001" ref-type="fig">1</xref>). In periodontitis, phages act primarily within periodontal pockets that are vascularized and fluid‐dynamic, where the presence of periodontal ligament‐associated vascular networks facilitates immune cell trafficking and interstitial fluid exchange, thereby supporting diffusion‐based microbial targeting [<xref rid="bib-0034" ref-type="bibr">34</xref>]. In contrast, peri‐implantitis develops on implant‐associated biofilms formed on titanium or zirconia surfaces, where the absence of the periodontal ligament, reduced vascular supply, and distinct collagen fiber orientation create a structurally and immunologically different microenvironment [<xref rid="bib-0035" ref-type="bibr">35</xref>, <xref rid="bib-0036" ref-type="bibr">36</xref>]. These differences suggest that peri‐implant environments may impose additional biophysical constraints on phage–biofilm interactions compared with natural periodontal tissues, particularly in terms of microbial adhesion strength and biofilm structural stability, which are known to influence phage diffusion and biofilm penetration efficiency in established phage–biofilm models [<xref rid="bib-0037" ref-type="bibr">37</xref>].</p><fig position="float" fig-type="Figure" id="fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Comparative ecological landscape of periodontitis and peri‐implantitis. This figure compares the anatomical and immune differences between periodontitis (left) and peri‐implantitis (right). Natural teeth are characterized by the presence of a periodontal ligament, rich vascularization, and perpendicular collagen fiber insertion, whereas implants lack a periodontal ligament and exhibit reduced vascular supply and parallel collagen fiber orientation. These anatomical differences influence microbial colonization, host immune responses, and biofilm development.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="IJOD-2026-7239600-g001.webp"><?image-name IJOD-2026-7239600-g001.webp?><?image-size 31828?><?image-md5 636b5a12a244bf83c792ede38e967288?><?image-image-server-status NEVER_LOAD?><?image-original-height 341?><?image-original-width 600?><?image-scaled-height 341?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/6493/13430044/636b5a12a244/IJOD-2026-7239600-g001.webp?><?thumb-name IJOD-2026-7239600-g001.gif?><?thumb-size 11342?><?thumb-md5 9c04143acdc5ac290084d3fe6f8f7fbf?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 114?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/6493/13430044/9c04143acdc5/IJOD-2026-7239600-g001.gif?></graphic></fig><p>The potential of phage therapy has been highlighted by recent in vitro studies, making it a promising approach for treating periodontitis, particularly cases involving antimicrobial resistance. However, confirming these results requires further studies in more complex environments, such as multispecies biofilms and clinical applications [<xref rid="bib-0038" ref-type="bibr">38</xref>].</p><p>Bacteriophages not only interact with bacterial populations but may also indirectly affect fungal dynamics in the oral microbiome. Recent studies suggest that phages might be engineered to display fungal antigens on their surfaces, triggering immune responses such as activating Th1 and Th17 pathways or producing neutralizing antibodies. Additionally, combining phages with photodynamic inactivation or antimicrobials could enhance treatment efficacy. Experimental studies suggest that phage‐based platforms may exert indirect or engineered antifungal effects [<xref rid="bib-0039" ref-type="bibr">39</xref>].</p><p>Promising results have also been observed in using phage therapy as an adjunct treatment for periprosthetic joint infections caused by <italic toggle="yes">Staphylococcus aureus</italic>, especially when conventional antibiotics are challenged by resistance [<xref rid="bib-0040" ref-type="bibr">40</xref>]. Moreover, bacteriophages and their derived enzymes can effectively target bacterial biofilms in infections like those in the periodontium and around implants. Especially when combined with antibiotics, they show promise in improving biofilm removal in various models [<xref rid="bib-0041" ref-type="bibr">41</xref>, <xref rid="bib-0042" ref-type="bibr">42</xref>]. Based on the current research progress, phage therapy demonstrates considerable potential for clinical translation in the prevention and treatment of periodontal and peri‐implant diseases.</p></sec><sec id="sec-0015"><title>5. Interactions Among Microbial Communities and With the Host in Oral Dysbiosis</title><p>The nature of microbial interactions is strongly influenced by the ecological environment in which biofilms develop. Compared with periodontal tissues, peri‐implant sites provide distinct ecological conditions, including differences in surface characteristics, nutrient availability, and host–microbe interfaces. These factors may contribute to the formation of more complex dysbiotic communities and help explain the often more rapid and aggressive progression of peri‐implantitis. Understanding these ecological influences is therefore essential for interpreting bacteria–fungi–phage interactions in oral inflammatory diseases. Bacteria and fungi coexist within the oral cavity, engaging in a complex network of mutualistic and competitive interactions that shape dysbiotic microbial communities. These cross‐kingdom relationships influence not only microbial survival and virulence but also the host immune responses that determine disease progression in periodontitis and peri‐implantitis.</p><sec id="sec-0016"><title>5.1. Physical Interactions</title><p>Direct physical contact facilitates bacterial adhesion to fungal surfaces, enabling structural cooperation in mixed biofilms [<xref rid="bib-0043" ref-type="bibr">43</xref>]. <italic toggle="yes">Porphyromonas gingivalis</italic> has been shown to adhere to <italic toggle="yes">C. albicans</italic> hyphae through protein–protein interactions mediated by <italic toggle="yes">InlJ</italic> and <italic toggle="yes">Als3</italic>, establishing a stable “transportation network” that promotes biofilm maturation and microbial persistence under stress [<xref rid="bib-0044" ref-type="bibr">44</xref>]. Such coadhesion increases bacterial survival in aerobic conditions and enhances biofilm resilience against mechanical disruption and antimicrobial agents [<xref rid="bib-0045" ref-type="bibr">45</xref>].</p></sec><sec id="sec-0017"><title>5.2. Metabolic Interactions</title><p>Metabolic crosstalk is a cornerstone of bacteria–fungi synergy; the metabolic processes of bacteria can alter their microenvironment and continuously impact the survival and growth of neighboring species [<xref rid="bib-0046" ref-type="bibr">46</xref>]. Bacterial metabolites such as lactate can serve as carbon sources for <italic toggle="yes">C. albicans</italic>, while fungal oxygen consumption generates microanaerobic niches that favor the growth of strict anaerobes like <italic toggle="yes">P. gingivalis</italic>—a phenomenon described as cross‐kingdom feeding [<xref rid="bib-0047" ref-type="bibr">47</xref>]. Recent multiomics investigations have further elucidated that in <italic toggle="yes">Streptococcus mutans–C. albicans</italic> mixed‐species biofilms, the fungal partner undergoes extensive metabolic reprogramming facilitated by <italic toggle="yes">S. mutans</italic>‐derived glucosyltransferase B [<xref rid="bib-0048" ref-type="bibr">48</xref>]. Moreover, heme competition within the mixed biofilm environment has been found to increase the pathogenic potential of <italic toggle="yes">P. gingivalis</italic>, leading to enhanced virulence and tissue destruction [<xref rid="bib-0049" ref-type="bibr">49</xref>].</p></sec><sec id="sec-0018"><title>5.3. Quorum Sensing and Molecular Communication</title><p>Interkingdom communication via quorum‐sensing (QS) molecules represents another key mechanism of coordination. Fungal QS molecules such as farnesol and tyrosol can modulate bacterial biofilm formation and gene expression, while bacterial autoinducers may influence fungal morphogenesis [<xref rid="bib-0050" ref-type="bibr">50</xref>]. Although extensively studied in bacterial communities, the full spectrum of QS‐like signaling between bacteria and fungi in the oral cavity remains underexplored, representing an emerging research frontier [<xref rid="bib-0051" ref-type="bibr">51</xref>].</p></sec><sec id="sec-0019"><title>5.4. Synergistic Virulence and Host Immune Modulation</title><p>The coexistence of bacteria and fungi often amplifies pathogenicity through synergistic immune evasion strategies. Clinically, coinfection with these organisms correlates with active periodontitis and enhanced inflammatory tissue destruction [<xref rid="bib-0052" ref-type="bibr">52</xref>]. The complex interactions between bacteria and fungi can mask bacterial antigens from host recognition, triggering both innate and adaptive immune responses that shape the progression of diseases such as periodontitis and peri‐implantitis [<xref rid="bib-0053" ref-type="bibr">53</xref>]. Epithelial cells act as the first line of defense, expressing pattern recognition receptors (PRRs) such as Toll‐like receptor 2 (TLR2) and Toll‐like receptor 4 (TLR4), which recognize microbial components such as lipopolysaccharides (LPS) and fungal cell wall components like β‐glucans. Activation of these receptors leads to the initiation of proinflammatory signaling cascades, including the nuclear factor kappa B (NF‐κB) pathway [<xref rid="bib-0054" ref-type="bibr">54</xref>]. In the presence of mixed bacterial and fungal biofilms, neutrophil function can be impaired, and the formation of neutrophil extracellular traps (NETs) may be enhanced within biofilms, promoting tissue damage and increasing inflammation [<xref rid="bib-0055" ref-type="bibr">55</xref>]. In oral dysbiosis, macrophages are often skewed toward the M2 phenotype in mixed‐species biofilms, leading to chronic inflammation [<xref rid="bib-0056" ref-type="bibr">56</xref>]. Dysregulation of the balance between these pro‐ and anti‐inflammatory cytokines can also lead to either chronic inflammation or tissue damage in periodontal and peri‐implant tissues. Thus, the host immune system perceives the bacterial–fungal consortium not as separate pathogens but as a composite, partially camouflaged entity capable of chronic immune modulation.</p><p>Overall, the bacteria–fungi–host triad forms a dynamic and reciprocal system (Figure <xref rid="fig-0002" ref-type="fig">2</xref>). Physical and metabolic cooperation within the biofilm creates a protective niche, while signaling crosstalk and immune evasion mechanisms sustain chronic inflammation. Deciphering these complex interkingdom interactions will be crucial for understanding oral dysbiosis and designing targeted microbiome‐based therapeutic strategies.</p><fig position="float" fig-type="Figure" id="fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Schematic representation of the bacteria–fungi–host immune interaction network in oral dysbiosis. This schematic illustrates the interactions between bacteria, fungi, and the host immune system in oral dysbiosis. Bacteria and fungi interact through physical adhesion, metabolic exchange, and quorum sensing. The host immune response involves neutrophil suppression, macrophage polarization, and changes in the cytokine network, promoting inflammation and altering immune balance.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="IJOD-2026-7239600-g002.webp"><?image-name IJOD-2026-7239600-g002.webp?><?image-size 39542?><?image-md5 247828760fd70c54b884af434c17c8e9?><?image-image-server-status NEVER_LOAD?><?image-original-height 523?><?image-original-width 600?><?image-scaled-height 523?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/6493/13430044/247828760fd7/IJOD-2026-7239600-g002.webp?><?thumb-name IJOD-2026-7239600-g002.gif?><?thumb-size 18452?><?thumb-md5 4308ef336e5977cb9927d2eb48fbfb16?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 174?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/6493/13430044/4308ef336e59/IJOD-2026-7239600-g002.gif?></graphic></fig></sec></sec><sec id="sec-0020"><title>6. Clinical Implications</title><p>Current diagnostic approaches that rely on detecting a limited set of bacterial species fall short of capturing the full complexity of oral diseases. Although bacterial biomarkers derived from methods such as 16S rRNA sequencing offer valuable insights into microbial dysbiosis, they often overlook the role of fungi in disease development. Fungal infections are known to exacerbate biofilm‐related diseases yet remain frequently undetected in routine diagnostics. Advances in sequencing technology, such as ITS‐based methods, now enable the integration of fungal biomarkers into diagnostic workflows. Combining bacterial and fungal biomarkers has shown clinical value: robust machine learning models demonstrate improved prediction of coinfections [<xref rid="bib-0057" ref-type="bibr">57</xref>]. For high‐risk individuals with periodontitis or peri‐implantitis, integrating both bacterial and fungal microbiome data could enhance diagnostic accuracy and support earlier, more targeted treatments.</p><p>Another growing concern is the overuse of antibiotics, which disrupts microbial balance and encourages the proliferation of opportunistic fungi like <italic toggle="yes">Candida</italic>. This highlights the need for more balanced treatment approaches that incorporate both antibacterial and antifungal agents. In peri‐implantitis, combining mechanical debridement with localized antifungal agents has proven effective in disrupting polymicrobial biofilms and controlling inflammation. Such integrated approaches not only target bacteria but also curb fungal overgrowth, helping restore ecological equilibrium. Clinically, this may involve supplementing traditional antibiotic regimens with short‐term antifungal courses to limit fungal recurrence, such as fluconazole or nystatin mouthwash. However, challenges persist in establishing clear pathogenic thresholds and differentiating colonization from active infection, underscoring the need for multidisciplinary validation [<xref rid="bib-0058" ref-type="bibr">58</xref>].</p><p>Beyond conventional antimicrobial approaches, microbiome‐based therapies are emerging as a promising strategy for the management of periodontitis and peri‐implantitis. Unlike traditional treatments that primarily aim to eliminate pathogenic microorganisms, these approaches seek to restore microbial homeostasis and rebalance dysbiotic communities. Recent studies have highlighted several microbiome‐based therapeutic modalities, including probiotics, postbiotics, predatory bacteria, and bacteriophages, as well as microbiota transplantation. These strategies may modulate microbial composition, suppress pathogenic taxa, enhance beneficial microbial functions, and promote host immune regulation. Given the growing recognition that periodontitis and peri‐implantitis are driven by polymicrobial dysbiosis rather than individual pathogens, microbiome‐based interventions may provide a more ecological and sustainable therapeutic approach. Nevertheless, most microbiome‐based therapies remain at the preclinical or early translational stage, and further studies are required to establish their long‐term efficacy, safety, and clinical applicability [<xref rid="bib-0059" ref-type="bibr">59</xref>].</p></sec><sec id="sec-0021"><title>7. Future Directions</title><p>The progression of periodontal disease and the imbalance of peri‐implant tissue homeostasis are closely tied to abnormalities in the oral microbial community [<xref rid="bib-0060" ref-type="bibr">60</xref>, <xref rid="bib-0061" ref-type="bibr">61</xref>]. Traditional microbial studies, primarily based on 16S rRNA and ITS sequencing, have provided insights into the presence of pathogenic bacteria and fungi but fail to explain the functional roles of these microbial communities [<xref rid="bib-0062" ref-type="bibr">62</xref>, <xref rid="bib-0063" ref-type="bibr">63</xref>]. The integration of multiomics technologies has enabled the shift from identifying “who is there” to understanding “what they are doing.” Transcriptomics reveals gene expression in microbial communities, linking genetic potential to functional output, while proteomics provides insights into microbial proteins and host–microbe interactions. Metabolomics connects microbial metabolic activities to host health by analyzing metabolites like short‐chain fatty acids and LPS [<xref rid="bib-0064" ref-type="bibr">64</xref>]. These technologies have provided new understanding of periodontal and peri‐implant diseases, including the role of gene‐metabolite‐pathway regulation in periodontitis [<xref rid="bib-0065" ref-type="bibr">65</xref>] and implant material interactions in peri‐implantitis [<xref rid="bib-0066" ref-type="bibr">66</xref>].</p><p>Advances in multiomics technologies are generating increasingly complex datasets that capture the composition and interactions of bacterial, fungal, and phage communities within the oral microbiome. In this context, artificial intelligence (AI) and machine learning approaches are emerging as powerful tools for integrating and interpreting these high‐dimensional datasets (Figure <xref rid="fig-0003" ref-type="fig">3</xref>). Recent studies have demonstrated the utility of AI‐driven models in microbiome‐based disease prediction, biological aging assessment, and identification of antibiotic resistance genes [<xref rid="bib-0067" ref-type="bibr">67</xref>]. More importantly, AI‐based analytical frameworks can uncover microbial interaction networks and identify key taxa associated with dysbiosis, thereby providing new insights into the ecological mechanisms underlying periodontitis and peri‐implantitis. Combined with emerging technologies such as hyperspectral imaging and multiomics profiling, AI may facilitate the development of precision diagnostics and personalized therapeutic strategies based on individual microbial signatures [<xref rid="bib-0068" ref-type="bibr">68</xref>, <xref rid="bib-0069" ref-type="bibr">69</xref>]. As our understanding of bacteria–fungi–phage interactions continues to expand, AI‐assisted analyses are expected to play an increasingly important role in translating complex microbiome data into clinically actionable knowledge.</p><fig position="float" fig-type="Figure" id="fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>AI and multiomics integration for studying bacteria–fungi–phage interactions. AI and big data enable the integration of multiomics, clinical, and lifestyle datasets to uncover complex bacteria–fungi–host interactions in periodontitis and peri‐implantitis. These approaches facilitate risk prediction, precision diagnostics, and personalized therapeutic strategies.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="IJOD-2026-7239600-g003.webp"><?image-name IJOD-2026-7239600-g003.webp?><?image-size 36800?><?image-md5 08ef3f2314544cc7755dcd023046b074?><?image-image-server-status NEVER_LOAD?><?image-original-height 713?><?image-original-width 600?><?image-scaled-height 713?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/6493/13430044/08ef3f231454/IJOD-2026-7239600-g003.webp?><?thumb-name IJOD-2026-7239600-g003.gif?><?thumb-size 12239?><?thumb-md5 e048ffee7985b4d55d1f8eeb92e413cd?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 200?><?thumb-scaled-width 168?><?thumb-cloudpmc-urn urn:cdn:blobs/6493/13430044/e048ffee7985/IJOD-2026-7239600-g003.gif?></graphic></fig></sec><sec id="sec-0022"><title>8. Conclusion</title><p>The interplay among bacterial, fungal, and phage communities within the oral microbiome critically influences the progression of periodontitis and peri‐implantitis. Both bacterial and fungal communities contribute synergistically to the dysbiosis seen in these conditions, intensifying inflammatory responses and accelerating tissue damage. Although conventional therapies predominantly target bacteria, growing evidence supports a more integrated approach that addresses both microbial kingdoms in the diagnosis and treatment. Combining bacteriophage therapy with standard interventions presents a promising avenue for disrupting complex biofilms and modulating inflammation. Future studies should validate these strategies within multispecies biofilm environments and through well‐designed clinical trials. Ultimately, high‐throughput sequencing and microbiome‐guided frameworks are poised to transform the management of periodontal and peri‐implant diseases, enabling more precise and individualized therapeutic solutions. Further elucidation of bacteria–fungi–phage interactions through multiomics and AI‐assisted analyses may facilitate the development of next‐generation microbiome‐targeted therapies for periodontal and peri‐implant diseases.</p></sec><sec id="sec-0023"><title>Author Contributions</title><p>Wei Wei and Qingsong Jiang conceived the study. Zhaoxin Ji wrote the first draft with assistance from Wei Wei and Qingsong Jiang. Sirui Liu helped draw Figure <xref rid="fig-0001" ref-type="fig">1</xref>. Lingying Kang helped draw Figures <xref rid="fig-0002" ref-type="fig">2</xref> and <xref rid="fig-0003" ref-type="fig">3</xref>.</p></sec><sec id="sec-0024"><title>Funding</title><p>This work was supported by the National Natural Science Foundation of China (Grant 82501147), the Beijing Stomatological Hospital, Capital Medical University Young Scientist Program (Grant YSP202314), the Capital Health Development Scientific Research Special Project (Grant 2022‐1‐2141), and the Beijing Municipal Hospital Management Center “Yangfan” Initiative (Grant ZLRK202530).</p></sec><sec id="sec-0025"><title>Disclosure</title><p>All authors have critically reviewed and approved the final manuscript.</p></sec><sec id="sec-0026"><title>Consent</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="sec-0027"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><sec sec-type="data-availability" id="sec-0029"><title>Data Availability Statement</title><p>Data sharing is not applicable to this article as no datasets were generated or analyzed during the current study.</p></sec><ref-list><ref id="bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cit-0001">
+<string-name name-style="western">
+<surname>Papapanou</surname>
+<given-names>P. N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sanz</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Buduneli</surname>
+<given-names>N.</given-names>
+</string-name>, et al.<article-title>Periodontitis: Consensus Report of Workgroup 2 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions</article-title>, <source>Journal of Clinical Periodontology</source>. (<year>2018</year>) <volume>45</volume>, no. Suppl 20, <fpage>S162</fpage>–<lpage>S170</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.12946</pub-id><pub-id pub-id-type="pmid">29926490</pub-id></mixed-citation></ref><ref id="bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cit-0002">
+<string-name name-style="western">
+<surname>Kassebaum</surname>
+<given-names>N. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bernabé</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dahiya</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bhandari</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Murray</surname>
+<given-names>C. J. L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Marcenes</surname>
+<given-names>W.</given-names>
+</string-name>, <article-title>Global Burden of Severe Periodontitis in 1990–2010: A Systematic Review and Meta-Regression</article-title>, <source>Journal of Dental Research</source>. (<year>2014</year>) <volume>93</volume>, no. 11, <fpage>1045</fpage>–<lpage>1053</lpage>, <pub-id pub-id-type="doi">10.1177/0022034514552491</pub-id>.<pub-id pub-id-type="pmcid">PMC4293771</pub-id><pub-id pub-id-type="pmid">25261053</pub-id></mixed-citation></ref><ref id="bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cit-0003">
+<string-name name-style="western">
+<surname>Berglundh</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Armitage</surname>
+<given-names>G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Araujo</surname>
+<given-names>M. G.</given-names>
+</string-name>, et al.<article-title>Peri-Implant Diseases and Conditions: Consensus Report of Workgroup 4 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions</article-title>, <source>Journal of Clinical Periodontology</source>. (<year>2018</year>) <volume>45</volume>, no. Suppl 20, <fpage>S286</fpage>–<lpage>S291</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.12957</pub-id><pub-id pub-id-type="pmid">29926491</pub-id></mixed-citation></ref><ref id="bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cit-0004">
+<string-name name-style="western">
+<surname>Padial-Molina</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Suarez</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rios</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Galindo-Moreno</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H.-L.</given-names>
+</string-name>, <article-title>Guidelines for the Diagnosis and Treatment of Peri-Implant Diseases</article-title>, <source>The International Journal of Periodontics and Restorative Dentistry</source>. (<year>2014</year>) <volume>34</volume>, no. 6, <fpage>e102</fpage>–<lpage>e111</lpage>, <pub-id pub-id-type="doi">10.11607/prd.1994</pub-id>.<pub-id pub-id-type="pmid">25411744</pub-id></mixed-citation></ref><ref id="bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cit-0005">
+<string-name name-style="western">
+<surname>Hajishengallis</surname>
+<given-names>G.</given-names>
+</string-name>, <article-title>Periodontitis: From Microbial Immune Subversion to Systemic Inflammation</article-title>, <source>Nature Reviews Immunology</source>. (<year>2015</year>) <volume>15</volume>, no. 1, <fpage>30</fpage>–<lpage>44</lpage>, <pub-id pub-id-type="doi">10.1038/nri3785</pub-id>.<pub-id pub-id-type="pmcid">PMC4276050</pub-id><pub-id pub-id-type="pmid">25534621</pub-id></mixed-citation></ref><ref id="bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cit-0006">
+<string-name name-style="western">
+<surname>Pérez-Losada</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>Fungal Diversity and Interactions in the Nasal and Oral Cavities of Individuals With Allergic Rhinitis, Asthma and Healthy Controls</article-title>, <source>Microorganisms</source>. (<year>2025</year>) <volume>13</volume>, no. 6, <pub-id pub-id-type="doi">10.3390/microorganisms13061204</pub-id>.<pub-id pub-id-type="pmcid">PMC12195179</pub-id><pub-id pub-id-type="pmid">40572092</pub-id></mixed-citation></ref><ref id="bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cit-0007">
+<string-name name-style="western">
+<surname>Ayers</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chinnici</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Sabharwal</surname>
+<given-names>A.</given-names>
+</string-name>, et al.<article-title>Correlation Between Fungal and Bacterial Populations in Periodontitis Through Targeted Sequencing: A Pilot Study</article-title>, <source>Journal of Clinical Medicine</source>. (<year>2025</year>) <volume>14</volume>, no. 18, <pub-id pub-id-type="doi">10.3390/jcm14186418</pub-id>, <elocation-id>6418</elocation-id>.<pub-id pub-id-type="pmcid">PMC12470906</pub-id><pub-id pub-id-type="pmid">41010623</pub-id></mixed-citation></ref><ref id="bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cit-0008">
+<string-name name-style="western">
+<surname>Wicaksono</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ngokwe</surname>
+<given-names>Z. B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McCullough</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Yap</surname>
+<given-names>T.</given-names>
+</string-name>, <article-title>The Role of Oral Yeasts in the Development and Progression of Oral Squamous Cell Carcinoma: A Scoping Review</article-title>, <source>Journal of Fungi</source>. (<year>2025</year>) <volume>11</volume>, no. 4, <pub-id pub-id-type="doi">10.3390/jof11040260</pub-id>, <elocation-id>260</elocation-id>.<pub-id pub-id-type="pmcid">PMC12028735</pub-id><pub-id pub-id-type="pmid">40278081</pub-id></mixed-citation></ref><ref id="bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cit-0009">
+<string-name name-style="western">
+<surname>Yao</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>He</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Nyaruaba</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wei</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Cleary</surname>
+<given-names>D. W.</given-names>
+</string-name>, <article-title>Unveiling the Role of Phages in Shaping the Periodontal Microbial Ecosystem</article-title>, <source>mSystems</source>. (<year>2025</year>) <volume>10</volume>, no. 4, <pub-id pub-id-type="doi">10.1128/msystems.00201-25</pub-id>.<pub-id pub-id-type="pmcid">PMC12013270</pub-id><pub-id pub-id-type="pmid">40152610</pub-id></mixed-citation></ref><ref id="bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cit-0010">
+<string-name name-style="western">
+<surname>Santiago-Rodriguez</surname>
+<given-names>T. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Naidu</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Abeles</surname>
+<given-names>S. R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Boehm</surname>
+<given-names>T. K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ly</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Pride</surname>
+<given-names>D. T.</given-names>
+</string-name>, <article-title>Transcriptome Analysis of Bacteriophage Communities in Periodontal Health and Disease</article-title>, <source>BMC Genomics</source>. (<year>2015</year>) <volume>16</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s12864-015-1781-0</pub-id>, <elocation-id>549</elocation-id>.<pub-id pub-id-type="pmcid">PMC4515923</pub-id><pub-id pub-id-type="pmid">26215258</pub-id></mixed-citation></ref><ref id="bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cit-0011">
+<string-name name-style="western">
+<surname>Kilian</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chapple</surname>
+<given-names>I. L. C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Hannig</surname>
+<given-names>M.</given-names>
+</string-name>, et al.<article-title>The Oral Microbiome—An Update for Oral Healthcare Professionals</article-title>, <source>British Dental Journal</source>. (<year>2016</year>) <volume>221</volume>, no. 10, <fpage>657</fpage>–<lpage>666</lpage>, <pub-id pub-id-type="doi">10.1038/sj.bdj.2016.865</pub-id>.<pub-id pub-id-type="pmid">27857087</pub-id></mixed-citation></ref><ref id="bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cit-0012">
+<string-name name-style="western">
+<surname>Zaura</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Keijser</surname>
+<given-names>B. J. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Huse</surname>
+<given-names>S. M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Crielaard</surname>
+<given-names>W.</given-names>
+</string-name>, <article-title>Defining the Healthy “core microbiome” of Oral Microbial Communities</article-title>, <source>BMC Microbiology</source>. (<year>2009</year>) <volume>9</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/1471-2180-9-259</pub-id>, <elocation-id>259</elocation-id>.<pub-id pub-id-type="pmcid">PMC2805672</pub-id><pub-id pub-id-type="pmid">20003481</pub-id></mixed-citation></ref><ref id="bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cit-0013">
+<string-name name-style="western">
+<surname>Paster</surname>
+<given-names>B. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Boches</surname>
+<given-names>S. K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Galvin</surname>
+<given-names>J. L.</given-names>
+</string-name>, et al.<article-title>Bacterial Diversity in Human Subgingival Plaque</article-title>, <source>Journal of Bacteriology</source>. (<year>2001</year>) <volume>183</volume>, no. 12, <fpage>3770</fpage>–<lpage>3783</lpage>, <pub-id pub-id-type="doi">10.1128/JB.183.12.3770-3783.2001</pub-id>.<pub-id pub-id-type="pmcid">PMC95255</pub-id><pub-id pub-id-type="pmid">11371542</pub-id></mixed-citation></ref><ref id="bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cit-0014">
+<string-name name-style="western">
+<surname>Surendran Nair</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Amalaradjou</surname>
+<given-names>M. A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Venkitanarayanan</surname>
+<given-names>K.</given-names>
+</string-name>, <article-title>Antivirulence Properties of Probiotics in Combating Microbial Pathogenesis</article-title>, <source>Advances in Applied Microbiology</source>. (<year>2017</year>) <volume>98</volume>, <fpage>1</fpage>–<lpage>29</lpage>, <pub-id pub-id-type="doi">10.1016/bs.aambs.2016.12.001</pub-id>.<pub-id pub-id-type="pmid">28189153</pub-id></mixed-citation></ref><ref id="bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cit-0015">
+<string-name name-style="western">
+<surname>Hajishengallis</surname>
+<given-names>G.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Lamont</surname>
+<given-names>R. J.</given-names>
+</string-name>, <article-title>Polymicrobial Communities in Periodontal Disease: Their Quasi-Organismal Nature and Dialogue With the Host</article-title>, <source>Periodontology 2000</source>. (<year>2021</year>) <volume>86</volume>, no. 1, <fpage>210</fpage>–<lpage>230</lpage>, <pub-id pub-id-type="doi">10.1111/prd.12371</pub-id>.<pub-id pub-id-type="pmcid">PMC8957750</pub-id><pub-id pub-id-type="pmid">33690950</pub-id></mixed-citation></ref><ref id="bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cit-0016">
+<string-name name-style="western">
+<surname>Griffen</surname>
+<given-names>A. L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Beall</surname>
+<given-names>C. J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Campbell</surname>
+<given-names>J. H.</given-names>
+</string-name>, et al.<article-title>Distinct and Complex Bacterial Profiles in Human Periodontitis and Health Revealed by 16S Pyrosequencing</article-title>, <source>The ISME Journal</source>. (<year>2012</year>) <volume>6</volume>, no. 6, <fpage>1176</fpage>–<lpage>1185</lpage>, <pub-id pub-id-type="doi">10.1038/ismej.2011.191</pub-id>.<pub-id pub-id-type="pmcid">PMC3358035</pub-id><pub-id pub-id-type="pmid">22170420</pub-id></mixed-citation></ref><ref id="bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cit-0017">
+<string-name name-style="western">
+<surname>Komatsu</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shiba</surname>
+<given-names>T.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Takeuchi</surname>
+<given-names>Y.</given-names>
+</string-name>, et al.<article-title>Discriminating Microbial Community Structure Between Peri-Implantitis and Periodontitis With Integrated Metagenomic, Metatranscriptomic, and Network Analysis</article-title>, <source>Frontiers in Cellular and Infection Microbiology</source>. (<year>2020</year>) <volume>10</volume>, <pub-id pub-id-type="doi">10.3389/fcimb.2020.596490</pub-id>, <elocation-id>596490</elocation-id>.<pub-id pub-id-type="pmcid">PMC7793907</pub-id><pub-id pub-id-type="pmid">33425781</pub-id></mixed-citation></ref><ref id="bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cit-0018">
+<string-name name-style="western">
+<surname>He</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>C.</given-names>
+</string-name>, et al.<article-title>Analysis of Subgingival Microbial Community Structure in MAFLD Patients With Periodontitis</article-title>, <source>Clinical Oral Investigations</source>. (<year>2025</year>) <volume>29</volume>, no. 11, <pub-id pub-id-type="doi">10.1007/s00784-025-06564-2</pub-id>, <elocation-id>504</elocation-id>.<pub-id pub-id-type="pmid">41081945</pub-id></mixed-citation></ref><ref id="bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cit-0019">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>Y.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Ding</surname>
+<given-names>P.-H.</given-names>
+</string-name>, <article-title>Advancing Periodontitis Microbiome Research: Integrating Design, Analysis, and Technology</article-title>, <source>Frontiers in Cellular and Infection Microbiology</source>. (<year>2025</year>) <volume>15</volume>, <pub-id pub-id-type="doi">10.3389/fcimb.2025.1616250</pub-id>, <elocation-id>1616250</elocation-id>.<pub-id pub-id-type="pmcid">PMC12229877</pub-id><pub-id pub-id-type="pmid">40625831</pub-id></mixed-citation></ref><ref id="bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cit-0020">
+<string-name name-style="western">
+<surname>Casarin</surname>
+<given-names>R. C. V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bonilha</surname>
+<given-names>G. M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Paz</surname>
+<given-names>H.</given-names>
+</string-name>, et al.<article-title>Unraveling the Microbial Mosaic and Inflammatory Core of Peri-Implantitis</article-title>, <source>Journal of Dental Research</source>. (<year>2025</year>) <volume>105</volume>, no. 2, <fpage>267</fpage>–<lpage>275</lpage>, <pub-id pub-id-type="doi">10.1177/00220345251344585</pub-id>.<pub-id pub-id-type="pmid">40676912</pub-id></mixed-citation></ref><ref id="bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cit-0021">
+<string-name name-style="western">
+<surname>Song</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>He</surname>
+<given-names>W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ding</surname>
+<given-names>P-hui</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>He</surname>
+<given-names>F.</given-names>
+</string-name>, <article-title>Submucosal Microbiome in Peri-Implantitis: A Comparative Metagenomic Analysis</article-title>, <source>Journal of Periodontal Research</source>. (<year>2025</year>) <volume>60</volume>, no. 7, <fpage>737</fpage>–<lpage>739</lpage>, <pub-id pub-id-type="doi">10.1111/jre.13407</pub-id>.<pub-id pub-id-type="pmid">40347034</pub-id></mixed-citation></ref><ref id="bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cit-0022">
+<string-name name-style="western">
+<surname>Lafaurie</surname>
+<given-names>G. I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sabogal</surname>
+<given-names>M. D. A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Castillo</surname>
+<given-names>D. M.</given-names>
+</string-name>, et al.<article-title>Microbiome and Microbial Biofilm Profiles of Peri-Implantitis: A Systematic Review</article-title>, <source>Journal of Periodontology</source>. (<year>2017</year>) <volume>88</volume>, no. 10, <fpage>1066</fpage>–<lpage>1089</lpage>, <pub-id pub-id-type="doi">10.1902/jop.2017.170123</pub-id>.<pub-id pub-id-type="pmid">28625077</pub-id></mixed-citation></ref><ref id="bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cit-0023">
+<string-name name-style="western">
+<surname>Salah</surname>
+<given-names>A. N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Doghish</surname>
+<given-names>Y. A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Abbass</surname>
+<given-names>S. O.</given-names>
+</string-name>, et al.<article-title>Microbiota-Based Therapies in Oral Health and Disorders</article-title>, <source>Folia Microbiologica</source>. (<year>2025</year>) <volume>70</volume>, no. 6, <fpage>1217</fpage>–<lpage>1240</lpage>, <pub-id pub-id-type="doi">10.1007/s12223-025-01324-x</pub-id>.<pub-id pub-id-type="pmcid">PMC12769713</pub-id><pub-id pub-id-type="pmid">41076507</pub-id></mixed-citation></ref><ref id="bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cit-0024">
+<string-name name-style="western">
+<surname>Ghannoum</surname>
+<given-names>M. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jurevic</surname>
+<given-names>R. J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Mukherjee</surname>
+<given-names>P. K.</given-names>
+</string-name>, et al.<article-title>Characterization of the Oral Fungal Microbiome (Mycobiome) in Healthy Individuals</article-title>, <source>PLoS Pathogens</source>. (<year>2010</year>) <volume>6</volume>, no. 1, <pub-id pub-id-type="doi">10.1371/journal.ppat.1000713</pub-id>.<pub-id pub-id-type="pmcid">PMC2795202</pub-id><pub-id pub-id-type="pmid">20072605</pub-id></mixed-citation></ref><ref id="bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cit-0025">
+<string-name name-style="western">
+<surname>Fidel</surname>
+<given-names>P. L.</given-names>Jr.</string-name>, <string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>Z. A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Lilly</surname>
+<given-names>E. A.</given-names>
+</string-name>, et al.<article-title>Effect of HIV/HAART and Other Clinical Variables on the Oral Mycobiome Using Multivariate Analyses</article-title>, <source>mBio</source>. (<year>2021</year>) <volume>12</volume>, no. 2, <pub-id pub-id-type="doi">10.1128/mBio.00294-21</pub-id>.<pub-id pub-id-type="pmcid">PMC8092233</pub-id><pub-id pub-id-type="pmid">33758093</pub-id></mixed-citation></ref><ref id="bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cit-0026">
+<string-name name-style="western">
+<surname>Diaz</surname>
+<given-names>P. I.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Dongari-Bagtzoglou</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Critically Appraising the Significance of the Oral Mycobiome</article-title>, <source>Journal of Dental Research</source>. (<year>2021</year>) <volume>100</volume>, no. 2, <fpage>133</fpage>–<lpage>140</lpage>, <pub-id pub-id-type="doi">10.1177/0022034520956975</pub-id>.<pub-id pub-id-type="pmcid">PMC8173349</pub-id><pub-id pub-id-type="pmid">32924741</pub-id></mixed-citation></ref><ref id="bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cit-0027">
+<string-name name-style="western">
+<surname>Kauser</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gulzar</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hasan</surname>
+<given-names>G. M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>P.</given-names>
+</string-name>, <article-title>Exploring Fungal Survival Mechanisms: Toward Next-Generation Antifungal Therapies Against Candida Spp</article-title>, <source>Archives of Microbiology</source>. (<year>2025</year>) <volume>207</volume>, no. 11, <pub-id pub-id-type="doi">10.1007/s00203-025-04519-5</pub-id>, <elocation-id>302</elocation-id>.<pub-id pub-id-type="pmid">41081904</pub-id></mixed-citation></ref><ref id="bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cit-0028">
+<string-name name-style="western">
+<surname>Lafuente-Ibáñez de Mendoza</surname>
+<given-names>I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cayero-Garay</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Quindós-Andrés</surname>
+<given-names>G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Aguirre-Urizar</surname>
+<given-names>Jé M.</given-names>
+</string-name>, <article-title>A Systematic Review on the Implication of Candida in Peri-Implantitis</article-title>, <source>International Journal of Implant Dentistry</source>. (<year>2021</year>) <volume>7</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s40729-021-00338-7</pub-id>, <elocation-id>73</elocation-id>.<pub-id pub-id-type="pmcid">PMC8209131</pub-id><pub-id pub-id-type="pmid">34136968</pub-id></mixed-citation></ref><ref id="bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cit-0029">
+<string-name name-style="western">
+<surname>Canullo</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Peñarrocha-Oltra</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Covani</surname>
+<given-names>U.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Rossetti</surname>
+<given-names>P.</given-names>
+</string-name>, <article-title>Microbiologic and Clinical Findings of Implants in Healthy Condition and With Peri-Implantitis</article-title>, <source>The International Journal of Oral &amp; Maxillofacial Implants</source>. (<year>2015</year>) <volume>30</volume>, no. 4, <fpage>834</fpage>–<lpage>842</lpage>, <pub-id pub-id-type="doi">10.11607/jomi.3947</pub-id>.<pub-id pub-id-type="pmid">26252036</pub-id></mixed-citation></ref><ref id="bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cit-0030">
+<string-name name-style="western">
+<surname>Netea</surname>
+<given-names>M. G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Joosten</surname>
+<given-names>L. A. B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>van der Meer</surname>
+<given-names>J. W. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kullberg</surname>
+<given-names>B.-J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>van de Veerdonk</surname>
+<given-names>F. L.</given-names>
+</string-name>, <article-title>Immune Defence Against Candida Fungal Infections</article-title>, <source>Nature Reviews Immunology</source>. (<year>2015</year>) <volume>15</volume>, no. 10, <fpage>630</fpage>–<lpage>642</lpage>, <pub-id pub-id-type="doi">10.1038/nri3897</pub-id>.<pub-id pub-id-type="pmid">26388329</pub-id></mixed-citation></ref><ref id="bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cit-0031">
+<string-name name-style="western">
+<surname>Hosseini Hooshiar</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Salari</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Nasiri</surname>
+<given-names>K.</given-names>
+</string-name>, et al.<article-title>The Potential use of Bacteriophages as Antibacterial Agents in Dental Infection</article-title>, <source>Virology Journal</source>. (<year>2024</year>) <volume>21</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s12985-024-02510-y</pub-id>, <elocation-id>258</elocation-id>.<pub-id pub-id-type="pmcid">PMC11490148</pub-id><pub-id pub-id-type="pmid">39425223</pub-id></mixed-citation></ref><ref id="bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cit-0032">
+<string-name name-style="western">
+<surname>Jalili</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mazloomirad</surname>
+<given-names>F.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Jalilian</surname>
+<given-names>F. A.</given-names>
+</string-name>, <article-title>The Effect of Bacteriophage in Oral Health: Developing Microbial Ecology and Emerging Potential Therapeutic Target</article-title>, <source>Future Microbiology</source>. (<year>2025</year>) <volume>20</volume>, no. 12, <fpage>807</fpage>–<lpage>816</lpage>, <pub-id pub-id-type="doi">10.1080/17460913.2025.2535901</pub-id>.<pub-id pub-id-type="pmcid">PMC12344795</pub-id><pub-id pub-id-type="pmid">40781808</pub-id></mixed-citation></ref><ref id="bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cit-0033">
+<string-name name-style="western">
+<surname>Giok</surname>
+<given-names>K. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Veettil</surname>
+<given-names>S. K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Menon</surname>
+<given-names>R. K.</given-names>
+</string-name>, <article-title>Comparative Effectiveness of Interventions for the Treatment of Peri-Implantitis: A Systematic Review With Network Meta-Analysis</article-title>, <source>The Journal of Prosthetic Dentistry</source>. (<year>2024</year>) <volume>134</volume>, no. 5, <fpage>1650</fpage>–<lpage>1663</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.prosdent.2024.03.024</pub-id><pub-id pub-id-type="pmid">38632026</pub-id></mixed-citation></ref><ref id="bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cit-0034">
+<string-name name-style="western">
+<surname>Nanci</surname>
+<given-names>A.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Bosshardt</surname>
+<given-names>D. D.</given-names>
+</string-name>, <article-title>Structure of Periodontal Tissues in Health and Disease</article-title>, <source>Periodontology 2000</source>. (<year>2006</year>) <volume>40</volume>, no. 1, <fpage>11</fpage>–<lpage>28</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-0757.2005.00141.x</pub-id>.<pub-id pub-id-type="pmid">16398683</pub-id></mixed-citation></ref><ref id="bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cit-0035">
+<string-name name-style="western">
+<surname>Berglundh</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lindhe</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ericsson</surname>
+<given-names>I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Marinello</surname>
+<given-names>C. P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Liljenberg</surname>
+<given-names>B.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Thornsen</surname>
+<given-names>P.</given-names>
+</string-name>, <article-title>The Soft Tissue Barrier at Implants and Teeth</article-title>, <source>Clinical Oral Implants Research</source>. (<year>1991</year>) <volume>2</volume>, no. 2, <fpage>81</fpage>–<lpage>90</lpage>, <pub-id pub-id-type="doi">10.1034/j.1600-0501.1991.020206.x</pub-id>.<pub-id pub-id-type="pmid">1809403</pub-id></mixed-citation></ref><ref id="bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cit-0036">
+<string-name name-style="western">
+<surname>Berglundh</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lindhe</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jonsson</surname>
+<given-names>K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Ericsson</surname>
+<given-names>I.</given-names>
+</string-name>, <article-title>The Topography of the Vascular Systems in the Periodontal and Peri-Implant Tissues in the Dog</article-title>, <source>Journal of Clinical Periodontology</source>. (<year>1994</year>) <volume>21</volume>, no. 3, <fpage>189</fpage>–<lpage>193</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-051X.1994.tb00302.x</pub-id>.<pub-id pub-id-type="pmid">8157772</pub-id></mixed-citation></ref><ref id="bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cit-0037">
+<string-name name-style="western">
+<surname>Ting</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Craig</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Balkin</surname>
+<given-names>B. E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Suzuki</surname>
+<given-names>J. B.</given-names>
+</string-name>, <article-title>Peri-Implantitis: A Comprehensive Overview of Systematic Reviews</article-title>, <source>Journal of Oral Implantology</source>. (<year>2018</year>) <volume>44</volume>, no. 3, <fpage>225</fpage>–<lpage>247</lpage>, <pub-id pub-id-type="doi">10.1563/aaid-joi-D-16-00122</pub-id>.<pub-id pub-id-type="pmid">29182489</pub-id></mixed-citation></ref><ref id="bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cit-0038">
+<string-name name-style="western">
+<surname>Dallepiane</surname>
+<given-names>F. G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Nogueira</surname>
+<given-names>M. A. C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Menezes dos Anjos</surname>
+<given-names>L.</given-names>
+</string-name>, et al.<article-title>Bacteriophages for Periodontal Pathogens Control: A Systematic Review</article-title>, <source>Journal of Dentistry</source>. (<year>2025</year>) <volume>161</volume>, <pub-id pub-id-type="doi">10.1016/j.jdent.2025.105960</pub-id>, <elocation-id>105960</elocation-id>.<pub-id pub-id-type="pmid">40645364</pub-id></mixed-citation></ref><ref id="bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cit-0039">
+<string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Luo</surname>
+<given-names>Z.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>X.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y.</given-names>
+</string-name>, <article-title>The Therapeutic Potential of Phage-Based Antifungal Treatment: Strategies, Mechanisms, and Prospects</article-title>, <source>Critical Reviews in Microbiology</source>. (<year>2025</year>) <volume>52</volume>, no. 3, <fpage>433</fpage>–<lpage>451</lpage>, <pub-id pub-id-type="doi">10.1080/1040841X.2025.2572805</pub-id>.<pub-id pub-id-type="pmid">41090614</pub-id></mixed-citation></ref><ref id="bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cit-0040">
+<string-name name-style="western">
+<surname>Morris</surname>
+<given-names>J. L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Letson</surname>
+<given-names>H. L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Elliott</surname>
+<given-names>L.</given-names>
+</string-name>, et al.<article-title>Evaluation of Bacteriophage as an Adjunct Therapy for Treatment of Peri-Prosthetic Joint Infection Caused by <italic toggle="yes">Staphylococcus aureus</italic>
+</article-title>, <source>PLoS ONE</source>. (<year>2019</year>) <volume>14</volume>, no. 12, <pub-id pub-id-type="doi">10.1371/journal.pone.0226574</pub-id>.<pub-id pub-id-type="pmcid">PMC6932802</pub-id><pub-id pub-id-type="pmid">31877146</pub-id></mixed-citation></ref><ref id="bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cit-0041">
+<string-name name-style="western">
+<surname>Szafrański</surname>
+<given-names>S. P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Winkel</surname>
+<given-names>A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Stiesch</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>The use of Bacteriophages to Biocontrol Oral Biofilms</article-title>, <source>Journal of Biotechnology</source>. (<year>2017</year>) <volume>250</volume>, <fpage>29</fpage>–<lpage>44</lpage>, <pub-id pub-id-type="doi">10.1016/j.jbiotec.2017.01.002</pub-id>.<pub-id pub-id-type="pmid">28108235</pub-id></mixed-citation></ref><ref id="bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cit-0042">
+<string-name name-style="western">
+<surname>Łusiak-Szelachowska</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Weber-Dąbrowska</surname>
+<given-names>B.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Górski</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Bacteriophages and Lysins in Biofilm Control</article-title>, <source>Virologica Sinica</source>. (<year>2020</year>) <volume>35</volume>, no. 2, <fpage>125</fpage>–<lpage>133</lpage>, <pub-id pub-id-type="doi">10.1007/s12250-019-00192-3</pub-id>.<pub-id pub-id-type="pmcid">PMC7198674</pub-id><pub-id pub-id-type="pmid">32125643</pub-id></mixed-citation></ref><ref id="bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cit-0043">
+<string-name name-style="western">
+<surname>Hernandez-Cuellar</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Guerrero-Barrera</surname>
+<given-names>A. L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Avelar-Gonzalez</surname>
+<given-names>F. J.</given-names>
+</string-name>, et al.<article-title>Characterization of <italic toggle="yes">Candida albicans</italic> and <italic toggle="yes">Staphylococcus aureus</italic> Polymicrobial Biofilm on Different Surfaces</article-title>, <source>Revista Iberoamericana de Micología</source>. (<year>2022</year>) <volume>39</volume>, no. 2, <fpage>36</fpage>–<lpage>43</lpage>, <pub-id pub-id-type="doi">10.1016/j.riam.2022.04.001</pub-id>.<pub-id pub-id-type="pmid">35738989</pub-id></mixed-citation></ref><ref id="bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cit-0044">
+<string-name name-style="western">
+<surname>Sztukowska</surname>
+<given-names>M. N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dutton</surname>
+<given-names>L. C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Delaney</surname>
+<given-names>C.</given-names>
+</string-name>, et al.<article-title>Community Development Between <italic toggle="yes">Porphyromonas gingivalis</italic> and <italic toggle="yes">Candida albicans</italic> Mediated by InlJ and Als3</article-title>, <source>mBio</source>. (<year>2018</year>) <volume>9</volume>, no. 2, <pub-id pub-id-type="doi">10.1128/mBio.00202-18</pub-id>.<pub-id pub-id-type="pmcid">PMC5915736</pub-id><pub-id pub-id-type="pmid">29691333</pub-id></mixed-citation></ref><ref id="bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cit-0045">
+<string-name name-style="western">
+<surname>de Jongh</surname>
+<given-names>C. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bikker</surname>
+<given-names>F. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>de Vries</surname>
+<given-names>T. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Werner</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gibbs</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Krom</surname>
+<given-names>B. P.</given-names>
+</string-name>, <article-title>
+<italic toggle="yes">Porphyromonas gingivalis</italic> Interaction With <italic toggle="yes">Candida albicans</italic> Allows for Aerobic Escape, Virulence and Adherence</article-title>, <source>Biofilm</source>. (<year>2024</year>) <volume>7</volume>, <pub-id pub-id-type="doi">10.1016/j.bioflm.2023.100172</pub-id>, <elocation-id>100172</elocation-id>.<pub-id pub-id-type="pmcid">PMC10788424</pub-id><pub-id pub-id-type="pmid">38226024</pub-id></mixed-citation></ref><ref id="bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cit-0046">
+<string-name name-style="western">
+<surname>Miller</surname>
+<given-names>D. P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fitzsimonds</surname>
+<given-names>Z. R.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Lamont</surname>
+<given-names>R. J.</given-names>
+</string-name>, <article-title>Metabolic Signaling and Spatial Interactions in the Oral Polymicrobial Community</article-title>, <source>Journal of Dental Research</source>. (<year>2019</year>) <volume>98</volume>, no. 12, <fpage>1308</fpage>–<lpage>1314</lpage>, <pub-id pub-id-type="doi">10.1177/0022034519866440</pub-id>.<pub-id pub-id-type="pmcid">PMC6806133</pub-id><pub-id pub-id-type="pmid">31356756</pub-id></mixed-citation></ref><ref id="bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cit-0047">
+<string-name name-style="western">
+<surname>Du</surname>
+<given-names>Q.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ren</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>X.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>X.</given-names>
+</string-name>, <article-title>Cross-Kingdom Interaction Between <italic toggle="yes">Candida albicans</italic> and Oral Bacteria</article-title>, <source>Frontiers in Microbiology</source>. (<year>2022</year>) <volume>13</volume>, <pub-id pub-id-type="doi">10.3389/fmicb.2022.911623</pub-id>, <elocation-id>911623</elocation-id>.<pub-id pub-id-type="pmcid">PMC9668886</pub-id><pub-id pub-id-type="pmid">36406433</pub-id></mixed-citation></ref><ref id="bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cit-0048">
+<string-name name-style="western">
+<surname>Ellepola</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Truong</surname>
+<given-names>T.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y.</given-names>
+</string-name>, et al.<article-title>Multi-Omics Analyses Reveal Synergistic Carbohydrate Metabolism in <italic toggle="yes">Streptococcus mutans</italic>-<italic toggle="yes">Candida albicans</italic> Mixed-Species Biofilms</article-title>, <source>Infection and Immunity</source>. (<year>2019</year>) <volume>87</volume>, no. 10, <pub-id pub-id-type="doi">10.1128/IAI.00339-19</pub-id>.<pub-id pub-id-type="pmcid">PMC6759298</pub-id><pub-id pub-id-type="pmid">31383746</pub-id></mixed-citation></ref><ref id="bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cit-0049">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jin</surname>
+<given-names>Y.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C.</given-names>
+</string-name>, <article-title>Heme Competition Triggers an Increase in the Pathogenic Potential of <italic toggle="yes">Porphyromonas gingivalis</italic> in <italic toggle="yes">Porphyromonas gingivalis</italic>-<italic toggle="yes">Candida albicans</italic> Mixed Biofilm</article-title>, <source>Frontiers in Microbiology</source>. (<year>2020</year>) <volume>11</volume>, <pub-id pub-id-type="doi">10.3389/fmicb.2020.596459</pub-id>, <elocation-id>596459</elocation-id>.<pub-id pub-id-type="pmcid">PMC7738433</pub-id><pub-id pub-id-type="pmid">33343538</pub-id></mixed-citation></ref><ref id="bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cit-0050">
+<string-name name-style="western">
+<surname>Wongsuk</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pumeesat</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Luplertlop</surname>
+<given-names>N.</given-names>
+</string-name>, <article-title>Fungal Quorum Sensing Molecules: Role in Fungal Morphogenesis and Pathogenicity</article-title>, <source>Journal of Basic Microbiology</source>. (<year>2016</year>) <volume>56</volume>, no. 5, <fpage>440</fpage>–<lpage>447</lpage>, <pub-id pub-id-type="doi">10.1002/jobm.201500759</pub-id>.<pub-id pub-id-type="pmid">26972663</pub-id></mixed-citation></ref><ref id="bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cit-0051">
+<string-name name-style="western">
+<surname>Homer</surname>
+<given-names>C. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Summers</surname>
+<given-names>D. K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Goranov</surname>
+<given-names>A. I.</given-names>
+</string-name>, et al.<article-title>Intracellular Action of a Secreted Peptide Required for Fungal Virulence</article-title>, <source>Cell Host &amp; Microbe</source>. (<year>2016</year>) <volume>19</volume>, no. 6, <fpage>849</fpage>–<lpage>864</lpage>, <pub-id pub-id-type="doi">10.1016/j.chom.2016.05.001</pub-id>.<pub-id pub-id-type="pmcid">PMC5186401</pub-id><pub-id pub-id-type="pmid">27212659</pub-id></mixed-citation></ref><ref id="bib-0052"><label>52</label><mixed-citation publication-type="journal" id="cit-0052">
+<string-name name-style="western">
+<surname>Oka</surname>
+<given-names>I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shigeishi</surname>
+<given-names>H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Ohta</surname>
+<given-names>K.</given-names>
+</string-name>, <article-title>Co-Infection of Oral <italic toggle="yes">Candida albicans</italic> and <italic toggle="yes">Porphyromonas gingivalis</italic> Is Associated With Active Periodontitis in Middle-Aged and Older Japanese People</article-title>, <source>Medicina</source>. (<year>2022</year>) <volume>58</volume>, no. 6, <elocation-id>723</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/medicina58060723</pub-id><pub-id pub-id-type="pmcid">PMC9227322</pub-id><pub-id pub-id-type="pmid">35743986</pub-id></mixed-citation></ref><ref id="bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cit-0053">
+<string-name name-style="western">
+<surname>Bartnicka</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gonzalez-Gonzalez</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Sykut</surname>
+<given-names>J.</given-names>
+</string-name>, et al.<article-title>
+<italic toggle="yes">Candida albicans</italic> Shields the Periodontal Killer <italic toggle="yes">Porphyromonas gingivalis</italic> From Recognition by the Host Immune System and Supports the Bacterial Infection of Gingival Tissue</article-title>, <source>International Journal of Molecular Sciences</source>. (<year>2020</year>) <volume>21</volume>, no. 6, <pub-id pub-id-type="doi">10.3390/ijms21061984</pub-id>, <elocation-id>1984</elocation-id>.<pub-id pub-id-type="pmcid">PMC7139284</pub-id><pub-id pub-id-type="pmid">32183255</pub-id></mixed-citation></ref><ref id="bib-0054"><label>54</label><mixed-citation publication-type="journal" id="cit-0054">
+<string-name name-style="western">
+<surname>Kawai</surname>
+<given-names>T.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Akira</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>The Role of Pattern-Recognition Receptors in Innate Immunity: Update on Toll-Like Receptors</article-title>, <source>Nature Immunology</source>. (<year>2010</year>) <volume>11</volume>, no. 5, <fpage>373</fpage>–<lpage>384</lpage>, <pub-id pub-id-type="doi">10.1038/ni.1863</pub-id>.<pub-id pub-id-type="pmid">20404851</pub-id></mixed-citation></ref><ref id="bib-0055"><label>55</label><mixed-citation publication-type="journal" id="cit-0055">
+<string-name name-style="western">
+<surname>Fuchs</surname>
+<given-names>T. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Abed</surname>
+<given-names>U.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Goosmann</surname>
+<given-names>C.</given-names>
+</string-name>, et al.<article-title>Novel Cell Death Program Leads to Neutrophil Extracellular Traps</article-title>, <source>The Journal of Cell Biology</source>. (<year>2007</year>) <volume>176</volume>, no. 2, <fpage>231</fpage>–<lpage>241</lpage>, <pub-id pub-id-type="doi">10.1083/jcb.200606027</pub-id>.<pub-id pub-id-type="pmcid">PMC2063942</pub-id><pub-id pub-id-type="pmid">17210947</pub-id></mixed-citation></ref><ref id="bib-0056"><label>56</label><mixed-citation publication-type="journal" id="cit-0056">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Qian</surname>
+<given-names>W.-B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fang</surname>
+<given-names>Y.-C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Q.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y.</given-names>
+</string-name>, <article-title>Tolerance Induced by <italic toggle="yes">Porphyromonas gingivalis</italic> Altered Inflammatory Responses in Mice</article-title>, <source>Molecular Oral Microbiology</source>. (<year>2025</year>) <volume>40</volume>, no. 5, <fpage>223</fpage>–<lpage>233</lpage>, <pub-id pub-id-type="doi">10.1111/omi.70002</pub-id>.<pub-id pub-id-type="pmid">40698941</pub-id></mixed-citation></ref><ref id="bib-0057"><label>57</label><mixed-citation publication-type="journal" id="cit-0057">
+<string-name name-style="western">
+<surname>Ruiz-Rodriguez</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lusarreta-Parga</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>de Steenhuijsen Piters</surname>
+<given-names>W. A. A.</given-names>
+</string-name>, et al.<article-title>Bacterial and Fungal Communities in Tracheal Aspirates of Intubated COVID-19 Patients: A Pilot Study</article-title>, <source>Scientific Reports</source>. (<year>2022</year>) <volume>12</volume>, no. 1, <pub-id pub-id-type="doi">10.1038/s41598-022-13482-w</pub-id>, <elocation-id>9896</elocation-id>.<pub-id pub-id-type="pmcid">PMC9196859</pub-id><pub-id pub-id-type="pmid">35701442</pub-id></mixed-citation></ref><ref id="bib-0058"><label>58</label><mixed-citation publication-type="journal" id="cit-0058">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>H.</given-names>
+</string-name>, <article-title>Editorial: MNGS for Fungal Pulmonary Infection Diagnostics</article-title>, <source>Frontiers in Cellular and Infection Microbiology</source>. (<year>2022</year>) <volume>12</volume>, <pub-id pub-id-type="doi">10.3389/fcimb.2022.864163</pub-id>, <elocation-id>864163</elocation-id>.<pub-id pub-id-type="pmcid">PMC8963408</pub-id><pub-id pub-id-type="pmid">35360103</pub-id></mixed-citation></ref><ref id="bib-0059"><label>59</label><mixed-citation publication-type="journal" id="cit-0059">
+<string-name name-style="western">
+<surname>Wei</surname>
+<given-names>X.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Qian</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Mo</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>Microbiome-Based Therapies for Periodontitis and Peri-Implantitis</article-title>, <source>Oral Diseases</source>. (<year>2024</year>) <volume>30</volume>, no. 5, <fpage>2838</fpage>–<lpage>2857</lpage>, <pub-id pub-id-type="doi">10.1111/odi.14782</pub-id>.<pub-id pub-id-type="pmid">37890080</pub-id></mixed-citation></ref><ref id="bib-0060"><label>60</label><mixed-citation publication-type="journal" id="cit-0060">
+<string-name name-style="western">
+<surname>Kinane</surname>
+<given-names>D. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stathopoulou</surname>
+<given-names>P. G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Papapanou</surname>
+<given-names>P. N.</given-names>
+</string-name>, <article-title>Periodontal Diseases</article-title>, <source>Nature Reviews Disease Primers</source>. (<year>2017</year>) <volume>3</volume>, no. 1, <pub-id pub-id-type="doi">10.1038/nrdp.2017.38</pub-id>, <elocation-id>17038</elocation-id>.<pub-id pub-id-type="pmid">28805207</pub-id></mixed-citation></ref><ref id="bib-0061"><label>61</label><mixed-citation publication-type="journal" id="cit-0061">
+<string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>L.-F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Watt</surname>
+<given-names>R. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mattheos</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Si</surname>
+<given-names>M.-S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lai</surname>
+<given-names>H.-C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Lang</surname>
+<given-names>N. P.</given-names>
+</string-name>, <article-title>Periodontal and Peri-Implant Microbiota in Patients With Healthy and Inflamed Periodontal and Peri-Implant Tissues</article-title>, <source>Clinical Oral Implants Research</source>. (<year>2016</year>) <volume>27</volume>, no. 1, <fpage>13</fpage>–<lpage>21</lpage>, <pub-id pub-id-type="doi">10.1111/clr.12508</pub-id>.<pub-id pub-id-type="pmid">25399962</pub-id></mixed-citation></ref><ref id="bib-0062"><label>62</label><mixed-citation publication-type="journal" id="cit-0062">
+<string-name name-style="western">
+<surname>Mysak</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Podzimek</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Sommerova</surname>
+<given-names>P.</given-names>
+</string-name>, et al.<article-title>
+<italic toggle="yes">Porphyromonas gingivalis</italic>: Major Periodontopathic Pathogen Overview</article-title>, <source>Journal of Immunology Research</source>. (<year>2014</year>) <volume>2014</volume>, <lpage>8</lpage>, <pub-id pub-id-type="doi">10.1155/2014/476068</pub-id>, <elocation-id>476068</elocation-id>.<pub-id pub-id-type="pmcid">PMC3984870</pub-id><pub-id pub-id-type="pmid">24741603</pub-id></mixed-citation></ref><ref id="bib-0063"><label>63</label><mixed-citation publication-type="journal" id="cit-0063">
+<string-name name-style="western">
+<surname>Defta</surname>
+<given-names>C. L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Albu</surname>
+<given-names>C.-C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Albu</surname>
+<given-names>Ş.-D.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Bogdan-Andreescu</surname>
+<given-names>C. F.</given-names>
+</string-name>, <article-title>Oral Mycobiota: A Narrative Review</article-title>, <source>Dentistry Journal</source>. (<year>2024</year>) <volume>12</volume>, no. 4, <pub-id pub-id-type="doi">10.3390/dj12040115</pub-id>, <elocation-id>115</elocation-id>.<pub-id pub-id-type="pmcid">PMC11049401</pub-id><pub-id pub-id-type="pmid">38668027</pub-id></mixed-citation></ref><ref id="bib-0064"><label>64</label><mixed-citation publication-type="journal" id="cit-0064">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>S.-Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>S. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>J.-Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>K. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>J.-E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>D.-W.</given-names>
+</string-name>, <article-title>Advancing Gut Microbiome Research: The Shift From Metagenomics to Multi-Omics and Future Perspectives</article-title>, <source>Journal of Microbiology and Biotechnology</source>. (<year>2025</year>) <volume>35</volume>, <pub-id pub-id-type="doi">10.4014/jmb.2412.12001</pub-id>.<pub-id pub-id-type="pmcid">PMC12010094</pub-id><pub-id pub-id-type="pmid">40223273</pub-id></mixed-citation></ref><ref id="bib-0065"><label>65</label><mixed-citation publication-type="journal" id="cit-0065">
+<string-name name-style="western">
+<surname>Jun</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yuanyuan</surname>
+<given-names>L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zhiqiang</surname>
+<given-names>W.</given-names>
+</string-name>, et al.<article-title>Multi-Omics Study of Key Genes, Metabolites, and Pathways of Periodontitis</article-title>, <source>Archives of Oral Biology</source>. (<year>2023</year>) <volume>153</volume>, <pub-id pub-id-type="doi">10.1016/j.archoralbio.2023.105720</pub-id>, <elocation-id>105720</elocation-id>.<pub-id pub-id-type="pmid">37285682</pub-id></mixed-citation></ref><ref id="bib-0066"><label>66</label><mixed-citation publication-type="journal" id="cit-0066">
+<string-name name-style="western">
+<surname>Freitag</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Spinell</surname>
+<given-names>T.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Kröger</surname>
+<given-names>A.</given-names>
+</string-name>, et al.<article-title>Dental Implant Material Related Changes in Molecular Signatures in Peri-Implantitis—A Systematic Review and Integrative Analysis of Omics In-Vitro Studies</article-title>, <source>Dental Materials</source>. (<year>2023</year>) <volume>39</volume>, no. 1, <fpage>101</fpage>–<lpage>113</lpage>, <pub-id pub-id-type="doi">10.1016/j.dental.2022.11.022</pub-id>.<pub-id pub-id-type="pmid">36526446</pub-id></mixed-citation></ref><ref id="bib-0067"><label>67</label><mixed-citation publication-type="journal" id="cit-0067">
+<string-name name-style="western">
+<surname>Yadalam</surname>
+<given-names>P. K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Natarajan</surname>
+<given-names>P. M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Shetty</surname>
+<given-names>N.</given-names>
+</string-name>, et al.<article-title>Analyzing and Exploring Graph Attention Networks and Protein-Based Language Models for Predicting Porhyromonas Gingivalis Resistant Efflux Protein Sequences</article-title>, <source>Dental and Medical Problems</source>. (<year>2025</year>) <volume>62</volume>, no. 2, <fpage>265</fpage>–<lpage>273</lpage>, <pub-id pub-id-type="doi">10.17219/dmp/186143</pub-id>.<pub-id pub-id-type="pmid">40372388</pub-id></mixed-citation></ref><ref id="bib-0068"><label>68</label><mixed-citation publication-type="journal" id="cit-0068">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>X.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>D.</given-names>
+</string-name>, et al.<article-title>Exploration of Oral Microbiota Alteration and AI-Driven Non-Invasive Hyperspectral Imaging for CAD Prediction</article-title>, <source>BMC Cardiovascular Disorders</source>. (<year>2025</year>) <volume>25</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s12872-025-04555-5</pub-id>, <elocation-id>102</elocation-id>.<pub-id pub-id-type="pmcid">PMC11829377</pub-id><pub-id pub-id-type="pmid">39955509</pub-id></mixed-citation></ref><ref id="bib-0069"><label>69</label><mixed-citation publication-type="journal" id="cit-0069">
+<string-name name-style="western">
+<surname>Seneviratne</surname>
+<given-names>C. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Balan</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Suriyanarayanan</surname>
+<given-names>T.</given-names>
+</string-name>, et al.<article-title>Oral Microbiome-Systemic Link Studies: Perspectives on Current Limitations and Future Artificial Intelligence-Based Approaches</article-title>, <source>Critical Reviews in Microbiology</source>. (<year>2020</year>) <volume>46</volume>, no. 3, <fpage>288</fpage>–<lpage>299</lpage>, <pub-id pub-id-type="doi">10.1080/1040841X.2020.1766414</pub-id>.<pub-id pub-id-type="pmid">32434436</pub-id></mixed-citation></ref></ref-list></back></article>

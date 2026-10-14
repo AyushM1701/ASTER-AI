@@ -1,0 +1,849 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cid70174" xml:lang="en" article-type="review-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Implant Dent Relat Res</journal-id><journal-id journal-id-type="iso-abbrev">Clin Implant Dent Relat Res</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">100888977</journal-id><journal-id journal-id-type="publisher-id">CID</journal-id><journal-title-group><journal-title>Clinical Implant Dentistry and Related Research</journal-title></journal-title-group><issn pub-type="ppub">1523-0899</issn><issn pub-type="epub">1708-8208</issn><?publisher_abbrev blackwell?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13408331</article-id><article-id pub-id-type="pmcid-ver">PMC13408331.1</article-id><article-id pub-id-type="pmcaid">13408331</article-id><article-id pub-id-type="pmcaiid">13408331</article-id><article-id pub-id-type="pmid">42515938</article-id><article-id pub-id-type="doi">10.1111/cid.70174</article-id><article-id pub-id-type="publisher-id">CID70174</article-id><article-id pub-id-type="other">1868665</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Meta‐analysis</subject></subj-group><subj-group subj-group-type="heading"><subject>Meta‐analysis</subject></subj-group></article-categories><title-group><article-title>Residual Periodontal Pockets at Implant Placement as Risk Indicator for Peri‐Implantitis: A Systematic Review</article-title></title-group><contrib-group><contrib id="cid70174-cr-0001" contrib-type="author"><name name-style="western"><surname>Ferrarotti</surname><given-names initials="F">Francesco</given-names></name><xref rid="cid70174-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cid70174-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Baima</surname><given-names initials="G">Giacomo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9395-4967</contrib-id><xref rid="cid70174-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>giacomo.baima@unito.it</email></address></contrib><contrib id="cid70174-cr-0003" contrib-type="author"><name name-style="western"><surname>Campagna</surname><given-names initials="A">Alessandro</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0009-1788-0714</contrib-id><xref rid="cid70174-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cid70174-cr-0004" contrib-type="author"><name name-style="western"><surname>Corana</surname><given-names initials="M">Matteo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6261-5092</contrib-id><xref rid="cid70174-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cid70174-cr-0005" contrib-type="author"><name name-style="western"><surname>Cafasso</surname><given-names initials="E">Enrico</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0002-1053-5220</contrib-id><xref rid="cid70174-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cid70174-cr-0006" contrib-type="author"><name name-style="western"><surname>Chuachamsai</surname><given-names initials="S">Sompol</given-names></name><xref rid="cid70174-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cid70174-cr-0007" contrib-type="author"><name name-style="western"><surname>Llerena‐Velasquez</surname><given-names initials="M">Melanie</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0008-0341-941X</contrib-id><xref rid="cid70174-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cid70174-cr-0008" contrib-type="author"><name name-style="western"><surname>Mariani</surname><given-names initials="GM">Giulia Maria</given-names></name><xref rid="cid70174-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cid70174-cr-0009" contrib-type="author"><name name-style="western"><surname>Aimetti</surname><given-names initials="M">Mario</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0657-0787</contrib-id><xref rid="cid70174-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="cid70174-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Surgical Sciences, C.I.R. Dental School</named-content>
+<institution>University of Turin</institution>
+<city>Turin</city>
+<country country="IT">Italy</country>
+</aff><aff id="cid70174-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biomedical, Metabolic and Neural Sciences</named-content>
+<institution>University of Modena and Reggio Emilia</institution>
+<city>Modena</city>
+<country country="IT">Italy</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Giacomo Baima (<email>giacomo.baima@unito.it</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>7</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2026</year></pub-date><volume>28</volume><issue seq="110">4</issue><issue-id pub-id-type="pmc-issue-id">518470</issue-id><issue-id pub-id-type="doi">10.1111/cid.v28.4</issue-id><elocation-id>e70174</elocation-id><history>
+<date date-type="rev-recd"><day>15</day><month>6</month><year>2026</year></date>
+<date date-type="received"><day>01</day><month>4</month><year>2026</year></date>
+<date date-type="accepted"><day>14</day><month>7</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>28</day><month>07</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>29</day><month>07</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-08-22 07:25:17.137"><day>22</day><month>08</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Clinical Implant Dentistry and Related Research</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CID-28-0.pdf"><?pdf-name CID-28-0.pdf?><?pdf-size 638201?><?pdf-md5 8ec87972546d9a744b6378599ca170d5?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:ce23/13408331/8ec87972546d/CID-28-0.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CID-28-0.pdf"/><abstract><title>ABSTRACT</title><sec id="cid70174-sec-0001"><title>Intro</title><p>The present systematic review aimed to assess whether the presence of residual periodontal pockets (PPD) after active periodontal therapy increases the risk of developing peri‐implantitis in patients with treated periodontitis who undergo implant therapy.</p></sec><sec id="cid70174-sec-0002"><title>Methods</title><p>An electronic search was performed in MEDLINE via PubMed, Scopus, Embase, and Cochrane Library. Studies including patients receiving at least one dental implant, in whom residual PPD or furcation involvement were recorded, were selected. The primary outcome was the incidence of peri‐implantitis. Risk of bias was assessed using the Newcastle–Ottawa Scale. No meta‐analysis could be performed due to heterogeneity across studies.</p></sec><sec id="cid70174-sec-0003"><title>Results</title><p>From 3870 retrieved records, 4 cohort studies fulfilled the inclusion criteria, with follow‐up ranging from 1 to 23 years. All included studies evaluated residual PPD as the exposure of interest, whereas no study specifically assessed furcation involvement. Despite substantial heterogeneity in exposure definitions and peri‐implantitis case definitions, all studies consistently suggested that residual PPD persisting after active periodontal therapy was associated with increased peri‐implantitis occurrence. In particular, deeper PPD (≥ 5 or ≥ 6 mm) and higher proportions of residual diseased sites were associated with greater peri‐implantitis risk. One study additionally reported that inflammatory periodontal conditions affecting adjacent teeth increased peri‐implantitis risk. Most studies were judged to be at moderate risk of bias.</p></sec><sec id="cid70174-sec-0004"><title>Conclusion</title><p>Residual PPD persisting after active periodontal therapy can increase the risk of peri‐implantitis in treated periodontitis patients receiving dental implants. Prospective studies adopting standardized case definitions of peri‐implantitis are needed to further clarify the influence of residual PPDs and furcation involvement on implant outcomes.</p><p>
+<bold>Trial Registration:</bold> PROSPERO: CRD42024567630</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cid70174-kwd-0001">dental implants</kwd><kwd id="cid70174-kwd-0002">furcation involvement</kwd><kwd id="cid70174-kwd-0003">peri‐implantitis</kwd><kwd id="cid70174-kwd-0004">periodontitis</kwd><kwd id="cid70174-kwd-0005">residual periodontal pockets</kwd><kwd id="cid70174-kwd-0006">risk factors</kwd><kwd id="cid70174-kwd-0007">supportive periodontal therapy</kwd></kwd-group><counts><fig-count count="1"/><table-count count="2"/><page-count count="11"/><word-count count="6800"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.4 mode:remove_FC converted:28.07.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="cid70174-body-0001"><sec id="cid70174-sec-0005"><label>1</label><title>Introduction</title><p>Peri‐implantitis is a primary biological complication of implant therapy, characterized by an inflammatory reaction in the peri‐implant mucosa accompanied by progressive loss of supporting bone [<xref rid="cid70174-bib-0001" ref-type="bibr">1</xref>, <xref rid="cid70174-bib-0002" ref-type="bibr">2</xref>]. Epidemiological studies indicate that more than one‐third of patients and one‐fifth of implants are affected by peri‐implantitis [<xref rid="cid70174-bib-0003" ref-type="bibr">3</xref>, <xref rid="cid70174-bib-0004" ref-type="bibr">4</xref>, <xref rid="cid70174-bib-0005" ref-type="bibr">5</xref>], underscoring the importance of primordial and primary prevention strategies [<xref rid="cid70174-bib-0006" ref-type="bibr">6</xref>]. Consequently, the identification and control of risk factors remain central to contemporary implant therapy [<xref rid="cid70174-bib-0006" ref-type="bibr">6</xref>, <xref rid="cid70174-bib-0007" ref-type="bibr">7</xref>].</p><p>Among the factors most consistently associated with peri‐implantitis are a history of periodontitis, inadequate plaque control, tobacco smoking, uncontrolled diabetes, implant malpositioning, and irregular adherence to supportive periodontal/peri‐implant care (SPC/SPIC) [<xref rid="cid70174-bib-0004" ref-type="bibr">4</xref>, <xref rid="cid70174-bib-0005" ref-type="bibr">5</xref>, <xref rid="cid70174-bib-0008" ref-type="bibr">8</xref>]. Within this framework, periodontitis emerges as one of the most robust and consistently validated risk indicators [<xref rid="cid70174-bib-0006" ref-type="bibr">6</xref>, <xref rid="cid70174-bib-0009" ref-type="bibr">9</xref>, <xref rid="cid70174-bib-0010" ref-type="bibr">10</xref>, <xref rid="cid70174-bib-0011" ref-type="bibr">11</xref>]. At the same time, because periodontitis remains the leading cause of tooth loss in adults [<xref rid="cid70174-bib-0012" ref-type="bibr">12</xref>, <xref rid="cid70174-bib-0013" ref-type="bibr">13</xref>], a substantial proportion of implant therapy is inevitably performed in patients previously affected by the disease [<xref rid="cid70174-bib-0014" ref-type="bibr">14</xref>, <xref rid="cid70174-bib-0015" ref-type="bibr">15</xref>]. Current clinical guidelines recommend achieving periodontal stability before implant placement [<xref rid="cid70174-bib-0007" ref-type="bibr">7</xref>, <xref rid="cid70174-bib-0016" ref-type="bibr">16</xref>]. However, in routine clinical practice, the complete resolution of deep periodontal pockets and furcation involvement is frequently difficult to accomplish, particularly in patients with advanced disease and complex anatomical defects [<xref rid="cid70174-bib-0017" ref-type="bibr">17</xref>, <xref rid="cid70174-bib-0018" ref-type="bibr">18</xref>].</p><p>To date, most primary studies and systematic reviews have evaluated periodontitis mainly in terms of patient history or periodontal status assessed at the time of peri‐implantitis diagnosis [<xref rid="cid70174-bib-0003" ref-type="bibr">3</xref>, <xref rid="cid70174-bib-0004" ref-type="bibr">4</xref>, <xref rid="cid70174-bib-0014" ref-type="bibr">14</xref>, <xref rid="cid70174-bib-0019" ref-type="bibr">19</xref>, <xref rid="cid70174-bib-0020" ref-type="bibr">20</xref>]. Comparatively, less attention has been directed toward the persistence of residual PPDs, furcation‐involved teeth, or incomplete achievement of periodontal treatment endpoints at the time of implant placement [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>]. Such conditions may reflect residual inflammatory burden and ecological dysbiosis following periodontal therapy, while simultaneously serving as microbial reservoirs capable of contributing to early peri‐implant colonization and inflammation [<xref rid="cid70174-bib-0022" ref-type="bibr">22</xref>, <xref rid="cid70174-bib-0023" ref-type="bibr">23</xref>].</p><p>Against this background, the present systematic review aims to address the following focused question: “In patients with treated periodontitis receiving at least one dental implant, do residual PPDs (&gt; 4 mm) and/or furcation‐involved teeth (FI) ≥II degree at the time of implant placement increase the risk of peri‐implantitis compared with patients exhibiting periodontal stability or periodontal health?”</p></sec><sec sec-type="materials-and-methods" id="cid70174-sec-0006"><label>2</label><title>Materials and Methods</title><p>This systematic review was conducted in accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta‐analyses) guidelines and checklist [<xref rid="cid70174-bib-0024" ref-type="bibr">24</xref>, <xref rid="cid70174-bib-0025" ref-type="bibr">25</xref>] and was prospectively registered in the PROSPERO database (CRD42024567630).</p><sec id="cid70174-sec-0007"><label>2.1</label><title>Inclusion Criteria</title><p>
+<list list-type="bullet" id="cid70174-list-0001"><list-item id="cid70174-li-0001"><p>Population (P): Human patients rehabilitated with at least one dental implant, and for whom a full‐mouth periodontal examination was performed and reported after active periodontal therapy and prior to implant placement/loading.</p></list-item><list-item id="cid70174-li-0002"><p>Exposure (E): Implant placement in patients presenting residual PPD &gt; 4 mm after active periodontal therapy and/or FI ≥ II.</p></list-item><list-item id="cid70174-li-0003"><p>Comparison (C): Implant placement in patients without residual PPDs or FI ≥ II after active periodontal therapy.</p></list-item><list-item id="cid70174-li-0004"><p>Outcomes (O):
+<list list-type="simple" id="cid70174-list-0002"><list-item id="cid70174-li-0005"><label>○</label><p>Primary outcome: Incidence of peri‐implantitis.</p></list-item><list-item id="cid70174-li-0006"><label>○</label><p>Secondary outcomes: Implant loss; incidence of mucositis; changes in peri‐implant clinical parameters (PPD, plaque index, bleeding index); and marginal bone level (MBL) changes.</p></list-item></list>
+</p></list-item><list-item id="cid70174-li-0007"><p>Study designs (S): Randomized controlled clinical trials (RCTs), controlled clinical trials (CCTs), prospective cohort studies, retrospective studies, and case series with a minimum of 1‐year follow‐up after implant loading.</p></list-item></list>
+</p></sec><sec id="cid70174-sec-0008"><label>2.2</label><title>Exclusion Criteria</title><p>
+<list list-type="bullet" id="cid70174-list-0003"><list-item id="cid70174-li-0008"><p>Studies recruit exclusively patients with diabetes or other conditions affecting bone metabolism.</p></list-item><list-item id="cid70174-li-0009"><p>Studies recruiting exclusively smoking individuals.</p></list-item><list-item id="cid70174-li-0010"><p>Single case reports, animal experiments, and ex vivo or in vitro studies.</p></list-item></list>
+</p></sec><sec id="cid70174-sec-0009"><label>2.3</label><title>Search Strategy</title><p>An electronic search was performed across four databases: MEDLINE (via PubMed), Scopus, Cochrane CENTRAL, and Embase up to December 2025. Both MeSH terms and free‐text keywords were combined using Boolean operators (AND, OR). The complete search strategies for each database are reported in Supporting Information <xref rid="cid70174-supitem-0001" ref-type="supplementary-material">1</xref>.</p><p>Additionally, a manual search was conducted in the following journals for the last 5 years: <italic toggle="yes">Journal of Periodontology</italic>, <italic toggle="yes">Journal of Clinical Periodontology</italic>, <italic toggle="yes">Journal of Dental Research</italic>, <italic toggle="yes">Journal of Periodontal Research</italic>, <italic toggle="yes">Clinical Oral Implants Research</italic>, <italic toggle="yes">International Journal of Periodontics and Restorative Dentistry</italic>, <italic toggle="yes">International Journal of Oral and Maxillofacial Implants</italic>, and <italic toggle="yes">Clinical Implant Dentistry and Related Research</italic>. Reference lists of included studies and relevant reviews were also screened.</p></sec><sec id="cid70174-sec-0010"><label>2.4</label><title>Screening and Study Inclusion</title><p>Two reviewers (A.C. and M.C.) independently screened the titles and abstracts in duplicate after calibration on a random sample of 50 citations. Discrepancies were resolved by consensus or by consultation with a third reviewer (G.B.). The same procedure was applied for full‐text screening.</p><p>All references were managed in Rayyan [<xref rid="cid70174-bib-0026" ref-type="bibr">26</xref>], and duplicates were removed automatically and manually. Inclusion/exclusion decisions were recorded using a predefined PICO‐based coding scheme. In cases of overlapping populations, the most comprehensive dataset was retained. Reviewers were blinded to author names, institutions, and journals during selection. Inter‐rater agreement was assessed with Cohen's <italic toggle="yes">κ</italic> (<italic toggle="yes">κ</italic> = 0.93 for titles/abstracts, <italic toggle="yes">κ</italic> = 0.97 for full texts).</p></sec><sec id="cid70174-sec-0011"><label>2.5</label><title>Data Collection</title><p>Two reviewers (F.F. and M.C.) independently extracted data using a standardized form, piloted and refined by the review team. Disagreements were resolved by consensus. Corresponding authors were contacted twice (2‐week interval) to retrieve missing or unclear data; unresolved data were excluded.</p></sec><sec id="cid70174-sec-0012"><label>2.6</label><title>Data Extraction</title><p>
+<list list-type="bullet" id="cid70174-list-0004"><list-item id="cid70174-li-0011"><p>Study characteristics: authors, year, design, setting, sample size, follow‐up, funding, and level of analysis.</p></list-item><list-item id="cid70174-li-0012"><p>Population characteristics: age, sex, smoking status, periodontal status, implant characteristics (location, restoration type).</p></list-item><list-item id="cid70174-li-0013"><p>Outcomes: incidence of peri‐implantitis and secondary outcomes (implant loss, mucositis, peri‐implant PPD, MBL changes).</p></list-item></list>
+</p><p>For each study, reviewers recorded the level at which exposure and outcomes were assessed and reported (patient level, implant level). Reported effect estimates were extracted together with their measure type (odds ratio [OR], hazard ratio [HR], risk ratio), adjustment status, covariates included in the model, and the time‐point or follow‐up period to which they referred.</p></sec><sec id="cid70174-sec-0013"><label>2.7</label><title>
+<styled-content style="fixed-case" toggle="no">Risk of Bias</styled-content> Assessment</title><p>Two reviewers (A.C. and M.C.) independently evaluated risk of bias. Newcastle–Ottawa Scale (NOS) [<xref rid="cid70174-bib-0027" ref-type="bibr">27</xref>] was used for observational studies, with separate domain assessments for cohort and case–control designs. Overall methodological quality was categorized as high (7–9 points), moderate (4–6 points), or low (0–3 points). Disagreements were resolved through discussion with a third reviewer (G.B.). Inter‐reviewer reliability was excellent (<italic toggle="yes">κ</italic> = 0.98).</p></sec><sec id="cid70174-sec-0014"><label>2.8</label><title>Data Synthesis</title><p>Given the limited number of eligible studies and the substantial methodological heterogeneity across investigations, the primary synthesis was conducted qualitatively. A quantitative synthesis was deemed methodologically inappropriate as the primary analytical strategy because of heterogeneity in the definitions of residual PPDs, diagnostic criteria for peri‐implantitis, follow‐up duration, level of analysis, and type of reported effect estimates.</p><p>For each study, the study design, follow‐up duration, periodontal exposure definition, peri‐implantitis case definition, level of analysis, available effect estimates, and direction of association between residual PPDs and peri‐implantitis were described. Particular attention was given to whether residual periodontal PPD were assessed at the patient or site level, and whether peri‐implantitis outcomes were reported at the patient or implant level.</p><p>Reported effect estimates, including ORs and HRs, were extracted and descriptively presented when available. These measures were not statistically pooled because they reflected different estimands, levels of analysis, and follow‐up structures. When raw 2 × 2 implant‐level data were available, crude odds ratios were calculated exclusively to facilitate descriptive comparisons across studies; these estimates were considered exploratory and were not used as the primary basis for inference.</p><p>The consistency of findings across studies was qualitatively evaluated according to the direction of association, magnitude of reported estimates, biological plausibility, and methodological limitations. No formal assessment of publication bias was performed because fewer than 10 studies were available and funnel plot‐based methods would therefore have been unreliable.</p><p>The interpretation and certainty of the available evidence were considered in light of risk of bias, heterogeneity in exposure and outcome definitions, residual confounding, variability in follow‐up duration, and the nonindependence of implants within the same patient when implant‐level analyses were reported. Failure to account for within‐patient clustering was considered a potential source of artificially inflated statistical precision and distorted effect estimates.</p></sec></sec><sec sec-type="results" id="cid70174-sec-0015"><label>3</label><title>Results</title><sec id="cid70174-sec-0016"><label>3.1</label><title>Study Selection</title><p>The initial search generated a total of 3870 articles from all databases combined. Following duplicates removal (1746) and screening of titles and abstracts (2109), 15 articles qualified for full‐text screening (Figure <xref rid="cid70174-fig-0001" ref-type="fig">1</xref>). The reason for exclusion of the full‐texts is presented in Supporting Information <xref rid="cid70174-supitem-0002" ref-type="supplementary-material">2</xref>. The Cohen's <italic toggle="yes">κ</italic> value for inter‐reviewer agreement was 0.93 at the first stage of screening and 0.97 at the second stage. Eleven articles were removed after full‐text assessment. Finally, four articles met all of the inclusion criteria and were included in the qualitative analysis [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>, <xref rid="cid70174-bib-0028" ref-type="bibr">28</xref>, <xref rid="cid70174-bib-0029" ref-type="bibr">29</xref>, <xref rid="cid70174-bib-0030" ref-type="bibr">30</xref>].</p><fig position="float" fig-type="FIGURE" id="cid70174-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>PRISMA flowchart illustrating the experimental study search and selection process. *The reasons for the exclusion are provided in the Supporting Information <xref rid="cid70174-supitem-0002" ref-type="supplementary-material">2</xref>. <italic toggle="yes">Source:</italic> Page et al. [<xref rid="cid70174-bib-0025" ref-type="bibr">25</xref>].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CID-28-0-g001.jpg"><?image-name CID-28-0-g001.jpg?><?image-size 110660?><?image-md5 8c0755f0f7a1a92294acbcefa00369cc?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 903?><?image-original-width 1064?><?image-scaled-height 602?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/ce23/13408331/8c0755f0f7a1/CID-28-0-g001.jpg?><?thumb-name CID-28-0-g001.gif?><?thumb-size 2423?><?thumb-md5 32122e3945c80b2a9869689582f637ea?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 85?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ce23/13408331/32122e3945c8/CID-28-0-g001.gif?></graphic></fig></sec><sec id="cid70174-sec-0017"><label>3.2</label><title>Characteristics of the Included Studies</title><p>The characteristics of the included studies are summarized in Table <xref rid="cid70174-tbl-0001" ref-type="table">1</xref> and Supporting Information <xref rid="cid70174-supitem-0003" ref-type="supplementary-material">3</xref>. All included studies were published between 2012 and 2021. Two investigations were conducted in Europe (France and Switzerland), one in Asia (China), and one in North America (United States). Overall, the studies included between 70 and 100 patients and between 165 and 260 implants. One study had a prospective design, whereas the remaining investigations were retrospective cohorts. Follow‐up duration ranged from 12 to 276 months. The included populations mainly consisted of partially edentulous adults with a history of treated moderate‐to‐severe periodontitis undergoing implant therapy and enrolled in SPC/SPIC programs. Mean patient age ranged from 44.5 to 68.9 years, and smokers were included in all cohorts. Implant placement protocols varied across studies and included both one‐stage [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>, <xref rid="cid70174-bib-0029" ref-type="bibr">29</xref>] and two‐stage surgical approaches [<xref rid="cid70174-bib-0030" ref-type="bibr">30</xref>].</p><table-wrap position="float" id="cid70174-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Methodological characteristics of the selected studies.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">References</th><th align="center" valign="bottom" rowspan="1" colspan="1">Year</th><th align="center" valign="bottom" rowspan="1" colspan="1">Study design</th><th align="center" valign="bottom" rowspan="1" colspan="1">Follow‐up (months)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Setting, country</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean age (years)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Gender (% female)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Smokers (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">No. of patients/implants</th><th align="center" valign="bottom" rowspan="1" colspan="1">Periodontitis definition</th><th align="center" valign="bottom" rowspan="1" colspan="1">Peri‐implantitis case definition</th><th align="center" valign="bottom" rowspan="1" colspan="1">SPIC protocol</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Kumar et al.</td><td align="center" valign="top" rowspan="1" colspan="1">2018</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective</td><td align="center" valign="top" rowspan="1" colspan="1">&gt; 60</td><td align="center" valign="top" rowspan="1" colspan="1">University, USA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">52%</td><td align="center" valign="top" rowspan="1" colspan="1">11.0%</td><td align="center" valign="top" rowspan="1" colspan="1">86/222</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">According to Lindhe and Meyle [<xref rid="cid70174-bib-0031" ref-type="bibr">31</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">At least once per year</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pjetursson et al.</td><td align="center" valign="top" rowspan="1" colspan="1">2012</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Mean: 94.8</p>
+<p>Range: 36–276</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">University, Switzerland</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">27.4%</td><td align="center" valign="top" rowspan="1" colspan="1">70/165</td><td align="center" valign="top" rowspan="1" colspan="1">According to Tonetti and Claffey [<xref rid="cid70174-bib-0032" ref-type="bibr">32</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Level 1: PPD ≥ 5 mm, BoP+</p>
+<p>Level 2: PPD ≥ 6 mm, BoP+, MBL ≥ 2 mm</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">47 patients (67.1%) at the University, 23 (32.9%) in private practice setting; frequency not reported</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vagia et al.</td><td align="center" valign="top" rowspan="1" colspan="1">2021</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective</td><td align="center" valign="top" rowspan="1" colspan="1">&gt; 36</td><td align="center" valign="top" rowspan="1" colspan="1">University, France</td><td align="center" valign="top" rowspan="1" colspan="1">66.6 ± 8.2</td><td align="center" valign="top" rowspan="1" colspan="1">52.33%</td><td align="center" valign="top" rowspan="1" colspan="1">12.79%</td><td align="center" valign="top" rowspan="1" colspan="1">86/260</td><td align="center" valign="top" rowspan="1" colspan="1">According to Armitage [<xref rid="cid70174-bib-0033" ref-type="bibr">33</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>PIKA: According to Karoussis et al. [<xref rid="cid70174-bib-0034" ref-type="bibr">34</xref>]</p>
+<p>PIBE: According to Berglundh et al. [<xref rid="cid70174-bib-0001" ref-type="bibr">1</xref>]</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Every 3–6 months</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Zhang et al.</td><td align="center" valign="top" rowspan="1" colspan="1">2018</td><td align="center" valign="top" rowspan="1" colspan="1">Prospective</td><td align="center" valign="top" rowspan="1" colspan="1">Range: 12–60</td><td align="center" valign="top" rowspan="1" colspan="1">Hospital, China</td><td align="center" valign="top" rowspan="1" colspan="1">44.5 ± 9.4</td><td align="center" valign="top" rowspan="1" colspan="1">50%</td><td align="center" valign="top" rowspan="1" colspan="1">24.0%</td><td align="center" valign="top" rowspan="1" colspan="1">100/214</td><td align="center" valign="top" rowspan="1" colspan="1">According to Eke et al. [<xref rid="cid70174-bib-0035" ref-type="bibr">35</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">According to Berglundh et al. [<xref rid="cid70174-bib-0001" ref-type="bibr">1</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Exclusion of patients who cannot keep SPIC; frequency of SPC not reported</td></tr></tbody></table><table-wrap-foot id="cid70174-ntgp-0002"><fn id="cid70174-note-0002"><p>Abbreviations: BoP, bleeding on probing; MBL, marginal bone loss; NA, nonavailable; PPD, probing pocket depth; SPIC, supportive peri‐implant care.</p></fn></table-wrap-foot></table-wrap><p>Several case definitions of periodontitis were used, none of which was the one provided by the 2017 World Workshop on the Classification of Periodontal and Peri‐Implant Diseases [<xref rid="cid70174-bib-0036" ref-type="bibr">36</xref>]. Residual PPDs represented the main exposure variable across studies, although definitions varied considerably, with PPD thresholds ranging from ≥ 3 to ≥ 6 mm. Some investigations further stratified residual pocket severity according to the number or percentage of sites affected. Additional periodontal variables included bleeding indices, clinical attachment loss, bone loss/age ratio, and periodontal diagnosis severity. No study specifically evaluated furcation involvement at adjacent teeth as a risk factor for peri‐implantitis.</p><p>Considerable heterogeneity was also observed regarding peri‐implantitis case definitions. Definitions generally relied on combinations of PPD, bleeding on probing and/or suppuration, together with radiographic bone loss thresholds, although important differences existed among studies. In the study by Vagia et al. [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>], peri‐implantitis was defined according to both Berglundh et al. [<xref rid="cid70174-bib-0001" ref-type="bibr">1</xref>] (in the paper referred to as PIBE) and Karoussis et al. [<xref rid="cid70174-bib-0034" ref-type="bibr">34</xref>], that is, PPD ≥ 5 mm with BOP/suppuration and radiographic bone loss ≥ 2 mm (referred to as PIKA). According to Pjetursson et al. [<xref rid="cid70174-bib-0029" ref-type="bibr">29</xref>], peri‐implantitis was characterized by marginal bone loss of ≥ 2 mm beyond initial bone remodeling, BoP, and PPD ≥ 5 mm (level 1) or PPD ≥ 6 mm (Level 2). Kumar et al. [<xref rid="cid70174-bib-0028" ref-type="bibr">28</xref>] adopted the case definition proposed by Lindhe and Meyle [<xref rid="cid70174-bib-0031" ref-type="bibr">31</xref>] PPD &gt; 4 mm, BOP/suppuration, and radiographic bone loss ≥ 2 mm. Zhang et al. [<xref rid="cid70174-bib-0030" ref-type="bibr">30</xref>] used a definition aligned with the 2017 World Workshop criteria, including bleeding and/or suppuration on probing, increased probing depth, and radiographic bone loss ≥ 3 mm apical to the most coronal portion of the implant [<xref rid="cid70174-bib-0001" ref-type="bibr">1</xref>]. Peri‐implantitis outcomes were assessed at either patient or implant level depending on the study design.</p><p>Several additional variables potentially influencing peri‐implantitis risk were considered across studies, including smoking status, implant‐related characteristics, and SPC/SPIC protocols. Regarding the latter, only one study explicitly reported the frequency of patient recalls, with SPC intervals ranging from 3 to 6 months according to periodontal status and treatment outcomes [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>]. In the study by Kumar et al., all patients reported attending at least annual dental maintenance visits for SPC [<xref rid="cid70174-bib-0028" ref-type="bibr">28</xref>]. Pjetursson et al. reported that, following completion of treatment, 47 patients (67.1%) attended the SPC program at the university clinic, whereas 23 patients (32.9%) were referred back to private practitioners [<xref rid="cid70174-bib-0029" ref-type="bibr">29</xref>]. Zhang et al. excluded patients unable to adhere to periodontal and peri‐implant maintenance care, although SPC frequency was not specifically reported [<xref rid="cid70174-bib-0030" ref-type="bibr">30</xref>].</p></sec><sec id="cid70174-sec-0018"><label>3.3</label><title>Main Findings of the Included Studies</title><p>The main findings and the outcomes of the included studies are reported in Table <xref rid="cid70174-tbl-0002" ref-type="table">2</xref>.</p><table-wrap position="float" id="cid70174-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Outcomes of the selected studies.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">References</th><th align="center" valign="bottom" rowspan="1" colspan="1">Implant survival rate</th><th align="center" valign="bottom" rowspan="1" colspan="1">Peri‐implantitis occurrence (implant‐level)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Clustering accounted for</th><th align="center" valign="bottom" rowspan="1" colspan="1">Risk estimates for residual PPD at baseline compared to controls (95% CI)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Main findings</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Kumar et al.</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">Yes (mixed‐effects modeling)</td><td align="center" valign="top" rowspan="1" colspan="1">OR: 2.73 (1.45, 5.16)</td><td align="center" valign="top" rowspan="1" colspan="1">Residual PPD at implant placement were associated with peri‐implantitis occurrence. Inflammatory periodontal conditions at adjacent teeth further increased peri‐implantitis risk (OR = 8.0).</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pjetursson et al.</td><td align="center" valign="top" rowspan="1" colspan="1">95.8%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Level 1: 22.2%</p>
+<p>Level 2: 8.8%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">Patients developing peri‐implantitis presented significantly more residual PPD after periodontal therapy than patients without peri‐implantitis (4.1 vs. 1.9 pockets). Implant‐level stratified data were not available.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vagia et al.</td><td align="center" valign="top" rowspan="1" colspan="1">99.2%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>PIKA: 20.1%</p>
+<p>PIBE: 17.8%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Yes (patient‐level analyses)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>PIKA</p>
+<p>HR: 1.06 (1.02–1.1)</p>
+<p>PIBE</p>
+<p>HR: 1.07 (1.03–1.12)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Residual PPD &gt; 3 mm increased peri‐implantitis risk according to both peri‐implantitis definitions.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Zhang et al.</td><td align="center" valign="top" rowspan="1" colspan="1">100%</td><td align="center" valign="top" rowspan="1" colspan="1">11.2%</td><td align="center" valign="top" rowspan="1" colspan="1">Yes (generalized estimating equation model)</td><td align="center" valign="top" rowspan="1" colspan="1">HR: 3.62 (1.05, 12.51)</td><td align="center" valign="top" rowspan="1" colspan="1">&gt; 10% of sites with PPD ≥ 6 mm significantly associated with peri‐implantitis occurrence in multivariate model.</td></tr></tbody></table><table-wrap-foot id="cid70174-ntgp-0003"><fn id="cid70174-note-0003"><p>Abbreviations: NA, nonavailable; nPI, non‐peri‐implantitis; nRP, non‐residual pockets; PI, peri‐implantitis; PPD, probing pocket depth; RP, residual pockets.</p></fn></table-wrap-foot></table-wrap><p>Vagia et al. [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>] retrospectively evaluated 86 patients rehabilitated with 260 implants and followed for a mean of 9.4 years, with 38.0% of patients presenting implants in function for at least 10 years. At implant placement, 50 patients (157 implants) presented residual PPD ≥ 5 mm, whereas 36 patients (103 implants) did not. At follow‐up, peri‐implantitis was diagnosed in 11 patients and 14 implants. Of these, 9 patients and 12 implants belonged to the residual pocket group, while only 2 patients and 2 implants without residual pockets developed peri‐implantitis. In Cox regression analyses, residual PPD before implant placement was significantly associated with peri‐implantitis occurrence. Specifically, the number of residual sites with PPD &gt; 3 mm was associated with increased marginal peri‐implantitis risk according to both the PIKA (HR = 1.06; 95% CI: 1.02–1.10) and PIBE (HR = 1.07; 95% CI: 1.03–1.12) definitions.</p><p>Pjetursson et al. [<xref rid="cid70174-bib-0029" ref-type="bibr">29</xref>] retrospectively evaluated 70 treated periodontitis patients rehabilitated with 165 implants and followed for a mean of 7.9 years (range: 36–276 months). The cumulative implant survival rate was 95.8% (95% CI: 90.9%–98.1%). Patients who developed peri‐implantitis during follow‐up presented significantly more residual PPD ≥ 5 mm after APT compared with patients without peri‐implantitis (mean: 4.1 vs. 1.9 residual pockets). However, implant‐level stratified data according to residual pocket status at implant placement were not reported, precluding separate evaluation of peri‐implantitis occurrence in exposed and non‐exposed groups.</p><p>Kumar et al. [<xref rid="cid70174-bib-0028" ref-type="bibr">28</xref>] retrospectively evaluated 86 patients rehabilitated with 222 implants and followed for at least 60 months. At implant placement, 37 patients (108 implants) presented residual PPD ≥ 5 mm, whereas 49 patients (114 implants) did not. At follow‐up, peri‐implantitis was diagnosed in 129 implants, while 93 implants remained free of disease. Among implants affected by peri‐implantitis, 76 had been placed in patients with residual pockets and 53 in patients without residual pockets at baseline. The authors further reported that the presence of either gingivitis or periodontitis on adjacent teeth at the time of implant restoration was significantly associated with peri‐implantitis occurrence (OR = 8.0; 95% CI: 1.2–70.1).</p><p>Zhang et al. [<xref rid="cid70174-bib-0030" ref-type="bibr">30</xref>] prospectively evaluated 100 patients rehabilitated with 214 implants and followed for 12–60 months. Residual periodontal inflammation at implant placement was assessed according to mean PPD, proportion of sites with PPD ≥ 6 mm, and full‐mouth bleeding score. Among the 24 implants that developed peri‐implantitis during follow‐up, 21 had been placed in patients presenting &gt; 10% of sites with PPD ≥ 6 mm, whereas only 3 belonged to patients with ≤ 10% of such sites. Conversely, among the 190 implants free of peri‐implantitis at follow‐up, 97 had been placed in patients with &gt; 10% of sites with PPD ≥ 6 mm and 93 in patients with ≤ 10% of sites with deep residual pockets. Overall, the cumulative incidence of peri‐implantitis ranged from 11.2% at implant level to 16% at patient level. In multivariate analyses, the presence of &gt; 10% residual sites with PPD ≥ 6 mm at implant placement was significantly associated with peri‐implantitis occurrence (HR = 6.71; 95% CI: 1.84–24.47).</p></sec><sec id="cid70174-sec-0019"><label>3.4</label><title>Risk of Bias</title><p>All the retrospective studies were considered to be at moderate risk of bias [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>, <xref rid="cid70174-bib-0028" ref-type="bibr">28</xref>, <xref rid="cid70174-bib-0029" ref-type="bibr">29</xref>], while the prospective study was judged as at low risk of bias [<xref rid="cid70174-bib-0030" ref-type="bibr">30</xref>] (Supporting Information <xref rid="cid70174-supitem-0004" ref-type="supplementary-material">4</xref>).</p></sec></sec><sec sec-type="discussion" id="cid70174-sec-0020"><label>4</label><title>Discussion</title><p>The present systematic review investigated whether, in patients with periodontitis, incomplete or suboptimal periodontal outcomes after APT before implant placement may influence the subsequent occurrence of peri‐implantitis in patients with treated periodontitis. Although based on a limited number of observational studies with heterogeneous methodologies, the available evidence overall suggested a relatively consistent association between less favorable periodontal treatment outcomes—particularly the persistence of residual deep PPDs—and increased peri‐implantitis occurrence during follow‐up.</p><p>A recurrent finding across the included studies was that both the extent and severity of residual PPDs appeared to influence peri‐implant outcomes. In particular, studies evaluating patients with a higher proportion of residual deep pockets after APT generally reported a greater occurrence of peri‐implantitis over time. Zhang et al. [<xref rid="cid70174-bib-0030" ref-type="bibr">30</xref>] observed that the presence of residual PPD ≥ 6 mm affecting &gt; 10% of sites was associated with a substantially increased peri‐implantitis risk over a follow‐up of up to 5 years in patients with severe periodontitis. Similarly, Vagia et al. [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>] reported in a long‐term retrospective cohort (mean follow‐up: 9.4 years) that the proportion of residual sites with PPD &gt; 3 mm significantly influenced peri‐implantitis occurrence in adjusted Cox regression analyses. In addition, Pjetursson et al. found that patients who developed peri‐implantitis presented significantly more residual PPD ≥ 5 mm after completion of APT than patients maintaining peri‐implant health during follow‐up. Although direct comparisons among studies remain difficult because of methodological heterogeneity, the overall direction of the findings appeared relatively consistent.</p><p>Beyond the overall burden of residual periodontal inflammation, the review also identified signals suggesting a potential role of site‐specific periodontal inflammatory conditions adjacent to implant sites. Kumar et al. reported that inflammatory periodontal conditions affecting teeth adjacent to implants at the time of prosthetic delivery were associated with increased peri‐implantitis occurrence in partially dentate patients rehabilitated with non‐splinted implants. These observations may support the hypothesis that residual periodontal inflammation in close proximity to implant sites could contribute to the persistence or transmission of dysbiotic microbial and inflammatory conditions within the peri‐implant environment [<xref rid="cid70174-bib-0022" ref-type="bibr">22</xref>, <xref rid="cid70174-bib-0037" ref-type="bibr">37</xref>, <xref rid="cid70174-bib-0038" ref-type="bibr">38</xref>, <xref rid="cid70174-bib-0039" ref-type="bibr">39</xref>]. However, given the retrospective nature of the available evidence and the limited number of studies, these findings should be interpreted cautiously and considered hypothesis‐generating rather than conclusive.</p><p>The interpretation of the available evidence should also consider several important methodological aspects. Definitions of residual PPD differed substantially across studies, with residual PPD thresholds ranging from 4 to 6 mm. Similarly, peri‐implantitis case definitions varied according to probing depth and radiographic bone loss thresholds. A negative relationship between bone loss thresholds and peri‐implantitis prevalence has previously been described [<xref rid="cid70174-bib-0003" ref-type="bibr">3</xref>, <xref rid="cid70174-bib-0019" ref-type="bibr">19</xref>], such that more stringent diagnostic criteria generally yield lower peri‐implantitis rates. Furthermore, diagnostic approaches emphasizing radiographic bone loss may alter the distribution of mild and severe peri‐implantitis cases compared with definitions more strongly based on probing parameters. Consequently, the selected diagnostic thresholds may substantially influence the sensitivity for detecting associations between residual periodontal disease and peri‐implantitis. Interestingly, studies adopting more inclusive peri‐implantitis thresholds appeared to identify stronger associations with residual PPDs [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>, <xref rid="cid70174-bib-0029" ref-type="bibr">29</xref>], whereas stricter definitions may reduce statistical power and attenuate detectable associations. A quantitative synthesis of the included studies was therefore precluded by substantial heterogeneity in both clinical and statistical reporting. Beyond the variability in exposure and outcome definitions, the relationship between residual periodontal disease and peri‐implantitis was expressed using heterogeneous analytical approaches, including mean differences in residual PPD counts [<xref rid="cid70174-bib-0029" ref-type="bibr">29</xref>], OR [<xref rid="cid70174-bib-0028" ref-type="bibr">28</xref>], and HRs [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>] from logistic and Cox regression models [<xref rid="cid70174-bib-0030" ref-type="bibr">30</xref>].</p><p>From a biological perspective, the findings of the present review appear plausible within the current understanding of peri‐implant microbiology and periodontal–peri‐implant interactions [<xref rid="cid70174-bib-0008" ref-type="bibr">8</xref>, <xref rid="cid70174-bib-0040" ref-type="bibr">40</xref>, <xref rid="cid70174-bib-0041" ref-type="bibr">41</xref>]. Once implants emerge into the oral cavity following prosthetic rehabilitation, the peri‐implant sulcus becomes colonized by a microbiome sharing similarities with the gingival sulcus around natural teeth [<xref rid="cid70174-bib-0037" ref-type="bibr">37</xref>, <xref rid="cid70174-bib-0042" ref-type="bibr">42</xref>]. Residual PPDs may therefore act as persistent reservoirs of dysbiotic biofilm and unresolved inflammation, potentially facilitating microbial transmission toward peri‐implant niches [<xref rid="cid70174-bib-0038" ref-type="bibr">38</xref>, <xref rid="cid70174-bib-0039" ref-type="bibr">39</xref>, <xref rid="cid70174-bib-0042" ref-type="bibr">42</xref>]. This concept is coherent with the well‐established association between history of periodontitis and peri‐implantitis risk reported in several observational studies [<xref rid="cid70174-bib-0020" ref-type="bibr">20</xref>, <xref rid="cid70174-bib-0034" ref-type="bibr">34</xref>, <xref rid="cid70174-bib-0043" ref-type="bibr">43</xref>, <xref rid="cid70174-bib-0044" ref-type="bibr">44</xref>, <xref rid="cid70174-bib-0045" ref-type="bibr">45</xref>, <xref rid="cid70174-bib-0046" ref-type="bibr">46</xref>]. At the same time, studies evaluating patients during supportive care have suggested that adequate periodontal control and maintenance adherence may partially mitigate this increased susceptibility [<xref rid="cid70174-bib-0047" ref-type="bibr">47</xref>, <xref rid="cid70174-bib-0048" ref-type="bibr">48</xref>]. Therefore, the independent contribution of residual periodontal inflammation after APT, beyond the broader effect of maintenance quality and patient susceptibility, remains incompletely understood [<xref rid="cid70174-bib-0016" ref-type="bibr">16</xref>, <xref rid="cid70174-bib-0049" ref-type="bibr">49</xref>, <xref rid="cid70174-bib-0050" ref-type="bibr">50</xref>].</p><p>It has long been recognized that achieving the proposed endpoints of periodontal therapy may be challenging, particularly in patients with severe or complex periodontitis [<xref rid="cid70174-bib-0016" ref-type="bibr">16</xref>, <xref rid="cid70174-bib-0017" ref-type="bibr">17</xref>, <xref rid="cid70174-bib-0050" ref-type="bibr">50</xref>, <xref rid="cid70174-bib-0051" ref-type="bibr">51</xref>]. In clinical practice, implant rehabilitation is frequently considered in patients presenting residual PPDs after completion of APT [<xref rid="cid70174-bib-0016" ref-type="bibr">16</xref>, <xref rid="cid70174-bib-0049" ref-type="bibr">49</xref>, <xref rid="cid70174-bib-0050" ref-type="bibr">50</xref>]. The findings of the present review suggest that more favorable periodontal treatment outcomes before implant placement may be associated with improved peri‐implant stability over time. However, the currently available evidence does not allow identification of definitive periodontal threshold values that could reliably predict peri‐implant outcomes at the individual patient level.</p><p>This review presents some limitations that should be acknowledged. From the perspective of the review process, the small number of available studies and the substantial heterogeneity in exposure definitions, peri‐implantitis case definitions, follow‐up duration, and supportive care protocols precluded quantitative synthesis and limited the possibility of drawing robust pooled estimates. In addition, no study specifically evaluated furcation involvement, despite its potential biological relevance. Important limitations also emerged from the primary studies themselves. Three of the four included investigations had a retrospective design [<xref rid="cid70174-bib-0021" ref-type="bibr">21</xref>, <xref rid="cid70174-bib-0028" ref-type="bibr">28</xref>, <xref rid="cid70174-bib-0029" ref-type="bibr">29</xref>], making them inherently more susceptible to selection bias and incomplete exposure ascertainment compared with prospective cohorts. Considerable variability was also observed in the SPC/SPIC regimens adopted across studies, ranging from strict university‐based maintenance recalls every 3 months to self‐reported annual private dental visits. This heterogeneity makes it difficult to disentangle the independent biological effect of residual PPD from the influence of maintenance adherence and quality of supportive care [<xref rid="cid70174-bib-0047" ref-type="bibr">47</xref>, <xref rid="cid70174-bib-0052" ref-type="bibr">52</xref>, <xref rid="cid70174-bib-0053" ref-type="bibr">53</xref>].</p></sec><sec sec-type="conclusions" id="cid70174-sec-0021"><label>5</label><title>Conclusions</title><sec id="cid70174-sec-0022"><label>5.1</label><title>Implications for Clinical Practice</title><p>
+<list list-type="bullet" id="cid70174-list-0005"><list-item id="cid70174-li-0014"><p>The available observational evidence suggests a possible association between residual PPDs persisting after active periodontal therapy and peri‐implantitis occurrence in patients with treated periodontitis undergoing implant therapy.</p></list-item><list-item id="cid70174-li-0015"><p>Although the current evidence base remains limited and heterogeneous, the findings are broadly consistent with existing recommendations emphasizing the importance of achieving periodontal stability before implant placement.</p></list-item><list-item id="cid70174-li-0016"><p>Since complete elimination of residual PPDs may not always be clinically achievable, reinforcement of supportive periodontal and peri‐implant care protocols should be considered particularly in patients with severe or complex periodontitis.</p></list-item><list-item id="cid70174-li-0017"><p>Careful periodontal re‐evaluation before implant rehabilitation may therefore be advisable, especially in patients presenting residual deep PPDs or other established risk determinants for peri‐implant diseases. The currently available evidence does not allow conclusions regarding the specific role of residual furcation involvement in peri‐implantitis risk.</p></list-item></list>
+</p></sec><sec id="cid70174-sec-0023"><label>5.2</label><title>Implications for Research</title><p>
+<list list-type="bullet" id="cid70174-list-0006"><list-item id="cid70174-li-0018"><p>Future studies should prioritize prospective designs with standardized definitions of both residual periodontitis and peri‐implantitis in order to improve comparability across investigations.</p></list-item><list-item id="cid70174-li-0019"><p>The role of potential confounding variables, including smoking, systemic conditions, implant‐related characteristics, and adherence to SPC/SPIC, should be more comprehensively addressed in future multivariable models.</p></list-item><list-item id="cid70174-li-0020"><p>SPC and SPIC regimens should be consistently reported, as maintenance‐related factors may influence peri‐implant outcomes and affect interpretation of the association with residual periodontal inflammation.</p></list-item><list-item id="cid70174-li-0021"><p>Future investigations should evaluate not only residual PPD but also the potential role of furcation involvement and other site‐specific periodontal conditions in relation to peri‐implant disease development.</p></list-item><list-item id="cid70174-li-0022"><p>Standardized and rigorous periodontal assessment before implant placement should be systematically incorporated into prospective studies and RCTs investigating implant therapy outcomes. In particular, detailed reporting of residual PPD and achievement of established endpoints of active periodontal therapy may help clarify their potential relationship with peri‐implant biological complications.</p></list-item><list-item id="cid70174-li-0023"><p>Standardized reporting of periodontal parameters at implant placement may facilitate the development of more robust multivariable models and improve understanding of the relationship between residual periodontal disease and peri‐implant biological complications.</p></list-item></list>
+</p></sec></sec><sec id="cid70174-sec-0030"><title>Author Contributions</title><p>F.F., G.B., and M.A. made substantial contributions to conception of the study. F.F., G.B., A.C., and M.C. contributed to the study design. F.F., A.C., and M.C. searched and collected the data. G.B., A.C., S.C., and E.C. performed data analysis and interpretation. F.F., A.C., M.L.‐V., and M.C. prepared the first draft of the manuscript. All authors have read, revised critically, and approved the final manuscript.</p></sec><sec id="cid70174-sec-0026"><title>Funding</title><p>The authors have nothing to report.</p></sec><sec id="cid70174-sec-0028"><title>Ethics Statement</title><p>The authors have nothing to report.</p></sec><sec sec-type="conclusions" id="cid70174-sec-0029"><title>Consent</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="cid70174-sec-0027"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cid70174-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Information: 1.</bold> Search strategy developed for online databases.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CID-28-0-s001.docx" position="float" orientation="portrait"><?suppdata-name CID-28-0-s001.docx?><?suppdata-size 143026?><?suppdata-md5 be1ce31dea4fe3a120c357a16f0dfdce?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:ce23/13408331/be1ce31dea4f/CID-28-0-s001.docx?></media></supplementary-material><supplementary-material id="cid70174-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Information: 2.</bold> Studies excluded after full text reading, with reason for exclusion.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CID-28-0-s003.docx" position="float" orientation="portrait"><?suppdata-name CID-28-0-s003.docx?><?suppdata-size 1480373?><?suppdata-md5 2515b82e43dee1d785a6d5d18c33fa46?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:ce23/13408331/2515b82e43de/CID-28-0-s003.docx?></media></supplementary-material><supplementary-material id="cid70174-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Information: 3.</bold> Additional information related to study population and exposures.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CID-28-0-s004.docx" position="float" orientation="portrait"><?suppdata-name CID-28-0-s004.docx?><?suppdata-size 2502847?><?suppdata-md5 c6252ca554e1f4367ae0928631c27467?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:ce23/13408331/c6252ca554e1/CID-28-0-s004.docx?></media></supplementary-material><supplementary-material id="cid70174-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Information: 4.</bold> Results of methodologic domains weighed by the Newcastle–Ottawa scale (Wells et al.).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CID-28-0-s002.docx" position="float" orientation="portrait"><?suppdata-name CID-28-0-s002.docx?><?suppdata-size 348802?><?suppdata-md5 1d2a42dd9709c91700aecf06249fe3c8?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:ce23/13408331/1d2a42dd9709/CID-28-0-s002.docx?></media></supplementary-material></sec></body><back><ack id="cid70174-sec-31"><title>Acknowledgments</title><p>Open access publishing facilitated by Universita degli Studi di Torino, as part of the Wiley ‐ CRUI‐CARE agreement.</p></ack><sec sec-type="data-availability" id="cid70174-sec-0025"><title>Data Availability Statement</title><p>The data that support the findings of this study are listed in the main manuscript and Supporting Information <xref rid="cid70174-supitem-0001" ref-type="supplementary-material">[Link]</xref>, <xref rid="cid70174-supitem-0002" ref-type="supplementary-material">[Link]</xref>, <xref rid="cid70174-supitem-0003" ref-type="supplementary-material">[Link]</xref>, <xref rid="cid70174-supitem-0004" ref-type="supplementary-material">[Link]</xref>.</p></sec><ref-list content-type="cited-references" id="cid70174-bibl-0001"><title>References</title><ref id="cid70174-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cid70174-cit-0001">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Berglundh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Armitage</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Araujo</surname>
+</string-name>, et al., “<article-title>Peri‐Implant Diseases and Conditions: Consensus Report of Workgroup 4 of the 2017 World Workshop on the Classification of Periodontal and Peri‐Implant Diseases and Conditions</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>45</volume> (<year>2018</year>): <fpage>S286</fpage>–<lpage>S291</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.12957</pub-id>.<pub-id pub-id-type="pmid">29926491</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cid70174-cit-0002">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Renvert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. R.</given-names>
+<surname>Persson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. Q.</given-names>
+<surname>Pirih</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Camargo</surname>
+</string-name>, “<article-title>Peri‐Implant Health, Peri‐Implant Mucositis, and Peri‐Implantitis: Case Definitions and Diagnostic Considerations</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>45</volume>, no. <issue>S20</issue> (<year>2018</year>): <fpage>S278</fpage>–<lpage>S285</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.12956</pub-id>.<pub-id pub-id-type="pmid">29926496</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cid70174-cit-0003">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Derks</surname>
+</string-name> and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Tomasi</surname>
+</string-name>, “<article-title>Peri‐Implant Health and Disease. A Systematic Review of Current Epidemiology</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>42</volume>, no. <issue>S16</issue> (<year>2015</year>): <fpage>S158</fpage>–<lpage>S171</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.12334</pub-id>.<pub-id pub-id-type="pmid">25495683</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cid70174-cit-0004">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Romandini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Pedrinaci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Araoz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Soldini</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sanz</surname>
+</string-name>, “<article-title>Prevalence and Risk/Protective Indicators of Peri‐Implant Diseases: A University‐Representative Cross‐Sectional Study</article-title>,” <source>Clinical Oral Implants Research</source>
+<volume>32</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>112</fpage>–<lpage>122</lpage>, <pub-id pub-id-type="doi">10.1111/clr.13684</pub-id>.<pub-id pub-id-type="pmid">33210772</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cid70174-cit-0005">
+<string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Galarraga‐Vinueza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Pagni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Finkelman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Schoenbaum</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chambrone</surname>
+</string-name>, “<article-title>Prevalence, Incidence, Systemic, Behavioral, and Patient‐Related Risk Factors and Indicators for Peri‐Implant Diseases: An AO/AAP Systematic Review and Meta‐Analysis</article-title>,” <source>Journal of Periodontology</source>
+<volume>96</volume>, no. <issue>6</issue> (<year>2025</year>): <fpage>587</fpage>–<lpage>633</lpage>, <pub-id pub-id-type="doi">10.1002/JPER.24-0154</pub-id>.<pub-id pub-id-type="pmid">40489307</pub-id>
+<pub-id pub-id-type="pmcid">PMC12273760</pub-id></mixed-citation></ref><ref id="cid70174-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cid70174-cit-0006">
+<string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Carra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Blanc‐Sylvestre</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Courtet</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bouchard</surname>
+</string-name>, “<article-title>Primordial and Primary Prevention of Peri‐Implant Diseases: A Systematic Review and Meta‐Analysis</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>50</volume>, no. <issue>S26</issue> (<year>2023</year>): <fpage>77</fpage>–<lpage>112</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.13790</pub-id>.<pub-id pub-id-type="pmid">36807599</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cid70174-cit-0007">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Herrera</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Berglundh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Schwarz</surname>
+</string-name>, et al., “<article-title>Prevention and Treatment of Peri‐Implant Diseases—The <sc>efp s3</sc> Level Clinical Practice Guideline</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>50</volume>, no. <issue>S26</issue> (<year>2023</year>): <fpage>4</fpage>–<lpage>76</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.13823</pub-id>.<pub-id pub-id-type="pmid">37271498</pub-id></mixed-citation></ref><ref id="cid70174-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cid70174-cit-0008">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Derks</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Monje</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, “<article-title>Peri‐Implantitis</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>45</volume>, no. <issue>S20</issue> (<year>2018</year>): <fpage>S246</fpage>–<lpage>S266</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.12954</pub-id>.<pub-id pub-id-type="pmid">29926484</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cid70174-cit-0009">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Romandini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Banaco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Azevedo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sanz</surname>
+</string-name>, “<article-title>Incidence and Risk Factors of Peri‐Implantitis Over Time—A Prospective Cohort Study</article-title>,” <source>Journal of Periodontal Research</source>
+<volume>60</volume>, no. <issue>12</issue> (<year>2025</year>): <fpage>1222</fpage>–<lpage>1236</lpage>, <pub-id pub-id-type="doi">10.1111/jre.13367</pub-id>.<pub-id pub-id-type="pmid">39803810</pub-id>
+<pub-id pub-id-type="pmcid">PMC12881879</pub-id></mixed-citation></ref><ref id="cid70174-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cid70174-cit-0010">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Vignoletti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. L.</given-names>
+<surname>Di Domenico</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Di Martino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Montero</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>De Sanctis</surname>
+</string-name>, “<article-title>Prevalence and Risk Indicators of Peri‐Implantitis in a Sample of University‐Based Dental Patients in Italy: A Cross‐Sectional Study</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>46</volume>, no. <issue>5</issue> (<year>2019</year>): <fpage>597</fpage>–<lpage>605</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.13111</pub-id>.<pub-id pub-id-type="pmid">30980410</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cid70174-cit-0011">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Derks</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Schaller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Håkansson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Wennström</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Tomasi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Berglundh</surname>
+</string-name>, “<article-title>Effectiveness of Implant Therapy Analyzed in a Swedish Population: Prevalence of Peri‐Implantitis</article-title>,” <source>Journal of Dental Research</source>
+<volume>95</volume>, no. <issue>1</issue> (<year>2016</year>): <fpage>43</fpage>–<lpage>49</lpage>.<pub-id pub-id-type="pmid">26701919</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034515608832</pub-id></mixed-citation></ref><ref id="cid70174-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cid70174-cit-0012">
+<string-name name-style="western">
+<given-names>G. G.</given-names>
+<surname>Nascimento</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Alves‐Costa</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Romandini</surname>
+</string-name>, “<article-title>Burden of Severe Periodontitis and Edentulism in 2021, With Projections up to 2050: The Global Burden of Disease 2021 Study</article-title>,” <source>Journal of Periodontal Research</source>
+<volume>59</volume>, no. <issue>5</issue> (<year>2024</year>): <fpage>823</fpage>–<lpage>867</lpage>, <pub-id pub-id-type="doi">10.1111/jre.13337</pub-id>.<pub-id pub-id-type="pmid">39192495</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cid70174-cit-0013">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Baima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. S.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Arrica</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Laforí</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Cordaro</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Romandini</surname>
+</string-name>, “<article-title>The Co‐Occurrence of the Two Main Oral Diseases: Periodontitis and Dental Caries</article-title>,” <source>Clinical Oral Investigations</source>
+<volume>27</volume> (<year>2023</year>): <fpage>6483</fpage>–<lpage>6492</lpage>, <pub-id pub-id-type="doi">10.1007/s00784-023-05253-2</pub-id>.<pub-id pub-id-type="pmid">37714978</pub-id>
+<pub-id pub-id-type="pmcid">PMC10630193</pub-id></mixed-citation></ref><ref id="cid70174-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cid70174-cit-0014">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Annunziata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Cecoro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Guida</surname>
+</string-name>, et al., “<article-title>Effectiveness of Implant Therapy in Patients With and Without a History of Periodontitis: A Systematic Review With Meta‐Analysis of Prospective Cohort Studies</article-title>,” <source>Journal of Periodontal Research</source>
+<volume>60</volume>, no. <issue>6</issue> (<year>2025</year>): <fpage>524</fpage>–<lpage>543</lpage>, <pub-id pub-id-type="doi">10.1111/jre.13351</pub-id>.<pub-id pub-id-type="pmid">39466662</pub-id>
+<pub-id pub-id-type="pmcid">PMC12312821</pub-id></mixed-citation></ref><ref id="cid70174-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cid70174-cit-0015">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>de Medeiros Dantas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. C. B.</given-names>
+<surname>Freire</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Dos Santos Calderon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Duarte</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. C.</given-names>
+<surname>de Vasconcelos Gurgel</surname>
+</string-name>, “<article-title>Retrospective Assessment of Patients' Risk for Peri‐Implant Diseases Using the Implant Disease Risk Assessment (IDRA) Tool: A Cohort Study</article-title>,” <source>Clinical Implant Dentistry and Related Research</source>
+<volume>26</volume>, no. <issue>5</issue> (<year>2024</year>): <fpage>1056</fpage>–<lpage>1066</lpage>, <pub-id pub-id-type="doi">10.1111/cid.13371</pub-id>.<pub-id pub-id-type="pmid">39113398</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cid70174-cit-0016">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sanz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Herrera</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kebschull</surname>
+</string-name>, et al., “<article-title>Treatment of Stage I–III Periodontitis—The EFP S3 Level Clinical Practice Guideline</article-title>,” <source>Journal of Clinic Periodontology</source>
+<volume>47</volume>, no. <issue>S22</issue> (<year>2020</year>): <fpage>4</fpage>–<lpage>60</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.13290</pub-id>.<pub-id pub-id-type="pmcid">PMC7891343</pub-id><pub-id pub-id-type="pmid">32383274</pub-id></mixed-citation></ref><ref id="cid70174-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cid70174-cit-0017">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Rattu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Raindi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. N.</given-names>
+<surname>Antonoglou</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Nibali</surname>
+</string-name>, “<article-title>Prevalence of Stable and Successfully Treated Periodontitis Subjects and Incidence of Subsequent Tooth Loss Within Supportive Periodontal Care: A Systematic Review With Meta‐Analyses</article-title>,” <source>Journal of Clinic Periodontology</source>
+<volume>50</volume>, no. <issue>10</issue> (<year>2023</year>): <fpage>1371</fpage>–<lpage>1389</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.13835</pub-id>.<pub-id pub-id-type="pmid">37402624</pub-id></mixed-citation></ref><ref id="cid70174-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cid70174-cit-0018">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Aimetti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Romano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Costanzo</surname>
+</string-name>, et al., “<article-title>Outcomes of Active Periodontal Therapy in a Specialist University Setting Following <sc>efp s3</sc> Treatment Guideline in Stage III–IV Periodontitis Patients</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>53</volume>, no. <issue>4</issue> (<year>2026</year>): <fpage>562</fpage>–<lpage>571</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.70087</pub-id>.<pub-id pub-id-type="pmid">41554667</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cid70174-cit-0019">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Baima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Romano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chuachamsai</surname>
+</string-name>, et al., “<article-title>Prevalence and Risk Indicators of Peri‐Implant Diseases and Buccal Soft‐Tissue Dehiscence: A Cross‐Sectional Study From a University‐Based Cohort</article-title>,” <source>Journal of Periodontal Research</source>
+<volume>61</volume>, no. <issue>3</issue> (<year>2026</year>): <fpage>256</fpage>–<lpage>272</lpage>, <pub-id pub-id-type="doi">10.1111/jre.70025</pub-id>.<pub-id pub-id-type="pmid">40771021</pub-id>
+<pub-id pub-id-type="pmcid">PMC13140783</pub-id></mixed-citation></ref><ref id="cid70174-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cid70174-cit-0020">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Serroni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. S.</given-names>
+<surname>Borgnakke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Romano</surname>
+</string-name>, et al., “<article-title>History of Periodontitis as a Risk Factor for Implant Failure and Incidence of Peri‐Implantitis: A Systematic Review, Meta‐Analysis, and Trial Sequential Analysis of Prospective Cohort Studies</article-title>,” <source>Clinical Implant Dentistry and Related Research</source>
+<volume>26</volume>, no. <issue>3</issue> (<year>2024</year>): <fpage>482</fpage>–<lpage>508</lpage>, <pub-id pub-id-type="doi">10.1111/cid.13330</pub-id>.<pub-id pub-id-type="pmid">38720611</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cid70174-cit-0021">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Vagia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Papalou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Burgy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Tenenbaum</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Huck</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Davideau</surname>
+</string-name>, “<article-title>Association Between Periodontitis Treatment Outcomes and Peri‐Implantitis: A Long‐Term Retrospective Cohort Study</article-title>,” <source>Clinical Oral Implants Research</source>
+<volume>32</volume>, no. <issue>6</issue> (<year>2021</year>): <fpage>721</fpage>–<lpage>731</lpage>, <pub-id pub-id-type="doi">10.1111/clr.13741</pub-id>.<pub-id pub-id-type="pmid">33714224</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cid70174-cit-0022">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mombelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A. C.</given-names>
+<surname>Van Oosten</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Schürch</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. P.</given-names>
+<surname>Lang</surname>
+</string-name>, “<article-title>The Microbiota Associated With Successful or Failing Osseointegrated Titanium Implants</article-title>,” <source>Oral Microbiology and Immunology</source>
+<volume>2</volume>, no. <issue>4</issue> (<year>1987</year>): <fpage>145</fpage>–<lpage>151</lpage>, <pub-id pub-id-type="doi">10.1111/j.1399-302X.1987.tb00298.x</pub-id>.<pub-id pub-id-type="pmid">3507627</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cid70174-cit-0023">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Quirynen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Van Assche</surname>
+</string-name>, “<article-title>Microbial Changes After Full‐Mouth Tooth Extraction, Followed by 2‐Stage Implant Placement: Microbiota After Edentulation &amp; Implants</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>38</volume>, no. <issue>6</issue> (<year>2011</year>): <fpage>581</fpage>–<lpage>589</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-051X.2011.01728.x</pub-id>.<pub-id pub-id-type="pmid">21488934</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cid70174-cit-0024">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Moher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Liberati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Tetzlaff</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. G.</given-names>
+<surname>Altman</surname>
+</string-name>, “<article-title>Preferred Reporting Items for Systematic Reviews and Meta‐Analyses: The PRISMA Statement</article-title>,” <source>Journal of Clinical Epidemiology</source>
+<volume>62</volume>, no. <issue>10</issue> (<year>2009</year>): <fpage>1006</fpage>–<lpage>1012</lpage>, <pub-id pub-id-type="doi">10.1016/j.jclinepi.2009.06.005</pub-id>.<pub-id pub-id-type="pmid">19631508</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cid70174-cit-0025">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>McKenzie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Bossuyt</surname>
+</string-name>, et al., “<article-title>The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews</article-title>,” <source>BMJ</source>
+<volume>372</volume> (<year>2021</year>): <elocation-id>n71</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmj.n71</pub-id>.<pub-id pub-id-type="pmid">33782057</pub-id>
+<pub-id pub-id-type="pmcid">PMC8005924</pub-id></mixed-citation></ref><ref id="cid70174-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cid70174-cit-0026">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ouzzani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hammady</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Fedorowicz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Elmagarmid</surname>
+</string-name>, “<article-title>Rayyan—A Web and Mobile App for Systematic Reviews</article-title>,” <source>Systematic Reviews</source>
+<volume>5</volume>, no. <issue>1</issue> (<year>2016</year>): <fpage>210</fpage>, <pub-id pub-id-type="doi">10.1186/s13643-016-0384-4</pub-id>.<pub-id pub-id-type="pmid">27919275</pub-id>
+<pub-id pub-id-type="pmcid">PMC5139140</pub-id></mixed-citation></ref><ref id="cid70174-bib-0027"><label>27</label><mixed-citation publication-type="book" id="cid70174-cit-0027">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Wells</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Shea</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>O'Connell</surname>
+</string-name>, et al., <source>The Newcastle–Ottawa Scale (NOS) for Assessing the Quality of Non‐Randomized Studies in Meta‐Analysis</source> (<publisher-name>Ottawa Hospital Research Institute</publisher-name>, <year>2000</year>).</mixed-citation></ref><ref id="cid70174-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cid70174-cit-0028">
+<string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Kumar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Dabdoub</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Hegde</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Ranganathan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mariotti</surname>
+</string-name>, “<article-title>Site‐Level Risk Predictors of Peri‐Implantitis: A Retrospective Analysis</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>45</volume>, no. <issue>5</issue> (<year>2018</year>): <fpage>597</fpage>–<lpage>604</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.12892</pub-id>.<pub-id pub-id-type="pmid">29575168</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cid70174-cit-0029">
+<string-name name-style="western">
+<given-names>B. E.</given-names>
+<surname>Pjetursson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Helbling</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Weber</surname>
+</string-name>, et al., “<article-title>Peri‐Implantitis Susceptibility as It Relates to Periodontal Therapy and Supportive Care</article-title>,” <source>Clinical Oral Implants Research</source>
+<volume>23</volume>, no. <issue>7</issue> (<year>2012</year>): <fpage>888</fpage>–<lpage>894</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-0501.2012.02474.x</pub-id>.<pub-id pub-id-type="pmid">22530771</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cid70174-cit-0030">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Shi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Meng</surname>
+</string-name>, “<article-title>A Nomogram Prediction of Peri‐Implantitis in Treated Severe Periodontitis Patients: A 1–5‐Year Prospective Cohort Study</article-title>,” <source>Clinical Implant Dentistry and Related Research</source>
+<volume>20</volume>, no. <issue>6</issue> (<year>2018</year>): <fpage>962</fpage>–<lpage>968</lpage>, <pub-id pub-id-type="doi">10.1111/cid.12686</pub-id>.<pub-id pub-id-type="pmid">30370993</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cid70174-cit-0031">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lindhe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Meyle</surname>
+</string-name>, and <collab collab-type="authors">Group D of the European Workshop on Periodontology</collab>
+, “<article-title>Peri‐Implant Diseases: Consensus Report of the Sixth European Workshop on Periodontology</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>35</volume>, no. <issue>s8</issue> (<year>2008</year>): <fpage>282</fpage>–<lpage>285</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-051X.2008.01283.x</pub-id>.<pub-id pub-id-type="pmid">18724855</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cid70174-cit-0032">
+<string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Tonetti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Claffey</surname>
+</string-name>, and <collab collab-type="authors">European Workshop in Periodontology Group C</collab>
+, “<article-title>Advances in the Progression of Periodontitis and Proposal of Definitions of a Periodontitis Case and Disease Progression for Use in Risk Factor Research: Group C Consensus Report of the 5th European Workshop in Periodontology</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>32</volume>, no. <issue>s6</issue> (<year>2005</year>): <fpage>210</fpage>–<lpage>213</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-051X.2005.00822.x</pub-id>.<pub-id pub-id-type="pmid">16128839</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cid70174-cit-0033">
+<string-name name-style="western">
+<given-names>G. C.</given-names>
+<surname>Armitage</surname>
+</string-name>, “<article-title>Development of a Classification System for Periodontal Diseases and Conditions</article-title>,” <source>Annals of Periodontology</source>
+<volume>4</volume>, no. <issue>1</issue> (<year>1999</year>): <fpage>1</fpage>–<lpage>6</lpage>, <pub-id pub-id-type="doi">10.1902/annals.1999.4.1.1</pub-id>.<pub-id pub-id-type="pmid">10863370</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cid70174-cit-0034">
+<string-name name-style="western">
+<given-names>I. K.</given-names>
+<surname>Karoussis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. E.</given-names>
+<surname>Salvi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. J. A.</given-names>
+<surname>Heitz‐Mayfield</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Brägger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. H. F.</given-names>
+<surname>Hämmerle</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. P.</given-names>
+<surname>Lang</surname>
+</string-name>, “<article-title>Long‐Term Implant Prognosis in Patients With and Without a History of Chronic Periodontitis: A 10‐Year Prospective Cohort Study of the ITI Dental Implant System</article-title>,” <source>Clinical Oral Implants Research</source>
+<volume>14</volume>, no. <issue>3</issue> (<year>2003</year>): <fpage>329</fpage>–<lpage>339</lpage>, <pub-id pub-id-type="doi">10.1034/j.1600-0501.000.00934.x</pub-id>.<pub-id pub-id-type="pmid">12755783</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cid70174-cit-0035">
+<string-name name-style="western">
+<given-names>P. I.</given-names>
+<surname>Eke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Thornton‐Evans</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Genco</surname>
+</string-name>, “<article-title>Update of the Case Definitions for Population‐Based Surveillance of Periodontitis</article-title>,” <source>Journal of Periodontology</source>
+<volume>83</volume>, no. <issue>12</issue> (<year>2012</year>): <fpage>1449</fpage>–<lpage>1454</lpage>, <pub-id pub-id-type="doi">10.1902/jop.2012.110664</pub-id>.<pub-id pub-id-type="pmid">22420873</pub-id>
+<pub-id pub-id-type="pmcid">PMC6005373</pub-id></mixed-citation></ref><ref id="cid70174-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cid70174-cit-0036">
+<string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Tonetti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Greenwell</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. S.</given-names>
+<surname>Kornman</surname>
+</string-name>, “<article-title>Staging and Grading of Periodontitis: Framework and Proposal of a new Classification and Case Definition</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>45</volume>, no. <issue>S20</issue> (<year>2018</year>), <pub-id pub-id-type="doi">10.1111/jcpe.12945</pub-id>.<pub-id pub-id-type="pmid">29926495</pub-id></mixed-citation></ref><ref id="cid70174-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cid70174-cit-0037">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Quirynen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Vogels</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Peeters</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Van Steenberghe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Naert</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Haffajee</surname>
+</string-name>, “<article-title>Dynamics of Initial Subgingival Colonization of ‘Pristine’ Peri‐Implant Pockets</article-title>,” <source>Clinical Oral Implants Research</source>
+<volume>17</volume>, no. <issue>1</issue> (<year>2006</year>): <fpage>25</fpage>–<lpage>37</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-0501.2005.01194.x</pub-id>.<pub-id pub-id-type="pmid">16441782</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cid70174-cit-0038">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mombelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Marxer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Gaberthüel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Grander</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. P.</given-names>
+<surname>Lang</surname>
+</string-name>, “<article-title>The Microbiota of Osseointegrated Implants in Patients With a History of Periodontal Disease</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>22</volume>, no. <issue>2</issue> (<year>1995</year>): <fpage>124</fpage>–<lpage>130</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-051X.1995.tb00123.x</pub-id>.<pub-id pub-id-type="pmid">7775668</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cid70174-cit-0039">
+<string-name name-style="western">
+<given-names>Å.</given-names>
+<surname>Leonhardt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Adolfsson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Lekholm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wikström</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Dahlén</surname>
+</string-name>, “<article-title>A Longitudinal Microbiological Study on Osseointegrated Titanium Implants in Partially Edentulotis Patients</article-title>,” <source>Clinical Oral Implants Research</source>
+<volume>4</volume>, no. <issue>3</issue> (<year>1993</year>): <fpage>113</fpage>–<lpage>120</lpage>, <pub-id pub-id-type="doi">10.1034/j.1600-0501.1993.040301.x</pub-id>.<pub-id pub-id-type="pmid">8297958</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cid70174-cit-0040">
+<string-name name-style="western">
+<given-names>G. N.</given-names>
+<surname>Belibasakis</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Manoil</surname>
+</string-name>, “<article-title>Microbial Community‐Driven Etiopathogenesis of Peri‐Implantitis</article-title>,” <source>Journal of Dental Research</source>
+<volume>100</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>21</fpage>–<lpage>28</lpage>, <pub-id pub-id-type="doi">10.1177/0022034520949851</pub-id>.<pub-id pub-id-type="pmid">32783779</pub-id>
+<pub-id pub-id-type="pmcid">PMC7754824</pub-id></mixed-citation></ref><ref id="cid70174-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cid70174-cit-0041">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Baima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Arce</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Romandini</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Van Dyke</surname>
+</string-name>, “<article-title>Inflammatory and Immunological Basis of Periodontal Diseases</article-title>,” <source>Journal of Periodontal Research</source> (<year>2025</year>), <pub-id pub-id-type="doi">10.1111/jre.70040</pub-id>.<pub-id pub-id-type="pmid">41065279</pub-id></mixed-citation></ref><ref id="cid70174-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cid70174-cit-0042">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mombelli</surname>
+</string-name> and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Décaillet</surname>
+</string-name>, “<article-title>The Characteristics of Biofilms in Peri‐Implant Disease</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>38</volume>, no. <issue>s11</issue> (<year>2011</year>): <fpage>203</fpage>–<lpage>213</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-051X.2010.01666.x</pub-id>.<pub-id pub-id-type="pmid">21323716</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cid70174-cit-0043">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Roccuzzo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Imber</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Marruganti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. E.</given-names>
+<surname>Salvi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Ramieri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Roccuzzo</surname>
+</string-name>, “<article-title>Clinical Outcomes of Dental Implants in Patients With and Without History of Periodontitis: A 20‐Year Prospective Study</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>49</volume>, no. <issue>12</issue> (<year>2022</year>): <fpage>1346</fpage>–<lpage>1356</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.13716</pub-id>.<pub-id pub-id-type="pmid">36054302</pub-id>
+<pub-id pub-id-type="pmcid">PMC9804375</pub-id></mixed-citation></ref><ref id="cid70174-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cid70174-cit-0044">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Roos‐Jansåker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Renvert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lindahl</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Renvert</surname>
+</string-name>, “<article-title>Nine‐ to Fourteen‐Year Follow‐Up of Implant Treatment. Part III: Factors Associated With Peri‐Implant Lesions</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>33</volume>, no. <issue>4</issue> (<year>2006</year>): <fpage>296</fpage>–<lpage>301</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-051X.2006.00908.x</pub-id>.<pub-id pub-id-type="pmid">16553639</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cid70174-cit-0045">
+<string-name name-style="western">
+<given-names>O. C.</given-names>
+<surname>Koldsland</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Scheie</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Aass</surname>
+</string-name>, “<article-title>The Association Between Selected Risk Indicators and Severity of Peri‐Implantitis Using Mixed Model Analyses: Risk Indicators in Peri‐Implantitis</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>38</volume>, no. <issue>3</issue> (<year>2011</year>): <fpage>285</fpage>–<lpage>292</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-051X.2010.01659.x</pub-id>.<pub-id pub-id-type="pmid">21158898</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cid70174-cit-0046">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Trullenque‐Eriksson</surname>
+</string-name> and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Guisado Moya</surname>
+</string-name>, “<article-title>Retrospective Long‐Term Evaluation of Dental Implants in Totally and Partially Edentulous Patients: Part II Periimplant Disease</article-title>,” <source>Implant Dentistry</source>
+<volume>24</volume>, no. <issue>2</issue> (<year>2015</year>): <fpage>217</fpage>–<lpage>221</lpage>, <pub-id pub-id-type="doi">10.1097/ID.0000000000000224</pub-id>.<pub-id pub-id-type="pmid">25734947</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cid70174-cit-0047">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cho‐Yan Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Mattheos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. C.</given-names>
+<surname>Nixon</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ivanovski</surname>
+</string-name>, “<article-title>Residual Periodontal Pockets Are a Risk Indicator for Peri‐Implantitis in Patients Treated for Periodontitis</article-title>,” <source>Clinical Oral Implants Research</source>
+<volume>23</volume>, no. <issue>3</issue> (<year>2012</year>): <fpage>325</fpage>–<lpage>333</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-0501.2011.02264.x</pub-id>.<pub-id pub-id-type="pmid">22092508</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cid70174-cit-0048">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Roccuzzo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Bonino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Aglietta</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Dalmasso</surname>
+</string-name>, “<article-title>Ten‐Year Results of a Three Arms Prospective Cohort Study on Implants in Periodontally Compromised Patients. Part 2: Clinical Results</article-title>,” <source>Clinical Oral Implants Research</source>
+<volume>23</volume>, no. <issue>4</issue> (<year>2012</year>): <fpage>389</fpage>–<lpage>395</lpage>, <pub-id pub-id-type="doi">10.1111/j.1600-0501.2011.02309.x</pub-id>.<pub-id pub-id-type="pmid">22092445</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cid70174-cit-0049">
+<string-name name-style="western">
+<given-names>I. L. C.</given-names>
+<surname>Chapple</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. L.</given-names>
+<surname>Mealey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. E.</given-names>
+<surname>Van Dyke</surname>
+</string-name>, et al., “<article-title>Periodontal Health and Gingival Diseases and Conditions on an Intact and a Reduced Periodontium: Consensus Report of Workgroup 1 of the 2017 World Workshop on the Classification of Periodontal and Peri‐Implant Diseases and Conditions</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>45</volume>, no. <issue>S20</issue> (<year>2018</year>): <fpage>S68</fpage>–<lpage>S77</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.12940</pub-id>.<pub-id pub-id-type="pmid">29926499</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cid70174-cit-0050">
+<string-name name-style="western">
+<given-names>B. G.</given-names>
+<surname>Loos</surname>
+</string-name> and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Needleman</surname>
+</string-name>, “<article-title>Endpoints of Active Periodontal Therapy</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>47</volume>, no. <issue>S22</issue> (<year>2020</year>): <fpage>61</fpage>–<lpage>71</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.13253</pub-id>.<pub-id pub-id-type="pmid">31912527</pub-id>
+<pub-id pub-id-type="pmcid">PMC7670400</pub-id></mixed-citation></ref><ref id="cid70174-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cid70174-cit-0051">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Feres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Retamal‐Valdes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Faveri</surname>
+</string-name>, et al., “<article-title>Proposal of a Clinical Endpoint for Periodontal Trials: The Treat‐to‐Target Approach</article-title>,” <source>Journal of the International Academy of Periodontology</source>
+<volume>47</volume>, no. <issue>22</issue> (<year>2020</year>): <fpage>41</fpage>–<lpage>53</lpage>.<pub-id pub-id-type="pmid">32224549</pub-id></mixed-citation></ref><ref id="cid70174-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="cid70174-cit-0052">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Stiesch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Grischke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Schaefer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. J. A.</given-names>
+<surname>Heitz‐Mayfield</surname>
+</string-name>, “<article-title>Supportive Care for the Prevention of Disease Recurrence/Progression Following Peri‐Implantitis Treatment: A Systematic Review</article-title>,” <source>Journal of Clinical Periodontology</source>
+<volume>50</volume>, no. <issue>S26</issue> (<year>2023</year>): <fpage>113</fpage>–<lpage>134</lpage>, <pub-id pub-id-type="doi">10.1111/jcpe.13822</pub-id>.<pub-id pub-id-type="pmid">37339881</pub-id>
+</mixed-citation></ref><ref id="cid70174-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cid70174-cit-0053">
+<string-name name-style="western">
+<given-names>F. O.</given-names>
+<surname>Costa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Ferreira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Cortelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. P. E.</given-names>
+<surname>Lima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Cortelli</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. O. M.</given-names>
+<surname>Cota</surname>
+</string-name>, “<article-title>Microbiological Profile Associated With Peri‐Implant Diseases in Individuals With and Without Preventive Maintenance Therapy: A 5‐Year Follow‐Up</article-title>,” <source>Clinical Oral Investigations</source>
+<volume>23</volume>, no. <issue>8</issue> (<year>2019</year>): <fpage>3161</fpage>–<lpage>3171</lpage>, <pub-id pub-id-type="doi">10.1007/s00784-018-2737-y</pub-id>.<pub-id pub-id-type="pmid">30386996</pub-id>
+</mixed-citation></ref></ref-list></back></article>

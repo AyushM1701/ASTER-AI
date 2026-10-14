@@ -1,0 +1,1890 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="prd12540" xml:lang="en" article-type="review-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Periodontol 2000</journal-id><journal-id journal-id-type="iso-abbrev">Periodontol 2000</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">9313276</journal-id><journal-id journal-id-type="publisher-id">PRD</journal-id><journal-title-group><journal-title>Periodontology 2000</journal-title></journal-title-group><issn pub-type="ppub">0906-6713</issn><issn pub-type="epub">1600-0757</issn><?publisher_abbrev blackwell?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11579815</article-id><article-id pub-id-type="pmcid-ver">PMC11579815.1</article-id><article-id pub-id-type="pmcaid">11579815</article-id><article-id pub-id-type="pmcaiid">11579815</article-id><article-id pub-id-type="pmid">38102837</article-id><article-id pub-id-type="doi">10.1111/prd.12540</article-id><article-id pub-id-type="publisher-id">PRD12540</article-id><article-id pub-id-type="other">PRD-Sep-2023-0151.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>Periodontitis and risk of cancer: Mechanistic evidence</article-title><alt-title alt-title-type="left-running-head">Baima et al.</alt-title></title-group><contrib-group><contrib id="prd12540-cr-0001" contrib-type="author"><name name-style="western"><surname>Baima</surname><given-names initials="G">Giacomo</given-names></name><xref rid="prd12540-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="prd12540-cr-0002" contrib-type="author"><name name-style="western"><surname>Minoli</surname><given-names initials="M">Margherita</given-names></name><xref rid="prd12540-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="prd12540-cr-0003" contrib-type="author"><name name-style="western"><surname>Michaud</surname><given-names initials="DS">Dominique S.</given-names></name><xref rid="prd12540-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="prd12540-cr-0004" contrib-type="author"><name name-style="western"><surname>Aimetti</surname><given-names initials="M">Mario</given-names></name><xref rid="prd12540-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="prd12540-cr-0005" contrib-type="author"><name name-style="western"><surname>Sanz</surname><given-names initials="M">Mariano</given-names></name><xref rid="prd12540-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="prd12540-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="prd12540-cr-0006" contrib-type="author"><name name-style="western"><surname>Loos</surname><given-names initials="BG">Bruno G.</given-names></name><xref rid="prd12540-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="prd12540-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Romandini</surname><given-names initials="M">Mario</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5646-083X</contrib-id><xref rid="prd12540-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><address><email>mario.romandini@gmail.com</email></address></contrib></contrib-group><aff id="prd12540-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Surgical Sciences, C.I.R. Dental School</named-content>
+<institution>University of Turin</institution>
+<city>Turin</city>
+<country country="IT">Italy</country>
+</aff><aff id="prd12540-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Periodontology</named-content>
+<institution>Università Vita‐Salute San Raffaele</institution>
+<city>Milan</city>
+<country country="IT">Italy</country>
+</aff><aff id="prd12540-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health and Community Medicine</named-content>
+<institution>Tufts University School of Medicine</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="prd12540-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Odontology</named-content>
+<institution>University Complutense</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="prd12540-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Periodontology, Faculty of Dentistry</named-content>
+<institution>University of Oslo</institution>
+<city>Oslo</city>
+<country country="NO">Norway</country>
+</aff><aff id="prd12540-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Periodontology, ACTA ‐ Academic Centre for Dentistry Amsterdam</named-content>
+<institution>University of Amsterdam and Vrije Universiteit Amsterdam</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Mario Romandini, Department of Periodontology, Faculty of Dentistry, University of Oslo, Geitmyrsveien, 69, 0455, Oslo, Norway.<break/>
+Email: <email>mario.romandini@gmail.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2024</year></pub-date><volume>96</volume><issue seq="60">1</issue><issue-id pub-id-type="pmc-issue-id">475501</issue-id><issue-id pub-id-type="doi">10.1111/prd.v96.1</issue-id><issue-title>PERIODONTITIS, CANCER AND OTHER SYSTEMIC DISEASES</issue-title><fpage>83</fpage><lpage>94</lpage><history>
+<date date-type="rev-recd"><day>24</day><month>10</month><year>2023</year></date>
+<date date-type="received"><day>06</day><month>9</month><year>2023</year></date>
+<date date-type="accepted"><day>01</day><month>11</month><year>2023</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>21</day><month>11</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>22</day><month>11</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-02 17:25:13.180"><day>02</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2023 The Authors. <italic toggle="yes">Periodontology 2000</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PRD-96-83.pdf"><?pdf-name PRD-96-83.pdf?><?pdf-size 7573910?><?pdf-md5 74943df0af924984acd6c820942a3430?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:c274/11579815/74943df0af92/PRD-96-83.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PRD-96-83.pdf"/><abstract><title>Abstract</title><p>This review aims to critically analyze the pathways of interaction and the pathogenic mechanisms linking periodontitis and oral bacteria with the initiation/progression of cancer at different body compartments. A higher risk of head and neck cancer has been consistently associated with periodontitis. This relationship has been explained by the local promotion of dysbiosis, chronic inflammation, immune evasion, and direct (epi)genetic damage to epithelial cells by periodontal pathobionts and their toxins. Epidemiological reports have also studied a possible link between periodontitis and the incidence of other malignancies at distant sites, such as lung, breast, prostate, and digestive tract cancers. Mechanistically, different pathways have been involved, including the induction of a chronic systemic inflammatory state and the spreading of oral pathobionts with carcinogenic potential. Indeed, periodontitis may promote low‐grade systemic inflammation and phenotypic changes in the mononuclear cells, leading to the release of free radicals and cytokines, as well as extracellular matrix degradation, which are all mechanisms involved in carcinogenic and metastatic processes. Moreover, the transient hematogenous spill out or micro‐aspiration/swallowing of periodontal bacteria and their virulence factors (i.e., lipopolysaccharides, fimbriae), may lead to non‐indigenous bacterial colonization of multiple microenvironments. These events may in turn replenish the tumor‐associated microbiome and thus influence the molecular hallmarks of cancer. Particularly, specific strains of oral pathobionts (e.g., <italic toggle="no">Porphyromonas gingivalis</italic> and <italic toggle="no">Fusobacterium nucleatum</italic>) may translocate through the hematogenous and enteral routes, being implicated in esophageal, gastric, pancreatic, and colorectal tumorigenesis through the modulation of the gastrointestinal antitumor immune system (i.e., tumor‐infiltrating T cells) and the increased expression of pro‐inflammatory/oncogenic genes. Ultimately, the potential influence of common risk factors, relevant comorbidities, and upstream drivers, such as gerovulnerability to multiple diseases, in explaining the relationship cannot be disregarded. The evidence analyzed here emphasizes the possible relevance of periodontitis in cancer initiation/progression and stimulates future research endeavors.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="prd12540-kwd-0001">epidemiology</kwd><kwd id="prd12540-kwd-0002">neoplasms</kwd><kwd id="prd12540-kwd-0003">periodontal disease</kwd><kwd id="prd12540-kwd-0004">periodontal medicine</kwd><kwd id="prd12540-kwd-0005">risk factors</kwd><kwd id="prd12540-kwd-0006">systemic health/disease</kwd></kwd-group><counts><fig-count count="2"/><table-count count="1"/><page-count count="12"/><word-count count="8286"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.1 mode:remove_FC converted:21.11.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="PRD12540-cit-2001">
+<string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Minoli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michaud</surname>
+<given-names>DS</given-names>
+</string-name>, et al. <article-title>Periodontitis and risk of cancer: Mechanistic evidence</article-title>. <source>Periodontol 2000</source>. <year>2024</year>;<volume>96</volume>:<fpage>83</fpage>‐<lpage>94</lpage>. doi:<pub-id pub-id-type="doi">10.1111/prd.12540</pub-id>
+<pub-id pub-id-type="pmid">38102837</pub-id>
+<pub-id pub-id-type="pmcid">PMC11579815</pub-id></mixed-citation>
+</p></notes></front><body id="prd12540-body-0001"><sec id="prd12540-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Cancer is the second leading cause of death worldwide, accounting for nearly 10 million deaths every year. Around 19 million new cancer cases are diagnosed annually, with breast, lung, colorectal, pancreatic, and gastric cancer being the most common.<xref rid="prd12540-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Effective prevention and treatment strategies remain elusive, and their effective implementation relies on bridging the gaps on the molecular mechanisms of carcinogenesis and on targeting actionable risk factors.</p><p>Cancer has long been defined as a genetic disease, and many incident cancers can be attributed to unmodifiable intrinsic risk, that is, stochastic accumulation of mutations in highly dividing cell populations.<xref rid="prd12540-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> However, a high proportion (estimated 30%–70%) of malignancies is attributable to modifiable risk factors, mainly tobacco smoking, alcohol, high body mass index (BMI), and chronic infections.<xref rid="prd12540-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Moreover, in recent years, the host microbiome has come under intense scrutiny as a major player in the initiation and progression of neoplasms.<xref rid="prd12540-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> In parallel, chronic local inflammation and its systemic impact have been recognized as the background soil fostering multiple hallmark functions of malignancies.<xref rid="prd12540-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>Periodontitis is a highly prevalent, chronic inflammatory disease resulting in bacterial translocation and low‐grade systemic inflammation (LGSI).<xref rid="prd12540-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> These mechanisms have been argued as the main pathogenic pathways to explain the many epidemiological associations between periodontitis and the most common noncommunicable diseases (NCDs).<xref rid="prd12540-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Periodontitis and exposure to oral pathobionts have also been linked to increased risk of cancer incidence and mortality in epidemiologic surveys.<xref rid="prd12540-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="prd12540-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="prd12540-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Consequently, a concerted research effort has been devoted to exploring if causation exists beyond association.<xref rid="prd12540-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> This field presents a multi‐scale complexity with significant unresolved caveats. However, it may hold a potential global health impact if the current strategies to prevent and treat periodontitis prove to be beneficial in reducing the burden of malignancies.</p><p>After recapitulating the mechanistic hallmarks of the multistep development of human tumors, this critical review explored the complexity of the “periodontal‐hit” cancer interaction in different body regions.</p></sec><sec id="prd12540-sec-0002"><label>2</label><title>“MULTI‐HIT” CARCINOGENESIS IN A NUTSHELL</title><p>Cancer is a multistep process resulting from complex interactions between endogenous and environmental determinants, and it is usually described as an uncontrolled proliferation of cells that have undergone (epi)genetic alterations.<xref rid="prd12540-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> A mutation at a proto‐oncogene and/or tumor‐suppressor gene—due to stochastic errors in DNA replication or to endogenous/exogenous carcinogens (i.e., tobacco, oxidants)—may confer the cell an intrinsic capacity for out‐of‐control growth. However, a single driver mutation is not sufficient to initiate cancer, since multiple “hits” are usually required.<xref rid="prd12540-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Subsequently, the initiated cell expands clonally into a detectable mass through a prolonged exposure process called promotion. These ill‐defined preneoplastic masses may subsequently progress to malignant neoplasms by increasing their degree of heterogeneity and invasiveness.<xref rid="prd12540-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><p>To evade the host antitumor checkpoints, the mutated cells need to acquire a certain set of “hallmarks,” such as the ability to sustain proliferative signaling, reprogramming of epigenetic regulation and energy metabolism, evade growth suppressants, resist cell death and immune destruction, unlock unlimited replicative potential and phenotypic plasticity, induce angiogenesis, sustain invasion, and metastasis.<xref rid="prd12540-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> At the background, inflammation—the “enabling characteristic”—favors multiple of those hallmark functions in the local niche through hypoxia, acidosis, and reactive oxygen species (ROS).<xref rid="prd12540-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> In this context, the role of the “tumor microenvironment” has acquired relevance in the contribution to tumorigenesis, fostering the aberrant traits of cancer cells.<xref rid="prd12540-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> These microenvironmental conditions can change due to aging, comorbidities, and molecules released by the host‐associated polymorphic microbiome.<xref rid="prd12540-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="prd12540-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</p></sec><sec id="prd12540-sec-0003"><label>3</label><title>THE CANCER‐ASSOCIATED MICROBIOME AND THE ORAL RESERVOIR</title><p>The role of microorganisms as tumor promoters in specific cancers has been long recognized, with infectious agents contributing upward of 15%–20% of malignancies. Indeed, <italic toggle="yes">Helicobacter pylori</italic> in gastric cancers, human papillomavirus (HPV) in cervical and head/neck cancers, and hepatitis B/C virus (HBV/HCV) in hepatocellular carcinomas are well‐established carcinogens.<xref rid="prd12540-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Advances in next‐generation sequencing have expanded this concept, suggesting that most human cancer types may harbor specific microbiota signatures, bringing a high potential for new diagnostic and therapeutic approaches.<xref rid="prd12540-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>While the gut has been considered the main source of this tumor‐associated microbiota, recent research has focused on integrating the oral and the gut microbiome as a whole (i.e., from mouth to rectum).<xref rid="prd12540-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> The oral cavity is indeed a complex microbial ecosystem at the entry point to the human body, containing up to 2000 bacterial, archaeal, viral, and fungal species, many of which are noncultivable.<xref rid="prd12540-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Most oral microorganisms are commensals, although some opportunistic inflammophilic pathobionts possessing oncogenic properties may emerge. Besides their detrimental effect at the levels of teeth and gum,<xref rid="prd12540-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> members of this meta‐organism (i.e., the oral microbiome) may translocate to multiple body districts, especially in periodontitis as a consequence of the compromised mucosal barrier and the high dysbiotic bacterial load within pockets and saliva.<xref rid="prd12540-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</p><p>Being such a repository, the inflamed periodontal tissues may impact on the development of various chronic extra‐oral comorbidities, including cardiovascular diseases, diabetes mellitus, and tissue‐specific cancers too.<xref rid="prd12540-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="prd12540-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="prd12540-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="prd12540-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="prd12540-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="prd12540-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Indeed, translocating periodontal pathobionts and hematogenous spilling‐out of pro‐inflammatory mediators from the subgingival microenvironment can also interact with the fundamental hallmarks of carcinogenesis (Figures <xref rid="prd12540-fig-0001" ref-type="fig">1</xref> and <xref rid="prd12540-fig-0002" ref-type="fig">2A</xref>).</p><fig position="float" fig-type="FIGURE" id="prd12540-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>The proposed routes for a periodontitis signature in relation to the cancer hallmarks and enabling characteristics, described by Hanahan (2022). The presence and thickness of the arrows reflect the available amount of evidence.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PRD-96-83-g001.jpg"><?image-name PRD-96-83-g001.jpg?><?image-size 91115?><?image-md5 7cf15e92fedd901369f62ab6d98fe356?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 792?><?image-original-width 1064?><?image-scaled-height 528?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c274/11579815/7cf15e92fedd/PRD-96-83-g001.jpg?><?thumb-name PRD-96-83-g001.gif?><?thumb-size 3841?><?thumb-md5 4fe1fbe484ae98f9bd8cfb460dd50f05?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 107?><?thumb-cloudpmc-urn urn:cdn:blobs/c274/11579815/4fe1fbe484ae/PRD-96-83-g001.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="prd12540-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>(A) Proposed principal routes of periodontal inflammation and oral bacteria in cancer development. (B) In head and neck cancer, periodontal bacteria act by: 1. direct action of virulence factors; 2. epigenetic and gene expression modulation; 3. chronic inflammation via pathogen‐associated molecular patterns (PAMPs) and reactive oxygen species (ROS); 4. epithelial barrier dysfunction; and 5. immune evasion. (C) In pancreatic cancer, <italic toggle="yes">Fusobacterium nucleatum</italic> (<italic toggle="yes">Fn</italic>) and <italic toggle="yes">Porphyromonas gingivalis</italic> (<italic toggle="yes">Pg</italic>) may induce genetic damage and reduction of p53 triggering antiapoptotic characteristics within the intratumoral bacteriome, whereas their lipopolysaccharide may activate TLR‐4 and NF‐κB signaling, promoting inflammation. These bacteria also exert immune evasive effects on natural killer (NK) cells and promote elastase release from tumor‐associated polymorphonuclear cells (PMN). (D) In colorectal cancer, <italic toggle="yes">Fn</italic> may promote cell proliferation via FadA adhesin‐E‐cadherin interaction, a pro‐carcinogenic environment via miRNA‐mediated activation of TLR2/TLR4, and immune evasion by suppressing NK and effector T cells via the Fap2‐T‐cell immunoglobulin and ITIM domain (TIGIT) interaction.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="PRD-96-83-g002.jpg"><?image-name PRD-96-83-g002.jpg?><?image-size 121385?><?image-md5 9fd7c508bc86eee958eed2164f2dcf87?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 605?><?image-original-width 1064?><?image-scaled-height 403?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c274/11579815/9fd7c508bc86/PRD-96-83-g002.jpg?><?thumb-name PRD-96-83-g002.gif?><?thumb-size 7340?><?thumb-md5 68abd21ae22fff0c87ef9c9048b78296?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 140?><?thumb-cloudpmc-urn urn:cdn:blobs/c274/11579815/68abd21ae22f/PRD-96-83-g002.gif?></graphic></fig></sec><sec id="prd12540-sec-0004"><label>4</label><title>THE LOCOREGIONAL INFLUENCE: HEAD AND NECK CANCERS</title><p>Epidemiological studies have consistently pointed out to an increased risk of head and neck cancer (HNC) in periodontitis subjects (Table <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S1</xref>). A large prospective cohort study on almost 20 000 never‐smoker US men reported a 2.3‐fold increase in the risk of oropharyngeal cancer among subjects with self‐reported periodontitis.<xref rid="prd12540-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> A case–control study with a comparable sample size also revealed an increased risk of HNC among subjects with a history of periodontitis, in a multinational population without restrictions in terms of gender and smoking status.<xref rid="prd12540-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> These findings were consistent with another case–control study in South Korea, which reported an increased risk of oral squamous cell carcinoma (OSCC) in radiographically diagnosed periodontitis subjects.<xref rid="prd12540-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</p><p>The analysis of OSCC histological samples has indicated the presence of periodontitis‐associated microorganisms, including <italic toggle="yes">Fusobacterium</italic>, <italic toggle="yes">Peptostreptococcus</italic>, <italic toggle="yes">Filifactor</italic>, <italic toggle="yes">Catonella</italic>, and <italic toggle="yes">Parvimonas</italic> taxa. In fact, <italic toggle="yes">Porphyromonas gingivalis</italic> and <italic toggle="yes">Fusobacterium nucleatum</italic> have been detected up to 600 times more frequently in OSCC than in para‐cancerous and normal tissues.<xref rid="prd12540-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Although these findings can also be secondary to bacterial colonization of an already existing lesion, the possible role of periodontal bacterial dysbiosis as inducer of HNC can be explained by at least five mechanisms (Figure <xref rid="prd12540-fig-0002" ref-type="fig">2B</xref>).<xref rid="prd12540-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+</p><p>First, the altered microbiome can directly contribute to carcinogenesis through its toxins and metabolites since they possess the ability to induce genetic damage in the epithelial cells. For example, <italic toggle="yes">Aggregatibacter actinomycetemcomitans</italic> secreted cytolethal distending toxin and other byproducts, such as ROS, nitrogen reactive species, sulfides, nitrosamines, and acetaldehyde have shown oncogenic potential through DNA alkylation, mutations, and impaired repair.<xref rid="prd12540-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="prd12540-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+</p><p>Second, certain oral pathobionts can induce epigenetic changes by gene expression regulation. In a recent preliminary analysis based on DNA methylation patterns in oral brushing specimens, some inflammatory genes (GP1BB, MIR193, and ZAP70) were found differentially regulated between OSCC patients, periodontitis patients, and healthy volunteers.<xref rid="prd12540-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Also, <italic toggle="yes">F. nucleatum</italic> and <italic toggle="yes">P. gingivalis</italic> have shown to downregulate p53 and Ku70 pathways through histone H2A phosphorylation, thus promoting increased cell proliferation of OSCC cells up to 125 times.<xref rid="prd12540-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> In addition, a recent meta‐transcriptomic analysis revealed an increased number of <italic toggle="yes">F. nucleatum</italic>‐related transcripts at tumor sites compared to healthy controls.<xref rid="prd12540-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Also, <italic toggle="yes">P. gingivalis</italic> membrane W83 component possesses the ability to alter transcriptomic readouts in OSCC cells, mainly belonging to pathways related to cell metabolism, inflammation, and increased replication.<xref rid="prd12540-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+</p><p>A third pathway may involve the tumor‐promoting inflammation induced by the periodontitis‐associated microbiome, which may lead to an increase in cell proliferation/migration and inhibition of apoptosis. In this respect, toll‐like receptors (TLRs) are critical in the microbiome/immunity interplay, transducing the proinflammatory stimuli from pathogen‐associated molecular patterns (PAMPs) through nuclear factor (NF)‐κB activation.<xref rid="prd12540-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> Mice constitutively expressing TLR4, a lipopolysaccharide (LPS) ligand, display an increased epithelial tumorigenesis, while TLR4‐deficient mice are somehow protected.<xref rid="prd12540-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> Also, <italic toggle="yes">P. gingivalis</italic> and <italic toggle="yes">F. nucleatum</italic> can upregulate the genes involved in downstream TLR, NFκB, and MAPK signaling pathways in both normal and malignant oral epithelial cells.<xref rid="prd12540-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="prd12540-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+</p><p>The fourth circuit involves epithelial barrier function impairment, through microbial PAMPs and metabolites (e.g., lactic, acetic, butyric, and isobutyric acids), which in turn may enhance the carcinogenic pathways.<xref rid="prd12540-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> For example, <italic toggle="yes">P. gingivalis</italic> and <italic toggle="yes">Treponema denticola</italic> can degrade gingival epithelial junctional adhesion molecule‐1, zonula occludens‐1, and occludin.<xref rid="prd12540-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> However, this increased permeability may also support the hypothesis of a secondary colonization of HNC tissues by pathobionts, without any causal role.</p><p>Lastly, periodontal pathobionts can induce immune evasion locoregionally by modulating the expression of critical immune checkpoints. B7‐H1 and B7‐DC, ligands of programmed death receptor (PD‐L1), regulate immune response and are highly expressed in OSCC, enabling tumor cells to evade host immunity by suppressing activated T‐cell functions and survival.<xref rid="prd12540-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> Consistent evidence has shown that <italic toggle="yes">P. gingivalis</italic> strains are able to upregulate B7‐H1 and B7‐DC receptors in OSCC, thereby facilitating immune evasion and tumor progression.<xref rid="prd12540-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="prd12540-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="prd12540-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+</p><p>In addition to these five circuits involving periodontal bacteria, periodontitis may also facilitate the acquisition and persistence of oral HPV, which accounts for up to 25% of HNC cases. Indeed, chronic periodontal inflammation increases the exposed epithelial area and the expression of cell‐surface heparan sulphate, one of the HPV receptors.<xref rid="prd12540-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> Accordingly, a history of periodontitis has been associated with HPV‐positive HNC cases.<xref rid="prd12540-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="prd12540-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+</p><p>All these mechanisms support the evidence of a polymicrobial dysbiosis‐associated carcinogenesis model to explain the association between periodontitis and HNC, where the synergic interaction of microbial communities, including the virome and the mycobiome, may induce the oncogenic potential. In this respect, data from transcriptomic and metabolomic studies are strengthening the tenet that functional properties of the oral microbiome have more relevance to cancer development than strict taxonomic variations.<xref rid="prd12540-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="prd12540-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+</p></sec><sec id="prd12540-sec-0005"><label>5</label><title>THE ECTOPIC COLONIZERS: ORAL PATHOBIONTS IN LUNG, BREAST, AND PROSTATE CANCER</title><p>Tables <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S2–S4</xref> displays the most relevant epidemiological studies linking periodontitis with lung, breast, and prostate cancers; however, this scientific evidence is far from being conclusive.</p><sec id="prd12540-sec-0006"><label>5.1</label><title>Lung cancer</title><p>The cohort study by Michaud et al.<xref rid="prd12540-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> failed to report an independent association between self‐reported periodontitis and lung cancer in never‐smoker US males. However, another cohort study in USA with clinical evaluation of the periodontal status, reported an increased risk of lung cancer in severe periodontitis subjects (adjusted hazard ratio (aHR) = 2.37, 95% CI: 1.41–3.99).<xref rid="prd12540-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> A recent systematic review of cohort studies confirmed these findings, although with slightly lower estimates (adjusted relative risk (aRR) = 1.40, 95% CI: 1.25–1.58)<xref rid="prd12540-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> (Table <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><p>There is emerging evidence on the important role of the microbiome in lung cancer, with the presence of <italic toggle="yes">Acinetobacter</italic>, <italic toggle="yes">Pseudomonas</italic>, <italic toggle="yes">Prevotella</italic>, <italic toggle="yes">Veillonella</italic>, and <italic toggle="yes">Streptococcus</italic> genera in the tumor microenvironment.<xref rid="prd12540-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> These microbial species of oral origin can migrate to the lungs via micro‐aspiration, and may contribute to chronic obstructive pulmonary disease, pneumonia, and even increased severity of COVID‐19.<xref rid="prd12540-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Indeed, patients with squamous cell and adenocarcinoma displayed an altered salivary microbiota composition compared to healthy subjects, particularly of the genera <italic toggle="yes">Capnocytophaga</italic> and <italic toggle="yes">Veillonella</italic>.<xref rid="prd12540-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Liu et al.<xref rid="prd12540-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> also reported a higher presence of <italic toggle="yes">P. gingivalis</italic> in carcinoma‐associated than in adjacent lung tissues. Notably, the survival rate of patients with <italic toggle="yes">P. gingivalis</italic> colonization in the same cohort was significantly shortened. Nevertheless, data on the impact of oral bacteria on lung cancer pathogenesis remain limited, and more studies with improved collection methods are needed. Again, these oral pathogens may also be regarded as secondary colonizers, probably due to the so‐called “enhanced permeability and retention effect.”<xref rid="prd12540-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> Indeed, circulating microbes and macromolecules leak preferentially into cancer tissue and may be then retained into the tumor bed, due to enhanced permeability of the tumor vasculature and reduced lymphatic drainage.<xref rid="prd12540-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>
+</p></sec><sec id="prd12540-sec-0007"><label>5.2</label><title>Breast cancer</title><p>A large cohort study in the USA consisting of 65 869 postmenopausal women reported an incidence of 7149 cancer cases over a mean follow‐up of 8.3 years. For women with self‐reported periodontitis, an increased risk of breast cancer was found (aHR = 1.13, 95% CI: 1.03–1.23).<xref rid="prd12540-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> The study by Michaud et al.<xref rid="prd12540-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> failed to identify a significant association when employing a clinical examination protocol for assessing periodontitis. However, a systematic review including a total of 3538 breast cancer cases out of 168 111 participants, reported an increased risk of breast cancer in women affected by periodontitis (aRR = 1.18, 95% CI: 1.11–1.26)<xref rid="prd12540-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> (Table <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S3</xref>).</p><p>Cancerous human breast tissues have also demonstrated presence of oral bacteria, particularly <italic toggle="yes">F. nucleatum</italic>.<xref rid="prd12540-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> Consequently, Parhi et al.<xref rid="prd12540-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> recently tested whether a periodontal pathobiont‐induced bacteremia could contribute to breast tumorigenesis in mice. Intravascularly inoculated <italic toggle="yes">F. nucleatum</italic> colonized breast tissue using its lectin Fap2, which attached to tumor‐expressed Gal‐GalNAc with a 100‐fold increase in abundance compared with normal tissues. Once in situ, <italic toggle="yes">F. nucleatum</italic> suppressed the accumulation of tumor‐infiltrating T cells, and promoted tumor growth and metastatic progression, which were counteracted by antibiotic treatment. It was also shown that Gal‐GalNAc levels increased as human breast cancer progressed, correlating with <italic toggle="yes">F. nucleatum</italic> DNA detection.<xref rid="prd12540-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+</p></sec><sec id="prd12540-sec-0008"><label>5.3</label><title>Prostate cancer</title><p>Table <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S4</xref> displays the most relevant epidemiological studies linking periodontitis with prostate cancer, indicating conflicting results. In the study by Michaud et al.,<xref rid="prd12540-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> self‐reported periodontitis was not associated with an increased risk of prostate cancer in never‐smoker males. The results were consistent in a large US cohort including clinical measures of periodontal disease.<xref rid="prd12540-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> Conversely, a large cohort study with 2063 cases of &gt;120 000 South Koreans reported a significant association between clinically assessed periodontitis and prostate cancer (aHR = 1.24, 95% CI: 1.16–1.32).<xref rid="prd12540-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>
+</p><p>Interestingly, oral inflammophilic bacteria (i.e., <italic toggle="yes">P. intermedia</italic>, <italic toggle="yes">P. gingivalis</italic>, and <italic toggle="yes">T. denticola</italic>) were found in prostatic secretions of patients with both chronic prostatitis and periodontitis.<xref rid="prd12540-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> It may be hypothesized that, once colonizing the prostate through bacteremia or bladder infection, these bacteria may lead to a local chronic inflammatory response, which in turn may accelerate prostate cancer onset and progression. Moreover, <italic toggle="yes">P. gingivalis</italic> may upregulate the signaling pathway of PD‐L1, leading to immune evasion in the prostate tumor environment.<xref rid="prd12540-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> Nevertheless, both the epidemiological evidence and possible pathways linking the periodontitis to prostate tumorigenesis are still insufficient, and therefore, further studies are needed.</p></sec></sec><sec id="prd12540-sec-0009"><label>6</label><title>THE ENTERAL WAY: PERIODONTAL PATHOBIONTS AND GASTROINTESTINAL CANCERS</title><p>Tables <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S5–S7</xref> display the most relevant epidemiological evidence linking periodontitis with gastrointestinal cancers, reporting consistent positive associations for the more proximal anatomical locations (esophageal/gastric and pancreatic cancers), and conflicting evidence for the more distal sites (colorectal cancer).<xref rid="prd12540-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref>
+</p><sec id="prd12540-sec-0010"><label>6.1</label><title>Esophageal and gastric cancer</title><p>In the cohort study by Nwizu et al.,<xref rid="prd12540-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> a positive association (aHR = 3.28, 95% CI: 1.64–6.53) between self‐reported periodontitis and incidence of esophageal cancer was observed in postmenopausal women. Consistently, another cohort study also including men reported a significant association, albeit with a lower estimate (aHR = 1.43, 95% CI: 1.05–1.96).<xref rid="prd12540-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref> This same study also reported a positive association of self‐reported periodontitis with incidence of gastric cancer (aHR = 1.52, 95% CI: 1.13–2.04). Similarly, a large‐scale study in South Korea with 3920 cases among &gt;700 000 subjects, found a modest, albeit significant association between clinically assessed periodontitis and gastric cancer (aHR = 1.14, 95% CI: 1.04–1.24)<xref rid="prd12540-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> (Table <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S5</xref>).</p><p>With regard to the mechanisms, the evidence is more limited, although <italic toggle="yes">P. gingivalis</italic> was detected in 61% of esophageal squamous cell carcinoma tissues, 12% of adjacent tissues, and never in the healthy mucosa.<xref rid="prd12540-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref> Similarly, <italic toggle="yes">F. nucleatum</italic> was recently associated with lower long interspersed nuclear element‐1 DNA methylation and worse prognosis in diffuse‐type gastric cancers.<xref rid="prd12540-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref> An alternative pathway is related to the possible role of periodontal pockets as reservoirs for <italic toggle="yes">H. pylori</italic>—the only bacterium classified to date as carcinogenic.<xref rid="prd12540-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref> Indeed, a recent epidemiological study indicated an association between periodontitis and mortality due to gastrointestinal cancers only in subjects with <italic toggle="yes">H. pylori</italic> seropositivity.<xref rid="prd12540-bib-0073" ref-type="bibr">
+<sup>73</sup>
+</xref>
+</p></sec><sec id="prd12540-sec-0011"><label>6.2</label><title>Pancreatic cancer</title><p>A prospective US‐based cohort study on 51 529 males (216 cases) aged 40–75 years pointed out to an increased incidence of pancreatic cancer in subjects self‐reporting a history of periodontitis (aRR = 1.64, 95% CI: 1.19–2.26).<xref rid="prd12540-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref> Data from a systematic review with 653 cases among &gt;300 000 subjects with no restrictions in terms of gender and age‐reported comparable results (aRR = 1.74, 95% CI: 1.41–2.15)<xref rid="prd12540-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref> (Table <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S6</xref>).</p><p>The etiology of pancreatic cancer is largely unknown. Together with smoking, chronic pancreatitis, and overweight/obesity, local microbial dysbiosis has been accounted as a plausible risk factor.<xref rid="prd12540-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="prd12540-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> Presence of a specific intratumoral microbiome has been documented in pancreatic cancers, and its perturbation by antibiotic therapy restored the immune system activity through an antitumor Th1 response.<xref rid="prd12540-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> Moreover, invasive adenocarcinomas and pancreatic cysts may be enriched in members of the oral microbiome. Indeed, high‐grade dysplasia cysts presented an increased <italic toggle="yes">F. nucleatum</italic> and <italic toggle="yes">Granulicatella adiacens</italic> load compared to low‐grade cysts, while <italic toggle="yes">F. nucleatum</italic>‐positive pancreatic ductal adenocarcinomas have been associated with higher mortality.<xref rid="prd12540-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref> Also, <italic toggle="yes">T. denticola</italic> dentilisin, a virulence factor with strong surface protease activity, was detected in 65% of the pancreatic cancer tissues.<xref rid="prd12540-bib-0079" ref-type="bibr">
+<sup>79</sup>
+</xref> Similarly, two large prospective cohort studies reported that oral carriage of <italic toggle="yes">P. gingivalis</italic> and <italic toggle="yes">A. actinomycetemcomitans</italic>,<xref rid="prd12540-bib-0080" ref-type="bibr">
+<sup>80</sup>
+</xref> as well as high levels of antibody titers against five periodontal pathogens,<xref rid="prd12540-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> were associated with an increased incidence of pancreatic cancer. These observations were recently replicated in mice in a subcutaneous pancreatic model, where tumor development was induced after <italic toggle="yes">P. gingivalis</italic> gavages.<xref rid="prd12540-bib-0081" ref-type="bibr">
+<sup>81</sup>
+</xref> Mechanistically, <italic toggle="yes">P. gingivalis</italic> and <italic toggle="yes">F. nucleatum</italic> possess broad immune evasive effect on natural killer (NK) cells and antiapoptotic characteristics, as well as the ability to invade pancreatic cells, which in turn may cause genetic damage and reduction of p53 tumor suppressor levels. Also, their LPS may accelerate carcinogenesis via TLR4 binding and NF‐κB signaling, boosting the inflammasome (the cytosolic oligomers involved in the activation of innate immunity) and polymorphonuclear (PMN) elastase release from tumor‐associated neutrophils (Figure <xref rid="prd12540-fig-0002" ref-type="fig">2C</xref>).<xref rid="prd12540-bib-0082" ref-type="bibr">
+<sup>82</sup>
+</xref>
+</p></sec><sec id="prd12540-sec-0012"><label>6.3</label><title>Colorectal cancer (<styled-content style="fixed-case" toggle="no">CRC</styled-content>)</title><p>Among never‐smoker US males, Michaud et al.<xref rid="prd12540-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> did not find an association between increased risk of CRC and self‐reported periodontitis. The same group, however, reported a positive association (aHR = 1.51, 95% CI: 0.90–2.52), albeit not statistically significant, in a different US cohort including both smokers and nonsmokers and both males and females, and employing a clinical examination to identify severe periodontitis cases.<xref rid="prd12540-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> Recently, a population‐based cohort study found that periodontitis may carry an increased risk of developing benign, but not malignant, colorectal tumors.<xref rid="prd12540-bib-0083" ref-type="bibr">
+<sup>83</sup>
+</xref> A systematic review of cohort studies reported a similar estimate of association (aRR = 1.44, 95% CI: 1.18–1.76).<xref rid="prd12540-bib-0084" ref-type="bibr">
+<sup>84</sup>
+</xref> Consistently, a large cohort study with 3416 cases of more than 700 000 South Koreans reported a significant, albeit modest association between clinically assessed periodontitis and CRC (aHR = 1.13, 95% CI: 1.03–1.24)<xref rid="prd12540-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> (Table <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S7</xref>).</p><p>Recent next generation sequencing studies have revealed that the microbiomes associated with distal digestive tract cancers contain bacterial species plausibly originating from the oral cavity.<xref rid="prd12540-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref> Specifically, <italic toggle="yes">F. nucleatum</italic> has been identified among the most prevalent bacterial species in CRC tissues. Although the evidence for its translocation from the oral environment to the gut needs to be confirmed by strain‐level metagenomics techniques, the mechanistic role of <italic toggle="yes">F. nucleatum</italic> as the “alpha‐bug” with direct tumor‐accelerating features has been repeatedly suggested.<xref rid="prd12540-bib-0086" ref-type="bibr">
+<sup>86</sup>
+</xref>, <xref rid="prd12540-bib-0087" ref-type="bibr">
+<sup>87</sup>
+</xref> Briefly, enhancement of cancer cell proliferation, establishment of a tumor‐promoting immune environment through miRNA‐mediated activation of TLR2/TLR4, and the evasion of immune checkpoints have been proposed as its main mechanisms.<xref rid="prd12540-bib-0088" ref-type="bibr">
+<sup>88</sup>
+</xref> In mice intestine, <italic toggle="yes">F. nucleatum</italic> was indeed shown to promote tumor progression by suppressing NK and effector T cells, via the Fap2‐T‐cell immunoglobulin and ITIM domain (TIGIT) interaction.<xref rid="prd12540-bib-0089" ref-type="bibr">
+<sup>89</sup>
+</xref> Another potential <italic toggle="yes">F. nucleatum</italic> involvement in CRC has been recently unveiled, since it can modulate the cadherin/β‐catenin signaling and annexin A1 expression. Through its unique FadA adhesin binding to E‐cadherin on the surface of colonic epithelial cells, <italic toggle="yes">F. nucleatum</italic> can also activate β‐catenin signaling and as such increase the expression of oncogenic and inflammatory genes in CRC cells (Figure <xref rid="prd12540-fig-0002" ref-type="fig">2D</xref>).<xref rid="prd12540-bib-0090" ref-type="bibr">
+<sup>90</sup>
+</xref> Complementary with the enteral way, a hematogenous route for <italic toggle="yes">F. nucleatum</italic> to reach colon adenocarcinomas has been tested in mice. As was shown in breast tumor models, <italic toggle="yes">F. nucleatum</italic> binding to tumor cells seems to occur by Fap2 mediated recognition of Gal‐GalNAc.<xref rid="prd12540-bib-0091" ref-type="bibr">
+<sup>91</sup>
+</xref> Beside this extensively studied pathobiont, also <italic toggle="yes">P. gingivalis</italic> can negatively interact with colon carcinoma cells, possibly upregulating the inflammatory pathway pivoted by PD‐L1 as described also for OSCC and prostate cancer.<xref rid="prd12540-bib-0092" ref-type="bibr">
+<sup>92</sup>
+</xref>
+</p><p>Despite this proposed carcinogenic role by specific oral pathogens, the possible role of periodontitis‐derived systemic inflammation through dissemination of immunological components has also accumulated recently. In fact, activated T‐helper 17 lymphocytes from periodontal inflammatory lesions, may translocate to the gastrointestinal tract and contribute to gut microbial dysbiosis and inflammation.<xref rid="prd12540-bib-0093" ref-type="bibr">
+<sup>93</sup>
+</xref> This recently discovered immunological pathway deserves further experimental validation in light of the relevance that these cell populations play in gut mucosal carcinogenesis.<xref rid="prd12540-bib-0094" ref-type="bibr">
+<sup>94</sup>
+</xref>
+</p></sec></sec><sec id="prd12540-sec-0013"><label>7</label><title>PERIODONTAL IMMUNE DISTURBANCES AND MALADAPTIVE HEMATOPOIESIS: THE LINK WITH NONSOLID MALIGNANCIES</title><p>The potential epidemiologic link between periodontitis and nonsolid malignancies is displayed in Table <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S8</xref>. In a cohort study from the USA with 1341 cases among more than 50 000 males, self‐reported periodontitis was associated with an increased risk of non‐Hodgkin lymphomas (aHR = 1.26, 95% CI: 1.06–1.49) and chronic lymphocytic leukemia/small lymphocytic lymphomas (aHR = 1.41, 95% CI: 1.04–1.90).<xref rid="prd12540-bib-0095" ref-type="bibr">
+<sup>95</sup>
+</xref> Similarly, the cohort study by Kim et al.<xref rid="prd12540-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> with 399 cases among &gt;700 000 South Koreans, reported that clinically assessed periodontitis was also associated with leukemia (aHR = 1.39, 95% CI: 1.04–1.87). The same study, however, failed to document a positive association with Hodgkin and non‐Hodgkin lymphomas, as well as with multiple myeloma.<xref rid="prd12540-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> Similarly, two cohort studies with US participants described nonsignificant associations between periodontitis and nonsolid malignancies.<xref rid="prd12540-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>, <xref rid="prd12540-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>
+</p><p>An emerging field of research is focusing on the possibility that periodontitis may epigenetically prime the hematopoietic progenitors in the bone marrow toward an exacerbated innate immune response.<xref rid="prd12540-bib-0096" ref-type="bibr">
+<sup>96</sup>
+</xref> This excessive recruitment and “dysregulated” priming of the PMNs and peripheral blood mononuclear cells (PBMC) may be implicated in a wide range of chronic inflammatory diseases, including cancers.<xref rid="prd12540-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="prd12540-bib-0097" ref-type="bibr">
+<sup>97</sup>
+</xref> For instance, Carvalho‐Filho et al.<xref rid="prd12540-bib-0098" ref-type="bibr">
+<sup>98</sup>
+</xref> found that upon the exposure to the <italic toggle="yes">P. gingivalis</italic> protein HmuY, PBMCs from patients with periodontitis downregulated genes associated with apoptosis and other cancer hallmarks. However, the available epidemiologic evidence and precise mechanisms governing this periodontal‐bone marrow axis in nonsolid tumors are still inconclusive and further studies are warranted.</p></sec><sec id="prd12540-sec-0014"><label>8</label><title>PERIODONTAL MICROORGANISMS, EPITHELIAL–MESENCHYMAL TRANSITION, AND METASTASIZATION</title><p>Only the South‐Korean cohort study by Kim et al.<xref rid="prd12540-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> evaluated the association between periodontitis and incidence of secondary cancer. Even though incidence rates were slightly higher in patients with periodontitis (aRR = 1.15, 95% CI: 0.81–1.65), the reported association was not statistically significant. However, a survival bias cannot be ruled out, since in this study only surviving patients at 5 years after primary malignancy diagnosis were included, whereas periodontitis patients are associated with a higher cancer mortality (Table <xref rid="prd12540-supitem-0001" ref-type="supplementary-material">S9</xref>).<xref rid="prd12540-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>Epithelial–mesenchymal transition (EMT) is one of the key developmental mechanisms implicated in the ability of transformed epithelial cells to invade and disseminate.<xref rid="prd12540-bib-0099" ref-type="bibr">
+<sup>99</sup>
+</xref>
+<italic toggle="yes">F. nucleatum</italic> and <italic toggle="yes">P. gingivalis</italic> have shown to significantly upregulate Snail protein and mesenchymal markers (vimentin), as well as epithelial markers (E‐cadherin) in OSCC cells in vitro. <italic toggle="yes">P. gingivalis</italic> also induced nuclear localization of ZEB1 (zinc finger E‐box‐binding homeobox 1) transcription factor, which controls EMT; interestingly, <italic toggle="yes">P. gingivalis</italic> strains lacking FimA showed less ability.<xref rid="prd12540-bib-0100" ref-type="bibr">
+<sup>100</sup>
+</xref>
+<italic toggle="yes">P. gingivalis</italic> can also upregulate the expression of ZEB2 via pathways involving β‐catenin and FOXO1 (forkhead box O1).<xref rid="prd12540-bib-0101" ref-type="bibr">
+<sup>101</sup>
+</xref> Recently, periodontal inflammation promoted metastasis of breast cancer by recruiting myeloid‐derived suppressor cells in a murine model.<xref rid="prd12540-bib-0102" ref-type="bibr">
+<sup>102</sup>
+</xref> Induction of pyroptosis by IL‐1β generation and downstream CCL2, CCL5, and CXCL5 signaling were the principal mechanisms involved.</p></sec><sec id="prd12540-sec-0015"><label>9</label><title>CAUSALITY AND CASUALTY: COMMON RISK FACTORS AND BACKGROUND ENTITIES</title><p>Although these presented hypotheses are tempting, the research findings obtained so far can only scratch the surface of the real complexity of the periodontitis–cancer association. The multistep chronic nonlinear process of carcinogenesis limits the possibility to individuate low‐hanging mechanistic insights in humans. Moreover, longitudinal associations do not necessarily guarantee causality. Also, the strength of the findings from the existing investigations is hampered by the heterogeneity of the methods used to measure the exposure, the study designs, the platforms employed for microbial analyses, the nature of the biological samples, and the risk of publication bias.<xref rid="prd12540-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p><p>Moreover, the possibility that the periodontitis–cancer epidemiologic link may be confounded by residual common risk factors and comorbidities,<xref rid="prd12540-bib-0103" ref-type="bibr">
+<sup>103</sup>
+</xref>, <xref rid="prd12540-bib-0104" ref-type="bibr">
+<sup>104</sup>
+</xref>, <xref rid="prd12540-bib-0105" ref-type="bibr">
+<sup>105</sup>
+</xref>, <xref rid="prd12540-bib-0106" ref-type="bibr">
+<sup>106</sup>
+</xref> as well as background entities should not be underestimated. It could be indeed considered that periodontitis is also a surrogate marker for low socioeconomic status and unfavorable lifestyle behaviors,<xref rid="prd12540-bib-0107" ref-type="bibr">
+<sup>107</sup>
+</xref>, <xref rid="prd12540-bib-0108" ref-type="bibr">
+<sup>108</sup>
+</xref> which constitute well‐established risk factors for certain cancers. A robust bidirectional relationship between periodontitis and metabolic/inflammatory diseases, such as diabetes mellitus and obesity, is also well acknowledged.<xref rid="prd12540-bib-0109" ref-type="bibr">
+<sup>109</sup>
+</xref>, <xref rid="prd12540-bib-0110" ref-type="bibr">
+<sup>110</sup>
+</xref> These comorbidities may potentially contribute in mediating the effect of periodontitis on cancers. Indeed, periodontal treatment proved effective in reducing most of cardiometabolic markers and it can be potentially considered as an arrow in the cancer preventive strategy.<xref rid="prd12540-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="prd12540-bib-0111" ref-type="bibr">
+<sup>111</sup>
+</xref>
+</p><p>Interestingly, multimorbidity has shown to be more prevalent among patients with periodontitis.<xref rid="prd12540-bib-0112" ref-type="bibr">
+<sup>112</sup>
+</xref> This may be ascribed to a background entity, which may both assume socioeconomic and biological connotates. Indeed, while the concept of “syndemics” may support the former (i.e., populations deprived of resources and living in poor conditions, suffering more often from diseases and die earlier/younger), the so‐called systemic effect of periodontitis might be also considered as a result of an upstream gerovulnerability to multiple diseases, pivoted on immune senescence and accelerated biological aging.<xref rid="prd12540-bib-0113" ref-type="bibr">
+<sup>113</sup>
+</xref>, <xref rid="prd12540-bib-0114" ref-type="bibr">
+<sup>114</sup>
+</xref> Finding a way to target this shared, underlying pathology at the interaction between periodontitis and LGSI‐related diseases could be key in better managing patients and reducing the associated economic burden.</p></sec><sec id="prd12540-sec-0016"><label>10</label><title>CONCLUDING REMARKS AND FUTURE RESEARCH PRIORITIES</title><p>Despite the limitations outlined in this article, there is a general emerging indication that the presence of periodontitis and its associated dysbiosis may contribute to carcinogenesis or tumor progression, especially for HNC and upper digestive tract cancers (Table <xref rid="prd12540-tbl-0001" ref-type="table">1</xref>). The main contributing mechanisms to carcinogenesis may involve triggering inflammation (the enabling characteristic), immune system dysregulation, and microbial dysbiosis. Specifically, tumor‐associated microbiomes have been identified, often with periodontal pathobionts being habitual residents.</p><table-wrap position="float" id="prd12540-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Periodontitis and cancer: Summary of epidemiologic and mechanistic evidence.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Cancer type</th><th align="left" valign="bottom" rowspan="1" colspan="1">Epidemiologic evidence</th><th align="left" valign="bottom" rowspan="1" colspan="1">Oral pathogens in the intratumoral microbiome</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mechanistic evidence</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Head and neck cancer</td><td align="left" valign="top" rowspan="1" colspan="1">Positive association, consistent among several studies, especially for OSCC</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>OSCC samples enriched for <italic toggle="yes">Fusobacterium</italic>, <italic toggle="yes">Filifactor, Peptostreptococcus</italic>, and <italic toggle="yes">Catonella</italic>.</p>
+<p>
+<italic toggle="yes">Pg</italic> and <italic toggle="yes">Fn</italic> detected 600 times more in OSCC than normal tissue.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Periodontal bacteria directly exert:
+<list list-type="bullet" id="prd12540-list-0001"><list-item id="prd12540-li-0001"><p>Carcinogenic damage by virulence factors</p></list-item><list-item id="prd12540-li-0002"><p>Epigenetic and gene expression modulation</p></list-item><list-item id="prd12540-li-0003"><p>Chronic inflammation via PAMPs/ROS</p></list-item><list-item id="prd12540-li-0004"><p>Epithelial barrier dysfunction</p></list-item><list-item id="prd12540-li-0005"><p>Immune evasion</p></list-item></list>
+</p>
+<p>Periodontal inflammation increases HPV receptors</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Lung cancer</td><td align="left" valign="top" rowspan="1" colspan="1">Possible positive association, but evidence is not conclusive</td><td align="left" valign="top" rowspan="1" colspan="1">Enrichment of oral genera <italic toggle="yes">Acinetobacter</italic>, <italic toggle="yes">Prevotella</italic>, and <italic toggle="yes">Veillonella</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet" id="prd12540-list-0002"><list-item id="prd12540-li-0006"><p>Little mechanistic evidence available, mainly involving periodontal pathogen (micro)aspiration</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Breast cancer</td><td align="left" valign="top" rowspan="1" colspan="1">Possible positive association, but evidence is not conclusive</td><td align="left" valign="top" rowspan="1" colspan="1">Consistent detection of <italic toggle="yes">Fn</italic> DNA in tumor bacteriome</td><td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="prd12540-list-0003"><list-item id="prd12540-li-0007"><p>Hematogenous colonization of <italic toggle="yes">Fn</italic> via lectin Fap2 interaction with Gal‐GalNAc</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Prostate cancer</td><td align="left" valign="top" rowspan="1" colspan="1">Possible lack of association, but evidence is not conclusive</td><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Pi</italic>, <italic toggle="yes">Pg</italic>, and <italic toggle="yes">Td</italic> DNA in prostatic secretions</td><td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="prd12540-list-0004"><list-item id="prd12540-li-0008"><p>
+<italic toggle="yes">Pg</italic> upregulation of programmed death ligand 1 pathway</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Esophageal and gastric cancer</td><td align="left" valign="top" rowspan="1" colspan="1">Positive association, consistent among several studies</td><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Pg</italic> detected in esophageal cancer tissues, <italic toggle="yes">Fn</italic> in gastric</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet" id="prd12540-list-0005"><list-item id="prd12540-li-0009"><p>Periodontal pockets reservoir for <italic toggle="yes">H. pylori</italic>
+</p></list-item><list-item id="prd12540-li-0010"><p>
+<italic toggle="yes">Fn</italic>‐mediated DNA methylation</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pancreatic cancer</td><td align="left" valign="top" rowspan="1" colspan="1">Positive association, consistent among several studies</td><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Fn</italic> and <italic toggle="yes">Td</italic> detected in adenocarcinomas</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet" id="prd12540-list-0006"><list-item id="prd12540-li-0011"><p>
+<italic toggle="yes">Fn</italic> and <italic toggle="yes">Pg</italic> cell invasion, genetic damage and reduction of p53</p></list-item><list-item id="prd12540-li-0012"><p>
+<italic toggle="yes">Fn</italic> and <italic toggle="yes">Pg</italic> immune evasive properties: TLRs and complement system manipulation; inhibition of IL‐8 production; degradation of secreted cytokines</p></list-item><list-item id="prd12540-li-0013"><p>LPS activates TLR‐4 and NF‐κB signaling, promoting inflammation</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Colorectal cancer</td><td align="left" valign="top" rowspan="1" colspan="1">Possible positive association, but evidence is not conclusive</td><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Fn, Peptostreptococcus</italic>, <italic toggle="yes">Leptotrichia</italic>, and <italic toggle="yes">Campylobacter</italic> overabundant in CRC</td><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Fn</italic> promotes:
+<list list-type="bullet" id="prd12540-list-0007"><list-item id="prd12540-li-0014"><p>cell proliferation via FadA adhesin‐E‐cadherin interaction</p></list-item><list-item id="prd12540-li-0015"><p>pro‐carcinogenic immune environment via miRNA‐mediated activation of TLR2/TLR4</p></list-item><list-item id="prd12540-li-0016"><p>immune evasion by suppressing cytotoxic and effector T cells</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nonsolid malignancies</td><td align="left" valign="top" rowspan="1" colspan="1">Not enough evidence</td><td align="left" valign="top" rowspan="1" colspan="1">Not enough evidence</td><td align="left" valign="top" rowspan="1" colspan="1">Maladaptive trained immunity and clonal hematopoiesis</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Metastasis</td><td align="left" valign="top" rowspan="1" colspan="1">Not enough evidence</td><td align="left" valign="top" rowspan="1" colspan="1">Not enough evidence</td><td align="left" valign="top" rowspan="1" colspan="1">Induction of EMT in epithelial cells by <italic toggle="yes">Fn</italic> and <italic toggle="yes">Pg</italic> via upregulation of Snail protein, vimentin, and ZEB1‐2</td></tr></tbody></table><table-wrap-foot id="prd12540-ntgp-0001"><fn id="prd12540-note-0001"><p>Abbreviations: CRC, colorectal cancer; EMT, epithelial–mesenchymal transition; <italic toggle="yes">Fn</italic>, <italic toggle="yes">Fusobacterium nucleatum</italic>; HPV, human papilloma virus; OSCC, oral squamous cell carcinoma; PAMPs, pathogen‐associated molecular patterns; <italic toggle="yes">Pg</italic>, <italic toggle="yes">Porphyromonas gingivalis</italic>; ROS; reactive oxygen species; <italic toggle="yes">Td</italic>, <italic toggle="yes">Treponema denticola</italic>; TLR, toll‐like receptor; ZEB, zinc finger E‐box‐binding homeobox.</p></fn></table-wrap-foot></table-wrap><p>Notably, while the epidemiologic evidence is robust for certain types of cancers, more data are warranted for many others, including nonsolid, breast and prostate tumors. Also, much mechanistic research is needed to disentangle the complex, multifactorial interactions that result in disease, and clarify whether periodontal inflammation may directly promote carcinogenesis in the tumor microenvironment, or simply contribute to the systemic inflammatory milieu on which the multistage process of carcinogenesis develops. Moreover, much emphasis has been placed on <italic toggle="yes">P. gingivalis</italic> and <italic toggle="yes">F. nucleatum</italic>, while an exciting potential for future generations of researchers resides in exploring the mechanistic contributions of periodontitis‐related noncultivable bacteria, viruses, fungi, <italic toggle="yes">Entamoebas</italic>, as well as the microbiome‐as‐a‐whole. Murine models of cancer development with experimentally induced periodontitis, large prospective cohort studies including gold‐standard exposure ascertainment and longitudinal collection of tissue and microbial samples, as well as interventional studies, are needed. Advanced molecular technologies, such as gene expression profiling, strain level resolution metagenomics, metabolomics, microRNAs, gene discovery, and pathway analysis will also elucidate the potential role of oral pathobionts as therapeutic targets or diagnostic markers.</p><p>The burden of cancer remains one of the most important public health challenges, with modifiable risk factors being pivotal contributors to cancer development and mortality. This critical review highlighted the need for future research commitments projecting beyond the known mechanisms, as well as policies aimed at reducing exposure to risk factors from the oral cavity as part of comprehensive cancer preventive efforts.</p></sec><sec id="prd12540-sec-0017"><title>AUTHOR CONTRIBUTION</title><p>G. Baima contributed to study conception and design, data acquisition and interpretation, and article drafting; M. Minoli contributed to data acquisition and interpretation, and article drafting; D.S. Michaud, M. Aimetti, B.G. Loos, and M. Sanz contributed to data interpretation, and critically revised the article; M. Romandini, contributed to study conception and design, data acquisition and interpretation, and article drafting. All authors gave final approval and agreed to be accountable for all aspects of the work.</p></sec><sec sec-type="COI-statement" id="prd12540-sec-0019"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest related to this study.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="prd12540-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Appendix S1.
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PRD-96-83-s001.docx" position="float" orientation="portrait"><?suppdata-name PRD-96-83-s001.docx?><?suppdata-size 47974?><?suppdata-md5 992022574b702ae3b6a13b6cfe8098ce?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:c274/11579815/992022574b70/PRD-96-83-s001.docx?></media></supplementary-material></sec></body><back><ack id="prd12540-sec-0018"><title>ACKNOWLEDGMENTS</title><p>This study did not receive any specific funding.</p></ack><sec sec-type="data-availability" id="prd12540-sec-0021"><title>DATA AVAILABILITY STATEMENT</title><p>No new data was generated, since this is an invited narrative review.</p></sec><ref-list content-type="cited-references" id="prd12540-bibl-0001"><title>REFERENCES</title><ref id="prd12540-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="prd12540-cit-0001">
+<string-name name-style="western">
+<surname>Sung</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, et al. <article-title>Global Cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</article-title>. <source>CA Cancer J Clin</source>. <year>2021</year>;<volume>71</volume>(<issue>3</issue>):<fpage>209</fpage>‐<lpage>249</lpage>.<pub-id pub-id-type="pmid">33538338</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21660</pub-id></mixed-citation></ref><ref id="prd12540-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="prd12540-cit-0002">
+<string-name name-style="western">
+<surname>Tomasetti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogelstein</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Cancer etiology.Variation in cancer risk among tissues can be explained by the number of stem cell divisions</article-title>. <source>Science</source>. <year>2015</year>;<volume>347</volume>(<issue>6217</issue>):<fpage>78</fpage>‐<lpage>81</lpage>.<pub-id pub-id-type="pmid">25554788</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1260825</pub-id><pub-id pub-id-type="pmcid">PMC4446723</pub-id></mixed-citation></ref><ref id="prd12540-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="prd12540-cit-0003">
+<string-name name-style="western">
+<surname>Plummer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Martel</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vignat</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franceschi</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Global burden of cancers attributable to infections in 2012: a synthetic analysis</article-title>. <source>Lancet Glob Health</source>. <year>2016</year>;<volume>4</volume>(<issue>9</issue>):<fpage>e609</fpage>‐<lpage>e616</lpage>.<pub-id pub-id-type="pmid">27470177</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2214-109X(16)30143-7</pub-id></mixed-citation></ref><ref id="prd12540-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="prd12540-cit-0004">
+<string-name name-style="western">
+<surname>Johnston</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bullman</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The tumour‐associated microbiome</article-title>. <source>Nat Rev Gastroenterol Hepatol</source>. <year>2022</year>;<volume>19</volume>(<issue>6</issue>):<fpage>347</fpage>‐<lpage>348</lpage>.<pub-id pub-id-type="pmid">35361914</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41575-022-00609-7</pub-id><pub-id pub-id-type="pmcid">PMC10790629</pub-id></mixed-citation></ref><ref id="prd12540-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="prd12540-cit-0005">
+<string-name name-style="western">
+<surname>Hanahan</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Hallmarks of Cancer: new dimensions</article-title>. <source>Cancer Discov</source>. <year>2022</year>;<volume>12</volume>(<issue>1</issue>):<fpage>31</fpage>‐<lpage>46</lpage>.<pub-id pub-id-type="pmid">35022204</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2159-8290.CD-21-1059</pub-id></mixed-citation></ref><ref id="prd12540-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="prd12540-cit-0006">
+<string-name name-style="western">
+<surname>Papapanou</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buduneli</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Periodontitis: consensus report of workgroup 2 of the 2017 world workshop on the classification of periodontal and peri‐implant diseases and conditions</article-title>. <source>J Periodontol</source>. <year>2018</year>;<volume>89</volume>(<issue>S1</issue>):<fpage>S173</fpage>‐<lpage>S182</lpage>.<pub-id pub-id-type="pmid">29926951</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/JPER.17-0721</pub-id></mixed-citation></ref><ref id="prd12540-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="prd12540-cit-0007">
+<string-name name-style="western">
+<surname>Morales</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strauss</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hämmerle</surname>
+<given-names>CHF</given-names>
+</string-name>, et al. <article-title>Performance of the 2017 AAP/EFP case definition compared with the CDC/AAP definition in population‐based studies</article-title>. <source>J Periodontol</source>. <year>2022</year>;<volume>93</volume>(<issue>7</issue>):<fpage>1003</fpage>‐<lpage>1013</lpage>.<pub-id pub-id-type="pmid">34625960</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/JPER.21-0276</pub-id></mixed-citation></ref><ref id="prd12540-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="prd12540-cit-0008">
+<string-name name-style="western">
+<surname>Michaud</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giovannucci</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joshipura</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Periodontal disease, tooth loss, and cancer risk in male health professionals: a prospective cohort study</article-title>. <source>Lancet Oncol</source>. <year>2008</year>;<volume>9</volume>(<issue>6</issue>):<fpage>550</fpage>‐<lpage>558</lpage>.<pub-id pub-id-type="pmid">18462995</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(08)70106-2</pub-id><pub-id pub-id-type="pmcid">PMC2601530</pub-id></mixed-citation></ref><ref id="prd12540-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="prd12540-cit-0009">
+<string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Antonoglou</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bueno</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Figuero</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanz</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Periodontitis, edentulism, and risk of mortality: a systematic review with meta‐analyses</article-title>. <source>J Dent Res</source>. <year>2021</year>;<volume>100</volume>(<issue>1</issue>):<fpage>37</fpage>‐<lpage>49</lpage>.<pub-id pub-id-type="pmid">32866427</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034520952401</pub-id></mixed-citation></ref><ref id="prd12540-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="prd12540-cit-0010">
+<string-name name-style="western">
+<surname>Antonoglou</surname>
+<given-names>GN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meurman</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Surakka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janket</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanz</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Periodontitis and edentulism as risk indicators for mortality: results from a prospective cohort study with 20 years of follow‐up</article-title>. <source>J Periodontal Res</source>. <year>2023</year>;<volume>58</volume>(<issue>1</issue>):<fpage>12</fpage>‐<lpage>21</lpage>.<pub-id pub-id-type="pmid">36282792</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jre.13061</pub-id><pub-id pub-id-type="pmcid">PMC10092146</pub-id></mixed-citation></ref><ref id="prd12540-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="prd12540-cit-0011">
+<string-name name-style="western">
+<surname>Teles</surname>
+<given-names>FRF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alawi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castilho</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Association or causation? Exploring the Oral microbiome and Cancer links</article-title>. <source>J Dent Res</source>. <year>2020</year>;<volume>99</volume>(<issue>13</issue>):<fpage>1411</fpage>‐<lpage>1424</lpage>.<pub-id pub-id-type="pmid">32811287</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034520945242</pub-id><pub-id pub-id-type="pmcid">PMC7684840</pub-id></mixed-citation></ref><ref id="prd12540-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="prd12540-cit-0012">
+<string-name name-style="western">
+<surname>Gillies</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verduzco</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gatenby</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Evolutionary dynamics of carcinogenesis and why targeted therapy does not work</article-title>. <source>Nat Rev Cancer</source>. <year>2012</year>;<volume>12</volume>(<issue>7</issue>):<fpage>487</fpage>‐<lpage>493</lpage>.<pub-id pub-id-type="pmid">22695393</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc3298</pub-id><pub-id pub-id-type="pmcid">PMC4122506</pub-id></mixed-citation></ref><ref id="prd12540-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="prd12540-cit-0013">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hannun</surname>
+<given-names>YA</given-names>
+</string-name>. <article-title>Evaluating intrinsic and non‐intrinsic cancer risk factors</article-title>. <source>Nat Commun</source>. <year>2018</year>;<volume>9</volume>(<issue>1</issue>):<fpage>3490</fpage>.<pub-id pub-id-type="pmid">30154431</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-018-05467-z</pub-id><pub-id pub-id-type="pmcid">PMC6113228</pub-id></mixed-citation></ref><ref id="prd12540-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="prd12540-cit-0014">
+<string-name name-style="western">
+<surname>Nowell</surname>
+<given-names>PC</given-names>
+</string-name>. <article-title>The clonal evolution of tumor cell populations</article-title>. <source>Science</source>. <year>1976</year>;<volume>194</volume>(<issue>4260</issue>):<fpage>23</fpage>‐<lpage>28</lpage>.<pub-id pub-id-type="pmid">959840</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.959840</pub-id></mixed-citation></ref><ref id="prd12540-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="prd12540-cit-0015">
+<string-name name-style="western">
+<surname>Hanahan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weinberg</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Hallmarks of cancer: the next generation</article-title>. <source>Cell</source>. <year>2011</year>;<volume>144</volume>(<issue>5</issue>):<fpage>646</fpage>‐<lpage>674</lpage>.<pub-id pub-id-type="pmid">21376230</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2011.02.013</pub-id></mixed-citation></ref><ref id="prd12540-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="prd12540-cit-0016">
+<string-name name-style="western">
+<surname>Anderson</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simon</surname>
+<given-names>MC</given-names>
+</string-name>. <article-title>The tumor microenvironment</article-title>. <source>Curr Biol</source>. <year>2020</year>;<volume>30</volume>(<issue>16</issue>):<fpage>R921</fpage>‐<lpage>R925</lpage>.<pub-id pub-id-type="pmid">32810447</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cub.2020.06.081</pub-id><pub-id pub-id-type="pmcid">PMC8194051</pub-id></mixed-citation></ref><ref id="prd12540-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="prd12540-cit-0017">
+<string-name name-style="western">
+<surname>Fane</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weeraratna</surname>
+<given-names>AT</given-names>
+</string-name>. <article-title>How the ageing microenvironment influences tumour progression</article-title>. <source>Nat Rev Cancer</source>. <year>2020</year>;<volume>20</volume>(<issue>2</issue>):<fpage>89</fpage>‐<lpage>106</lpage>.<pub-id pub-id-type="pmid">31836838</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41568-019-0222-9</pub-id><pub-id pub-id-type="pmcid">PMC7377404</pub-id></mixed-citation></ref><ref id="prd12540-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="prd12540-cit-0018">
+<string-name name-style="western">
+<surname>Proctor</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shelef</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzalez</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Microbial biogeography and ecology of the mouth and implications for periodontal diseases</article-title>. <source>Periodontol 2000</source>. <year>2000</year>;<volume>82</volume>(<issue>1</issue>):<fpage>26</fpage>‐<lpage>41</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/prd.12268</pub-id><pub-id pub-id-type="pmcid">PMC6924627</pub-id><pub-id pub-id-type="pmid">31850642</pub-id></mixed-citation></ref><ref id="prd12540-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="prd12540-cit-0019">
+<string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shin</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arrica</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laforí</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cordaro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The co‐occurrence of the two main oral diseases: periodontitis and dental caries</article-title>. <source>Clin Oral Investig</source>. <year>2023</year>;<volume>27</volume>(<issue>11</issue>):<fpage>6483</fpage>‐<lpage>6492</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00784-023-05253-2</pub-id><pub-id pub-id-type="pmcid">PMC10630193</pub-id><pub-id pub-id-type="pmid">37714978</pub-id></mixed-citation></ref><ref id="prd12540-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="prd12540-cit-0020">
+<string-name name-style="western">
+<surname>Hajishengallis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chavakis</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Local and systemic mechanisms linking periodontal disease and inflammatory comorbidities</article-title>. <source>Nat Rev Immunol</source>. <year>2021</year>;<volume>21</volume>(<issue>7</issue>):<fpage>426</fpage>‐<lpage>440</lpage>.<pub-id pub-id-type="pmid">33510490</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41577-020-00488-6</pub-id><pub-id pub-id-type="pmcid">PMC7841384</pub-id></mixed-citation></ref><ref id="prd12540-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="prd12540-cit-0021">
+<string-name name-style="western">
+<surname>Sanz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ceriello</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buysschaert</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Scientific evidence on the links between periodontal diseases and diabetes: consensus report and guidelines of the joint workshop on periodontal diseases and diabetes by the international diabetes federation and the European Federation of Periodontology</article-title>. <source>Diabetes Res Clin Pract</source>. <year>2018</year>;<volume>137</volume>:<fpage>231</fpage>‐<lpage>241</lpage>.<pub-id pub-id-type="pmid">29208508</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diabres.2017.12.001</pub-id></mixed-citation></ref><ref id="prd12540-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="prd12540-cit-0022">
+<string-name name-style="western">
+<surname>Figuero</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sánchez‐Beltrán</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cuesta‐Frechoso</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Detection of periodontal bacteria in atheromatous plaque by nested polymerase chain reaction</article-title>. <source>J Periodontol</source>. <year>2011</year>;<volume>82</volume>(<issue>10</issue>):<fpage>1469</fpage>‐<lpage>1477</lpage>.<pub-id pub-id-type="pmid">21453047</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1902/jop.2011.100719</pub-id></mixed-citation></ref><ref id="prd12540-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="prd12540-cit-0023">
+<string-name name-style="western">
+<surname>Sanz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marco Del Castillo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jepsen</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Periodontitis and cardiovascular diseases: Consensus report</article-title>. <source>J Clin Periodontol</source>. <year>2020</year>;<volume>47</volume>(<issue>3</issue>):<fpage>268</fpage>‐<lpage>288</lpage>.<pub-id pub-id-type="pmid">32011025</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13189</pub-id><pub-id pub-id-type="pmcid">PMC7027895</pub-id></mixed-citation></ref><ref id="prd12540-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="prd12540-cit-0024">
+<string-name name-style="western">
+<surname>Michaud</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Izard</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilhelm‐Benartzi</surname>
+<given-names>CS</given-names>
+</string-name>, et al. <article-title>Plasma antibodies to oral bacteria and risk of pancreatic cancer in a large European prospective cohort study</article-title>. <source>Gut</source>. <year>2013</year>;<volume>62</volume>(<issue>12</issue>):<fpage>1764</fpage>‐<lpage>1770</lpage>.<pub-id pub-id-type="pmid">22990306</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2012-303006</pub-id><pub-id pub-id-type="pmcid">PMC3815505</pub-id></mixed-citation></ref><ref id="prd12540-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="prd12540-cit-0025">
+<string-name name-style="western">
+<surname>Nwizu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wactawski‐Wende</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Genco</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Periodontal disease and cancer: epidemiologic studies and possible mechanisms</article-title>. <source>Periodontology 2000</source>. <year>2020</year>;<volume>83</volume>(<issue>1</issue>):<fpage>213</fpage>‐<lpage>233</lpage>.<pub-id pub-id-type="pmid">32385885</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/prd.12329</pub-id><pub-id pub-id-type="pmcid">PMC7328760</pub-id></mixed-citation></ref><ref id="prd12540-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="prd12540-cit-0026">
+<string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lafori</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cordaro</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Periodontitis and platelet count: a new potential link with cardiovascular and other systemic inflammatory diseases</article-title>. <source>J Clin Periodontol</source>. <year>2018</year>;<volume>45</volume>(<issue>11</issue>):<fpage>1299</fpage>‐<lpage>1310</lpage>.<pub-id pub-id-type="pmid">30133784</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13004</pub-id></mixed-citation></ref><ref id="prd12540-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="prd12540-cit-0027">
+<string-name name-style="western">
+<surname>Michaud</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kelsey</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Papathanasiou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Genco</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giovannucci</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Periodontal disease and risk of all cancers among male never smokers: an updated analysis of the health professionals follow‐up study</article-title>. <source>Ann Oncol</source>. <year>2016</year>;<volume>27</volume>(<issue>5</issue>):<fpage>941</fpage>‐<lpage>947</lpage>.<pub-id pub-id-type="pmid">26811350</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/annonc/mdw028</pub-id><pub-id pub-id-type="pmcid">PMC4843185</pub-id></mixed-citation></ref><ref id="prd12540-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="prd12540-cit-0028">
+<string-name name-style="western">
+<surname>Hashim</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sartori</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brennan</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>The role of oral hygiene in head and neck cancer: results from international head and neck Cancer epidemiology (INHANCE) consortium</article-title>. <source>Ann Oncol</source>. <year>2016</year>;<volume>27</volume>(<issue>8</issue>):<fpage>1619</fpage>‐<lpage>1625</lpage>.<pub-id pub-id-type="pmid">27234641</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/annonc/mdw224</pub-id><pub-id pub-id-type="pmcid">PMC4959929</pub-id></mixed-citation></ref><ref id="prd12540-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="prd12540-cit-0029">
+<string-name name-style="western">
+<surname>Shin</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choung</surname>
+<given-names>HW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rhyu</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>HD</given-names>
+</string-name>. <article-title>Association of Periodontitis with Oral Cancer: a case‐control study</article-title>. <source>J Dent Res</source>. <year>2019</year>;<volume>98</volume>(<issue>5</issue>):<fpage>526</fpage>‐<lpage>533</lpage>.<pub-id pub-id-type="pmid">30779879</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034519827565</pub-id></mixed-citation></ref><ref id="prd12540-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="prd12540-cit-0030">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Variations in oral microbiota associated with oral cancer</article-title>. <source>Sci Rep</source>. <year>2017</year>;<volume>7</volume>(<issue>1</issue>):<fpage>11773</fpage>.<pub-id pub-id-type="pmid">28924229</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-017-11779-9</pub-id><pub-id pub-id-type="pmcid">PMC5603520</pub-id></mixed-citation></ref><ref id="prd12540-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="prd12540-cit-0031">
+<string-name name-style="western">
+<surname>Radaic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ganther</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kamarajan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grandis</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yom</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapila</surname>
+<given-names>YL</given-names>
+</string-name>. <article-title>Paradigm shift in the pathogenesis and treatment of oral cancer and other cancers focused on the oralome and antimicrobial‐based therapeutics</article-title>. <source>Periodontol 2000</source>. <year>2021</year>;<volume>87</volume>(<issue>1</issue>):<fpage>76</fpage>‐<lpage>93</lpage>.<pub-id pub-id-type="pmid">34463982</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/prd.12388</pub-id><pub-id pub-id-type="pmcid">PMC8415008</pub-id></mixed-citation></ref><ref id="prd12540-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="prd12540-cit-0032">
+<string-name name-style="western">
+<surname>Karpiński</surname>
+<given-names>TM</given-names>
+</string-name>. <article-title>Role of Oral microbiota in Cancer development</article-title>. <source>Microorganisms</source>. <year>2019</year>;<volume>7</volume>(<issue>1</issue>):<elocation-id>20</elocation-id>.<pub-id pub-id-type="pmid">30642137</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/microorganisms7010020</pub-id><pub-id pub-id-type="pmcid">PMC6352272</pub-id></mixed-citation></ref><ref id="prd12540-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="prd12540-cit-0033">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ciou</surname>
+<given-names>JS</given-names>
+</string-name>, et al. <article-title>Molecular damage and responses of oral keratinocyte to hydrogen peroxide</article-title>. <source>BMC Oral Health</source>. <year>2019</year>;<volume>19</volume>(<issue>1</issue>):<elocation-id>10</elocation-id>.<pub-id pub-id-type="pmid">30634966</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12903-018-0694-0</pub-id><pub-id pub-id-type="pmcid">PMC6329095</pub-id></mixed-citation></ref><ref id="prd12540-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="prd12540-cit-0034">
+<string-name name-style="western">
+<surname>Gabusi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gissi</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grillini</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Shared epigenetic alterations between oral cancer and periodontitis: a preliminary study</article-title>. <source>Oral Dis</source>. <year>2023</year>;<volume>29</volume>(<issue>5</issue>):<fpage>2052</fpage>‐<lpage>2060</lpage>.<pub-id pub-id-type="pmid">35567390</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/odi.14251</pub-id></mixed-citation></ref><ref id="prd12540-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="prd12540-cit-0035">
+<string-name name-style="western">
+<surname>Geng</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pan</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Fusobacterium nucleatum caused DNA damage and promoted cell proliferation by the Ku70/p53 pathway in Oral Cancer cells</article-title>. <source>DNA Cell Biol</source>. <year>2020</year>;<volume>39</volume>(<issue>1</issue>):<fpage>144</fpage>‐<lpage>151</lpage>.<pub-id pub-id-type="pmid">31765243</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/dna.2019.5064</pub-id><pub-id pub-id-type="pmcid">PMC6978777</pub-id></mixed-citation></ref><ref id="prd12540-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="prd12540-cit-0036">
+<string-name name-style="western">
+<surname>Yost</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stashenko</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Increased virulence of the oral microbiome in oral squamous cell carcinoma revealed by metatranscriptome analyses</article-title>. <source>Int J Oral Sci</source>. <year>2018</year>;<volume>10</volume>(<issue>4</issue>):<fpage>32</fpage>.<pub-id pub-id-type="pmid">30420594</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41368-018-0037-7</pub-id><pub-id pub-id-type="pmcid">PMC6232154</pub-id></mixed-citation></ref><ref id="prd12540-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="prd12540-cit-0037">
+<string-name name-style="western">
+<surname>Groeger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herrmann</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakraborty</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Domann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyle</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Porphyromonas gingivalis W83 membrane components induce distinct profiles of metabolic genes in Oral squamous carcinoma cells</article-title>. <source>Int J Mol Sci</source>. <year>2022</year>;<volume>23</volume>(<issue>7</issue>):<fpage>3442</fpage>.<pub-id pub-id-type="pmid">35408801</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms23073442</pub-id><pub-id pub-id-type="pmcid">PMC8998328</pub-id></mixed-citation></ref><ref id="prd12540-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="prd12540-cit-0038">
+<string-name name-style="western">
+<surname>Rakoff‐Nahoum</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medzhitov</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Toll‐like receptors and cancer</article-title>. <source>Nat Rev Cancer</source>. <year>2009</year>;<volume>9</volume>(<issue>1</issue>):<fpage>57</fpage>‐<lpage>63</lpage>.<pub-id pub-id-type="pmid">19052556</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc2541</pub-id></mixed-citation></ref><ref id="prd12540-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="prd12540-cit-0039">
+<string-name name-style="western">
+<surname>Schwabe</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jobin</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The microbiome and cancer</article-title>. <source>Nat Rev Cancer</source>. <year>2013</year>;<volume>13</volume>(<issue>11</issue>):<fpage>800</fpage>‐<lpage>812</lpage>.<pub-id pub-id-type="pmid">24132111</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc3610</pub-id><pub-id pub-id-type="pmcid">PMC3986062</pub-id></mixed-citation></ref><ref id="prd12540-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="prd12540-cit-0040">
+<string-name name-style="western">
+<surname>Groeger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jarzina</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Domann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyle</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Porphyromonas gingivalis activates NFκB and MAPK pathways in human oral epithelial cells</article-title>. <source>BMC Immunol</source>. <year>2017</year>;<volume>18</volume>(<issue>1</issue>):<fpage>1</fpage>.<pub-id pub-id-type="pmid">28056810</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12865-016-0185-5</pub-id><pub-id pub-id-type="pmcid">PMC5217430</pub-id></mixed-citation></ref><ref id="prd12540-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="prd12540-cit-0041">
+<string-name name-style="western">
+<surname>Groeger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyle</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Pathogenic mechanisms of fusobacterium nucleatum on Oral epithelial cells</article-title>. <source>Front Oral Health</source>. <year>2022</year>;<volume>3</volume>:<elocation-id>831607</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/froh.2022.831607</pub-id>
+<pub-id pub-id-type="pmid">35478496</pub-id>
+<pub-id pub-id-type="pmcid">PMC9037381</pub-id></mixed-citation></ref><ref id="prd12540-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="prd12540-cit-0042">
+<string-name name-style="western">
+<surname>Pang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ren</surname>
+<given-names>XH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>QM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>XH</given-names>
+</string-name>. <article-title>Microbiota, epithelium, inflammation, and TGF‐β signaling: an intricate interaction in oncogenesis</article-title>. <source>Front Microbiol</source>. <year>2018</year>;<volume>9</volume>:<fpage>1353</fpage>.<pub-id pub-id-type="pmid">29997586</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmicb.2018.01353</pub-id><pub-id pub-id-type="pmcid">PMC6029488</pub-id></mixed-citation></ref><ref id="prd12540-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="prd12540-cit-0043">
+<string-name name-style="western">
+<surname>Takeuchi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sasaki</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamaga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuboniwa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsusaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amano</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Porphyromonas gingivalis induces penetration of lipopolysaccharide and peptidoglycan through the gingival epithelium via degradation of junctional adhesion molecule 1</article-title>. <source>PLoS Pathog</source>. <year>2019</year>;<volume>15</volume>(<issue>11</issue>):<elocation-id>e1008124</elocation-id>.<pub-id pub-id-type="pmid">31697789</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.ppat.1008124</pub-id><pub-id pub-id-type="pmcid">PMC6932823</pub-id></mixed-citation></ref><ref id="prd12540-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="prd12540-cit-0044">
+<string-name name-style="western">
+<surname>Groeger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howaldt</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raifer</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gattenloehner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakraborty</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyle</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Oral squamous carcinoma cells express B7‐H1 and B7‐DC receptors in vivo</article-title>. <source>Pathol Oncol Res</source>. <year>2017</year>;<volume>23</volume>(<issue>1</issue>):<fpage>99</fpage>‐<lpage>110</lpage>.<pub-id pub-id-type="pmid">27498988</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12253-016-0100-7</pub-id></mixed-citation></ref><ref id="prd12540-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="prd12540-cit-0045">
+<string-name name-style="western">
+<surname>Groeger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Domann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzales</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakraborty</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyle</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>B7‐H1 and B7‐DC receptors of oral squamous carcinoma cells are upregulated by Porphyromonas gingivalis</article-title>. <source>Immunobiology</source>. <year>2011</year>;<volume>216</volume>(<issue>12</issue>):<fpage>1302</fpage>‐<lpage>1310</lpage>.<pub-id pub-id-type="pmid">21723642</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.imbio.2011.05.005</pub-id></mixed-citation></ref><ref id="prd12540-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="prd12540-cit-0046">
+<string-name name-style="western">
+<surname>Groeger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakraborty</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyle</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Effects of Porphyromonas gingivalis infection on human gingival epithelial barrier function in vitro</article-title>. <source>Eur J Oral Sci</source>. <year>2010</year>;<volume>118</volume>(<issue>6</issue>):<fpage>582</fpage>‐<lpage>589</lpage>.<pub-id pub-id-type="pmid">21083619</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1600-0722.2010.00782.x</pub-id></mixed-citation></ref><ref id="prd12540-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="prd12540-cit-0047">
+<string-name name-style="western">
+<surname>Groeger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jarzina</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mamat</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyle</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Induction of B7‐H1 receptor by bacterial cells fractions of Porphyromonas gingivalis on human oral epithelial cells: B7‐H1 induction by Porphyromonas gingivalis fractions</article-title>. <source>Immunobiology</source>. <year>2017</year>;<volume>222</volume>(<issue>2</issue>):<fpage>137</fpage>‐<lpage>147</lpage>.<pub-id pub-id-type="pmid">28164807</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.imbio.2016.10.011</pub-id></mixed-citation></ref><ref id="prd12540-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="prd12540-cit-0048">
+<string-name name-style="western">
+<surname>Hormia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Willberg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruokonen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Syrjänen</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Marginal periodontium as a potential reservoir of human papillomavirus in oral mucosa</article-title>. <source>J Periodontol</source>. <year>2005</year>;<volume>76</volume>:<fpage>358</fpage>‐<lpage>363</lpage>.<pub-id pub-id-type="pmid">15857068</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1902/jop.2005.76.3.358</pub-id></mixed-citation></ref><ref id="prd12540-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="prd12540-cit-0049">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Houcken</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loos</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schenkein</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tezal</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Periodontal disease, atherosclerosis, adverse pregnancy outcomes, and head‐and‐neck cancer</article-title>. <source>Adv Dent Res</source>. <year>2014</year>;<volume>26</volume>(<issue>1</issue>):<fpage>47</fpage>‐<lpage>55</lpage>.<pub-id pub-id-type="pmid">24736704</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034514528334</pub-id><pub-id pub-id-type="pmcid">PMC10477771</pub-id></mixed-citation></ref><ref id="prd12540-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="prd12540-cit-0050">
+<string-name name-style="western">
+<surname>Tezal</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scannapieco</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wactawski‐Wende</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Local inflammation and human papillomavirus status of head and neck cancers</article-title>. <source>Arch Otolaryngol Head Neck Surg</source>. <year>2012</year>;<volume>138</volume>(<issue>7</issue>):<fpage>669</fpage>‐<lpage>675</lpage>.<pub-id pub-id-type="pmid">22710409</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archoto.2012.873</pub-id><pub-id pub-id-type="pmcid">PMC4477511</pub-id></mixed-citation></ref><ref id="prd12540-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="prd12540-cit-0051">
+<string-name name-style="western">
+<surname>Fitzsimonds</surname>
+<given-names>ZR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodriguez‐Hernandez</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bagaitkar</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lamont</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>From beyond the pale to the pale riders: The emerging association of bacteria with oral cancer</article-title>. <source>J Dent Res</source>. <year>2020</year>;<volume>99</volume>(<issue>6</issue>):<fpage>604</fpage>‐<lpage>612</lpage>.<pub-id pub-id-type="pmid">32091956</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034520907341</pub-id><pub-id pub-id-type="pmcid">PMC7243420</pub-id></mixed-citation></ref><ref id="prd12540-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="prd12540-cit-0052">
+<collab collab-type="authors">The Human Microbiome Project Consortium</collab>
+. <article-title>Structure, function and diversity of the healthy human microbiome</article-title>. <source>Nature</source>. <year>2012</year>;<volume>486</volume>(<issue>7402</issue>):<fpage>207</fpage>‐<lpage>214</lpage>.<pub-id pub-id-type="pmid">22699609</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature11234</pub-id><pub-id pub-id-type="pmcid">PMC3564958</pub-id></mixed-citation></ref><ref id="prd12540-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="prd12540-cit-0053">
+<string-name name-style="western">
+<surname>Michaud</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peacock‐Villada</surname>
+<given-names>AY</given-names>
+</string-name>, et al. <article-title>Periodontal disease assessed using clinical dental measurements and Cancer risk in the ARIC study</article-title>. <source>J Natl Cancer Inst</source>. <year>2018</year>;<volume>110</volume>(<issue>8</issue>):<fpage>843</fpage>‐<lpage>854</lpage>.<pub-id pub-id-type="pmid">29342298</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnci/djx278</pub-id><pub-id pub-id-type="pmcid">PMC6093423</pub-id></mixed-citation></ref><ref id="prd12540-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="prd12540-cit-0054">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Relationship between periodontal disease and lung cancer: a systematic review and meta‐analysis</article-title>. <source>J Periodontal Res</source>. <year>2020</year>;<volume>55</volume>(<issue>5</issue>):<fpage>581</fpage>‐<lpage>593</lpage>.<pub-id pub-id-type="pmid">32583879</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jre.12772</pub-id></mixed-citation></ref><ref id="prd12540-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="prd12540-cit-0055">
+<string-name name-style="western">
+<surname>Pu</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seshadri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manuballa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yendamuri</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The Oral microbiome and lung diseases</article-title>. <source>Curr Oral Health Rep</source>. <year>2020</year>;<volume>7</volume>(<issue>1</issue>):<fpage>79</fpage>‐<lpage>86</lpage>.</mixed-citation></ref><ref id="prd12540-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="prd12540-cit-0056">
+<string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marruganti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aimetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Periodontitis and COVID‐19: biological mechanisms and meta‐analyses of epidemiological evidence</article-title>. <source>J Dent Res</source>. <year>2022</year>;<volume>101</volume>(<issue>12</issue>):<fpage>1430</fpage>‐<lpage>1440</lpage>.<pub-id pub-id-type="pmid">35774019</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/00220345221104725</pub-id></mixed-citation></ref><ref id="prd12540-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="prd12540-cit-0057">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Clinical significance and prognostic value of Porphyromonas gingivalis infection in lung cancer</article-title>. <source>Transl Oncol</source>. <year>2021</year>;<volume>14</volume>(<issue>1</issue>):<elocation-id>100972</elocation-id>.<pub-id pub-id-type="pmid">33279803</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tranon.2020.100972</pub-id><pub-id pub-id-type="pmcid">PMC7718477</pub-id></mixed-citation></ref><ref id="prd12540-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="prd12540-cit-0058">
+<string-name name-style="western">
+<surname>Fang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Long</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maeda</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Enhancement of tumor‐targeted delivery of bacteria with nitroglycerin involving augmentation of the EPR effect</article-title>. <source>Methods Mol Biol</source>. <year>2016</year>;<volume>1409</volume>:<fpage>9</fpage>‐<lpage>23</lpage>.<pub-id pub-id-type="pmid">26846798</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-4939-3515-4_2</pub-id></mixed-citation></ref><ref id="prd12540-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="prd12540-cit-0059">
+<string-name name-style="western">
+<surname>Maeda</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsukigawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fang</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>A retrospective 30 years after discovery of the enhanced permeability and retention effect of solid tumors: next‐generation chemotherapeutics and photodynamic therapy—problems, solutions, and prospects</article-title>. <source>Microcirculation</source>. <year>2016</year>;<volume>23</volume>(<issue>3</issue>):<fpage>173</fpage>‐<lpage>182</lpage>.<pub-id pub-id-type="pmid">26237291</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/micc.12228</pub-id></mixed-citation></ref><ref id="prd12540-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="prd12540-cit-0060">
+<string-name name-style="western">
+<surname>Nwizu</surname>
+<given-names>NN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marshall</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moysich</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Periodontal disease and incident Cancer risk among postmenopausal women: results from the Women's Health Initiative observational cohort</article-title>. <source>Cancer Epidemiol Biomarkers Prev</source>. <year>2017</year>;<volume>26</volume>(<issue>8</issue>):<fpage>1255</fpage>‐<lpage>1265</lpage>.<pub-id pub-id-type="pmid">28765338</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1055-9965.EPI-17-0212</pub-id><pub-id pub-id-type="pmcid">PMC5551444</pub-id></mixed-citation></ref><ref id="prd12540-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="prd12540-cit-0061">
+<string-name name-style="western">
+<surname>Shi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Min</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Periodontal disease and susceptibility to breast cancer: a meta‐analysis of observational studies</article-title>. <source>J Clin Periodontol</source>. <year>2018</year>;<volume>45</volume>(<issue>9</issue>):<fpage>1025</fpage>‐<lpage>1033</lpage>.<pub-id pub-id-type="pmid">29974484</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.12982</pub-id></mixed-citation></ref><ref id="prd12540-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="prd12540-cit-0062">
+<string-name name-style="western">
+<surname>Nejman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Livyatan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuks</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>The human tumor microbiome is composed of tumor type–specific intracellular bacteria</article-title>. <source>Science</source>. <year>2020</year>;<volume>368</volume>(<issue>6494</issue>):<fpage>973</fpage>‐<lpage>980</lpage>.<pub-id pub-id-type="pmid">32467386</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.aay9189</pub-id><pub-id pub-id-type="pmcid">PMC7757858</pub-id></mixed-citation></ref><ref id="prd12540-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="prd12540-cit-0063">
+<string-name name-style="western">
+<surname>Parhi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alon‐Maimon</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sol</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Breast cancer colonization by fusobacterium nucleatum accelerates tumor growth and metastatic progression</article-title>. <source>Nat Commun</source>. <year>2020</year>;<volume>11</volume>(<issue>1</issue>):<fpage>3259</fpage>.<pub-id pub-id-type="pmid">32591509</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-020-16967-2</pub-id><pub-id pub-id-type="pmcid">PMC7320135</pub-id></mixed-citation></ref><ref id="prd12540-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="prd12540-cit-0064">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>D‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeong</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Chronic periodontal disease increases risk for prostate Cancer in elderly individuals in South Korea: a retrospective Nationwide population‐based cohort study</article-title>. <source>J Cancer</source>. <year>2020</year>;<volume>11</volume>(<issue>16</issue>):<fpage>4716</fpage>‐<lpage>4723</lpage>.<pub-id pub-id-type="pmid">32626518</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7150/jca.45369</pub-id><pub-id pub-id-type="pmcid">PMC7330688</pub-id></mixed-citation></ref><ref id="prd12540-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="prd12540-cit-0065">
+<string-name name-style="western">
+<surname>Estemalik</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Demko</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bissada</surname>
+<given-names>NF</given-names>
+</string-name>, et al. <article-title>Simultaneous detection of Oral pathogens in subgingival plaque and prostatic fluid of men with periodontal and prostatic diseases</article-title>. <source>J Periodontol</source>. <year>2017</year>;<volume>88</volume>(<issue>9</issue>):<fpage>823</fpage>‐<lpage>829</lpage>.<pub-id pub-id-type="pmid">28548883</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1902/jop.2017.160477</pub-id></mixed-citation></ref><ref id="prd12540-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="prd12540-cit-0066">
+<string-name name-style="western">
+<surname>Groeger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wagenlehner</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>PD‐L1 up‐regulation in prostate Cancer cells by Porphyromonas gingivalis</article-title>. <source>Front Cell Infect Microbiol</source>. <year>2022</year>;<volume>12</volume>:<elocation-id>935806</elocation-id>.<pub-id pub-id-type="pmid">35846769</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fcimb.2022.935806</pub-id><pub-id pub-id-type="pmcid">PMC9277116</pub-id></mixed-citation></ref><ref id="prd12540-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="prd12540-cit-0067">
+<string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ribaldone</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romano</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aimetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The gum‐gut Axis: periodontitis and the risk of gastrointestinal cancers</article-title>. <source>Cancers (Basel)</source>. <year>2023</year>;<volume>15</volume>(<issue>18</issue>):<elocation-id>4594</elocation-id>.<pub-id pub-id-type="pmid">37760563</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cancers15184594</pub-id><pub-id pub-id-type="pmcid">PMC10526746</pub-id></mixed-citation></ref><ref id="prd12540-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="prd12540-cit-0068">
+<string-name name-style="western">
+<surname>Lo</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kwon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Periodontal disease, tooth loss, and risk of oesophageal and gastric adenocarcinoma: a prospective study</article-title>. <source>Gut</source>. <year>2021</year>;<volume>70</volume>(<issue>3</issue>):<fpage>620</fpage>‐<lpage>621</lpage>.<pub-id pub-id-type="pmid">32690603</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2020-321949</pub-id><pub-id pub-id-type="pmcid">PMC7855151</pub-id></mixed-citation></ref><ref id="prd12540-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="prd12540-cit-0069">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nam</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>CH</given-names>
+</string-name>, et al. <article-title>Periodontal disease and cancer risk: a nationwide population‐based cohort study</article-title>. <source>Front Oncol</source>. <year>2022</year>;<volume>12</volume>:<elocation-id>901098</elocation-id>.<pub-id pub-id-type="pmid">36081548</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fonc.2022.901098</pub-id><pub-id pub-id-type="pmcid">PMC9445882</pub-id></mixed-citation></ref><ref id="prd12540-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="prd12540-cit-0070">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Presence of Porphyromonas gingivalis in esophagus and its association with the clinicopathological characteristics and survival in patients with esophageal cancer</article-title>. <source>Infect Agent Cancer</source>. <year>2016</year>;<volume>11</volume>:<fpage>3</fpage>.<pub-id pub-id-type="pmid">26788120</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13027-016-0049-x</pub-id><pub-id pub-id-type="pmcid">PMC4717526</pub-id></mixed-citation></ref><ref id="prd12540-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="prd12540-cit-0071">
+<string-name name-style="western">
+<surname>Boehm</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thon</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kupcinskas</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Fusobacterium nucleatum is associated with worse prognosis in Lauren's diffuse type gastric cancer patients</article-title>. <source>Sci Rep</source>. <year>2020</year>;<volume>10</volume>(<issue>1</issue>):<fpage>16240</fpage>.<pub-id pub-id-type="pmid">33004953</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-020-73448-8</pub-id><pub-id pub-id-type="pmcid">PMC7530997</pub-id></mixed-citation></ref><ref id="prd12540-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="prd12540-cit-0072">
+<string-name name-style="western">
+<surname>Zarić</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bojić</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janković</surname>
+<given-names>LJ</given-names>
+</string-name>, et al. <article-title>Periodontal therapy improves gastric helicobacter pylori eradication</article-title>. <source>J Dent Res</source>. <year>2009</year>;<volume>88</volume>(<issue>10</issue>):<fpage>946</fpage>‐<lpage>950</lpage>.<pub-id pub-id-type="pmid">19783805</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034509344559</pub-id></mixed-citation></ref><ref id="prd12540-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="prd12540-cit-0073">
+<string-name name-style="western">
+<surname>Sung</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>RY</given-names>
+</string-name>, et al. <article-title>Periodontitis, helicobacter pylori infection, and gastrointestinal tract cancer mortality</article-title>. <source>J Clin Periodontol</source>. <year>2022</year>;<volume>49</volume>(<issue>3</issue>):<fpage>210</fpage>‐<lpage>220</lpage>.<pub-id pub-id-type="pmid">34961943</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13590</pub-id></mixed-citation></ref><ref id="prd12540-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="prd12540-cit-0074">
+<string-name name-style="western">
+<surname>Michaud</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joshipura</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giovannucci</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuchs</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>A prospective study of periodontal disease and pancreatic cancer in US male health professionals</article-title>. <source>J Natl Cancer Inst</source>. <year>2007</year>;<volume>99</volume>(<issue>2</issue>):<fpage>171</fpage>‐<lpage>175</lpage>.<pub-id pub-id-type="pmid">17228001</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnci/djk021</pub-id></mixed-citation></ref><ref id="prd12540-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="prd12540-cit-0075">
+<string-name name-style="western">
+<surname>Maisonneuve</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lowenfels</surname>
+<given-names>AB</given-names>
+</string-name>. <article-title>Periodontal disease, edentulism, and pancreatic cancer: a meta‐analysis</article-title>. <source>Ann Oncol</source>. <year>2017</year>;<volume>28</volume>(<issue>5</issue>):<fpage>985</fpage>‐<lpage>995</lpage>.<pub-id pub-id-type="pmid">28453689</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/annonc/mdx019</pub-id></mixed-citation></ref><ref id="prd12540-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="prd12540-cit-0076">
+<string-name name-style="western">
+<surname>Klein</surname>
+<given-names>AP</given-names>
+</string-name>. <article-title>Pancreatic cancer epidemiology: understanding the role of lifestyle and inherited risk factors</article-title>. <source>Nat Rev Gastroenterol Hepatol</source>. <year>2021</year>;<volume>18</volume>(<issue>7</issue>):<fpage>493</fpage>‐<lpage>502</lpage>.<pub-id pub-id-type="pmid">34002083</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41575-021-00457-x</pub-id><pub-id pub-id-type="pmcid">PMC9265847</pub-id></mixed-citation></ref><ref id="prd12540-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="prd12540-cit-0077">
+<string-name name-style="western">
+<surname>Archibugi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Signoretti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Capurso</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The microbiome and pancreatic Cancer: an evidence‐based association?</article-title>
+<source>J Clin Gastroenterol</source>. <year>2018</year>;<volume>52</volume>(<issue>Supplement 1</issue>):<fpage>S82</fpage>‐<lpage>S85</lpage>.<pub-id pub-id-type="pmid">30001289</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MCG.0000000000001092</pub-id></mixed-citation></ref><ref id="prd12540-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="prd12540-cit-0078">
+<string-name name-style="western">
+<surname>Gaiser</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halimi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alkharaan</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Enrichment of oral microbiota in early cystic precursors to invasive pancreatic cancer</article-title>. <source>Gut</source>. <year>2019</year>;<volume>68</volume>(<issue>12</issue>):<fpage>2186</fpage>‐<lpage>2194</lpage>.<pub-id pub-id-type="pmid">30872392</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2018-317458</pub-id><pub-id pub-id-type="pmcid">PMC6872446</pub-id></mixed-citation></ref><ref id="prd12540-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="prd12540-cit-0079">
+<string-name name-style="western">
+<surname>Nieminen</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Listyarifah</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagström</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Treponema denticola chymotrypsin‐like proteinase may contribute to orodigestive carcinogenesis through immunomodulation</article-title>. <source>Br J Cancer</source>. <year>2018</year>;<volume>118</volume>(<issue>3</issue>):<fpage>428</fpage>‐<lpage>434</lpage>.<pub-id pub-id-type="pmid">29149107</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bjc.2017.409</pub-id><pub-id pub-id-type="pmcid">PMC5808028</pub-id></mixed-citation></ref><ref id="prd12540-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="prd12540-cit-0080">
+<string-name name-style="western">
+<surname>Fan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alekseyenko</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Human oral microbiome and prospective risk for pancreatic cancer: a population‐based nested case‐control study</article-title>. <source>Gut</source>. <year>2018</year>;<volume>67</volume>(<issue>1</issue>):<fpage>120</fpage>‐<lpage>127</lpage>.<pub-id pub-id-type="pmid">27742762</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2016-312580</pub-id><pub-id pub-id-type="pmcid">PMC5607064</pub-id></mixed-citation></ref><ref id="prd12540-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="prd12540-cit-0081">
+<string-name name-style="western">
+<surname>Tan</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Periodontitis pathogen Porphyromonas gingivalis promotes pancreatic tumorigenesis via neutrophil elastase from tumor‐associated neutrophils</article-title>. <source>Gut Microbes</source>. <year>2022</year>;<volume>14</volume>(<issue>1</issue>):<elocation-id>2073785</elocation-id>.<pub-id pub-id-type="pmid">35549648</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/19490976.2022.2073785</pub-id><pub-id pub-id-type="pmcid">PMC9116393</pub-id></mixed-citation></ref><ref id="prd12540-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="prd12540-cit-0082">
+<string-name name-style="western">
+<surname>Gnanasekaran</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Binder Gallimidi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saba</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Intracellular Porphyromonas gingivalis promotes the tumorigenic behavior of pancreatic carcinoma cells</article-title>. <source>Cancers (Basel)</source>. <year>2020</year>;<volume>12</volume>(<issue>8</issue>):<fpage>2331</fpage>.<pub-id pub-id-type="pmid">32824786</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cancers12082331</pub-id><pub-id pub-id-type="pmcid">PMC7465784</pub-id></mixed-citation></ref><ref id="prd12540-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="prd12540-cit-0083">
+<string-name name-style="western">
+<surname>Fu</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chien</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tu</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Is periodontitis a risk factor of benign or malignant colorectal tumor? A population‐based cohort study</article-title>. <source>J Periodontal Res</source>. <year>2022</year>;<volume>57</volume>(<issue>2</issue>):<fpage>284</fpage>‐<lpage>293</lpage>.<pub-id pub-id-type="pmid">34854493</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jre.12955</pub-id></mixed-citation></ref><ref id="prd12540-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="prd12540-cit-0084">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Is periodontal disease a risk indicator for colorectal cancer? A systematic review and meta‐analysis</article-title>. <source>J Clinic Periodontol</source>. <year>2021</year>;<volume>48</volume>(<issue>3</issue>):<fpage>336</fpage>‐<lpage>347</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13402</pub-id><pub-id pub-id-type="pmid">33179280</pub-id></mixed-citation></ref><ref id="prd12540-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="prd12540-cit-0085">
+<string-name name-style="western">
+<surname>Schmidt</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayward</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coelho</surname>
+<given-names>LP</given-names>
+</string-name>, et al. <article-title>Extensive transmission of microbes along the gastrointestinal tract</article-title>. <source>Elife</source>. <year>2019</year>;<volume>8</volume>:<fpage>e42693</fpage>.<pub-id pub-id-type="pmid">30747106</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7554/eLife.42693</pub-id><pub-id pub-id-type="pmcid">PMC6424576</pub-id></mixed-citation></ref><ref id="prd12540-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="prd12540-cit-0086">
+<string-name name-style="western">
+<surname>Alon‐Maimon</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mandelboim</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bachrach</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Fusobacterium nucleatum and cancer</article-title>. <source>Periodontol 2000</source>. <year>2022</year>;<volume>89</volume>(<issue>1</issue>):<fpage>166</fpage>‐<lpage>180</lpage>.<pub-id pub-id-type="pmid">35244982</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/prd.12426</pub-id><pub-id pub-id-type="pmcid">PMC9315032</pub-id></mixed-citation></ref><ref id="prd12540-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="prd12540-cit-0087">
+<string-name name-style="western">
+<surname>Mesa</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mesa‐López</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Egea‐Valenzuela</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>A new comorbidity in periodontitis: fusobacterium nucleatum and colorectal Cancer</article-title>. <source>Medicina (Kaunas)</source>. <year>2022</year>;<volume>58</volume>(<issue>4</issue>):<fpage>546</fpage>.<pub-id pub-id-type="pmid">35454384</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/medicina58040546</pub-id><pub-id pub-id-type="pmcid">PMC9029306</pub-id></mixed-citation></ref><ref id="prd12540-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="prd12540-cit-0088">
+<string-name name-style="western">
+<surname>Proença</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Biselli</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Succi</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Relationship between fusobacterium nucleatum, inflammatory mediators and microRNAs in colorectal carcinogenesis</article-title>. <source>World J Gastroenterol</source>. <year>2018</year>;<volume>24</volume>(<issue>47</issue>):<fpage>5351</fpage>‐<lpage>5365</lpage>.<pub-id pub-id-type="pmid">30598580</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3748/wjg.v24.i47.5351</pub-id><pub-id pub-id-type="pmcid">PMC6305535</pub-id></mixed-citation></ref><ref id="prd12540-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="prd12540-cit-0089">
+<string-name name-style="western">
+<surname>Gur</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ibrahim</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Isaacson</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Binding of the Fap2 protein of fusobacterium nucleatum to human inhibitory receptor TIGIT protects tumors from immune cell attack</article-title>. <source>Immunity</source>. <year>2015</year>;<volume>42</volume>(<issue>2</issue>):<fpage>344</fpage>‐<lpage>355</lpage>.<pub-id pub-id-type="pmid">25680274</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2015.01.010</pub-id><pub-id pub-id-type="pmcid">PMC4361732</pub-id></mixed-citation></ref><ref id="prd12540-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="prd12540-cit-0090">
+<string-name name-style="western">
+<surname>Rubinstein</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>YW</given-names>
+</string-name>. <article-title>Fusobacterium nucleatum promotes colorectal carcinogenesis by modulating E‐cadherin/β‐catenin signaling via its FadA adhesin</article-title>. <source>Cell Host Microbe</source>. <year>2013</year>;<volume>14</volume>(<issue>2</issue>):<fpage>195</fpage>‐<lpage>206</lpage>.<pub-id pub-id-type="pmid">23954158</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.chom.2013.07.012</pub-id><pub-id pub-id-type="pmcid">PMC3770529</pub-id></mixed-citation></ref><ref id="prd12540-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="prd12540-cit-0091">
+<string-name name-style="western">
+<surname>Abed</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Emgård</surname>
+<given-names>JEM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zamir</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Fap2 mediates fusobacterium nucleatum colorectal adenocarcinoma enrichment by binding to tumor‐expressed Gal‐GalNAc</article-title>. <source>Cell Host Microbe</source>. <year>2016</year>;<volume>20</volume>(<issue>2</issue>):<fpage>215</fpage>‐<lpage>225</lpage>.<pub-id pub-id-type="pmid">27512904</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.chom.2016.07.006</pub-id><pub-id pub-id-type="pmcid">PMC5465824</pub-id></mixed-citation></ref><ref id="prd12540-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="prd12540-cit-0092">
+<string-name name-style="western">
+<surname>Adel‐Khattab</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Groeger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Domann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakraborty</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lochnit</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyle</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Porphyromonas gingivalis induced up‐regulation of PD‐L1 in colon carcinoma cells</article-title>. <source>Mol Oral Microbiol</source>. <year>2021</year>;<volume>36</volume>(<issue>3</issue>):<fpage>172</fpage>‐<lpage>181</lpage>.<pub-id pub-id-type="pmid">33715305</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/omi.12332</pub-id></mixed-citation></ref><ref id="prd12540-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="prd12540-cit-0093">
+<string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ribaldone</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muwalla</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Can periodontitis affect the health and disease of the digestive system? A comprehensive review of epidemiological evidence and biological mechanisms</article-title>. <source>Curr Oral Health Rep</source>. <year>2021</year>;<volume>8</volume>(<issue>4</issue>):<fpage>96</fpage>‐<lpage>106</lpage>.</mixed-citation></ref><ref id="prd12540-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="prd12540-cit-0094">
+<string-name name-style="western">
+<surname>Amicarella</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muraro</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hirt</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Dual role of tumour‐infiltrating T helper 17 cells in human colorectal cancer</article-title>. <source>Gut</source>. <year>2017</year>;<volume>66</volume>(<issue>4</issue>):<fpage>692</fpage>‐<lpage>704</lpage>.<pub-id pub-id-type="pmid">26719303</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2015-310016</pub-id><pub-id pub-id-type="pmcid">PMC5529969</pub-id></mixed-citation></ref><ref id="prd12540-bib-0095"><label>95</label><mixed-citation publication-type="journal" id="prd12540-cit-0095">
+<string-name name-style="western">
+<surname>Bertrand</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shingala</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evens</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Birmann</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giovannucci</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michaud</surname>
+<given-names>DS</given-names>
+</string-name>. <article-title>Periodontal disease and risk of non‐Hodgkin lymphoma in the health professionals follow‐up study: periodontal disease and risk of non‐Hodgkin lymphoma</article-title>. <source>Int J Cancer</source>. <year>2017</year>;<volume>140</volume>(<issue>5</issue>):<fpage>1020</fpage>‐<lpage>1026</lpage>.<pub-id pub-id-type="pmid">27861844</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.30518</pub-id><pub-id pub-id-type="pmcid">PMC5243178</pub-id></mixed-citation></ref><ref id="prd12540-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="prd12540-cit-0096">
+<string-name name-style="western">
+<surname>Fine</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chadwick</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Periodontal inflammation primes the systemic innate immune response</article-title>. <source>J Dent Res</source>. <year>2021</year>;<volume>100</volume>(<issue>3</issue>):<fpage>318</fpage>‐<lpage>325</lpage>.<pub-id pub-id-type="pmid">33078669</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034520963710</pub-id></mixed-citation></ref><ref id="prd12540-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="prd12540-cit-0097">
+<string-name name-style="western">
+<surname>Kalafati</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kourtzelis</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulte‐Schrepping</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Innate immune training of granulopoiesis promotes anti‐tumor activity</article-title>. <source>Cell</source>. <year>2020</year>;<volume>183</volume>(<issue>3</issue>):<fpage>771</fpage>‐<lpage>785.e12</lpage>.<pub-id pub-id-type="pmid">33125892</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2020.09.058</pub-id><pub-id pub-id-type="pmcid">PMC7599076</pub-id></mixed-citation></ref><ref id="prd12540-bib-0098"><label>98</label><mixed-citation publication-type="journal" id="prd12540-cit-0098">
+<string-name name-style="western">
+<surname>Carvalho‐Filho</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moura‐Costa</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pimentel</surname>
+<given-names>ACM</given-names>
+</string-name>, et al. <article-title>Apoptosis transcriptional profile induced by Porphyromonas gingivalis HmuY</article-title>. <source>Mediators Inflamm</source>. <year>2019</year>;<volume>2019</volume>:<elocation-id>6758159</elocation-id>.<pub-id pub-id-type="pmid">31011284</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2019/6758159</pub-id><pub-id pub-id-type="pmcid">PMC6442302</pub-id></mixed-citation></ref><ref id="prd12540-bib-0099"><label>99</label><mixed-citation publication-type="journal" id="prd12540-cit-0099">
+<string-name name-style="western">
+<surname>Dongre</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weinberg</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>New insights into the mechanisms of epithelial–mesenchymal transition and implications for cancer</article-title>. <source>Nat Rev Mol Cell Biol</source>. <year>2019</year>;<volume>20</volume>(<issue>2</issue>):<fpage>69</fpage>‐<lpage>84</lpage>.<pub-id pub-id-type="pmid">30459476</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41580-018-0080-4</pub-id></mixed-citation></ref><ref id="prd12540-bib-0100"><label>100</label><mixed-citation publication-type="journal" id="prd12540-cit-0100">
+<string-name name-style="western">
+<surname>Sztukowska</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ojo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmed</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Porphyromonas gingivalis initiates a mesenchymal‐like transition through ZEB1 in gingival epithelial cells</article-title>. <source>Cell Microbiol</source>. <year>2016</year>;<volume>18</volume>(<issue>6</issue>):<fpage>844</fpage>‐<lpage>858</lpage>.<pub-id pub-id-type="pmid">26639759</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cmi.12554</pub-id><pub-id pub-id-type="pmcid">PMC5135094</pub-id></mixed-citation></ref><ref id="prd12540-bib-0101"><label>101</label><mixed-citation publication-type="journal" id="prd12540-cit-0101">
+<string-name name-style="western">
+<surname>Ohshima</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fitzsimonds</surname>
+<given-names>ZR</given-names>
+</string-name>, et al. <article-title>
+<italic toggle="yes">Streptococcus gordonii</italic> programs epithelial cells to resist ZEB2 induction by Porphyromonas gingivalis</article-title>. <source>Proc Natl Acad Sci U S A</source>. <year>2019</year>;<volume>116</volume>(<issue>17</issue>):<fpage>8544</fpage>‐<lpage>8553</lpage>.<pub-id pub-id-type="pmid">30971493</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1900101116</pub-id><pub-id pub-id-type="pmcid">PMC6486779</pub-id></mixed-citation></ref><ref id="prd12540-bib-0102"><label>102</label><mixed-citation publication-type="journal" id="prd12540-cit-0102">
+<string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Billet</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Periodontal inflammation recruits distant metastatic breast cancer cells by increasing myeloid‐derived suppressor cells</article-title>. <source>Oncogene</source>. <year>2020</year>;<volume>39</volume>(<issue>7</issue>):<fpage>1543</fpage>‐<lpage>1556</lpage>.<pub-id pub-id-type="pmid">31685946</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41388-019-1084-z</pub-id><pub-id pub-id-type="pmcid">PMC7018659</pub-id></mixed-citation></ref><ref id="prd12540-bib-0103"><label>103</label><mixed-citation publication-type="journal" id="prd12540-cit-0103">
+<string-name name-style="western">
+<surname>Marruganti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grandini</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Leisure‐time and occupational physical activity demonstrate divergent associations with periodontitis: a population‐based study</article-title>. <source>J Clin Periodontol</source>. <year>2023</year>;<volume>50</volume>:<fpage>559</fpage>‐<lpage>570</lpage>.<pub-id pub-id-type="pmid">36592958</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13766</pub-id></mixed-citation></ref><ref id="prd12540-bib-0104"><label>104</label><mixed-citation publication-type="journal" id="prd12540-cit-0104">
+<string-name name-style="western">
+<surname>Marruganti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aimetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grandini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Periodontitis and low cognitive performance: a population‐based study</article-title>. <source>J Clin Periodontol</source>. <year>2023</year>;<volume>50</volume>(<issue>4</issue>):<fpage>418</fpage>‐<lpage>429</lpage>.<pub-id pub-id-type="pmid">36644802</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13779</pub-id></mixed-citation></ref><ref id="prd12540-bib-0105"><label>105</label><mixed-citation publication-type="journal" id="prd12540-cit-0105">
+<string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shin</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laforí</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cordaro</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Hormone‐related events and periodontitis in women</article-title>. <source>J Clin Periodontol</source>. <year>2020</year>;<volume>47</volume>(<issue>4</issue>):<fpage>429</fpage>‐<lpage>441</lpage>.<pub-id pub-id-type="pmid">31912529</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13248</pub-id></mixed-citation></ref><ref id="prd12540-bib-0106"><label>106</label><mixed-citation publication-type="journal" id="prd12540-cit-0106">
+<string-name name-style="western">
+<surname>Marruganti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shin</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sim</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grandini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laforí</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Air pollution as a risk indicator for periodontitis</article-title>. <source>Biomedicine</source>. <year>2023</year>;<volume>11</volume>(<issue>2</issue>):<fpage>443</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/biomedicines11020443</pub-id><pub-id pub-id-type="pmcid">PMC9953183</pub-id><pub-id pub-id-type="pmid">36830979</pub-id></mixed-citation></ref><ref id="prd12540-bib-0107"><label>107</label><mixed-citation publication-type="journal" id="prd12540-cit-0107">
+<string-name name-style="western">
+<surname>Marruganti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaeta</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Healthy lifestyles are associated with a better response to periodontal therapy: a prospective cohort study</article-title>. <source>J Clin Periodontol</source>. <year>2023</year>;<volume>50</volume>:<fpage>1089</fpage>‐<lpage>1100</lpage>.<pub-id pub-id-type="pmid">37013691</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13813</pub-id></mixed-citation></ref><ref id="prd12540-bib-0108"><label>108</label><mixed-citation publication-type="journal" id="prd12540-cit-0108">
+<string-name name-style="western">
+<surname>Marruganti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaeta</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Multiplicative effect of stress and poor sleep quality on periodontitis: a university‐based cross‐sectional study</article-title>. <source>J Periodonto</source>. <year>2023</year>. doi:<pub-id pub-id-type="doi">10.1002/JPER.23-0209</pub-id>
+<pub-id pub-id-type="pmid">37477025</pub-id></mixed-citation></ref><ref id="prd12540-bib-0109"><label>109</label><mixed-citation publication-type="journal" id="prd12540-cit-0109">
+<string-name name-style="western">
+<surname>Ayilavarapu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doctor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>CT</given-names>
+</string-name>, et al. <article-title>Altered human alveolar bone gene expression in type 2 diabetes‐a cross‐sectional study</article-title>. <source>J Periodontal Res</source>. <year>2022</year>;<volume>57</volume>(<issue>1</issue>):<fpage>142</fpage>‐<lpage>151</lpage>.<pub-id pub-id-type="pmid">34783015</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jre.12947</pub-id></mixed-citation></ref><ref id="prd12540-bib-0110"><label>110</label><mixed-citation publication-type="journal" id="prd12540-cit-0110">
+<string-name name-style="western">
+<surname>Romano</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perotto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohamed</surname>
+<given-names>SEO</given-names>
+</string-name>, et al. <article-title>Bidirectional association between metabolic control in Type‐2 diabetes mellitus and periodontitis inflammatory burden: a cross‐sectional study in an Italian population</article-title>. <source>J Clin Med</source>. <year>2021</year>;<volume>10</volume>(<issue>8</issue>):<fpage>1787</fpage>.<pub-id pub-id-type="pmid">33924022</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm10081787</pub-id><pub-id pub-id-type="pmcid">PMC8073754</pub-id></mixed-citation></ref><ref id="prd12540-bib-0111"><label>111</label><mixed-citation publication-type="journal" id="prd12540-cit-0111">
+<string-name name-style="western">
+<surname>D'Aiuto</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parkar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andreou</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Periodontitis and systemic inflammation: control of the local infection is associated with a reduction in serum inflammatory markers</article-title>. <source>J Dent Res</source>. <year>2004</year>;<volume>83</volume>(<issue>2</issue>):<fpage>156</fpage>‐<lpage>160</lpage>.<pub-id pub-id-type="pmid">14742655</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/154405910408300214</pub-id></mixed-citation></ref><ref id="prd12540-bib-0112"><label>112</label><mixed-citation publication-type="journal" id="prd12540-cit-0112">
+<string-name name-style="western">
+<surname>Larvin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilmott</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aggarwal</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavitt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Additive effect of periodontal disease and obesity on COVID‐19 outcomes</article-title>. <source>J Dent Res</source>. <year>2021</year>;<volume>100</volume>(<issue>11</issue>):<fpage>1228</fpage>‐<lpage>1235</lpage>.<pub-id pub-id-type="pmid">34271846</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/00220345211029638</pub-id><pub-id pub-id-type="pmcid">PMC8461046</pub-id></mixed-citation></ref><ref id="prd12540-bib-0113"><label>113</label><mixed-citation publication-type="journal" id="prd12540-cit-0113">
+<string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Citterio</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romano</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aimetti</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Periodontitis and accelerated biological aging: a Geroscience approach</article-title>. <source>J Dent Res</source>. <year>2022</year>;<volume>101</volume>(<issue>2</issue>):<fpage>125</fpage>‐<lpage>132</lpage>.<pub-id pub-id-type="pmid">34609209</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/00220345211037977</pub-id></mixed-citation></ref><ref id="prd12540-bib-0114"><label>114</label><mixed-citation publication-type="journal" id="prd12540-cit-0114">
+<string-name name-style="western">
+<surname>Roato</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baima</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orrico</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Senescent markers expressed by periodontal ligament‐derived stem cells (PDLSCs) harvested from patients with periodontitis can Be rejuvenated by RG108</article-title>. <source>Biomedicine</source>. <year>2023</year>;<volume>11</volume>(<issue>9</issue>):<fpage>2535</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/biomedicines11092535</pub-id><pub-id pub-id-type="pmcid">PMC10526252</pub-id><pub-id pub-id-type="pmid">37760976</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,752 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Cell Infect Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Front Cell Infect Microbiol</journal-id><journal-id journal-id-type="pmc-domain-id">1860</journal-id><journal-id journal-id-type="pmc-domain">fcimb</journal-id><journal-id journal-id-type="nlm-id">101585359</journal-id><journal-id journal-id-type="publisher-id">Front. Cell. Infect. Microbiol.</journal-id><journal-title-group><journal-title>Frontiers in Cellular and Infection Microbiology</journal-title></journal-title-group><issn pub-type="epub">2235-2988</issn><?publisher_abbrev frontiers?><publisher><publisher-name>Frontiers Media SA</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13639722</article-id><article-id pub-id-type="pmcid-ver">PMC13639722.1</article-id><article-id pub-id-type="pmcaid">13639722</article-id><article-id pub-id-type="pmcaiid">13639722</article-id><article-id pub-id-type="pmid">42840713</article-id><article-id pub-id-type="doi">10.3389/fcimb.2026.1964724</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="Version of Record" vocab="NISO-RP-8-2008"/></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Mini Review</subject></subj-group></article-categories><title-group><article-title>The association between periodontal disease and lung cancer: a re-evaluation of independent causal relationships in the presence of smoking as a confounder and an exploration of potential mechanisms</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="W">Wenwen</given-names></name><xref rid="aff1" ref-type="aff"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project-administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="Y">Yanli</given-names></name><xref rid="aff1" ref-type="aff"/><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/3644410/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project-administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Zhang</surname><given-names initials="D">Dongmei</given-names></name><xref rid="aff1" ref-type="aff"/><xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project-administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib></contrib-group><aff id="aff1"><institution>Respiratory Department, First Hospital of Jilin University</institution>, <city>Changchun</city>, <country country="cn">China</country></aff><author-notes><corresp id="c001"><label>*</label>Correspondence: Dongmei Zhang, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:zdm19961205@jlu.edu.cn">zdm19961205@jlu.edu.cn</email></corresp></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2026-09-22"><day>22</day><month>9</month><year>2026</year></pub-date><pub-date publication-format="electronic" date-type="collection"><year>2026</year></pub-date><volume>16</volume><issue-id pub-id-type="pmc-issue-id">506366</issue-id><elocation-id>1964724</elocation-id><history><date date-type="received"><day>11</day><month>8</month><year>2026</year></date><date date-type="rev-recd"><day>27</day><month>8</month><year>2026</year></date><date date-type="accepted"><day>14</day><month>9</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>22</day><month>09</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>07</day><month>10</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-10-07 12:24:08.510"><day>07</day><month>10</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2026 Liu, Yang and Zhang.</copyright-statement><copyright-year>2026</copyright-year><copyright-holder>Liu, Yang and Zhang</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2026-09-22">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (CC BY)</ext-link>. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="fcimb-16-1964724.pdf"><?pdf-name fcimb-16-1964724.pdf?><?pdf-size 1775806?><?pdf-md5 adee81d0eb07e1467f13c5a578c778ff?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:13b7/13639722/adee81d0eb07/fcimb-16-1964724.pdf?></self-uri><abstract><p>Periodontal disease and lung cancer are major global health burdens, and epidemiological evidence suggests a potential association between them. However, whether this relationship is independent of smoking—a strong common risk factor—remains controversial. This review systematically summarizes current evidence on the association, with emphasis on smoking confounding and underlying biological mechanisms. Meta-analyses consistently show a significant positive association, with adjusted hazard ratios ranging from 1.24 to 1.71 and dose-response relationships across disease severity and tooth loss. After rigorous statistical adjustment for smoking, most large cohort studies still show a robust association, though findings in never-smokers are inconsistent, suggesting possible residual confounding. Mechanistically, the “oral-lung axis” links periodontitis to lung carcinogenesis via three pathways: microbial translocation of pathogens such as Fusobacterium nucleatum, chronic inflammation-driven immune dysregulation involving Treg and IL-6, and epigenetic modifications including shared DNA methylation sites. Smoking may also act synergistically with periodontitis to amplify carcinogenic risk. Future research should prioritize precisely quantified smoking exposure, formal interaction analyses, and longitudinal multi-omics studies to support causal inference. This review provides a theoretical foundation for incorporating oral health assessment into lung cancer prevention strategies.</p></abstract><kwd-group><kwd>biological mechanisms</kwd><kwd>dose-response relationship</kwd><kwd>lung cancer</kwd><kwd>oral-lung axis</kwd><kwd>periodontal disease</kwd><kwd>smoking confounding</kwd></kwd-group><funding-group><funding-statement>The author(s) declared that financial support was not received for this work and/or its publication.</funding-statement></funding-group><counts><fig-count count="2"/><table-count count="0"/><equation-count count="0"/><ref-count count="73"/><page-count count="10"/><word-count count="4929"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>section-at-acceptance</meta-name><meta-value>Oral Microbes and Host</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><label>1</label><title>Introduction</title><p>Periodontal disease (PD) is traditionally defined as a chronic inflammatory disease affecting the tissues surrounding and supporting the teeth (<xref rid="B52" ref-type="bibr">Nocini et al., 2020</xref>; <xref rid="B1" ref-type="bibr">Agarwal et al., 2025</xref>). It is an oral infection and inflammatory disease caused by pathogenic microorganisms in dental plaque on the tooth surface; these pathogens trigger a host-mediated immune response, which leads to progressive destruction of soft tissues and alveolar bone (<xref rid="B36" ref-type="bibr">Luchian et al., 2021</xref>; <xref rid="B18" ref-type="bibr">Grundner et al., 2022</xref>). As one of the most common oral diseases worldwide, periodontal disease is the second-largest oral health burden after dental caries (<xref rid="B57" ref-type="bibr">Rocha et al., 2021</xref>; <xref rid="B30" ref-type="bibr">Leija-Montoya et al., 2023</xref>). Its prevalence continues to rise globally, raising serious public health concerns (<xref rid="B54" ref-type="bibr">Papapanou and Susin, 2017</xref>). According to epidemiological studies, periodontal disease affects approximately 20% to 50% of the global population (<xref rid="B49" ref-type="bibr">Nazir, 2017</xref>; <xref rid="B3" ref-type="bibr">Amato et al., 2022</xref>). In developed countries, its prevalence ranges from about 30% to 50%, but only about 10% of patients present with severe forms of the disease (<xref rid="B20" ref-type="bibr">Han et al., 2016</xref>). Lung cancer is one of the most common malignant tumors in most countries worldwide and is also the leading cause of cancer-related deaths (<xref rid="B38" ref-type="bibr">Mao et al., 2016</xref>; <xref rid="B61" ref-type="bibr">Smolarz et al., 2025</xref>). In the United States, lung cancer has long been the leading cause of cancer-related deaths among both men and women, and it is one of the deadliest cancers globally (<xref rid="B8" ref-type="bibr">Barta et al., 2019</xref>; <xref rid="B10" ref-type="bibr">Casazza et al., 2026</xref>). In terms of epidemiological trends, lung cancer has evolved from a relatively rare disease into a global public health crisis (<xref rid="B38" ref-type="bibr">Mao et al., 2016</xref>). It affects as many as 1 in 15 men and 1 in 17 women (<xref rid="B5" ref-type="bibr">Athanasiou et al., 2025</xref>). The geographic and temporal patterns of lung cancer incidence and mortality are primarily determined by tobacco consumption patterns (<xref rid="B37" ref-type="bibr">Malhotra et al., 2016</xref>).</p><p>In recent years, many epidemiological studies have begun to focus on the potential association between periodontal disease and the risk of lung cancer. Several meta-analyses have shown that patients with periodontal disease have a significantly increased risk of developing lung cancer, with adjusted hazard ratios ranging from 1.24 to 1.71, and a clear dose-response relationship has been observed (<xref rid="B69" ref-type="bibr">Zeng et al., 2016</xref>; <xref rid="B40" ref-type="bibr">Michaud et al., 2017</xref>; <xref rid="B26" ref-type="bibr">Kesharani et al., 2022</xref>; <xref rid="B70" ref-type="bibr">Zhang et al., 2023</xref>). However, establishing a clear causal relationship remains a major challenge (<xref rid="B21" ref-type="bibr">Higham and Scannapieco, 2024</xref>). The core difficulty lies in the fact that smoking is a strong common risk factor for both conditions—smoking increases the risk of developing and progressing periodontitis by 85%, and its population-attributable fraction for lung cancer is as high as 63.73% (<xref rid="B31" ref-type="bibr">Leite et al., 2018</xref>; <xref rid="B65" ref-type="bibr">Wang et al., 2022</xref>). This makes it considerably challenging to isolate the independent effect of periodontal disease. Some researchers have even suggested that the observed association may merely represent a “proxy” effect of smoking (<xref rid="B70" ref-type="bibr">Zhang et al., 2023</xref>). Some studies have observed a significant association between severe periodontitis and lung cancer risk even after strictly adjusting for confounding factors such as smoking and socioeconomic status, while others have found no significant association among never-smokers (<xref rid="B41" ref-type="bibr">Michaud et al., 2018</xref>; <xref rid="B70" ref-type="bibr">Zhang et al., 2023</xref>). This review aims to systematically summarize the current epidemiological evidence and conduct an in-depth analysis of the impact of smoking—a key confounding factor—on the association between periodontal disease and lung cancer, as well as its underlying mechanisms. We hope that this synthesis and re-evaluation of the evidence will provide a theoretical foundation for future studies on causal inference, the exploration of biological mechanisms, and clinical translation, and will lay the groundwork for incorporating periodontal health into lung cancer risk management strategies.</p><sec id="s1_1"><label>1.1</label><title>Literature search strategy</title><p>Given the narrative and mini-review nature of this work, we performed a focused literature search in PubMed, Web of Science, and Scopus through August 2026, using combinations of terms related to periodontal disease (e.g., periodontitis, tooth loss), lung cancer, and smoking. We prioritized large-scale cohort studies, meta-analyses, and key mechanistic investigations published in English. We identified additional relevant articles through hand-searching reference lists. After title/abstract screening and full-text assessment, we excluded articles without original data (e.g., editorials, conference abstracts), animal studies not relevant to human cancer pathways, and epidemiological studies that did not adjust for smoking. This process yielded approximately 60 core references directly supporting our three thematic axes: epidemiological confounding, microbial translocation, and immune/epigenetic mechanisms.</p></sec></sec><sec id="s2"><label>2</label><title>The epidemiological association between periodontal disease and lung cancer</title><p>Meta-analyses consistently demonstrate a positive association between periodontal disease and lung cancer risk. A clear dose-response relationship exists across disease severity and tooth loss. However, studies show significant heterogeneity. The results range from no statistical significance to a strong association. This highlights the continuing uncertainty regarding whether this relationship is independent of the confounding factor of smoking. Therefore, further investigation using more refined analytical methods is warranted to better characterize this association and assess its independence from confounding.</p><sec id="s2_1"><label>2.1</label><title>Assessment of the strength of association in cohort studies and meta-analyses</title><p>Several large-scale meta-analyses have consistently shown that periodontal disease is significantly positively associated with lung cancer risk; however, the pooled effect size shows some heterogeneity due to differences in study design, population characteristics, and diagnostic criteria among the included studies. A meta-analysis incorporating five cohort studies (321,420 participants) used a fixed-effects model and, after adjusting for confounding factors, showed a significant association between periodontal disease and the risk of new-onset lung cancer, with a hazard ratio of 1.24 (95% CI: 1.13–1.36) (<xref rid="B69" ref-type="bibr">Zeng et al., 2016</xref>). Another meta-analysis encompassing 12 studies reported a higher relative risk, suggesting that, after adjusting for age and smoking status, the incidence of lung cancer is approximately twice as high among patients with periodontal disease (<xref rid="B26" ref-type="bibr">Kesharani et al., 2022</xref>). A systematic review of the literature from 2010 to 2022 included 7 studies (194,850 participants) and reported a lung cancer risk ratio of 1.41 (95% CI: 1.32–1.52) (<xref rid="B63" ref-type="bibr">Verma et al., 2023</xref>). A systematic review incorporating 8 studies showed that the hazard ratio for periodontitis and lung cancer was 1.24 (95% CI: 1.06–1.45), while a meta-analysis based on 26 cohort studies indicated that the relative risk (RR) of self-reported periodontal disease and lung cancer was 1.19 (95% CI: 1.09–1.31) (<xref rid="B14" ref-type="bibr">Corbella et al., 2018</xref>; <xref rid="B17" ref-type="bibr">Duan et al., 2026</xref>). However, some large health insurance database studies have reported discrepancies. For example, a retrospective cohort study in Taiwan involving 86,886 patients with chronic periodontitis reported an overall RR of only 1.01 (95% CI: 0.90–1.12), which was not statistically significant (<xref rid="B60" ref-type="bibr">Shen et al., 2025</xref>). In contrast, the South Korean National Health Insurance Cohort Study reported a higher adjusted hazard ratio (<xref rid="B27" ref-type="bibr">Kim et al., 2024</xref>). These differences in effect sizes may stem from variations in population characteristics, follow-up duration, and periodontal disease diagnostic criteria.</p></sec><sec id="s2_2"><label>2.2</label><title>Dose-response relationship between clinical phenotypes of periodontal disease and lung cancer risk</title><p>Epidemiological evidence suggests that the association between periodontal disease and lung cancer is not a simple “yes or no” relationship but may instead exhibit dose-response characteristics based on clinical severity and specific phenotypes. Regarding the severity of periodontitis, the Health ABC cohort study showed that severe periodontal disease was significantly associated with an increased incidence of lung cancer, with an adjusted HR of 3.12 (95% CI: 1.45–6.72) (<xref rid="B16" ref-type="bibr">da Silveira et al., 2026</xref>). Another cohort study of older adults also confirmed that severe periodontal disease is associated with a significantly increased risk of lung cancer (HR = 2.33; 95% CI: 1.51–3.60) (<xref rid="B41" ref-type="bibr">Michaud et al., 2018</xref>). A South Korean cohort study further refined the risk stratification, finding that patients with mild and moderate-to-severe chronic periodontitis had a 2.45-fold and 2.10-fold increased risk of lung cancer, respectively (<xref rid="B27" ref-type="bibr">Kim et al., 2024</xref>). Pooled data from meta-analyses also support this graded relationship, with the HR for lung cancer rising from 1.58 to 2.39 as the severity of periodontal disease increases (<xref rid="B70" ref-type="bibr">Zhang et al., 2023</xref>). Regarding the tooth loss phenotype, a meta-analysis incorporating 12 cohort studies showed that tooth loss is associated with an increased risk of lung cancer (RR = 1.69; 95% CI: 1.46–1.96), and a clear dose-response relationship exists: for every additional 5 missing teeth, the risk of lung cancer increases by 10% (<xref rid="B12" ref-type="bibr">Chen et al., 2020</xref>). A nested case-control study in the southeastern United States found that the odds ratio for lung cancer among individuals with more than 10 missing teeth was 1.64 (95% CI: 1.00–2.69) (<xref rid="B68" ref-type="bibr">Yoon et al., 2019</xref>). A study using the South Korean National Health Insurance Database also confirmed that tooth loss is significantly associated with both the risk of lung cancer incidence and the risk of death (<xref rid="B29" ref-type="bibr">Lee and Kim, 2025</xref>). However, some study results are inconsistent. For example, in the Health ABC study, tooth loss was associated with a reduced incidence of lung cancer (HR: 0.96; 95% CI: 0.93–0.99), suggesting that the predictive value of tooth loss as a marker of cumulative periodontal damage may vary across populations (<xref rid="B16" ref-type="bibr">da Silveira et al., 2026</xref>). Furthermore, specific bacterial loads also exhibit a dose-response relationship. The ARIC cohort study showed that for each increase of one quartile in antibody levels against the Orange-related bacterial complex—a group of bridging periodontal pathogens, including Fusobacterium nucleatum, that facilitate the establishment of more virulent late colonizers according to Socransky’s classification (<xref rid="B15" ref-type="bibr">da Silva et al., 2023</xref>; <xref rid="B58" ref-type="bibr">Santi-Rocca et al., 2025</xref>)—the HR for lung cancer risk was 1.15 (95% CI: 1.02–1.29) (<xref rid="B72" ref-type="bibr">Zhou et al., 2023</xref>). The existing epidemiological evidence is statistically robust, but residual confounding factors must still be ruled out before a biologically independent association can be conclusively established.</p></sec></sec><sec id="s3"><label>3</label><title>In-depth analysis and statistical control of smoking confounding effects</title><p>Smoking is the most important modifiable risk factor common to both periodontal disease and lung cancer. Its dual pathogenic role constitutes the greatest source of confounding in studies examining the association between the two. At the biological level, smoking not only directly increases the risk of lung cancer but is also an independent risk factor for the onset and progression of periodontitis. A systematic review showed that smoking increases the risk of periodontitis by 85% (HR = 1.85) (<xref rid="B31" ref-type="bibr">Leite et al., 2018</xref>). Smoking disrupts periodontal homeostasis by interfering with the host inflammatory response, altering the subgingival microbial community, and impairing tissue healing capacity, leading to a significantly higher prevalence of moderate-to-severe periodontal attachment loss among smokers (<xref rid="B9" ref-type="bibr">Brennan et al., 2017</xref>; <xref rid="B4" ref-type="bibr">Apatzidou, 2022</xref>). At the microbiome level, regardless of periodontal health status, subgingival plaque in smokers shows enrichment of pathogenic bacteria and altered diversity, creating a “vulnerable” periodontal microecological environment (<xref rid="B22" ref-type="bibr">Jiang et al., 2020</xref>; <xref rid="B62" ref-type="bibr">Tamashiro et al., 2023</xref>). Furthermore, daily smoking volume is associated with periodontal clinical parameters and salivary biomarker levels in a dose-dependent manner (<xref rid="B43" ref-type="bibr">Mohanty et al., 2019</xref>; <xref rid="B2" ref-type="bibr">AlZamil and AlQutub, 2023</xref>). At the sociobehavioral level, smoking coexists with lower oral health literacy and poor healthcare-seeking behaviors; for example, individuals who seek care only when symptoms appear have a poorer oral health-related quality of life (OR = 1.65) (<xref rid="B13" ref-type="bibr">Collins et al., 2019</xref>). This pattern may simultaneously delay both periodontal treatment and early lung cancer screening, further obscuring the true relationship between exposure and outcomes. Therefore, when assessing the association between periodontal disease and lung cancer, it is essential to fully consider the multiple confounding mechanisms of smoking across the dimensions of molecular pathology, microbiome remodeling, and health behaviors.</p><p>Although smoking is a strong confounding factor, multiple high-quality epidemiological studies have consistently shown that the positive association between periodontal disease and lung cancer remains robust after statistically rigorous adjustment for smoking. A meta-analysis incorporating 12 studies showed that, after adjusting for age and smoking, the incidence of lung cancer among patients with periodontal disease was still approximately twofold higher (<xref rid="B26" ref-type="bibr">Kesharani et al., 2022</xref>). A meta-analysis of 5 cohort studies and 321,420 participants yielded an adjusted pooled HR of 1.24 (95% CI: 1.13–1.36) (<xref rid="B69" ref-type="bibr">Zeng et al., 2016</xref>). The Korea National Health Insurance Cohort Study (n = 72,658), after adjustment via multivariate Cox regression, showed an HR of 2.27 (95% CI: 1.94–2.65), with the risk increasing 2.45-fold and 2.10-fold in the mild and moderate-to-severe periodontitis groups, respectively (<xref rid="B27" ref-type="bibr">Kim et al., 2024</xref>). However, some systematic reviews have pointed out that no significant association between periodontal disease and lung cancer was found among never smokers (HR = 1.00, 95% CI: 0.76–1.31), suggesting that the overall association may be partially driven by smoking as a confounder (<xref rid="B70" ref-type="bibr">Zhang et al., 2023</xref>). The available evidence generally supports the notion that periodontal disease is an independent risk factor for lung cancer. However, effect sizes typically diminish after fine-tuning for smoking-related indicators compared with crude estimates, and results from subgroup analyses in non-smokers are inconsistent, possibly due to differences in sample size, periodontal disease diagnostic criteria, and the definition of “non-smokers” (<xref rid="B69" ref-type="bibr">Zeng et al., 2016</xref>; <xref rid="B70" ref-type="bibr">Zhang et al., 2023</xref>; <xref rid="B27" ref-type="bibr">Kim et al., 2024</xref>). Intervention studies targeting nonsmokers are currently underway to assess changes in lung function following improvements in oral hygiene; these studies will provide functional evidence to validate the biological plausibility of the nonsmoking pathway (<xref rid="B28" ref-type="bibr">Kühnisch et al., 2023</xref>). This field still requires further confirmation through large-scale, prospective studies with strictly defined smoking status.</p><p>Exploring the interaction between periodontal disease and smoking is crucial for understanding the combined carcinogenic mechanism. Existing evidence suggests a possible positive synergistic effect. A meta-analysis showed that the strength of the association between periodontal disease and lung cancer in the subgroup of smokers (OR = 1.47) was significantly higher than the overall estimate (OR = 1.35), implying that smoking may amplify the carcinogenic effect of periodontal disease (<xref rid="B66" ref-type="bibr">Wang et al., 2020</xref>). Studies on biological mechanisms support this view: smokers exhibit increased epithelial thickness and reduced collagen density in periodontal tissues, as well as abnormal expression of tight junction proteins in gingival crevicular fluid, which may compromise the barrier function of the oral-lung axis and facilitate the translocation of periodontal pathogens and their toxins to the lungs (<xref rid="B19" ref-type="bibr">Güney et al., 2023</xref>; <xref rid="B56" ref-type="bibr">Reddy et al., 2025</xref>). Smoking alters the host’s immune response network to periodontal pathogens; in smokers with periodontal disease, the interaction between clinical variables and the bacterial antibody profile is significantly enhanced (<xref rid="B48" ref-type="bibr">Nagarajan et al., 2017</xref>). However, some studies have not found significant multiplicative or additive interactions or have observed differing interaction patterns under specific genotypic backgrounds. For example, the association between NOS3 gene polymorphisms and periodontal disease is significant only in nonsmokers and is masked in smokers (<xref rid="B39" ref-type="bibr">Mazurek-Mochol et al., 2018</xref>). Currently, epidemiological data on these interactions remain relatively limited; most studies have conducted only stratified analyses without formally testing interaction terms. Future research should employ specialized statistical methods to quantify the combined effects of these factors to determine whether a superadditive carcinogenic risk exists.</p></sec><sec id="s4"><label>4</label><title>Biological mechanisms linking periodontal disease and lung cancer: from microbial translocation to epigenetic regulation</title><p>The association between periodontal disease and lung cancer is supported not only by epidemiological data but also by a gradually emerging biological rationale elucidated through multidimensional research in microbiology, immunology, and epigenetics (<xref rid="f1" ref-type="fig"><bold>Figure 1</bold></xref>). The biological link between periodontal disease and lung cancer can be explained by the “oral-lung axis” theory, which posits that periodontal pathogens can migrate from the oral cavity to the lungs via microinhalation or the bloodstream, thereby directly contributing to lung cancer development and progression (<xref rid="B6" ref-type="bibr">Baima et al., 2024</xref>; <xref rid="B23" ref-type="bibr">Jin et al., 2026</xref>). In this process, <italic toggle="yes">Fusobacterium nucleatum</italic> is considered a key candidate carcinogenic bacterium; its abundance is significantly and positively correlated with lung cancer risk, independent of other confounding factors (<xref rid="B70" ref-type="bibr">Zhang et al., 2023</xref>). Animal studies have further confirmed that oral infection with Fusobacterium nucleatum leads to a significant decline in lung function in mice, along with markedly elevated levels of inflammatory factors such as IL-1β, IL-6, IFN-γ, and TNF-α, as well as tissue-damaging factors such as matrix metalloproteinase-8 and neutrophil elastase in lung tissue. Furthermore, the bacterium can be detected in lung tissue, suggesting direct pulmonary pathogenicity (<xref rid="B33" ref-type="bibr">Li et al., 2024</xref>). Furthermore, the airway microbiome of lung cancer patients is often characterized by an enrichment of <italic toggle="yes">Streptococcus</italic>, <italic toggle="yes">Veillonella</italic>, and the Bacteroides phylum, along with reduced α-diversity in the oral microbiome; this dysbiotic profile may serve as an early warning sign for lung cancer development (<xref rid="B73" ref-type="bibr">Zhou et al., 2023</xref>; <xref rid="B35" ref-type="bibr">Liu et al., 2026</xref>).</p><fig position="float" id="f1" orientation="portrait"><label>Figure 1</label><caption><p>Schematic overview of the biological mechanisms linking periodontal disease to lung cancer. The figure illustrates three interconnected mechanistic pathways through which periodontal disease may promote lung carcinogenesis via the "oral-lung axis." Microbial translocation: Periodontal pathogens, particularly Fusobacterium nucleatum, migrate from the oral cavity to the lungs via microinhalation or hematogenous routes, inducing local inflammation and tissue damage. Chronic inflammation and immune dysregulation: Periodontitis disrupts local barriers, allowing bacteria and inflammatory mediators to enter the circulation, leading to systemic low-grade inflammation, Treg expansion, IL-6 elevation, and tumor microenvironment remodeling. Epigenetic modifications: Periodontal disease-associated DNA methylation alterations at shared sites (e.g., HOXA4, STXBP6) may contribute to lung cancer risk.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fcimb-16-1964724-g001.webp"><?image-name fcimb-16-1964724-g001.webp?><?image-size 246876?><?image-md5 15c0779d89d150ce229dd15ddc680f80?><?image-image-server-status NEED_LOADING?><?image-original-height 1196?><?image-original-width 1600?><?image-scaled-height 1196?><?image-scaled-width 1600?><?image-cloudpmc-urn urn:cdn:blobs/13b7/13639722/15c0779d89d1/fcimb-16-1964724-g001.webp?><?thumb-name fcimb-16-1964724-g001.gif?><?thumb-size 23236?><?thumb-md5 ff0429fc83f1256c573e38c668642c0a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 150?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/13b7/13639722/ff0429fc83f1/fcimb-16-1964724-g001.gif?><alt-text content-type="machine-generated">Infographic explaining interconnected pathways linking periodontitis and lung cancer, including microbial translocation from oral cavity to lung, chronic inflammation and immune dysregulation, and epigenetic modifications, with diagrams and molecular mechanisms driving lung cancer progression.</alt-text></graphic></fig><p>Chronic inflammation-mediated systemic immune dysregulation is another core mechanism by which periodontal disease drives lung cancer progression. As a chronic, multifactorial inflammatory disease, periodontitis can disrupt local barriers, allowing bacteria, virulence factors, and inflammatory mediators to enter the systemic circulation and induce a chronic, low-grade systemic inflammatory state (<xref rid="B6" ref-type="bibr">Baima et al., 2024</xref>). Through the release of free radicals and cytokines and the degradation of the extracellular matrix, it may contribute to a microenvironment conducive to tumorigenesis and metastasis (<xref rid="B6" ref-type="bibr">Baima et al., 2024</xref>). Within the tumor microenvironment, the oral microbiome can activate the IL-17/IL-23 pathway, promote chronic inflammation, and reshape the immune landscape (<xref rid="B35" ref-type="bibr">Liu et al., 2026</xref>). In patients with non-small cell lung cancer, the enrichment of γ-proteobacteria and Fusobacterium nucleatum is associated with immunosuppression, while the absence of beneficial bacteria such as <italic toggle="yes">Akkermansia muciniphila</italic> weakens the antitumor response of CD8<sup>+</sup> T cells (<xref rid="B35" ref-type="bibr">Liu et al., 2026</xref>).</p><p>Synergistic effects at the immune regulatory level are particularly noteworthy: the proportion of regulatory T cells in the peripheral blood of patients with both cancer and periodontitis is significantly higher than in patients with cancer alone or periodontitis alone, suggesting that periodontitis may enhance the immunosuppressive microenvironment by inducing Treg expansion, thereby promoting tumor immune evasion (<xref rid="B25" ref-type="bibr">Kajihara et al., 2022</xref>). At the same time, peripheral blood IL-6 levels were significantly elevated in the cancer group and further increased in the group with both cancer and periodontitis, suggesting that periodontitis may contribute to cancer progression by exacerbating systemic inflammation (<xref rid="B25" ref-type="bibr">Kajihara et al., 2022</xref>). Integrated bioinformatics analysis further identified FKBP11 and MMP13 as cross-interacting genes between periodontitis and lung adenocarcinoma (<xref rid="B67" ref-type="bibr">Wang et al., 2024</xref>). Mechanistic analysis suggests these genes may contribute to the comorbidity of the two diseases by influencing macrophages, M1 polarization, and CD8<sup>+</sup> T-cell activity, as well as disrupting immune-related and cell-cycle pathways (<xref rid="B67" ref-type="bibr">Wang et al., 2024</xref>). However, this molecular association may not reflect a direct causal relationship but may instead indirectly affect the tumor microenvironment by remodeling immune cell function and dysregulating cell-cycle control (<xref rid="B67" ref-type="bibr">Wang et al., 2024</xref>).</p><p>Epigenetic modifications, particularly DNA methylation, are regarded as a key bridge between environmental exposures and genomic alterations in lung cancer (<xref rid="B7" ref-type="bibr">Barros et al., 2018</xref>; <xref rid="B24" ref-type="bibr">Jurkowska, 2024</xref>). Salivary DNA from patients with periodontitis contains many differentially methylated sites; among these, hypomethylated genes are enriched in pathways regulating inflammatory responses and leukocyte activation, and in transcription factors such as NF-κB, while hypermethylated genes are involved in apoptotic signaling and epithelial-mesenchymal transition. These epigenetic alterations may create a favorable environment for cancer development (<xref rid="B55" ref-type="bibr">Petrenya et al., 2026</xref>). In lung cancer, the CLUE II cohort study found that methylation levels at 14 CpG sites in the HOXA4 gene region were significantly associated with lung cancer risk, and that a specific CpG site in the ENSG00000231601 gene was also associated with lung cancer risk (<xref rid="B45" ref-type="bibr">Mulvaney et al., 2024</xref>). Because these sites are also associated with periodontal disease, they may play a mediating role in the association between periodontal disease and lung cancer (<xref rid="B45" ref-type="bibr">Mulvaney et al., 2024</xref>). In non-smoking female patients with lung adenocarcinoma, high methylation of the STXBP6 gene promoter leads to its silencing, thereby promoting cell proliferation and migration, providing an independent epigenetic explanation for the association between periodontal disease and lung cancer in non-smokers (<xref rid="B32" ref-type="bibr">Lenka et al., 2017</xref>). Because of their early appearance, high disease specificity, and stability, epigenetic markers have become promising targets for early lung cancer detection (<xref rid="B34" ref-type="bibr">Lianidou, 2021</xref>; <xref rid="B24" ref-type="bibr">Jurkowska, 2024</xref>).</p><sec id="s4_1"><label>4.1</label><title>Direct genotoxicity: microbial acetaldehyde production</title><p>Beyond microbial translocation and chronic inflammation, a third mechanistic pathway links periodontal dysbiosis to lung carcinogenesis through the direct genotoxic effects of microbe-derived acetaldehyde (<xref rid="B51" ref-type="bibr">Nikolić et al., 2025</xref>). Acetaldehyde, classified as a Group 1 human carcinogen, is a metabolic byproduct of ethanol that oral microorganisms with alcohol dehydrogenase (ADH) enzymes can produce locally (<xref rid="B47" ref-type="bibr">Na and Lee, 2017</xref>; <xref rid="B53" ref-type="bibr">O'Grady et al., 2020</xref>). Key acetaldehyde-producing taxa within the oral cavity include <italic toggle="yes">Neisseria species</italic>, which exhibit ADH activity more than 100-fold higher than other genera, as well as <italic toggle="yes">Streptococcus mitis</italic>, <italic toggle="yes">Rothia mucilaginosa</italic>, <italic toggle="yes">Prevotella histicola</italic>, and <italic toggle="yes">Candida species</italic> (<xref rid="B46" ref-type="bibr">Muto et al., 2000</xref>; <xref rid="B44" ref-type="bibr">Moritani et al., 2015</xref>).</p><p>Acetaldehyde is an electrophilic molecule that readily reacts with nucleosides to form DNA adducts, leading to point mutations, sister chromatid exchanges, and genomic instability (<xref rid="B42" ref-type="bibr">Mizumoto et al., 2017</xref>). This DNA damage can activate oncogenic signaling pathways such as MAPK and NF-κB while inhibiting DNA repair mechanisms (<xref rid="B71" ref-type="bibr">Zhang et al., 2025</xref>). This microbial metabolic pathway has systemic implications: acetaldehyde produced in the oral cavity can reach the lungs via microaspiration or the bloodstream, potentially inducing direct DNA damage in pulmonary epithelial cells (<xref rid="B11" ref-type="bibr">Chen et al., 2018</xref>). This mechanism can operate independently of the inflammation-driving pathways mentioned above, or it can act synergistically.</p><p>Smoking appears to potentiate this pathway. Tobacco smoke can enhance oral bacterial acetaldehyde production from alcohol, and the combination of smoking and alcohol consumption may modify the oral microflora to produce higher salivary acetaldehyde levels (<xref rid="B64" ref-type="bibr">Vishwakarma and Verma, 2021</xref>). This interaction suggests that smoking may amplify periodontal disease-associated carcinogenic risk not only through confounding and immune modulation, but also by directly augmenting the genotoxic potential of the oral microbiome (<xref rid="B59" ref-type="bibr">Semiz et al., 2025</xref>). Furthermore, poor oral hygiene, characteristic of periodontitis, increases the microbial burden and, consequently, the total acetaldehyde-producing capacity of the oral cavity (<xref rid="B50" ref-type="bibr">Nieminen and Salaspuro, 2018</xref>). These observations position microbial acetaldehyde metabolism as a plausible, testable mechanism linking periodontal disease to lung cancer and warrant further investigation through longitudinal microbiome-metabolome studies (<xref rid="f2" ref-type="fig"><bold>Figure 2</bold></xref>).</p><fig position="float" id="f2" orientation="portrait"><label>Figure 2</label><caption><p>Schematic illustration of microbial acetaldehyde metabolism as a genotoxic mechanism linking periodontal disease to lung cancer. Periodontal dysbiosis promotes the overgrowth of acetaldehyde-producing oral microorganisms (e.g., Neisseria spp., S. mitis, R. mucilaginosa) that possess alcohol dehydrogenase (ADH). These bacteria metabolize ethanol to acetaldehyde, a Group 1 carcinogen. Acetaldehyde induces DNA adduct formation, point mutations, genomic instability, and activates oncogenic MAPK/NF-κB signaling while inhibiting DNA repair. Smoking potentiates this pathway by enhancing bacterial acetaldehyde production. Acetaldehyde reaches the lungs via microaspiration or hematogenous routes, causing direct DNA damage in pulmonary epithelial cells and potentially driving lung carcinogenesis. This mechanism operates independently of, and synergistically with, inflammation-driven pathways.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fcimb-16-1964724-g002.webp"><?image-name fcimb-16-1964724-g002.webp?><?image-size 211776?><?image-md5 a4c257f4c60644288ba9d18b91aa8f59?><?image-image-server-status NEED_LOADING?><?image-original-height 1198?><?image-original-width 1600?><?image-scaled-height 1198?><?image-scaled-width 1600?><?image-cloudpmc-urn urn:cdn:blobs/13b7/13639722/a4c257f4c606/fcimb-16-1964724-g002.webp?><?thumb-name fcimb-16-1964724-g002.gif?><?thumb-size 20694?><?thumb-md5 97f782b8f38f989d6881857798ff475a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 150?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/13b7/13639722/97f782b8f38f/fcimb-16-1964724-g002.gif?><alt-text content-type="machine-generated">Infographic showing how periodontal dysbiosis and alcohol metabolism in the oral cavity generate acetaldehyde, a carcinogen, which travels to the lungs via the bloodstream and microaspiration, promoting pulmonary carcinogenesis through DNA damage, genetic instability, and impaired DNA repair in lung epithelial cells, with smoking further enhancing acetaldehyde production.</alt-text></graphic></fig></sec></sec><sec id="s5"><label>5</label><title>Future research directions and prospects</title><p>Despite accumulating epidemiological evidence supporting a positive association between periodontal disease and lung cancer, several critical gaps remain to be addressed in future research. Precisely quantifying smoking exposure remains a priority methodological challenge. Current studies predominantly rely on self-reported smoking status or pack-year estimates, which are susceptible to recall bias and fail to capture the full complexity of smoking history, including duration, intensity, and time since cessation. Future cohort studies should incorporate objective biomarkers of tobacco exposure, such as serum cotinine or urinary nicotine metabolites, to better control for confounding. Furthermore, the inconsistent findings among non-smokers underscore the need for large-scale studies with stringent exclusion of former smokers and secondhand smoke exposure, as these factors may still introduce residual confounding even within “non-smoking” populations.</p><p>Whether the observed association reflects a causal relationship requires further investigation through advanced causal inference methodologies. Mendelian randomization studies, which leverage genetic variants as instrumental variables for periodontal disease and tooth loss, could provide valuable evidence for or against a causal relationship, with reduced susceptibility to confounding. Additionally, the application of mediation analysis could help disentangle the direct effects of periodontal disease from those mediated through smoking-related pathways or other intermediate factors, such as systemic inflammation.</p><p>The biological mechanisms linking periodontal disease to lung cancer warrant further elucidation. While the three mechanistic pathways—microbial translocation, chronic inflammation, and epigenetic modification—have been proposed, their temporal sequence and relative contributions remain poorly defined. Longitudinal multi-omics studies integrating metagenomic, transcriptomic, and epigenomic profiling from the same individuals across multiple time points would enable reconstruction of dynamic molecular trajectories linking periodontitis to pulmonary carcinogenesis. In particular, the role of <italic toggle="yes">Fusobacterium nucleatum</italic> as a direct oncogenic driver requires validation through mechanistic experiments, such as organoid models or gnotobiotic animal systems, to confirm its causal role rather than relying on mere correlational observations.</p><p>The translational potential of periodontal interventions for lung cancer prevention should be explored. Although randomized controlled trials evaluating the effect of periodontal treatment on lung cancer incidence would be ethically and practically challenging due to the long latency period of cancer development, surrogate endpoint trials could assess the impact of intensive oral hygiene measures on intermediate biomarkers, such as circulating inflammatory markers, immune cell profiles, or epigenetic signatures. Preliminary intervention studies assessing changes in lung function following improvements in oral hygiene are already underway and may provide proof of concept for the biological plausibility of the oral-lung axis.</p><p>Integrating periodontal health assessment into lung cancer risk prediction models represents a promising direction for clinical translation. If the independent contribution of periodontal disease to lung cancer risk is confirmed with greater certainty, incorporating oral health parameters—such as clinical attachment loss, tooth count, or salivary microbiome profiles—into existing risk stratification tools could improve their predictive performance, particularly in never-smokers who currently lack robust risk stratification. In this context, oral fluid biomarkers and chair-side diagnostic tools offer a particularly attractive approach for oncology settings. Unlike comprehensive periodontal examinations, which require specialized training and equipment, matrix metalloproteinase-8 (MMP-8), a key biomarker of active periodontal tissue degradation, can be rapidly measured from saliva or gingival crevicular fluid using point-of-care tests. Elevated MMP-8 levels have been consistently associated with both periodontitis progression and lung cancer risk, suggesting its potential as a cross-disease screening biomarker. Other promising oral biomarkers include IL-1β, IL-6, TNF-α, and antibodies against Porphyromonas gingivalis, all of which reflect the inflammatory burden of periodontitis and may independently contribute to risk stratification. Applying such chair-side diagnostic tools in oncology clinics would require validation in diverse populations and careful consideration of cost-effectiveness, but they offer a pragmatic pathway to incorporate oral health into comprehensive lung cancer risk management without overburdening clinical workflows.</p><p>Integrating periodontal health assessment into lung cancer risk prediction models represents a promising direction for clinical translation. If the independent contribution of periodontal disease to lung cancer risk is confirmed with greater certainty, incorporating oral health parameters—such as clinical attachment loss, tooth count, or salivary microbiome profiles—into existing risk stratification tools could improve their predictive performance, particularly in never-smokers who currently lack robust risk stratification. This integration would require validation in diverse populations and consideration of the cost-effectiveness and feasibility of oral health screening in non-dental settings.</p></sec><sec sec-type="conclusions" id="s6"><label>6</label><title>Conclusion</title><p>In conclusion, substantial epidemiological evidence supports a significant positive association between periodontal disease and lung cancer risk, with dose-response relationships across clinical severity and tooth loss. The oral-lung axis supports biological plausibility through microbial translocation, chronic inflammation, immune dysregulation, and epigenetic modifications. However, the independent causal nature remains incompletely established due to the strong confounding effect of smoking. While the association persists after adjustment in most studies, inconsistent findings among never-smokers and attenuated effect sizes suggest residual confounding or effect modification. Smoking may synergistically amplify risk. Future research should employ refined exposure measurement, causal inference methods, and multi-omics approaches to further test the causality hypothesis. Although routine periodontal interventions for lung cancer prevention are not yet justified, incorporating oral health into comprehensive risk assessment may offer a complementary strategy. Ultimately, elucidating this relationship will inform both mechanistic understanding and interdisciplinary prevention bridging dentistry and oncology.</p></sec></body><back><fn-group><fn id="n1" fn-type="edited-by"><p>Edited by: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/3282722" ext-link-type="uri">Naofumi Tamaki</ext-link>, Kagoshima University, Japan</p></fn><fn id="n2" fn-type="reviewed-by"><p>Reviewed by: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/987237" ext-link-type="uri">Jukka Meurman</ext-link>, University of Helsinki, Finland</p></fn></fn-group><sec sec-type="author-contributions" id="s7"><title>Author contributions</title><p>WL: Conceptualization, Data curation, Formal Analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review &amp; editing. YY: Conceptualization, Data curation, Formal Analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review &amp; editing. DZ: Conceptualization, Data curation, Formal Analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review &amp; editing.</p></sec><sec sec-type="COI-statement" id="s9"><title>Conflict of interest</title><p>The author(s) declared that this work was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec><sec sec-type="ai-statement" id="s10"><title>Generative AI statement</title><p>The author(s) declared that generative AI was used in the creation of this manuscript. This diagram was created with the assistance of artificial intelligence tools; all scientific content and the logical framework were independently conceived and reviewed by the author, and AI was used solely to enhance drawing efficiency and visual appeal.</p><p>Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.</p></sec><sec sec-type="disclaimer" id="s11"><title>Publisher’s note</title><p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></sec><ref-list><title>References</title><ref id="B1"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Agarwal</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Agarwal</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Hazique</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Bansal</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Banker</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Kapoor</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group>. (<year>2025</year>). 
+<article-title>From inflamed gums to infected heart: Linking periodontal diseases and myocardial infarction</article-title>. <source>Cardiol. Rev</source>. doi: <pub-id pub-id-type="doi">10.1097/crd.0000000000000898</pub-id><pub-id pub-id-type="pmid">40145686</pub-id>
+</mixed-citation></ref><ref id="B2"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>AlZamil</surname><given-names>A. F.</given-names></name>
+<name name-style="western"><surname>AlQutub</surname><given-names>M. N.</given-names></name>
+</person-group> (<year>2023</year>). 
+<article-title>The effect of different cigarette smoking levels on gingival crevicular fluid volume and periodontal clinical parameters in Saudi Arabia</article-title>. <source>Saudi Dent. J.</source>
+<volume>35</volume>, <fpage>525</fpage>–<lpage>533</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.sdentj.2023.05.001</pub-id><pub-id pub-id-type="pmid">37520605</pub-id>
+<pub-id pub-id-type="pmcid">PMC10373081</pub-id></mixed-citation></ref><ref id="B3"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Amato</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Santonocito</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Viglianisi</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Tatullo</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Isola</surname><given-names>G.</given-names></name>
+</person-group> (<year>2022</year>). 
+<article-title>Impact of oral mesenchymal stem cells applications as a promising therapeutic target in the therapy of periodontal disease</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>23</volume>
+<issue>(21)</issue>, <fpage>13419</fpage>. doi: <pub-id pub-id-type="doi">10.3390/ijms232113419</pub-id><pub-id pub-id-type="pmid">36362206</pub-id>
+<pub-id pub-id-type="pmcid">PMC9658889</pub-id></mixed-citation></ref><ref id="B4"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Apatzidou</surname><given-names>D. A.</given-names></name>
+</person-group> (<year>2022</year>). 
+<article-title>The role of cigarette smoking in periodontal disease and treatment outcomes of dental implant therapy</article-title>. <source>Periodontol. 2000</source>
+<volume>90</volume>, <fpage>45</fpage>–<lpage>61</lpage>. doi: <pub-id pub-id-type="doi">10.1111/prd.12449</pub-id><pub-id pub-id-type="pmid">35950749</pub-id>
+</mixed-citation></ref><ref id="B5"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Athanasiou</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Papageorgiou</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Dafni</surname><given-names>M. F.</given-names></name>
+<name name-style="western"><surname>Kelesis</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Vasileiou</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Tatsiou</surname><given-names>T.</given-names></name>
+<etal/>
+</person-group>. (<year>2025</year>). 
+<article-title>The use of isoflavones as lung cancer chemoprevention agents and their implications in treatment through radio sensitization</article-title>. <source>Curr. Med. Chem.</source>
+<volume>32</volume>, <fpage>214</fpage>–<lpage>237</lpage>. doi: <pub-id pub-id-type="doi">10.2174/0109298673278897231229121524</pub-id><pub-id pub-id-type="pmid">38369709</pub-id>
+</mixed-citation></ref><ref id="B6"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Baima</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Minoli</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Michaud</surname><given-names>D. S.</given-names></name>
+<name name-style="western"><surname>Aimetti</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Sanz</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Loos</surname><given-names>B. G.</given-names></name>
+<etal/>
+</person-group>. (<year>2024</year>). 
+<article-title>Periodontitis and risk of cancer: Mechanistic evidence</article-title>. <source>Periodontol. 2000</source>
+<volume>96</volume>, <fpage>83</fpage>–<lpage>94</lpage>. doi: <pub-id pub-id-type="doi">10.1111/prd.12540</pub-id><pub-id pub-id-type="pmid">38102837</pub-id>
+<pub-id pub-id-type="pmcid">PMC11579815</pub-id></mixed-citation></ref><ref id="B7"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Barros</surname><given-names>S. P.</given-names></name>
+<name name-style="western"><surname>Hefni</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Nepomuceno</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Offenbacher</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>North</surname><given-names>K.</given-names></name>
+</person-group> (<year>2018</year>). 
+<article-title>Targeting epigenetic mechanisms in periodontal diseases</article-title>. <source>Periodontol. 2000</source>
+<volume>78</volume>, <fpage>174</fpage>–<lpage>184</lpage>. doi: <pub-id pub-id-type="doi">10.1111/prd.12231</pub-id><pub-id pub-id-type="pmid">30198133</pub-id>
+</mixed-citation></ref><ref id="B8"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Barta</surname><given-names>J. A.</given-names></name>
+<name name-style="western"><surname>Powell</surname><given-names>C. A.</given-names></name>
+<name name-style="western"><surname>Wisnivesky</surname><given-names>J. P.</given-names></name>
+</person-group> (<year>2019</year>). 
+<article-title>Global epidemiology of lung cancer</article-title>. <source>Ann. Glob. Health</source>
+<volume>85</volume>
+<issue>(1)</issue>, <fpage>8</fpage>. doi: <pub-id pub-id-type="doi">10.5334/aogh.2419</pub-id><pub-id pub-id-type="pmid">30741509</pub-id>
+<pub-id pub-id-type="pmcid">PMC6724220</pub-id></mixed-citation></ref><ref id="B9"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Brennan</surname><given-names>D. S.</given-names></name>
+<name name-style="western"><surname>Spencer</surname><given-names>A. J.</given-names></name>
+<name name-style="western"><surname>Roberts-Thomson</surname><given-names>K. F.</given-names></name>
+</person-group> (<year>2017</year>). 
+<article-title>Work-family conflict modifies the association of smoking and periodontal disease</article-title>. <source>Int. J. Behav. Med.</source>
+<volume>24</volume>, <fpage>77</fpage>–<lpage>82</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s12529-016-9581-8</pub-id><pub-id pub-id-type="pmid">27432442</pub-id>
+</mixed-citation></ref><ref id="B10"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Casazza</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Wickland</surname><given-names>E. N.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Winn</surname><given-names>R. A.</given-names></name>
+</person-group> (<year>2026</year>). 
+<article-title>Maintaining momentum: The history and future of lung cancer disparities in the United States</article-title>. <source>Front. Oncol.</source>
+<volume>16</volume>, <elocation-id>1799293</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fonc.2026.1799293</pub-id><pub-id pub-id-type="pmid">42180074</pub-id>
+<pub-id pub-id-type="pmcid">PMC13193862</pub-id></mixed-citation></ref><ref id="B11"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Fang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Jin</surname><given-names>C.</given-names></name>
+</person-group> (<year>2018</year>). 
+<article-title>The effects of acetaldehyde exposure on histone modifications and chromatin structure in human lung bronchial epithelial cells</article-title>. <source>Environ. Mol. Mutagen.</source>
+<volume>59</volume>, <fpage>375</fpage>–<lpage>385</lpage>. doi: <pub-id pub-id-type="doi">10.1002/em.22187</pub-id><pub-id pub-id-type="pmid">29569274</pub-id>
+<pub-id pub-id-type="pmcid">PMC6031465</pub-id></mixed-citation></ref><ref id="B12"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>B. L.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>C. C.</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>R. F.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group> (<year>2020</year>). 
+<article-title>Periodontal disease and tooth loss are associated with lung cancer risk</article-title>. <source>BioMed. Res. Int.</source>
+<volume>2020</volume>, <elocation-id>5107696</elocation-id>. doi: <pub-id pub-id-type="doi">10.1155/2020/5107696</pub-id><pub-id pub-id-type="pmid">32802852</pub-id>
+<pub-id pub-id-type="pmcid">PMC7403933</pub-id></mixed-citation></ref><ref id="B13"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Collins</surname><given-names>J. R.</given-names></name>
+<name name-style="western"><surname>Elías</surname><given-names>A. R.</given-names></name>
+<name name-style="western"><surname>Brache</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Veras</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Ogando</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Toro</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group>. (<year>2019</year>). 
+<article-title>Association between gingival parameters and oral health-related quality of life in Caribbean adults: A population-based cross-sectional study</article-title>. <source>BMC Oral. Health</source>
+<volume>19</volume>, <fpage>234</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12903-019-0931-1</pub-id><pub-id pub-id-type="pmid">31675959</pub-id>
+<pub-id pub-id-type="pmcid">PMC6825342</pub-id></mixed-citation></ref><ref id="B14"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Corbella</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Veronesi</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Galimberti</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Weinstein</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Del Fabbro</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Francetti</surname><given-names>L.</given-names></name>
+</person-group> (<year>2018</year>). 
+<article-title>Is periodontitis a risk indicator for cancer? A meta-analysis</article-title>. <source>PloS One</source>
+<volume>13</volume>, <elocation-id>e0195683</elocation-id>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0195683</pub-id><pub-id pub-id-type="pmid">29664916</pub-id>
+<pub-id pub-id-type="pmcid">PMC5903629</pub-id></mixed-citation></ref><ref id="B15"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>da Silva</surname><given-names>C. V. F.</given-names></name>
+<name name-style="western"><surname>Bacila Sade</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Naressi Scapin</surname><given-names>S. M.</given-names></name>
+<name name-style="western"><surname>da Silva-Boghossian</surname><given-names>C. M.</given-names></name>
+<name name-style="western"><surname>de Oliveira Santos</surname><given-names>E.</given-names></name>
+</person-group> (<year>2023</year>). 
+<article-title>Comparative proteomics of saliva of healthy and gingivitis individuals from Rio de Janeiro</article-title>. <source>Proteomics Clin. Appl.</source>
+<volume>17</volume>, <elocation-id>e2200098</elocation-id>. doi: <pub-id pub-id-type="doi">10.1002/prca.202200098</pub-id><pub-id pub-id-type="pmid">36764829</pub-id>
+</mixed-citation></ref><ref id="B16"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>da Silveira</surname><given-names>T. M.</given-names></name>
+<name name-style="western"><surname>Simonsick</surname><given-names>E. M.</given-names></name>
+<name name-style="western"><surname>Hilgert</surname><given-names>J. B.</given-names></name>
+<name name-style="western"><surname>Hugo</surname><given-names>F. N.</given-names></name>
+<name name-style="western"><surname>Muniz</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Pola</surname><given-names>N. M.</given-names></name>
+</person-group> (<year>2026</year>). 
+<article-title>Incident lung cancer and mortality: Data from Health ABC using periodontal status and tooth loss</article-title>. <source>Oral. Dis.</source>
+<volume>32</volume>, <fpage>1460</fpage>–<lpage>1470</lpage>. doi: <pub-id pub-id-type="doi">10.1111/odi.70178</pub-id><pub-id pub-id-type="pmid">41486378</pub-id>
+<pub-id pub-id-type="pmcid">PMC13365001</pub-id></mixed-citation></ref><ref id="B17"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Duan</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Wan</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Tureke</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Feng</surname><given-names>L.</given-names></name>
+<etal/>
+</person-group>. (<year>2026</year>). 
+<article-title>Periodontal disease and incidence of cancers: A systematic review and meta-analysis of cohort studies</article-title>. <source>Int. Dent. J.</source>
+<volume>76</volume>, <elocation-id>109527</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.identj.2026.109527</pub-id><pub-id pub-id-type="pmid">41889038</pub-id>
+<pub-id pub-id-type="pmcid">PMC13052020</pub-id></mixed-citation></ref><ref id="B18"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Grundner</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Munjaković</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Tori</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Sepčić</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Gašperšič</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Oblak</surname><given-names>Č.</given-names></name>
+<etal/>
+</person-group>. (<year>2022</year>). 
+<article-title>Ceramide phosphoethanolamine as a possible marker of periodontal disease</article-title>. <source>Membranes (Basel)</source>
+<volume>12</volume>
+<issue>(7)</issue>, <fpage>655</fpage>. doi: <pub-id pub-id-type="doi">10.3390/membranes12070655</pub-id><pub-id pub-id-type="pmid">35877858</pub-id>
+<pub-id pub-id-type="pmcid">PMC9324278</pub-id></mixed-citation></ref><ref id="B19"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Güney</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Kurgan</surname><given-names>Ş.</given-names></name>
+<name name-style="western"><surname>Önder</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Serdar</surname><given-names>M. A.</given-names></name>
+<name name-style="western"><surname>Günhan</surname><given-names>Ö.</given-names></name>
+<name name-style="western"><surname>Günhan</surname><given-names>M.</given-names></name>
+</person-group> (<year>2023</year>). 
+<article-title>Expression of tight junction proteins in smokers and non-smokers with generalized Stage III periodontitis</article-title>. <source>J. Periodontal Res.</source>
+<volume>58</volume>
+<issue>(6)</issue>, <fpage>1281</fpage>–<lpage>1289</lpage>. doi: <pub-id pub-id-type="doi">10.1111/jre.13184</pub-id>
+<pub-id pub-id-type="pmid">37697913</pub-id></mixed-citation></ref><ref id="B20"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Han</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group> (<year>2016</year>). 
+<article-title>Interaction between periodontitis and liver diseases</article-title>. <source>Biomed. Rep.</source>
+<volume>5</volume>, <fpage>267</fpage>–<lpage>276</lpage>. doi: <pub-id pub-id-type="doi">10.3892/br.2016.718</pub-id><pub-id pub-id-type="pmid">27588170</pub-id>
+<pub-id pub-id-type="pmcid">PMC4998044</pub-id></mixed-citation></ref><ref id="B21"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Higham</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Scannapieco</surname><given-names>F. A.</given-names></name>
+</person-group> (<year>2024</year>). 
+<article-title>Epidemiological associations between periodontitis and cancer</article-title>. <source>Periodontol. 2000</source>
+<volume>96</volume>, <fpage>74</fpage>–<lpage>82</lpage>. doi: <pub-id pub-id-type="doi">10.1111/prd.12599</pub-id><pub-id pub-id-type="pmid">39302022</pub-id>
+</mixed-citation></ref><ref id="B22"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Jiang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>M.</given-names></name>
+</person-group> (<year>2020</year>). 
+<article-title>The impact of smoking on subgingival microflora: From periodontal health to disease</article-title>. <source>Front. Microbiol.</source>
+<volume>11</volume>, <elocation-id>66</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fmicb.2020.00066</pub-id><pub-id pub-id-type="pmid">32063898</pub-id>
+<pub-id pub-id-type="pmcid">PMC7000377</pub-id></mixed-citation></ref><ref id="B23"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Jin</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Tang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Ai</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group>. (<year>2026</year>). 
+<article-title>The oral - X axis: from periodontal dysbiosis to systemic disease</article-title>. <source>Front. Immunol.</source>
+<volume>17</volume>, <elocation-id>1806445</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2026.1806445</pub-id><pub-id pub-id-type="pmid">42136651</pub-id>
+<pub-id pub-id-type="pmcid">PMC13167506</pub-id></mixed-citation></ref><ref id="B24"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Jurkowska</surname><given-names>R. Z.</given-names></name>
+</person-group> (<year>2024</year>). 
+<article-title>Role of epigenetic mechanisms in the pathogenesis of chronic respiratory diseases and response to inhaled exposures: From basic concepts to clinical applications</article-title>. <source>Pharmacol. Ther.</source>
+<volume>264</volume>, <elocation-id>108732</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.pharmthera.2024.108732</pub-id><pub-id pub-id-type="pmid">39426605</pub-id>
+</mixed-citation></ref><ref id="B25"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kajihara</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Sakai</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Amari</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Kawamoto</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Hakoyama</surname><given-names>Y.</given-names></name>
+<etal/>
+</person-group>. (<year>2022</year>). 
+<article-title>Presence of periodontitis may synergistically contribute to cancer progression via Treg and IL-6</article-title>. <source>Sci. Rep.</source>
+<volume>12</volume>, <fpage>11584</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-022-15690-w</pub-id><pub-id pub-id-type="pmid">35804048</pub-id>
+<pub-id pub-id-type="pmcid">PMC9270385</pub-id></mixed-citation></ref><ref id="B26"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kesharani</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Kansara</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Kansara</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Kini</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Bhat</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Shetty</surname><given-names>P.</given-names></name>
+<etal/>
+</person-group>. (<year>2022</year>). 
+<article-title>Is periodontitis a risk factor for lung cancer? A meta-analysis and detailed review of mechanisms of association</article-title>. <source>Contemp. Clin. Dent.</source>
+<volume>13</volume>, <fpage>297</fpage>–<lpage>306</lpage>. doi: <pub-id pub-id-type="doi">10.4103/ccd.ccd_117_22</pub-id><pub-id pub-id-type="pmid">36686995</pub-id>
+<pub-id pub-id-type="pmcid">PMC9855255</pub-id></mixed-citation></ref><ref id="B27"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>B. G.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>S. K.</given-names></name>
+<name name-style="western"><surname>Paik</surname><given-names>S. Y.</given-names></name>
+<name name-style="western"><surname>Yun</surname><given-names>S. H.</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>C. J.</given-names></name>
+<etal/>
+</person-group>. (<year>2024</year>). 
+<article-title>Chronic periodontitis and risk of lung cancer: A nationwide cohort study</article-title>. <source>Front. Oncol.</source>
+<volume>14</volume>, <elocation-id>1413590</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fonc.2024.1413590</pub-id><pub-id pub-id-type="pmid">39015494</pub-id>
+<pub-id pub-id-type="pmcid">PMC11250509</pub-id></mixed-citation></ref><ref id="B28"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kühnisch</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Bertelsen</surname><given-names>R. J.</given-names></name>
+<name name-style="western"><surname>Jörres</surname><given-names>R. A.</given-names></name>
+<name name-style="western"><surname>Nowak</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Heinrich</surname><given-names>J.</given-names></name>
+</person-group> (<year>2023</year>). 
+<article-title>The impact of gingivitis reduction on lung function: A randomized trial under intensified oral hygiene</article-title>. <source>Trials</source>
+<volume>24</volume>
+<issue>(1)</issue>, <fpage>139</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s13063-023-07135-0</pub-id>
+<pub-id pub-id-type="pmcid">PMC9949689</pub-id><pub-id pub-id-type="pmid">36823669</pub-id></mixed-citation></ref><ref id="B29"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>S. Y.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>K. H.</given-names></name>
+</person-group> (<year>2025</year>). 
+<article-title>Association of oral disease with cancer incidence and mortality among adults in South Korea: A nationwide retrospective cohort study</article-title>. <source>Sci. Prog.</source>
+<volume>108</volume>, <elocation-id>368504251345632</elocation-id>. doi: <pub-id pub-id-type="doi">10.1177/00368504251345632</pub-id><pub-id pub-id-type="pmid">40530565</pub-id>
+<pub-id pub-id-type="pmcid">PMC12177253</pub-id></mixed-citation></ref><ref id="B30"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Leija-Montoya</surname><given-names>A. G.</given-names></name>
+<name name-style="western"><surname>González-Ramírez</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Serafín-Higuera</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Sandoval-Basilio</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Isiordia-Espinoza</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Serafín-Higuera</surname><given-names>N.</given-names></name>
+</person-group> (<year>2023</year>). 
+<article-title>Emerging avenues linking myeloid-derived suppressor cells to periodontal disease</article-title>. <source>Int. Rev. Cell. Mol. Biol.</source>
+<volume>375</volume>, <fpage>165</fpage>–<lpage>189</lpage>. doi: <pub-id pub-id-type="doi">10.1016/bs.ircmb.2022.12.001</pub-id>
+<pub-id pub-id-type="pmid">36967152</pub-id></mixed-citation></ref><ref id="B31"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Leite</surname><given-names>F. R. M.</given-names></name>
+<name name-style="western"><surname>Nascimento</surname><given-names>G. G.</given-names></name>
+<name name-style="western"><surname>Scheutz</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>López</surname><given-names>R.</given-names></name>
+</person-group> (<year>2018</year>). 
+<article-title>Effect of smoking on periodontitis: A systematic review and meta-regression</article-title>. <source>Am. J. Prev. Med.</source>
+<volume>54</volume>, <fpage>831</fpage>–<lpage>841</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.amepre.2018.02.014</pub-id><pub-id pub-id-type="pmid">29656920</pub-id>
+</mixed-citation></ref><ref id="B32"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lenka</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>M. H.</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>H. C.</given-names></name>
+<name name-style="western"><surname>Hsiao</surname><given-names>J. H.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>Y. C.</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>T. P.</given-names></name>
+<etal/>
+</person-group>. (<year>2017</year>). 
+<article-title>Identification of methylation-driven, differentially expressed STXBP6 as a novel biomarker in lung adenocarcinoma</article-title>. <source>Sci. Rep.</source>
+<volume>7</volume>, <elocation-id>42573</elocation-id>. doi: <pub-id pub-id-type="doi">10.1038/srep42573</pub-id><pub-id pub-id-type="pmid">28198450</pub-id>
+<pub-id pub-id-type="pmcid">PMC5309775</pub-id></mixed-citation></ref><ref id="B33"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Z.</given-names></name>
+</person-group> (<year>2024</year>). 
+<article-title>Oral infection with periodontal pathogens induced chronic obstructive pulmonary disease-like lung changes in mice</article-title>. <source>BMC Oral. Health</source>
+<volume>24</volume>, <fpage>850</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12903-024-04635-6</pub-id><pub-id pub-id-type="pmid">39061018</pub-id>
+<pub-id pub-id-type="pmcid">PMC11282791</pub-id></mixed-citation></ref><ref id="B34"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lianidou</surname><given-names>E.</given-names></name>
+</person-group> (<year>2021</year>). 
+<article-title>Detection and relevance of epigenetic markers on ctDNA: recent advances and future outlook</article-title>. <source>Mol. Oncol.</source>
+<volume>15</volume>, <fpage>1683</fpage>–<lpage>1700</lpage>. doi: <pub-id pub-id-type="doi">10.1002/1878-0261.12978</pub-id><pub-id pub-id-type="pmid">33942482</pub-id>
+<pub-id pub-id-type="pmcid">PMC8169441</pub-id></mixed-citation></ref><ref id="B35"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Xiang</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Du</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Xue</surname><given-names>Q.</given-names></name>
+<name name-style="western"><surname>Niu</surname><given-names>Y.</given-names></name>
+<etal/>
+</person-group>. (<year>2026</year>). 
+<article-title>Gut-lung microbiota axis shapes the immune microenvironment and immunotherapeutic response in lung cancer</article-title>. <source>Int. J. Biol. Sci.</source>
+<volume>22</volume>, <fpage>2265</fpage>–<lpage>2284</lpage>. doi: <pub-id pub-id-type="doi">10.7150/ijbs.126977</pub-id><pub-id pub-id-type="pmid">41800246</pub-id>
+<pub-id pub-id-type="pmcid">PMC12965067</pub-id></mixed-citation></ref><ref id="B36"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Luchian</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Goriuc</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Martu</surname><given-names>M. A.</given-names></name>
+<name name-style="western"><surname>Covasa</surname><given-names>M.</given-names></name>
+</person-group> (<year>2021</year>). 
+<article-title>Clindamycin as an alternative option in optimizing periodontal therapy</article-title>. <source>Antibiotics (Basel)</source>
+<volume>10</volume>
+<issue>(7)</issue>, <fpage>814</fpage>. doi: <pub-id pub-id-type="doi">10.3390/antibiotics10070814</pub-id><pub-id pub-id-type="pmid">34356735</pub-id>
+<pub-id pub-id-type="pmcid">PMC8300806</pub-id></mixed-citation></ref><ref id="B37"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Malhotra</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Malvezzi</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Negri</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>La Vecchia</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Boffetta</surname><given-names>P.</given-names></name>
+</person-group> (<year>2016</year>). 
+<article-title>Risk factors for lung cancer worldwide</article-title>. <source>Eur. Respir. J.</source>
+<volume>48</volume>, <fpage>889</fpage>–<lpage>902</lpage>. doi: <pub-id pub-id-type="doi">10.1183/13993003.00359-2016</pub-id><pub-id pub-id-type="pmid">27174888</pub-id>
+</mixed-citation></ref><ref id="B38"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mao</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Krasna</surname><given-names>M. J.</given-names></name>
+</person-group> (<year>2016</year>). 
+<article-title>Epidemiology of lung cancer</article-title>. <source>Surg. Oncol. Clin. N. Am.</source>
+<volume>25</volume>, <fpage>439</fpage>–<lpage>445</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.soc.2016.02.001</pub-id><pub-id pub-id-type="pmid">27261907</pub-id>
+</mixed-citation></ref><ref id="B39"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mazurek-Mochol</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Kozak</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Sawczuk</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Maciejewska</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Malinowski</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Safranow</surname><given-names>K.</given-names></name>
+<etal/>
+</person-group>. (<year>2018</year>). 
+<article-title>Nos3 gene rs1799983 and rs2070744 polymorphisms in patients with periodontal disease</article-title>. <source>Folia Biol. (Praha)</source>
+<volume>64</volume>, <fpage>59</fpage>–<lpage>64</lpage>. doi: <pub-id pub-id-type="doi">10.14712/fb2018064020059</pub-id><pub-id pub-id-type="pmid">30338757</pub-id>
+</mixed-citation></ref><ref id="B40"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Michaud</surname><given-names>D. S.</given-names></name>
+<name name-style="western"><surname>Fu</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Chung</surname><given-names>M.</given-names></name>
+</person-group> (<year>2017</year>). 
+<article-title>Periodontal disease, tooth loss, and cancer risk</article-title>. <source>Epidemiol. Rev.</source>
+<volume>39</volume>, <fpage>49</fpage>–<lpage>58</lpage>. doi: <pub-id pub-id-type="doi">10.1093/epirev/mxx006</pub-id><pub-id pub-id-type="pmid">28449041</pub-id>
+<pub-id pub-id-type="pmcid">PMC5868279</pub-id></mixed-citation></ref><ref id="B41"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Michaud</surname><given-names>D. S.</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Peacock-Villada</surname><given-names>A. Y.</given-names></name>
+<name name-style="western"><surname>Barber</surname><given-names>J. R.</given-names></name>
+<name name-style="western"><surname>Joshu</surname><given-names>C. E.</given-names></name>
+<name name-style="western"><surname>Prizment</surname><given-names>A. E.</given-names></name>
+<etal/>
+</person-group>. (<year>2018</year>). 
+<article-title>Periodontal disease assessed using clinical dental measurements and cancer risk in the ARIC study</article-title>. <source>J. Natl. Cancer Inst.</source>
+<volume>110</volume>, <fpage>843</fpage>–<lpage>854</lpage>. doi: <pub-id pub-id-type="doi">10.1093/jnci/djx278</pub-id><pub-id pub-id-type="pmid">29342298</pub-id>
+<pub-id pub-id-type="pmcid">PMC6093423</pub-id></mixed-citation></ref><ref id="B42"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mizumoto</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Ohashi</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Hirohashi</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Amanuma</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Matsuda</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Muto</surname><given-names>M.</given-names></name>
+</person-group> (<year>2017</year>). 
+<article-title>Molecular mechanisms of acetaldehyde-mediated carcinogenesis in squamous epithelium</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>18</volume>
+<issue>(9)</issue>, <fpage>1943</fpage>. doi: <pub-id pub-id-type="doi">10.3390/ijms18091943</pub-id><pub-id pub-id-type="pmid">28891965</pub-id>
+<pub-id pub-id-type="pmcid">PMC5618592</pub-id></mixed-citation></ref><ref id="B43"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mohanty</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Gujjari</surname><given-names>S. K.</given-names></name>
+<name name-style="western"><surname>Nakum</surname><given-names>C. G.</given-names></name>
+</person-group> (<year>2019</year>). 
+<article-title>Salivary free hemoglobin and lactate dehydrogenase as biomarkers for periodontal disease in smokers</article-title>. <source>Quintessence Int.</source>
+<volume>50</volume>
+<issue>(6)</issue>, <fpage>428</fpage>–<lpage>434</lpage>. doi: <pub-id pub-id-type="doi">10.3290/j.qi.a42478</pub-id>
+<pub-id pub-id-type="pmid">31086854</pub-id></mixed-citation></ref><ref id="B44"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Moritani</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Takeshita</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Shibata</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Ninomiya</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Kiyohara</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Yamashita</surname><given-names>Y.</given-names></name>
+</person-group> (<year>2015</year>). 
+<article-title>Acetaldehyde production by major oral microbes</article-title>. <source>Oral. Dis.</source>
+<volume>21</volume>, <fpage>748</fpage>–<lpage>754</lpage>. doi: <pub-id pub-id-type="doi">10.1111/odi.12341</pub-id><pub-id pub-id-type="pmid">25809116</pub-id>
+</mixed-citation></ref><ref id="B45"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mulvaney</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Pan</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Teles</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Platz</surname><given-names>E. A.</given-names></name>
+<etal/>
+</person-group>. (<year>2024</year>). 
+<article-title>Blood leukocyte DNA methylation markers of periodontal disease and risk of lung cancer in a case-control study nested in the CLUE II cohort</article-title>. <source>Cancer Epidemiol. Biomarkers Prev.</source>
+<volume>33</volume>, <fpage>1339</fpage>–<lpage>1346</lpage>. doi: <pub-id pub-id-type="doi">10.1158/1055-9965.epi-24-0279</pub-id><pub-id pub-id-type="pmid">39093033</pub-id>
+<pub-id pub-id-type="pmcid">PMC11446649</pub-id></mixed-citation></ref><ref id="B46"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Muto</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Hitomi</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Ohtsu</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Shimada</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Kashiwase</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Sasaki</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group>. (<year>2000</year>). 
+<article-title>Acetaldehyde production by non-pathogenic Neisseria in human oral microflora: implications for carcinogenesis in upper aerodigestive tract</article-title>. <source>Int. J. Cancer</source>
+<volume>88</volume>, <fpage>342</fpage>–<lpage>350</lpage>. doi: 10.1002/1097-0215(20001101)88:3&lt;342::aid-ijc4&gt;3.3.co;2-9
+<pub-id pub-id-type="pmid">11054661</pub-id></mixed-citation></ref><ref id="B47"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Na</surname><given-names>H. K.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>J. Y.</given-names></name>
+</person-group> (<year>2017</year>). 
+<article-title>Molecular basis of alcohol-related gastric and colon cancer</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>18</volume>
+<issue>(6)</issue>, <fpage>1116</fpage>. doi: <pub-id pub-id-type="doi">10.3390/ijms18061116</pub-id><pub-id pub-id-type="pmid">28538665</pub-id>
+<pub-id pub-id-type="pmcid">PMC5485940</pub-id></mixed-citation></ref><ref id="B48"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nagarajan</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>C. S.</given-names></name>
+<name name-style="western"><surname>Dawson</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Al-Sabbagh</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Ebersole</surname><given-names>J. L.</given-names></name>
+</person-group> (<year>2017</year>). 
+<article-title>Cross-talk between clinical and host-response parameters of periodontitis in smokers</article-title>. <source>J. Periodontal Res.</source>
+<volume>52</volume>, <fpage>342</fpage>–<lpage>352</lpage>. doi: <pub-id pub-id-type="doi">10.1111/jre.12397</pub-id><pub-id pub-id-type="pmid">27431617</pub-id>
+<pub-id pub-id-type="pmcid">PMC5247413</pub-id></mixed-citation></ref><ref id="B49"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nazir</surname><given-names>M. A.</given-names></name>
+</person-group> (<year>2017</year>). 
+<article-title>Prevalence of periodontal disease, its association with systemic diseases and prevention</article-title>. <source>Int. J. Health Sci. (Qassim)</source>
+<volume>11</volume>
+<issue>(2)</issue>, <fpage>72</fpage>–<lpage>80</lpage>.
+<pub-id pub-id-type="pmcid">PMC5426403</pub-id><pub-id pub-id-type="pmid">28539867</pub-id></mixed-citation></ref><ref id="B50"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nieminen</surname><given-names>M. T.</given-names></name>
+<name name-style="western"><surname>Salaspuro</surname><given-names>M.</given-names></name>
+</person-group> (<year>2018</year>). 
+<article-title>Local acetaldehyde-an essential role in alcohol-related upper gastrointestinal tract carcinogenesis</article-title>. <source>Cancers (Basel)</source>
+<volume>10</volume>
+<issue>(1)</issue>, <fpage>11</fpage>. doi: <pub-id pub-id-type="doi">10.3390/cancers10010011</pub-id><pub-id pub-id-type="pmid">29303995</pub-id>
+<pub-id pub-id-type="pmcid">PMC5789361</pub-id></mixed-citation></ref><ref id="B51"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nikolić</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Pucar</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Tomić</surname><given-names>U.</given-names></name>
+<name name-style="western"><surname>Petrović</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Mihailović</surname><given-names>Đ.</given-names></name>
+<name name-style="western"><surname>Jovanović</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group>. (<year>2025</year>). 
+<article-title>Oral microbiota and carcinogenesis: exploring the systemic impact of oral pathogens</article-title>. <source>Pathogens</source>
+<volume>14</volume>
+<issue>(12)</issue>, <fpage>1233</fpage>. doi: <pub-id pub-id-type="doi">10.3390/pathogens14121233</pub-id>
+<pub-id pub-id-type="pmcid">PMC12735917</pub-id><pub-id pub-id-type="pmid">41471188</pub-id></mixed-citation></ref><ref id="B52"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nocini</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Favaloro</surname><given-names>E. J.</given-names></name>
+<name name-style="western"><surname>Sanchis-Gomar</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Lippi</surname><given-names>G.</given-names></name>
+</person-group> (<year>2020</year>). 
+<article-title>Periodontitis, coronary heart disease and myocardial infarction: Treat one, benefit all</article-title>. <source>Blood Coagul Fibrinolysis</source>
+<volume>31</volume>, <fpage>339</fpage>–<lpage>345</lpage>. doi: <pub-id pub-id-type="doi">10.1097/mbc.0000000000000928</pub-id><pub-id pub-id-type="pmid">32815910</pub-id>
+</mixed-citation></ref><ref id="B53"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>O'Grady</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Anderson</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>O'Sullivan</surname><given-names>J.</given-names></name>
+</person-group> (<year>2020</year>). 
+<article-title>The interplay of the oral microbiome and alcohol consumption in oral squamous cell carcinomas</article-title>. <source>Oral. Oncol.</source>
+<volume>110</volume>, <fpage>105011</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.oraloncology.2020.105011</pub-id>
+<pub-id pub-id-type="pmid">32980528</pub-id></mixed-citation></ref><ref id="B54"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Papapanou</surname><given-names>P. N.</given-names></name>
+<name name-style="western"><surname>Susin</surname><given-names>C.</given-names></name>
+</person-group> (<year>2017</year>). 
+<article-title>Periodontitis epidemiology: Is periodontitis under-recognized, over-diagnosed, or both</article-title>? <source>Periodontol. 2000</source>
+<volume>75</volume>, <fpage>45</fpage>–<lpage>51</lpage>. doi: <pub-id pub-id-type="doi">10.1111/prd.12200</pub-id><pub-id pub-id-type="pmid">28758302</pub-id>
+</mixed-citation></ref><ref id="B55"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Petrenya</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Jönsson</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Hadler-Olsen</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Larsson</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Flatberg</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Beisvåg</surname><given-names>V.</given-names></name>
+<etal/>
+</person-group>. (<year>2026</year>). 
+<article-title>Genome-wide profiling of salivary promoter-region DNA methylation in periodontitis: the Tromsø Study</article-title>. <source>BMC Med. Genomics</source>
+<volume>19</volume>
+<issue>(1)</issue>, <fpage>93</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12920-026-02319-4</pub-id><pub-id pub-id-type="pmid">41652412</pub-id>
+<pub-id pub-id-type="pmcid">PMC13231653</pub-id></mixed-citation></ref><ref id="B56"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Reddy</surname><given-names>S. S. P.</given-names></name>
+<name name-style="western"><surname>Francis</surname><given-names>D. L.</given-names></name>
+<name name-style="western"><surname>Boruah</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Giri</surname><given-names>A. K.</given-names></name>
+</person-group> (<year>2025</year>). 
+<article-title>A comparative immunohistochemical and histomorphometric analysis of human gingiva in smokers and non-smokers with periodontitis: A cross-sectional study</article-title>. <source>BMC Oral. Health</source>
+<volume>25</volume>, <fpage>1817</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12903-025-07233-2</pub-id><pub-id pub-id-type="pmid">41272578</pub-id>
+<pub-id pub-id-type="pmcid">PMC12639687</pub-id></mixed-citation></ref><ref id="B57"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rocha</surname><given-names>F. G.</given-names></name>
+<name name-style="western"><surname>Berges</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Sedra</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Ghods</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Kapoor</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Pill</surname><given-names>L.</given-names></name>
+<etal/>
+</person-group>. (<year>2021</year>). 
+<article-title>A Porphyromonas gingivalis capsule-conjugate vaccine protects from experimental oral bone loss</article-title>. <source>Front. Oral. Health</source>
+<volume>2</volume>, <elocation-id>686402</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/froh.2021.686402</pub-id><pub-id pub-id-type="pmid">35048031</pub-id>
+<pub-id pub-id-type="pmcid">PMC8757777</pub-id></mixed-citation></ref><ref id="B58"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Santi-Rocca</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Martín-García</surname><given-names>D. F.</given-names></name>
+<name name-style="western"><surname>Lorca-Alonso</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>la González-de la Fuente</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Aguado</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Bonner</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group>. (<year>2025</year>). 
+<article-title>Microbial complexes in subgingival plaque: A bacterial meta-taxonomic study</article-title>. <source>J. Clin. Periodontol.</source>
+<volume>52</volume>, <fpage>983</fpage>–<lpage>998</lpage>. doi: <pub-id pub-id-type="doi">10.1111/jcpe.14138</pub-id><pub-id pub-id-type="pmid">40467115</pub-id>
+</mixed-citation></ref><ref id="B59"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Semiz</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Aksoy</surname><given-names>R. A.</given-names></name>
+<name name-style="western"><surname>Altun</surname><given-names>Z.</given-names></name>
+</person-group> (<year>2025</year>). 
+<article-title>Oral microbiome-mediated carcinogenesis in oral cavity cancer: A narrative review</article-title>. <source>Cureus</source>
+<volume>17</volume>, <elocation-id>e83242</elocation-id>. doi: <pub-id pub-id-type="doi">10.7759/cureus.83242</pub-id><pub-id pub-id-type="pmid">40453286</pub-id>
+<pub-id pub-id-type="pmcid">PMC12123651</pub-id></mixed-citation></ref><ref id="B60"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Shen</surname><given-names>W. Y.</given-names></name>
+<name name-style="western"><surname>Lai</surname><given-names>W. J.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y. H.</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>Y. C.</given-names></name>
+</person-group> (<year>2025</year>). 
+<article-title>Increased risk of lung cancer in Taiwanese female patients with chronic periodontitis: A nationwide population-based cohort study</article-title>. <source>J. Dent. Sci.</source>
+<volume>20</volume>, <fpage>1749</fpage>–<lpage>1755</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jds.2025.04.002</pub-id><pub-id pub-id-type="pmid">40654438</pub-id>
+<pub-id pub-id-type="pmcid">PMC12254812</pub-id></mixed-citation></ref><ref id="B61"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Smolarz</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Łukasiewicz</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Samulak</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Piekarska</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Kołaciński</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Romanowicz</surname><given-names>H.</given-names></name>
+</person-group> (<year>2025</year>). 
+<article-title>Lung cancer-epidemiology, pathogenesis, treatment and molecular aspect (review of literature)</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>26</volume>
+<issue>(5)</issue>, <fpage>2049</fpage>. doi: <pub-id pub-id-type="doi">10.3390/ijms26052049</pub-id><pub-id pub-id-type="pmid">40076671</pub-id>
+<pub-id pub-id-type="pmcid">PMC11900952</pub-id></mixed-citation></ref><ref id="B62"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tamashiro</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Strange</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Schnackenberg</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Santos</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Gadalla</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>L.</given-names></name>
+<etal/>
+</person-group>. (<year>2023</year>). 
+<article-title>Smoking-induced subgingival dysbiosis precedes clinical signs of periodontal disease</article-title>. <source>Sci. Rep.</source>
+<volume>13</volume>, <fpage>3755</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-023-30203-z</pub-id><pub-id pub-id-type="pmid">36882425</pub-id>
+<pub-id pub-id-type="pmcid">PMC9992395</pub-id></mixed-citation></ref><ref id="B63"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Verma</surname><given-names>U. P.</given-names></name>
+<name name-style="western"><surname>Singh</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Verma</surname><given-names>A. K.</given-names></name>
+</person-group> (<year>2023</year>). 
+<article-title>Correlation between chronic periodontitis and lung cancer: A systematic review with meta-analysis</article-title>. <source>Cureus</source>
+<volume>15</volume>, <elocation-id>e36476</elocation-id>. doi: <pub-id pub-id-type="doi">10.7759/cureus.36476</pub-id><pub-id pub-id-type="pmid">37090288</pub-id>
+<pub-id pub-id-type="pmcid">PMC10117959</pub-id></mixed-citation></ref><ref id="B64"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Vishwakarma</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Verma</surname><given-names>D.</given-names></name>
+</person-group> (<year>2021</year>). 
+<article-title>Microorganisms: crucial players of smokeless tobacco for several health attributes</article-title>. <source>Appl. Microbiol. Biotechnol.</source>
+<volume>105</volume>, <fpage>6123</fpage>–<lpage>6132</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s00253-021-11460-2</pub-id><pub-id pub-id-type="pmid">34331556</pub-id>
+</mixed-citation></ref><ref id="B65"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Qian</surname><given-names>Z. M.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Cai</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>Y.</given-names></name>
+<etal/>
+</person-group>. (<year>2022</year>). 
+<article-title>Population attributable fraction of lung cancer due to genetic variants, modifiable risk factors, and their interactions: A nationwide prospective cohort study</article-title>. <source>Chemosphere</source>
+<volume>301</volume>, <elocation-id>134773</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.chemosphere.2022.134773</pub-id><pub-id pub-id-type="pmid">35500626</pub-id>
+</mixed-citation></ref><ref id="B66"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Zou</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group> (<year>2020</year>). 
+<article-title>Relationship between periodontal disease and lung cancer: A systematic review and meta-analysis</article-title>. <source>J. Periodontal Res.</source>
+<volume>55</volume>, <fpage>581</fpage>–<lpage>593</lpage>. doi: <pub-id pub-id-type="doi">10.1111/jre.12772</pub-id><pub-id pub-id-type="pmid">32583879</pub-id>
+</mixed-citation></ref><ref id="B67"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group> (<year>2024</year>). 
+<article-title>Identification of crosstalk genes between lung adenocarcinoma and periodontitis</article-title>. <source>Curr. Med. Chem.</source>
+<volume>31</volume>, <fpage>6542</fpage>–<lpage>6553</lpage>. doi: <pub-id pub-id-type="doi">10.2174/0109298673273414231101082153</pub-id><pub-id pub-id-type="pmid">38173198</pub-id>
+</mixed-citation></ref><ref id="B68"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yoon</surname><given-names>H. S.</given-names></name>
+<name name-style="western"><surname>Wen</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Long</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Zheng</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Blot</surname><given-names>W. J.</given-names></name>
+<name name-style="western"><surname>Cai</surname><given-names>Q.</given-names></name>
+</person-group> (<year>2019</year>). 
+<article-title>Association of oral health with lung cancer risk in a low-income population of African Americans and European Americans in the Southeastern United States</article-title>. <source>Lung Cancer</source>
+<volume>127</volume>, <fpage>90</fpage>–<lpage>95</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.lungcan.2018.11.028</pub-id><pub-id pub-id-type="pmid">30642558</pub-id>
+<pub-id pub-id-type="pmcid">PMC6341989</pub-id></mixed-citation></ref><ref id="B69"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zeng</surname><given-names>X. T.</given-names></name>
+<name name-style="western"><surname>Xia</surname><given-names>L. Y.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y. G.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Leng</surname><given-names>W. D.</given-names></name>
+<name name-style="western"><surname>Kwong</surname><given-names>J. S.</given-names></name>
+</person-group> (<year>2016</year>). 
+<article-title>Periodontal disease and incident lung cancer risk: A meta-analysis of cohort studies</article-title>. <source>J. Periodontol.</source>
+<volume>87</volume>, <fpage>1158</fpage>–<lpage>1164</lpage>. doi: <pub-id pub-id-type="doi">10.1902/jop.2016.150597</pub-id><pub-id pub-id-type="pmid">27294431</pub-id>
+</mixed-citation></ref><ref id="B70"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Qiu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Fu</surname><given-names>B.</given-names></name>
+</person-group> (<year>2023</year>). 
+<article-title>Association of oral microbiota and periodontal disease with lung cancer: A systematic review and meta-analysis</article-title>. <source>J. Evid Based Dent. Pract.</source>
+<volume>23</volume>, <elocation-id>101897</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.jebdp.2023.101897</pub-id><pub-id pub-id-type="pmid">37689446</pub-id>
+</mixed-citation></ref><ref id="B71"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Hou</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group>. (<year>2025</year>). 
+<article-title>Correction to: Acetaldehyde induces similar cytotoxic and genotoxic risks in BEAS-2B cells and HHSteCs: involvement of differential regulation of MAPK/ERK and PI3K/AKT pathways</article-title>. <source>Environ. Sci. pollut. Res. Int.</source>
+<volume>32</volume>, <fpage>15999</fpage>–<lpage>16002</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s11356-024-34986-0</pub-id><pub-id pub-id-type="pmid">40583074</pub-id>
+</mixed-citation></ref><ref id="B72"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Beck</surname><given-names>J. D.</given-names></name>
+<name name-style="western"><surname>Moss</surname><given-names>K. L.</given-names></name>
+<name name-style="western"><surname>Prizment</surname><given-names>A. E.</given-names></name>
+<name name-style="western"><surname>Demmer</surname><given-names>R. T.</given-names></name>
+<etal/>
+</person-group>. (<year>2023</year>). 
+<article-title>Periodontal and other oral bacteria and risk of lung cancer in the Atherosclerosis Risk in Communities (ARIC) study</article-title>. <source>Cancer Epidemiol. Biomarkers Prev.</source>
+<volume>32</volume>, <fpage>505</fpage>–<lpage>515</lpage>. doi: <pub-id pub-id-type="doi">10.1158/1055-9965.epi-22-0601</pub-id><pub-id pub-id-type="pmid">35999656</pub-id>
+<pub-id pub-id-type="pmcid">PMC9947191</pub-id></mixed-citation></ref><ref id="B73"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Zeng</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Pan</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group>. (<year>2023</year>). 
+<article-title>Microbiota profiles in the saliva, cancerous tissues and its companion paracancerous tissues among Chinese patients with lung cancer</article-title>. <source>BMC Microbiol.</source>
+<volume>23</volume>, <fpage>237</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12866-023-02882-1</pub-id><pub-id pub-id-type="pmid">37641037</pub-id>
+<pub-id pub-id-type="pmcid">PMC10464170</pub-id></mixed-citation></ref></ref-list></back></article>
