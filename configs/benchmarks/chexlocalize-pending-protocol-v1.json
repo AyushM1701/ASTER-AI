@@ -1,0 +1,21 @@
+{
+  "created_utc": "2026-10-07T19:26:08.768819+00:00",
+  "model_id": "densenet121-res224-all",
+  "weight_sha256": "56524913dd16a906422e8d8b66a7a5c46be1d82eb7ac012d8103776f1aa68899",
+  "dataset_manifest_sha256": "ea8b6b884e390a497d62bffd7d5080418499a0ccaf5979b730d5343a5b0abfe8",
+  "thresholds": {
+    "Cardiomegaly": 0.5,
+    "Effusion": 0.5,
+    "Lung Opacity": 0.5
+  },
+  "threshold_basis": "Upstream operating-point-normalized research score maps its operating point to 0.5. Fixed before this evaluation; not a clinically validated cutoff.",
+  "threshold_source": "https://mlmed.org/torchxrayvision/models.html",
+  "training_overlap": {
+    "status": "unresolved",
+    "reviewer": null,
+    "rationale": "Complete checkpoint-specific patient and image overlap review required.",
+    "evidence": []
+  },
+  "probability_calibration": "not_fitted",
+  "clinical_validation": false
+}

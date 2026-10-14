@@ -1,0 +1,99 @@
+name: Reviewed Windows beta release
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: read
+concurrency:
+  group: windows-release
+  cancel-in-progress: false
+jobs:
+  trusted-tag:
+    runs-on: windows-2022
+    outputs:
+      commit: ${{ steps.verify.outputs.commit }}
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 0
+      - id: verify
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          if ($env:RELEASE_TAG -notmatch '^v[0-9][A-Za-z0-9_.-]*$') { throw 'Invalid release tag' }
+          $branch = gh api repos/AyushM1701/ASTER-AI/branches/main | ConvertFrom-Json
+          if ($LASTEXITCODE -ne 0 -or -not $branch.protected) { throw 'Main must be protected before a release build' }
+          git fetch origin main
+          if ($LASTEXITCODE -ne 0) { throw 'Cannot verify protected main' }
+          git merge-base --is-ancestor HEAD origin/main
+          if ($LASTEXITCODE -ne 0) { throw 'Release tag must belong to main' }
+          if ('${{ github.repository }}' -ne 'AyushM1701/ASTER-AI') { throw 'Unexpected release repository' }
+          "commit=$(git rev-parse HEAD)" >> $env:GITHUB_OUTPUT
+  build:
+    needs: trusted-tag
+    # Release assets are provisioned only on an isolated, maintained build runner.
+    # Never run untrusted pull requests on this asset-bearing runner.
+    runs-on: [self-hosted, Windows, X64, aster-release]
+    environment: aster-release-build
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: ${{ needs.trusted-tag.outputs.commit }}
+      - name: Stage and freeze permission-cleared assets
+        shell: pwsh
+        env:
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          if (-not $env:ASTER_CLEARED_ASSET_ROOT -or -not $env:ASTER_BUILD_PYTHON) { throw 'Provision the reviewed build environment and cleared assets first' }
+          & $env:ASTER_BUILD_PYTHON -m aster_release.provision --source $env:ASTER_CLEARED_ASSET_ROOT --destination .
+          if ($LASTEXITCODE -ne 0) { throw 'Cleared asset provisioning failed' }
+          $version = $env:RELEASE_TAG.Substring(1)
+          ./packaging/build-windows.ps1 -Edition PublicStandard -Version $version -Python $env:ASTER_BUILD_PYTHON
+          & $env:ASTER_BUILD_PYTHON packaging/create-release-assets.py --root "artifacts/release/$version-PublicStandard/portable" --output "artifacts/release/publish" --tag $env:RELEASE_TAG
+          if ($LASTEXITCODE -ne 0) { throw 'Asset creation failed' }
+          $env:ASTER_BUILD_TRUST_FILE = (Resolve-Path artifacts/release/publish/installer-trust.json).Path
+          & $env:ASTER_BUILD_PYTHON -m PyInstaller --noconfirm --distpath artifacts/release/publish --workpath artifacts/release/setup-work packaging/installer/aster-setup.spec
+          if ($LASTEXITCODE -ne 0) { throw 'Bootstrapper freezing failed' }
+      - name: Require packaged and clean-VM acceptance evidence
+        shell: pwsh
+        env:
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          $version = $env:RELEASE_TAG.Substring(1)
+          & $env:ASTER_BUILD_PYTHON -m aster_release.acceptance --report "$env:ASTER_ACCEPTANCE_REPORT" --manifest "artifacts/release/$version-PublicStandard/portable/release-manifest.json"
+          if ($LASTEXITCODE -ne 0) { throw 'Release acceptance has not passed' }
+          $installer = Get-Item artifacts/release/publish/AsterSetup-Windows-x64.exe
+          "$((Get-FileHash $installer.FullName -Algorithm SHA256).Hash.ToLower())  $($installer.Name)" >> artifacts/release/publish/SHA256SUMS.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: reviewed-windows-release
+          path: |
+            artifacts/release/publish/*.part*
+            artifacts/release/publish/distribution.json
+            artifacts/release/publish/SHA256SUMS.txt
+            artifacts/release/publish/AsterSetup-Windows-x64.exe
+  publish-draft:
+    needs: build
+    runs-on: windows-2022
+    environment: aster-release-publish
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
+        with:
+          name: reviewed-windows-release
+          path: release-assets
+      - name: Create owner-reviewed draft beta
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          $assets = Get-ChildItem release-assets -File | ForEach-Object FullName
+          gh release create $env:RELEASE_TAG @assets --repo AyushM1701/ASTER-AI --verify-tag --draft --prerelease --title "Aster $env:RELEASE_TAG Windows beta" --notes-file packaging/release-notes.md
+          if ($LASTEXITCODE -ne 0) { throw 'Draft release failed' }
+  # Final publication follows actual download-and-offline acceptance; this
+  # workflow deliberately never marks a draft beta clinically validated/stable.

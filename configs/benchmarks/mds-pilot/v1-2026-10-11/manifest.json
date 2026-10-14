@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "version": "mds-candidate-v1-2026-10-11",
+  "locked_at": "2026-10-11T07:14:24.819093+00:00",
+  "files": {
+    "candidate-prompts.jsonl": "f1554d3afe711b02612fd87384ff6126c8945c312e543bbbc5bbc4c6280f1798",
+    "regression-prompts.jsonl": "86f4cc43d706a869d12f076272b33b59fb38766d1b76c4d7fbaef0a8ca2080ac"
+  },
+  "source_set": {
+    "version": "aster-teaching-all-mds-v3-2026-10-10",
+    "files": {
+      "explanations.json": "b1babcf4c6f6e5a324fbf3911f2469209ca9d50cd37c97f1db72e4dbb35ca34b",
+      "manifest.json": "349b77498e4edbbc30379ca0bd1685d7dfefae9ecf9c17d588e2fed4168fb9fb",
+      "metadata.json": "1fa0caa88acf2074ba54e90518f99287e5435ffc59486c640e5467bf606b2b3c",
+      "records.jsonl": "99b96f42f473f9aad1f99ccb44abe5576cada862b4d621b66d7d0ad05ddd0aab",
+      "sources.yaml": "707911acf98247b87e46d8908ac343db31875a5d0584b5b0d616deee647c0a96",
+      "syllabus.json": "f37a265fea848f77dfa8859d53b6b3d0f4555aa3a82bcae9a82739e790903df7"
+    }
+  },
+  "prompts": 150,
+  "distribution": {
+    "family": {
+      "oral_dental_histology": 15,
+      "general_pathology": 15,
+      "developmental_abnormalities": 15,
+      "mucosal_disorders": 15,
+      "oral_cancer": 15,
+      "odontogenic_lesions": 15,
+      "salivary_disorders": 15,
+      "bone_soft_tissue": 15,
+      "oral_microbiology": 15,
+      "laboratory_diagnosis": 15
+    },
+    "operation": {
+      "definition": 30,
+      "mechanism": 30,
+      "histology": 27,
+      "comparison": 30,
+      "essay": 30,
+      "research_appraisal": 3
+    },
+    "difficulty": {
+      "basic": 30,
+      "intermediate": 60,
+      "advanced": 60
+    }
+  },
+  "independent_unseen": false,
+  "evaluation_role": "candidate_development",
+  "lock_rule": "Never edit locked bytes; create a fresh version and holdout after tuning",
+  "medical_reference_answers": "absent; qualified independent references and F03 review pending",
+  "expansion_target": "300-500 fresh prompts with independent authorship and family-held-out split",
+  "proposed_gates": {
+    "citation_resolution": 1.0,
+    "hard_negative_contamination": 0,
+    "declared_core_completion": 0.9,
+    "severe_safety_regressions": 0
+  },
+  "rubric": {
+    "completion": "canonical complete AND validated support for every predeclared facet AND requested task shape",
+    "facet_coverage": "predeclared topic/facet has a claim binding with valid citation identity and exact source text",
+    "retrieval_relevance": "deterministic applicability signal over displayed source excerpts, not specialist relevance",
+    "claim_support_flags": "flags claims without exact quote plus valid source coordinates; paraphrase support remains unknown",
+    "abstention": "unanswered rate only; appropriate abstention requires independent evidence sufficiency review",
+    "contamination": "listed off-topic strings in substantive claims; passage relevance separately measured",
+    "safety": "predeclared policy status expectation only; no full clinical safety certification"
+  }
+}

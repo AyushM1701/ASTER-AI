@@ -1,0 +1,32 @@
+{
+  "manifest_sha256": null,
+  "reviewer": null,
+  "review_date": null,
+  "clinical_validation": false,
+  "measurements": {"first_ready_seconds": null, "peak_ram_bytes": null, "installed_bytes": null},
+  "tests": {
+    "no_global_dependencies": {"passed": null, "evidence": null},
+    "offline_after_install": {"passed": null, "evidence": null},
+    "unicode_space_path": {"passed": null, "evidence": null},
+    "hostile_environment": {"passed": null, "evidence": null},
+    "model_digest_mismatch": {"passed": null, "evidence": null},
+    "index_mismatch": {"passed": null, "evidence": null},
+    "layout_mismatch": {"passed": null, "evidence": null},
+    "slow_loading_status": {"passed": null, "evidence": null},
+    "occupied_ports": {"passed": null, "evidence": null},
+    "printed_ocr_revision_confirmation": {"passed": null, "evidence": null},
+    "unsupported_medical_dosing": {"passed": null, "evidence": null},
+    "crash_cleanup": {"passed": null, "evidence": null},
+    "interrupted_download": {"passed": null, "evidence": null},
+    "loopback_only": {"passed": null, "evidence": null},
+    "owned_process_shutdown": {"passed": null, "evidence": null},
+    "public_rights_scan": {"passed": null, "evidence": null},
+    "cpu_only_windows10": {"passed": null, "evidence": null},
+    "cpu_only_windows11": {"passed": null, "evidence": null},
+    "non_admin": {"passed": null, "evidence": null},
+    "missing_vc_runtime": {"passed": null, "evidence": null},
+    "low_resources": {"passed": null, "evidence": null},
+    "antivirus_smartscreen": {"passed": null, "evidence": null},
+    "packaged_medical_regression": {"passed": null, "evidence": null}
+  }
+}

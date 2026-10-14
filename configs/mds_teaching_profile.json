@@ -1,0 +1,8 @@
+{
+  "ENABLE_TEACHING": "true",
+  "TEACHING_BACKEND": "hybrid",
+  "TEACHING_RELEASE_PATH": "data/references/mds/releases/aster-teaching-mbbs-mds-v2-final-2026-10-09",
+  "TEACHING_INDEX_PATH": "data/indexes/mbbs-mds-v2-final-2026-10-09",
+  "TEACHING_EXPLANATIONS_PATH": "data/references/mds/releases/aster-teaching-mbbs-mds-v2-final-2026-10-09/explanations.json",
+  "TEACHING_EXPLANATIONS_SHA256": "6aee71164d6ba00b00248c5b3e0832ab641faf46bea5b7e5e79a60d8c4443246"
+}

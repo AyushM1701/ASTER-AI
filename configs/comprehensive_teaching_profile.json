@@ -1,0 +1,8 @@
+{
+  "ENABLE_TEACHING": "true",
+  "TEACHING_BACKEND": "hybrid",
+  "TEACHING_RELEASE_PATH": "data/references/mds/releases/aster-teaching-comprehensive-audit-v2-2026-10-09",
+  "TEACHING_INDEX_PATH": "data/indexes/comprehensive-audit-v1-2026-10-09",
+  "TEACHING_EXPLANATIONS_PATH": "data/references/mds/releases/aster-teaching-comprehensive-audit-v2-2026-10-09/explanations.json",
+  "TEACHING_EXPLANATIONS_SHA256": "3a8c8b9377fce49e71febcda42757b8e59e0e9cfff76df4a4d6a953697aae7fa"
+}

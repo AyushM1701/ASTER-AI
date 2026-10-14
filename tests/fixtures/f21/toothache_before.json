@@ -1,0 +1,127 @@
+{
+  "provenance": "Fresh local browser-bridge API reproduction, 10 October 2026; synthetic question; captured before F21 changes",
+  "question": "What does it mean if a tooth aches?",
+  "response": {
+    "request_id": "93ce2b2e-e98f-4dcb-97a7-c882d79fc5d1",
+    "route": "medical_education",
+    "status": "ok",
+    "message": "Let's break this down, starting with what the references explain.",
+    "policy_version": "research-policy-v1",
+    "warnings": [],
+    "claims": [
+      {
+        "text": "Clearing a path is necessary for tooth eruption, but it does not cause the tooth to move. As roots grow, they put pressure on bone tissue in the alveolar sockets below. Pressure on bone tissue triggers release of BMPs which leads to the deposition of bone tissue, pushing teeth outwards. Bite forces also contribute to BMP secretion. As we mentioned earlier, root growth is not necessary, but BMP secretion is necessary. That doesn’t really make sense, does it? We must be missing some critical information.\n\nWe know root growth is sufficient to induce BMP secretion, and BMP secretion is necessary for tooth eruption. However, there may be something else that can stimulate BMP secretion. That is our mising piece of critical information. Further evidence that pressure is necessary comes from observation that teeth fail to erupt in the absence of healthy PDL. In fact, pressure created by fibroblasts of the PDL may trigger the stellate reticulum to secrete morphogens← that trigger osteoclast differentiation← as well as bone tissue to release BMPs. Fibroblasts not only secrete collagen←, they remodel it as well. Shortening of collagen fibers anchored to cementum would pressure on both the tooth root and alveolar socket. So does this happen? Polarization of PDL fibroblasts is observed before tooth eruption, suggesting that remodeling of PDL collagen fibers inserted in cementum may actively pull the tooth outwards. It is currently unknown whether this involves planar cell polarity← morphogens, signals which have been well established in their role in polarizing epithelial cells. It seems possible, given the lineage of PDL fibroblasts: neuro-mesenchyme (which means ectoderm, the same lineage as highly polarized keratinocytes and ameloblasts).\n\nBut we are still left with a major question: how can the PDL be necessary for tooth eruption if a rootless tooth can erupt? Can a rootless tooth have PDL? Lets refresh what we know about the PDL. The PDL develops from the remaining neuro-mesenchymal stem cells after receiving a signal from the dental papilla. We know it is not the BMP signal that induces neuro-mesenchymal stem cells to develop into odontoblasts, cementoblasts or osteoblasts. We know the PDL first connects to cementum during eruption, and connects to alveolar bone after eruption. It seems unlikely that the PDL could develop on a rootless tooth, and even if the PDL did develop, it would have nothing to attach to. Let’s summarize what we know about tooth eruption:\n\ntriggers BMP secretion in alveolar socket\n\nNow that we have summarized the facts we have, it is a good time to re-visit our troublesome assumption: teeth can erupt without roots. When professionals report the eruption of rootless teeth, do they mean these teeth never formed roots, or did the roots undergo resorption during eruption? Sadly, waiting until we see the eruption of a rootless tooth is too late to answer this question. We need time-travel, psychic abilities, or lots of radiographs of unerupted teeth. Furthermore, it is difficult to make a strong conclusion that root growth is not necessary when the original report of rootless tooth eruption is missing. No wonder the forces of tooth eruption are not agreed upon. Recent research in the field of hair growth suggests hairs are pulled upwards, not pushed– and we have seen homology between hair follicles and tooth buds. Luckily, we do not need to solve the controversy today. But it does bring up an important concept: when things don’t make sense, question your assumptions! Here is a good article on how and why:\n\n- Clinical applications\n- discussing assumptions using a gender-bias issue",
+        "citation_ids": [
+          "chunk_6955e6e9a7a5219ed1ac8772"
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "title": "Histology and Embryology for Dental Hygiene: Tooth development",
+        "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-8-tooth-development/",
+        "jurisdiction": "US",
+        "section": "Tooth development – Histology and Embryology for Dental Hygiene / Tooth eruption",
+        "source_date": "2020",
+        "snapshot_id": "mds-dental-v3-2026-10-09",
+        "source_type": "teaching",
+        "chunk_id": "chunk_6955e6e9a7a5219ed1ac8772",
+        "text_revision": "2020; publisher markdown snapshot 2026-10-09",
+        "product_identity": null,
+        "clinical_review": false,
+        "label_strengths": [],
+        "permission_basis": {
+          "type": "open_license",
+          "approved_host": "openoregon.pressbooks.pub",
+          "license": "CC-BY-NC-SA-4.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "snapshot_sha256": "392415a2565b5fab93d8e0862ab1eaef9165857be57fb70d8104a13f87eae2ef",
+          "clinical_review": false
+        },
+        "excerpt": "Clearing a path is necessary for tooth eruption, but it does not cause the tooth to move. As roots grow, they put pressure on bone tissue in the alveolar sockets below. Pressure on bone tissue triggers release of BMPs which leads to the deposition of bone tissue, pushing teeth outwards. Bite forces also contribute to BMP secretion. As we mentioned earlier, root growth is not necessary, but BMP secretion is necessary. That doesn’t really make sense, does it? We must be missing some critical information.\n\nWe know root growth is sufficient to induce BMP secretion, and BMP secretion is necessary for tooth eruption. However, there may be something else that can stimulate BMP secretion. That is our mising piece of critical information. Further evidence that pressure is necessary comes from observation that teeth fail to erupt in the absence of healthy PDL. In fact, pressure created by fibroblasts of the PDL may trigger the stellate reticulum to secrete morphogens← that trigger osteoclast differentiation← as well as bone tissue to release BMPs. Fibroblasts not only secrete collagen←, they remodel it as well. Shortening of collagen fibers anchored to cementum would pressure on both the tooth root and alveolar socket. So does this happen? Polarization of PDL fibroblasts is observed before tooth eruption, suggesting that remodeling of PDL collagen fibers inserted in cementum may actively pull the tooth outwards. It is currently unknown whether this involves planar cell polarity← morphogens, signals which have been well established in their role in polarizing epithelial cells. It seems possible, given the lineage of PDL fibroblasts: neuro-mesenchyme (which means ectoderm, the same lineage as highly polarized keratinocytes and ameloblasts).\n\nBut we are still left with a major question: how can the PDL be necessary for tooth eruption if a rootless tooth can erupt? Can a rootless tooth have PDL? Lets refresh what we know about the PDL. The PDL develops from the remaining neuro-mesenchymal stem cells after receiving a signal from the dental papilla. We know it is not the BMP signal that induces neuro-mesenchymal stem cells to develop into odontoblasts, cementoblasts or osteoblasts. We know the PDL first connects to cementum during eruption, and connects to alveolar bone after eruption. It seems unlikely that the PDL could develop on a rootless tooth, and even if the PDL did develop, it would have nothing to attach to. Let’s summarize what we know about tooth eruption:\n\ntriggers BMP secretion in alveolar socket\n\nNow that we have summarized the facts we have, it is a good time to re-visit our troublesome assumption: teeth can erupt without roots. When professionals report the eruption of rootless teeth, do they mean these teeth never formed roots, or did the roots undergo resorption during eruption? Sadly, waiting until we see the eruption of a rootless tooth is too late to answer this question. We need time-travel, psychic abilities, or lots of radiographs of unerupted teeth. Furthermore, it is difficult to make a strong conclusion that root growth is not necessary when the original report of rootless tooth eruption is missing. No wonder the forces of tooth eruption are not agreed upon. Recent research in the field of hair growth suggests hairs are pulled upwards, not pushed– and we have seen homology between hair follicles and tooth buds. Luckily, we do not need to solve the controversy today. But it does bring up an important concept: when things don’t make sense, question your assumptions! Here is a good article on how and why:\n\n- Clinical applications\n- discussing assumptions using a gender-bias issue",
+        "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+        "material_type": "foundation",
+        "limitations": [
+          "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+          "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+          "Publisher text retains source errors and typos; faculty correctness review pending.",
+          "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence.",
+          "Figures and tables excluded; text may refer to them."
+        ],
+        "syllabus_ids": [
+          "MDS-43"
+        ]
+      }
+    ],
+    "limitations": [
+      "For education and local research. This app cannot diagnose, prescribe, calculate a personal dose, or confirm that an X-ray is normal.",
+      "Teaching material is source-backed and developer-reviewed; medical faculty review has not been performed.",
+      "Only the supported parts of the question are covered. Curriculum mastery and clinical accuracy are not established."
+    ],
+    "supported_topics": [
+      "What does it mean if a tooth aches"
+    ],
+    "unsupported_topics": [],
+    "unverified_requested_tasks": [],
+    "answer_method": "source_backed_teaching",
+    "teaching_version": "aster-teaching-all-mds-v3-2026-10-10",
+    "clinical_review": false,
+    "subjects": [
+      "dental_histology",
+      "oral_embryology",
+      "oral_physiology"
+    ],
+    "validation": {
+      "reference_integrity": "passed",
+      "source_support": "not_independently_measured",
+      "automated_evaluation": "not_run",
+      "clinical_review": "pending",
+      "release_eligibility": "restricted"
+    },
+    "task_completion": true,
+    "outcome": "supported",
+    "question_plan": {
+      "version": "1",
+      "original_question": "What does it mean if a tooth aches?",
+      "audience": "understand",
+      "task": "explain",
+      "topic": "What does it mean if a tooth aches",
+      "subquestions": [
+        "What does it mean if a tooth aches?"
+      ],
+      "qualifiers": [],
+      "depth": "simple_then_deeper"
+    },
+    "explanation_layers": {
+      "version": "simple-to-deep-v1",
+      "simple": [],
+      "deeper": [
+        {
+          "text": "Clearing a path is necessary for tooth eruption, but it does not cause the tooth to move. As roots grow, they put pressure on bone tissue in the alveolar sockets below. Pressure on bone tissue triggers release of BMPs which leads to the deposition of bone tissue, pushing teeth outwards. Bite forces also contribute to BMP secretion. As we mentioned earlier, root growth is not necessary, but BMP secretion is necessary. That doesn’t really make sense, does it? We must be missing some critical information.\n\nWe know root growth is sufficient to induce BMP secretion, and BMP secretion is necessary for tooth eruption. However, there may be something else that can stimulate BMP secretion. That is our mising piece of critical information. Further evidence that pressure is necessary comes from observation that teeth fail to erupt in the absence of healthy PDL. In fact, pressure created by fibroblasts of the PDL may trigger the stellate reticulum to secrete morphogens← that trigger osteoclast differentiation← as well as bone tissue to release BMPs. Fibroblasts not only secrete collagen←, they remodel it as well. Shortening of collagen fibers anchored to cementum would pressure on both the tooth root and alveolar socket. So does this happen? Polarization of PDL fibroblasts is observed before tooth eruption, suggesting that remodeling of PDL collagen fibers inserted in cementum may actively pull the tooth outwards. It is currently unknown whether this involves planar cell polarity← morphogens, signals which have been well established in their role in polarizing epithelial cells. It seems possible, given the lineage of PDL fibroblasts: neuro-mesenchyme (which means ectoderm, the same lineage as highly polarized keratinocytes and ameloblasts).\n\nBut we are still left with a major question: how can the PDL be necessary for tooth eruption if a rootless tooth can erupt? Can a rootless tooth have PDL? Lets refresh what we know about the PDL. The PDL develops from the remaining neuro-mesenchymal stem cells after receiving a signal from the dental papilla. We know it is not the BMP signal that induces neuro-mesenchymal stem cells to develop into odontoblasts, cementoblasts or osteoblasts. We know the PDL first connects to cementum during eruption, and connects to alveolar bone after eruption. It seems unlikely that the PDL could develop on a rootless tooth, and even if the PDL did develop, it would have nothing to attach to. Let’s summarize what we know about tooth eruption:\n\ntriggers BMP secretion in alveolar socket\n\nNow that we have summarized the facts we have, it is a good time to re-visit our troublesome assumption: teeth can erupt without roots. When professionals report the eruption of rootless teeth, do they mean these teeth never formed roots, or did the roots undergo resorption during eruption? Sadly, waiting until we see the eruption of a rootless tooth is too late to answer this question. We need time-travel, psychic abilities, or lots of radiographs of unerupted teeth. Furthermore, it is difficult to make a strong conclusion that root growth is not necessary when the original report of rootless tooth eruption is missing. No wonder the forces of tooth eruption are not agreed upon. Recent research in the field of hair growth suggests hairs are pulled upwards, not pushed– and we have seen homology between hair follicles and tooth buds. Luckily, we do not need to solve the controversy today. But it does bring up an important concept: when things don’t make sense, question your assumptions! Here is a good article on how and why:\n\n- Clinical applications\n- discussing assumptions using a gender-bias issue",
+          "citation_ids": [
+            "chunk_6955e6e9a7a5219ed1ac8772"
+          ],
+          "claim_index": 0
+        }
+      ],
+      "context": [],
+      "simple_notice": "A checked plain-language explanation is not available for this question yet. The supported reference detail follows.",
+      "deeper_notice": ""
+    }
+  },
+  "runtime_hashes": {
+    "backend/app/services/teaching.py": "0e74d9cba66f4636e8d70cd828c93b904300f047d77fd66c4a23e10bc29f0cf2",
+    "backend/app/services/policy.py": "c1706083fb3ef3b871888d401b72f7ac64b1fe1a2f216465ac95c85a943263e7",
+    "backend/app/services/answers.py": "e441a766bceb33b82b49a9ba1527854066c007f9a77ce5e1b1a9c295fcac3d4e"
+  },
+  "teaching": {
+    "enabled": true,
+    "version": "aster-teaching-all-mds-v3-2026-10-10",
+    "records": 7773,
+    "backend": "hybrid",
+    "reviewed_explanations": 43,
+    "source_review_holds": 118,
+    "clinical_review": false,
+    "error": null
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-06T17:09:50.747000+00:00",
+  "title": "Design System: Aster Medical Research",
+  "extensions": {
+    "colorMeta": {
+      "aster-canvas": {
+        "role": "neutral",
+        "displayName": "Deep Ink",
+        "tonalRamp": [
+          "oklch(15.00% 0.01480 253.23)",
+          "oklch(26.43% 0.01480 253.23)",
+          "oklch(37.86% 0.01480 253.23)",
+          "oklch(49.29% 0.01480 253.23)",
+          "oklch(60.71% 0.01480 253.23)",
+          "oklch(72.14% 0.01480 253.23)",
+          "oklch(83.57% 0.01480 253.23)",
+          "oklch(95.00% 0.01480 253.23)"
+        ]
+      },
+      "aster-rail": {
+        "role": "neutral",
+        "displayName": "Rail Ink",
+        "tonalRamp": [
+          "oklch(15.00% 0.01929 252.12)",
+          "oklch(26.43% 0.01929 252.12)",
+          "oklch(37.86% 0.01929 252.12)",
+          "oklch(49.29% 0.01929 252.12)",
+          "oklch(60.71% 0.01929 252.12)",
+          "oklch(72.14% 0.01929 252.12)",
+          "oklch(83.57% 0.01929 252.12)",
+          "oklch(95.00% 0.01929 252.12)"
+        ]
+      },
+      "aster-surface": {
+        "role": "neutral",
+        "displayName": "Conversation Surface",
+        "tonalRamp": [
+          "oklch(15.00% 0.02206 248.85)",
+          "oklch(26.43% 0.02206 248.85)",
+          "oklch(37.86% 0.02206 248.85)",
+          "oklch(49.29% 0.02206 248.85)",
+          "oklch(60.71% 0.02206 248.85)",
+          "oklch(72.14% 0.02206 248.85)",
+          "oklch(83.57% 0.02206 248.85)",
+          "oklch(95.00% 0.02206 248.85)"
+        ]
+      },
+      "aster-raised": {
+        "role": "neutral",
+        "displayName": "Raised Surface",
+        "tonalRamp": [
+          "oklch(15.00% 0.02672 246.69)",
+          "oklch(26.43% 0.02672 246.69)",
+          "oklch(37.86% 0.02672 246.69)",
+          "oklch(49.29% 0.02672 246.69)",
+          "oklch(60.71% 0.02672 246.69)",
+          "oklch(72.14% 0.02672 246.69)",
+          "oklch(83.57% 0.02672 246.69)",
+          "oklch(95.00% 0.02672 246.69)"
+        ]
+      },
+      "aster-border": {
+        "role": "neutral",
+        "displayName": "Shared Rule",
+        "tonalRamp": [
+          "oklch(15.00% 0.02770 240.42)",
+          "oklch(26.43% 0.02770 240.42)",
+          "oklch(37.86% 0.02770 240.42)",
+          "oklch(49.29% 0.02770 240.42)",
+          "oklch(60.71% 0.02770 240.42)",
+          "oklch(72.14% 0.02770 240.42)",
+          "oklch(83.57% 0.02770 240.42)",
+          "oklch(95.00% 0.02770 240.42)"
+        ]
+      },
+      "aster-text": {
+        "role": "neutral",
+        "displayName": "Off-white",
+        "tonalRamp": [
+          "oklch(15.00% 0.00862 247.92)",
+          "oklch(26.43% 0.00862 247.92)",
+          "oklch(37.86% 0.00862 247.92)",
+          "oklch(49.29% 0.00862 247.92)",
+          "oklch(60.71% 0.00862 247.92)",
+          "oklch(72.14% 0.00862 247.92)",
+          "oklch(83.57% 0.00862 247.92)",
+          "oklch(95.00% 0.00862 247.92)"
+        ]
+      },
+      "aster-muted": {
+        "role": "neutral",
+        "displayName": "Quiet Blue-grey",
+        "tonalRamp": [
+          "oklch(15.00% 0.02423 246.12)",
+          "oklch(26.43% 0.02423 246.12)",
+          "oklch(37.86% 0.02423 246.12)",
+          "oklch(49.29% 0.02423 246.12)",
+          "oklch(60.71% 0.02423 246.12)",
+          "oklch(72.14% 0.02423 246.12)",
+          "oklch(83.57% 0.02423 246.12)",
+          "oklch(95.00% 0.02423 246.12)"
+        ]
+      },
+      "aster-accent": {
+        "role": "primary",
+        "displayName": "Sea-glass Teal",
+        "tonalRamp": [
+          "oklch(15.00% 0.09882 178.42)",
+          "oklch(26.43% 0.09882 178.42)",
+          "oklch(37.86% 0.09882 178.42)",
+          "oklch(49.29% 0.09882 178.42)",
+          "oklch(60.71% 0.09882 178.42)",
+          "oklch(72.14% 0.09882 178.42)",
+          "oklch(83.57% 0.09882 178.42)",
+          "oklch(95.00% 0.09882 178.42)"
+        ]
+      },
+      "aster-accent-hover": {
+        "role": "primary",
+        "displayName": "Pale Teal Hover",
+        "tonalRamp": [
+          "oklch(15.00% 0.07546 178.10)",
+          "oklch(26.43% 0.07546 178.10)",
+          "oklch(37.86% 0.07546 178.10)",
+          "oklch(49.29% 0.07546 178.10)",
+          "oklch(60.71% 0.07546 178.10)",
+          "oklch(72.14% 0.07546 178.10)",
+          "oklch(83.57% 0.07546 178.10)",
+          "oklch(95.00% 0.07546 178.10)"
+        ]
+      },
+      "aster-accent-soft": {
+        "role": "primary",
+        "displayName": "Current Context Wash",
+        "tonalRamp": [
+          "oklch(15.00% 0.03693 178.46)",
+          "oklch(26.43% 0.03693 178.46)",
+          "oklch(37.86% 0.03693 178.46)",
+          "oklch(49.29% 0.03693 178.46)",
+          "oklch(60.71% 0.03693 178.46)",
+          "oklch(72.14% 0.03693 178.46)",
+          "oklch(83.57% 0.03693 178.46)",
+          "oklch(95.00% 0.03693 178.46)"
+        ]
+      },
+      "aster-amber": {
+        "role": "secondary",
+        "displayName": "Review Amber",
+        "tonalRamp": [
+          "oklch(15.00% 0.09558 77.76)",
+          "oklch(26.43% 0.09558 77.76)",
+          "oklch(37.86% 0.09558 77.76)",
+          "oklch(49.29% 0.09558 77.76)",
+          "oklch(60.71% 0.09558 77.76)",
+          "oklch(72.14% 0.09558 77.76)",
+          "oklch(83.57% 0.09558 77.76)",
+          "oklch(95.00% 0.09558 77.76)"
+        ]
+      },
+      "aster-amber-soft": {
+        "role": "secondary",
+        "displayName": "Review Amber Wash",
+        "tonalRamp": [
+          "oklch(15.00% 0.02387 77.62)",
+          "oklch(26.43% 0.02387 77.62)",
+          "oklch(37.86% 0.02387 77.62)",
+          "oklch(49.29% 0.02387 77.62)",
+          "oklch(60.71% 0.02387 77.62)",
+          "oklch(72.14% 0.02387 77.62)",
+          "oklch(83.57% 0.02387 77.62)",
+          "oklch(95.00% 0.02387 77.62)"
+        ]
+      },
+      "urgent-surface": {
+        "role": "secondary",
+        "displayName": "Urgent Rose Wash",
+        "tonalRamp": [
+          "oklch(15.00% 0.03613 5.44)",
+          "oklch(26.43% 0.03613 5.44)",
+          "oklch(37.86% 0.03613 5.44)",
+          "oklch(49.29% 0.03613 5.44)",
+          "oklch(60.71% 0.03613 5.44)",
+          "oklch(72.14% 0.03613 5.44)",
+          "oklch(83.57% 0.03613 5.44)",
+          "oklch(95.00% 0.03613 5.44)"
+        ]
+      },
+      "urgent-text": {
+        "role": "secondary",
+        "displayName": "Urgent Rose Text",
+        "tonalRamp": [
+          "oklch(15.00% 0.07024 18.60)",
+          "oklch(26.43% 0.07024 18.60)",
+          "oklch(37.86% 0.07024 18.60)",
+          "oklch(49.29% 0.07024 18.60)",
+          "oklch(60.71% 0.07024 18.60)",
+          "oklch(72.14% 0.07024 18.60)",
+          "oklch(83.57% 0.07024 18.60)",
+          "oklch(95.00% 0.07024 18.60)"
+        ]
+      },
+      "selection-surface": {
+        "role": "primary",
+        "displayName": "Selection Teal",
+        "tonalRamp": [
+          "oklch(15.00% 0.06622 178.40)",
+          "oklch(26.43% 0.06622 178.40)",
+          "oklch(37.86% 0.06622 178.40)",
+          "oklch(49.29% 0.06622 178.40)",
+          "oklch(60.71% 0.06622 178.40)",
+          "oklch(72.14% 0.06622 178.40)",
+          "oklch(83.57% 0.06622 178.40)",
+          "oklch(95.00% 0.06622 178.40)"
+        ]
+      },
+      "selection-text": {
+        "role": "neutral",
+        "displayName": "Selection White",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 89.88)",
+          "oklch(26.43% 0.00000 89.88)",
+          "oklch(37.86% 0.00000 89.88)",
+          "oklch(49.29% 0.00000 89.88)",
+          "oklch(60.71% 0.00000 89.88)",
+          "oklch(72.14% 0.00000 89.88)",
+          "oklch(83.57% 0.00000 89.88)",
+          "oklch(95.00% 0.00000 89.88)"
+        ]
+      },
+      "hover-rule": {
+        "role": "neutral",
+        "displayName": "Hover Rule and Scrollbar",
+        "tonalRamp": [
+          "oklch(15.00% 0.03163 234.79)",
+          "oklch(26.43% 0.03163 234.79)",
+          "oklch(37.86% 0.03163 234.79)",
+          "oklch(49.29% 0.03163 234.79)",
+          "oklch(60.71% 0.03163 234.79)",
+          "oklch(72.14% 0.03163 234.79)",
+          "oklch(83.57% 0.03163 234.79)",
+          "oklch(95.00% 0.03163 234.79)"
+        ]
+      },
+      "upload-rule": {
+        "role": "neutral",
+        "displayName": "Upload Rule",
+        "tonalRamp": [
+          "oklch(15.00% 0.02992 235.92)",
+          "oklch(26.43% 0.02992 235.92)",
+          "oklch(37.86% 0.02992 235.92)",
+          "oklch(49.29% 0.02992 235.92)",
+          "oklch(60.71% 0.02992 235.92)",
+          "oklch(72.14% 0.02992 235.92)",
+          "oklch(83.57% 0.02992 235.92)",
+          "oklch(95.00% 0.02992 235.92)"
+        ]
+      },
+      "backdrop": {
+        "role": "neutral",
+        "displayName": "Modal and Drawer Backdrop",
+        "tonalRamp": [
+          "oklch(15.00% 0.01214 243.11 / 0.788235)",
+          "oklch(26.43% 0.01214 243.11 / 0.788235)",
+          "oklch(37.86% 0.01214 243.11 / 0.788235)",
+          "oklch(49.29% 0.01214 243.11 / 0.788235)",
+          "oklch(60.71% 0.01214 243.11 / 0.788235)",
+          "oklch(72.14% 0.01214 243.11 / 0.788235)",
+          "oklch(83.57% 0.01214 243.11 / 0.788235)",
+          "oklch(95.00% 0.01214 243.11 / 0.788235)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Welcome headline at desktop width."
+      },
+      "headline-compact": {
+        "displayName": "Headline Compact",
+        "purpose": "Welcome headline at widths up to 1199px."
+      },
+      "headline-phone": {
+        "displayName": "Headline Phone",
+        "purpose": "Welcome headline at widths up to 639px."
+      },
+      "heading": {
+        "displayName": "Heading",
+        "purpose": "Section and dialog titles."
+      },
+      "heading-compact": {
+        "displayName": "Heading Compact",
+        "purpose": "Compact context titles and phone dialog titles."
+      },
+      "subheading": {
+        "displayName": "Subheading",
+        "purpose": "Transcription review title."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Introduction and supporting prose."
+      },
+      "response": {
+        "displayName": "Response",
+        "purpose": "Plain-text answers, preserving line breaks and wrapping at 74ch."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Supporting small text; approved surface-specific introductory labels are not a reusable new-screen convention."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Shared action labels."
+      },
+      "brand": {
+        "displayName": "Brand",
+        "purpose": "Local Aster identity."
+      },
+      "composer": {
+        "displayName": "Composer",
+        "purpose": "Desktop message input."
+      },
+      "composer-phone": {
+        "displayName": "Composer Phone",
+        "purpose": "Phone message input."
+      },
+      "field": {
+        "displayName": "Field",
+        "purpose": "Native transcription fields."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "control-state",
+        "value": "background .16s, border-color .16s",
+        "purpose": "Default button and starter-card transitions; CSS default ease."
+      },
+      {
+        "name": "drawer",
+        "value": "transform .2s ease-out",
+        "purpose": "Phone navigation movement."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "scroll-behavior: auto !important; transition: none !important",
+        "purpose": "All elements and pseudo-elements under prefers-reduced-motion: reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-desktop",
+        "value": "1199px"
+      },
+      {
+        "name": "context-disclosure",
+        "value": "1023px"
+      },
+      {
+        "name": "phone-drawer",
+        "value": "639px"
+      },
+      {
+        "name": "wide-desktop",
+        "value": "1700px"
+      }
+    ],
+    "conversationRefinement": {
+      "date": "2026-10-09",
+      "headingPx": 40,
+      "sourceHeadingPx": 20,
+      "readingWidthPx": 760,
+      "sources": "answer-specific side panel or mobile native modal drawer",
+      "report": "ASTER_UI_UX_REVIEW.md"
+    }
+  },
+  "components": [
+    {
+      "name": "Default Button",
+      "kind": "button",
+      "refersTo": "button-default",
+      "description": "Secondary or session action.",
+      "html": "<button class=\"ds-button\">New conversation</button>",
+      "css": ".ds-button{font-family:'DM Sans',sans-serif;display:inline-flex;align-items:center;justify-content:center;gap:8px;border:1px solid var(--aster-border);background:var(--aster-surface);color:var(--aster-text);border-radius:var(--radius-control);padding:12px 16px;min-height:44px;font-size:14px;font-weight:500;transition:background .16s,border-color .16s;cursor:pointer;}.ds-button:hover:not(:disabled){background:var(--aster-raised);border-color:#415561}.ds-button:focus-visible{outline:2px solid var(--aster-accent);outline-offset:4px}.ds-button:disabled{opacity:.45;cursor:not-allowed}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}}"
+    },
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Explicit document confirmation or modal submission.",
+      "html": "<button class=\"ds-primary\">Confirm transcription</button>",
+      "css": ".ds-primary{font-family:'DM Sans',sans-serif;display:inline-flex;align-items:center;justify-content:center;gap:8px;border:1px solid var(--aster-border);background:var(--aster-surface);color:var(--aster-text);border-radius:var(--radius-control);padding:12px 16px;min-height:44px;font-size:14px;font-weight:500;transition:background .16s,border-color .16s;cursor:pointer;background:var(--aster-accent);color:var(--aster-canvas);border-color:transparent;}.ds-primary:hover:not(:disabled){background:var(--aster-accent-hover)}.ds-primary:focus-visible{outline:2px solid var(--aster-accent);outline-offset:4px}.ds-primary:disabled{opacity:.45;cursor:not-allowed}@media(prefers-reduced-motion:reduce){.ds-primary{transition:none}}"
+    },
+    {
+      "name": "Attachment Button",
+      "kind": "button",
+      "refersTo": "button-attachment",
+      "description": "The shared link-icon attachment entry point.",
+      "html": "<button class=\"ds-attach\" aria-label=\"Attach image\"><svg aria-hidden=\"true\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71\"/><path d=\"M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71\"/></g></svg>\n</button>",
+      "css": ".ds-attach{font-family:'DM Sans',sans-serif;display:inline-flex;align-items:center;justify-content:center;padding:10px;min-width:44px;min-height:44px;border-radius:var(--radius-control);background:var(--aster-raised);color:var(--aster-text);border:1px solid var(--aster-border);cursor:pointer}.ds-attach:hover:not(:disabled){border-color:var(--aster-accent)}.ds-attach:focus-visible{outline:2px solid var(--aster-accent);outline-offset:4px}.ds-attach:disabled{opacity:.45;cursor:not-allowed}"
+    },
+    {
+      "name": "Review Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "A visibly labeled native transcription field.",
+      "html": "<label class=\"ds-field\">Medicine name<input placeholder=\"Not found â€” review original\" value=\"\"></label>",
+      "css": ".ds-field{font-family:'DM Sans',sans-serif;display:grid;gap:8px;font-size:12px;color:var(--aster-muted)}.ds-field input{font-family:'DM Sans',sans-serif;width:100%;min-width:0;background:var(--aster-canvas);border:1px solid var(--aster-border);border-radius:var(--radius-control);color:var(--aster-text);padding:12px;font-size:15px;line-height:22px;caret-color:var(--aster-accent)}.ds-field input::placeholder{color:var(--aster-muted)}.ds-field input:focus-visible{outline:2px solid var(--aster-accent);outline-offset:4px}"
+    },
+    {
+      "name": "Current Navigation",
+      "kind": "nav",
+      "refersTo": "navigation-current",
+      "description": "Selected conversation in the tonal navigation rail.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Workspace\"><div class=\"ds-current\"><svg aria-hidden=\"true\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 5v14m6.065-10.504l-12.125 7m0-6.992l12.125 7\"/></svg>\nConversation</div></nav>",
+      "css": ".ds-nav{font-family:'DM Sans',sans-serif;padding:28px 24px;background:var(--aster-rail)}.ds-current{display:flex;gap:12px;align-items:center;color:var(--aster-accent);background:var(--aster-accent-soft);border-radius:var(--radius-control);padding:12px;font-size:14px}.ds-current svg{width:18px;height:18px;flex:none}"
+    },
+    {
+      "name": "State Tags",
+      "kind": "chip",
+      "refersTo": "badge",
+      "description": "Scope and pending review variants; these are static status tags.",
+      "html": "<span class=\"ds-badge\">Education &amp; research</span> <span class=\"ds-badge ds-pending-badge\">Needs review</span>",
+      "css": ".ds-badge{font-family:'DM Sans',sans-serif;display:inline-flex;align-items:center;padding:7px 12px;border-radius:var(--radius-control);font-size:12px;white-space:nowrap;background:var(--aster-surface);color:var(--aster-muted)}.ds-pending-badge{background:var(--aster-amber-soft);color:var(--aster-amber)}"
+    },
+    {
+      "name": "Source Card",
+      "kind": "card",
+      "refersTo": "card-source",
+      "description": "A supporting reference beside its answer.",
+      "html": "<article class=\"ds-source\"><a href=\"https://medlineplus.gov/\">MedlinePlus reference</a><p class=\"ds-source-caption\">Supporting context from a local record.</p></article>",
+      "css": ".ds-source{font-family:'DM Sans',sans-serif;padding:16px 20px;background:var(--aster-surface);color:var(--aster-text);border:1px solid var(--aster-border);border-radius:var(--radius-control);display:grid;gap:8px}.ds-source a{font-size:14px;color:var(--aster-accent);text-underline-offset:.2em;overflow-wrap:anywhere}.ds-source a:focus-visible{outline:2px solid var(--aster-accent);outline-offset:4px}.ds-source-caption{margin:0;color:var(--aster-muted);font-size:12px;line-height:1.6}"
+    },
+    {
+      "name": "Conversation Composer",
+      "kind": "custom",
+      "refersTo": "composer",
+      "description": "Persistent composer outside the scrollable history.",
+      "html": "<form class=\"ds-composer\"><label class=\"ds-composer-label\" for=\"ds-message\">Message Aster</label><textarea id=\"ds-message\" placeholder=\"Ask a question or attach an imageâ€¦\"></textarea><div class=\"ds-actions\"><button class=\"ds-attach\" type=\"button\" aria-label=\"Attach image\"><svg aria-hidden=\"true\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71\"/><path d=\"M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71\"/></g></svg>\n</button><span class=\"ds-hint\">PNG / JPEG Â· up to 10 MB</span><button class=\"ds-send\" aria-label=\"Send message\"><svg aria-hidden=\"true\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m5 12l7-7l7 7m-7 7V5\"/></svg>\n</button></div></form>",
+      "css": ".ds-composer{font-family:'DM Sans',sans-serif;max-width:720px;min-height:144px;border:1px solid var(--aster-border);border-radius:var(--radius-surface);background:var(--aster-surface);color:var(--aster-text);padding:20px;display:grid;gap:20px}.ds-composer-label{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.ds-composer textarea{font-family:'DM Sans',sans-serif;background:none;border:0;color:var(--aster-text);resize:none;width:100%;min-height:24px;max-height:112px;padding:0;font-size:15px;line-height:24px;caret-color:var(--aster-accent)}.ds-composer textarea::placeholder{color:var(--aster-muted);opacity:1}.ds-composer textarea:focus-visible{outline:0}.ds-composer:focus-within{border-color:var(--aster-accent)}.ds-actions{display:flex;align-items:center;gap:12px}.ds-attach{display:inline-flex;align-items:center;justify-content:center;padding:10px;min-width:44px;min-height:44px;border-radius:var(--radius-control);background:var(--aster-raised);color:var(--aster-text);border:1px solid var(--aster-border);cursor:pointer}.ds-attach:hover{border-color:var(--aster-accent)}.ds-attach:focus-visible{outline:2px solid var(--aster-accent);outline-offset:4px}.ds-hint{color:var(--aster-muted);font-size:12px;line-height:1.5}.ds-send{display:flex;align-items:center;justify-content:center;width:40px;height:40px;border:0;background:var(--aster-accent);border-radius:var(--radius-control);color:var(--aster-canvas);margin-left:auto;cursor:pointer}.ds-send svg{width:22px;height:22px}.ds-send:hover{background:var(--aster-accent-hover)}.ds-send:focus-visible{outline:2px solid var(--aster-accent);outline-offset:4px}@media(max-width:639px){.ds-composer{padding:16px;min-height:0}.ds-composer textarea{font-size:16px}}"
+    },
+    {
+      "name": "Transcription Review",
+      "kind": "card",
+      "refersTo": "card-review",
+      "description": "Fields and explicit confirmation in the conversation.",
+      "html": "<section class=\"ds-review\"><div class=\"ds-review-heading\"><h3>Review the transcription</h3><span>Needs review</span></div><label class=\"ds-review-field\">Medicine name<input placeholder=\"Not found â€” review original\"></label><label class=\"ds-ack\"><input type=\"checkbox\">I have compared the fields with the original.</label><button class=\"ds-primary\">Confirm transcription</button></section>",
+      "css": ".ds-review{font-family:'DM Sans',sans-serif;padding:20px;border:1px solid var(--aster-border);border-radius:var(--radius-surface);background:var(--aster-surface);color:var(--aster-text);display:grid;gap:20px}.ds-review-heading{display:flex;gap:12px;justify-content:space-between;align-items:center}.ds-review-heading h3{font-family:Manrope,sans-serif;margin:0;font-size:18px;font-weight:600;line-height:1.4;letter-spacing:-.025em}.ds-review-heading span{color:var(--aster-amber);font-size:12px}.ds-review-field{display:grid;gap:8px;font-size:12px;color:var(--aster-muted)}.ds-review-field input{font-family:'DM Sans',sans-serif;background:var(--aster-canvas);border:1px solid var(--aster-border);border-radius:var(--radius-control);color:var(--aster-text);padding:12px;font-size:15px;line-height:22px;caret-color:var(--aster-accent)}.ds-review-field input::placeholder{color:var(--aster-muted)}.ds-review-field input:focus-visible{outline:2px solid var(--aster-accent);outline-offset:4px}.ds-ack{display:flex;gap:10px;align-items:flex-start;font-size:14px;line-height:1.5}.ds-ack input{accent-color:var(--aster-accent);width:16px;height:16px;flex:none;margin-top:3px}.ds-ack input:focus-visible{outline:2px solid var(--aster-accent);outline-offset:4px}.ds-primary{font-family:'DM Sans',sans-serif;display:inline-flex;align-items:center;justify-content:center;gap:8px;border:1px solid var(--aster-border);background:var(--aster-surface);color:var(--aster-text);border-radius:var(--radius-control);padding:12px 16px;min-height:44px;font-size:14px;font-weight:500;transition:background .16s,border-color .16s;cursor:pointer;background:var(--aster-accent);color:var(--aster-canvas);border-color:transparent;}.ds-primary:hover:not(:disabled){background:var(--aster-accent-hover)}.ds-primary:focus-visible{outline:2px solid var(--aster-accent);outline-offset:4px}.ds-primary:disabled{opacity:.45;cursor:not-allowed}@media(prefers-reduced-motion:reduce){.ds-primary{transition:none}}.ds-primary{justify-self:start}@media(max-width:639px){.ds-review{padding:16px;gap:16px}.ds-ack{font-size:13px}}"
+    },
+    {
+      "name": "Urgent Guidance Notice",
+      "kind": "custom",
+      "refersTo": "notice-urgent",
+      "description": "Urgent guidance uses its own semantic pair.",
+      "html": "<div class=\"ds-urgent\">For urgent symptoms, seek medical help.</div>",
+      "css": ".ds-urgent{font-family:'DM Sans',sans-serif;background:#392227;color:#ffc2c2;padding:16px 20px;border-radius:var(--radius-control);font-size:14px;line-height:1.6}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Dark Ambient Operating Workspace",
+    "overview": "Quiet ink surfaces and restrained sea-glass teal support a focused local research workspace. The approved Figma direction now lives in a dedicated HTML/CSS/JavaScript presentation, with local Manrope headings and DM Sans body text. Tonal layers give the ambient character without decorative light effects.\n\nThe system favors legible questions, source records and review fields over ornament. Native buttons, fields, disclosures and dialogs carry the interaction; clear state cues keep uncertainty and confirmation visible within the conversation.\n\n2026-10-09: Answer-first conversation with a compact Sources selector per response. Detailed references, supporting passages and limitations live in the right evidence panel or native mobile sources drawer. Welcome actions use a flat list; central content is centered at a 760px maximum measure. Safe-area padding and 44px controls apply on phones.\n\n2026-10-10: Informational answers use Simple explanation followed by Deeper explanation with 18px/600 headings and existing 15px body text. Source qualifications remain visible; the evidence panel identifies the supported layers. Missing checked depth is stated explicitly; urgent guidance remains direct.",
+    "keyCharacteristics": [
+      "Deep ink canvas with tonal rails and surfaces.",
+      "Sea-glass teal for identity, actions, selection and focus.",
+      "Manrope headings paired with DM Sans body text.",
+      "Shared controls, restrained borders and responsive access to context."
+    ],
+    "rules": [
+      {
+        "name": "The Context Rule",
+        "body": "Use teal for interaction and context; reserve amber for pending review and caution, and the urgent pair for urgent guidance or errors.",
+        "section": "colors"
+      },
+      {
+        "name": "The Flat Surface Rule",
+        "body": "Use tonal fills and thin borders for depth. Keep decorative glow and shadows out of controls.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** reuse the control and surface radii, tonal fills and shared button treatments.",
+      "**Do** retain visible labels, native controls, keyboard focus and reduced-motion behavior.",
+      "**Do** keep sources, uncertainty and confirmation cues beside the result they qualify.",
+      "**Do** preserve one conversation and the link-icon attachment entry point."
+    ],
+    "donts": [
+      "**Don't** add glowing controls or decorative animations.",
+      "**Don't** add decorative medical illustrations, invented health metrics, confidence badges or fake activity charts.",
+      "**Don't** render user or model content as unsafe HTML.",
+      "**Don't** imply that category routing or confirmed transcription establishes clinical validity."
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+# Candidate cohort only. Images, review and complete overlap evidence are pending.
+dataset: CheXlocalize / CheXpert expert test set
+provider_url: https://stanford.redivis.com/datasets/efx9-5nspnbb4b
+assets: []

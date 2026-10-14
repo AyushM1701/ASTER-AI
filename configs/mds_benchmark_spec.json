@@ -1,0 +1,773 @@
+{
+  "scope": "Developer-authored bounded reference agreement, not faculty or clinical validation",
+  "cases": [
+    {
+      "id": "mds-pulp",
+      "question": "Explain dental pulp",
+      "subject": "oral_anatomy_histology",
+      "question_type": "definition",
+      "expected_status": "ok",
+      "golden_note_id": "mds-pulp",
+      "reference_chunk_ids": [
+        "chunk_ec530697fa4369402d43e08a"
+      ],
+      "required_facts": [
+        {
+          "id": "pulp-fact-1",
+          "any_of": [
+            "connective tissue"
+          ]
+        },
+        {
+          "id": "pulp-fact-2",
+          "any_of": [
+            "blood vessels",
+            "blood, nerve"
+          ]
+        },
+        {
+          "id": "pulp-fact-3",
+          "any_of": [
+            "nerves",
+            "nerve"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-pdl",
+      "question": "For a viva, explain the periodontal ligament",
+      "subject": "oral_anatomy_histology",
+      "question_type": "viva",
+      "expected_status": "ok",
+      "golden_note_id": "mds-periodontal-ligament",
+      "reference_chunk_ids": [
+        "chunk_1f56c1039d09aeeae15195a7"
+      ],
+      "required_facts": [
+        {
+          "id": "pdl-fact-1",
+          "any_of": [
+            "cementum"
+          ]
+        },
+        {
+          "id": "pdl-fact-2",
+          "any_of": [
+            "alveolar bone"
+          ]
+        },
+        {
+          "id": "pdl-fact-3",
+          "any_of": [
+            "Sharpey's",
+            "Sharpey"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-cementum",
+      "question": "Compare cellular and acellular cementum",
+      "subject": "oral_anatomy_histology",
+      "question_type": "comparison",
+      "expected_status": "ok",
+      "golden_note_id": "mds-cementum",
+      "reference_chunk_ids": [
+        "chunk_5b80831684386cc2c278ebbf"
+      ],
+      "required_facts": [
+        {
+          "id": "cementum-fact-1",
+          "any_of": [
+            "cementocytes"
+          ]
+        },
+        {
+          "id": "cementum-fact-2",
+          "any_of": [
+            "does not contain cementocytes",
+            "does not contain cells"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-je",
+      "question": "Explain junctional epithelium",
+      "subject": "oral_anatomy_histology",
+      "question_type": "histology",
+      "expected_status": "ok",
+      "golden_note_id": "mds-junctional-epithelium",
+      "reference_chunk_ids": [
+        "chunk_90bcc3daa650e0adaa18d9ec"
+      ],
+      "required_facts": [
+        {
+          "id": "je-fact-1",
+          "any_of": [
+            "non-keratinised",
+            "non-keratinized"
+          ]
+        },
+        {
+          "id": "je-fact-2",
+          "any_of": [
+            "hemidesmosomes",
+            "hemi-desmosomes"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-saliva",
+      "question": "Explain saliva",
+      "subject": "oral_physiology",
+      "question_type": "patient_explanation",
+      "expected_status": "ok",
+      "golden_note_id": "mds-salivary-glands",
+      "reference_chunk_ids": [
+        "chunk_9035e47ecd83d69eabc4fbe2",
+        "chunk_dfc2cf23ec44fddec10d0185"
+      ],
+      "required_facts": [
+        {
+          "id": "saliva-fact-1",
+          "any_of": [
+            "moist"
+          ]
+        },
+        {
+          "id": "saliva-fact-2",
+          "any_of": [
+            "swallowing"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-salivary",
+      "question": "Explain salivary glands",
+      "subject": "oral_anatomy_histology",
+      "question_type": "definition",
+      "expected_status": "ok",
+      "golden_note_id": "mds-salivary-glands",
+      "reference_chunk_ids": [
+        "chunk_9035e47ecd83d69eabc4fbe2",
+        "chunk_dfc2cf23ec44fddec10d0185"
+      ],
+      "required_facts": [
+        {
+          "id": "salivary-fact-1",
+          "any_of": [
+            "parotid"
+          ]
+        },
+        {
+          "id": "salivary-fact-2",
+          "any_of": [
+            "submandibular",
+            "sub-mandibular"
+          ]
+        },
+        {
+          "id": "salivary-fact-3",
+          "any_of": [
+            "sublingual",
+            "sub-lingual"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-enamel",
+      "question": "Explain amelogenesis",
+      "subject": "oral_anatomy_histology",
+      "question_type": "mechanism",
+      "expected_status": "ok",
+      "golden_note_id": "mds-amelogenesis",
+      "reference_chunk_ids": [
+        "chunk_94483a1d68846a805df6a02e"
+      ],
+      "required_facts": [
+        {
+          "id": "enamel-fact-1",
+          "any_of": [
+            "ameloblasts"
+          ]
+        },
+        {
+          "id": "enamel-fact-2",
+          "any_of": [
+            "amelogenins",
+            "amelogenin"
+          ]
+        },
+        {
+          "id": "enamel-fact-3",
+          "any_of": [
+            "enamelins",
+            "enamelin"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-enamel-viva",
+      "question": "Explain MDS enamel formation in detail",
+      "subject": "oral_anatomy_histology",
+      "question_type": "viva",
+      "expected_status": "ok",
+      "golden_note_id": "mds-amelogenesis",
+      "reference_chunk_ids": [
+        "chunk_94483a1d68846a805df6a02e"
+      ],
+      "required_facts": [
+        {
+          "id": "enamel-viva-fact-1",
+          "any_of": [
+            "mineralised",
+            "mineralizes"
+          ]
+        },
+        {
+          "id": "enamel-viva-fact-2",
+          "any_of": [
+            "very little or no collagen"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-he",
+      "question": "Explain H&E staining",
+      "subject": "lab_techniques",
+      "question_type": "mechanism",
+      "expected_status": "ok",
+      "golden_note_id": "mds-he",
+      "reference_chunk_ids": [
+        "chunk_336bada3df7f10f340254b7c"
+      ],
+      "required_facts": [
+        {
+          "id": "he-fact-1",
+          "any_of": [
+            "blue-purple"
+          ]
+        },
+        {
+          "id": "he-fact-2",
+          "any_of": [
+            "pink"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-he-compare",
+      "question": "Compare haematoxylin and eosin in H&E staining",
+      "subject": "lab_techniques",
+      "question_type": "comparison",
+      "expected_status": "ok",
+      "golden_note_id": "mds-he",
+      "reference_chunk_ids": [
+        "chunk_336bada3df7f10f340254b7c"
+      ],
+      "required_facts": [
+        {
+          "id": "he-compare-fact-1",
+          "any_of": [
+            "nuclei"
+          ]
+        },
+        {
+          "id": "he-compare-fact-2",
+          "any_of": [
+            "cytoplasm"
+          ]
+        },
+        {
+          "id": "he-compare-fact-3",
+          "any_of": [
+            "pink"
+          ]
+        },
+        {
+          "id": "he-compare-fact-4",
+          "any_of": [
+            "blue-purple"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-ihc",
+      "question": "Explain immunohistochemistry",
+      "subject": "lab_techniques",
+      "question_type": "definition",
+      "expected_status": "ok",
+      "golden_note_id": "mds-ihc",
+      "reference_chunk_ids": [
+        "chunk_336bada3df7f10f340254b7c"
+      ],
+      "required_facts": [
+        {
+          "id": "ihc-fact-1",
+          "any_of": [
+            "antibody"
+          ]
+        },
+        {
+          "id": "ihc-fact-2",
+          "any_of": [
+            "antigen"
+          ]
+        },
+        {
+          "id": "ihc-fact-3",
+          "any_of": [
+            "DAB"
+          ]
+        },
+        {
+          "id": "ihc-fact-4",
+          "any_of": [
+            "brown"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-fixation",
+      "question": "Explain tissue fixation",
+      "subject": "lab_techniques",
+      "question_type": "mechanism",
+      "expected_status": "ok",
+      "golden_note_id": "mds-fixation",
+      "reference_chunk_ids": [
+        "chunk_e782bdba8602af5a34fb200c"
+      ],
+      "required_facts": [
+        {
+          "id": "fixation-fact-1",
+          "any_of": [
+            "autolysis"
+          ]
+        },
+        {
+          "id": "fixation-fact-2",
+          "any_of": [
+            "formaldehyde"
+          ]
+        },
+        {
+          "id": "fixation-fact-3",
+          "any_of": [
+            "cross-links"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-processing",
+      "question": "Explain tissue processing",
+      "subject": "lab_techniques",
+      "question_type": "viva",
+      "expected_status": "ok",
+      "golden_note_id": "mds-processing",
+      "reference_chunk_ids": [
+        "chunk_9e78c04a0017f3c218f636b8"
+      ],
+      "required_facts": [
+        {
+          "id": "processing-fact-1",
+          "any_of": [
+            "paraffin"
+          ]
+        },
+        {
+          "id": "processing-fact-2",
+          "any_of": [
+            "embedded"
+          ]
+        },
+        {
+          "id": "processing-fact-3",
+          "any_of": [
+            "orientation"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-candidiasis",
+      "question": "Explain oral candidiasis",
+      "subject": "microbiology",
+      "question_type": "definition",
+      "expected_status": "ok",
+      "golden_note_id": "mds-candidiasis",
+      "reference_chunk_ids": [
+        "chunk_ce9195e4911c385e2683429c"
+      ],
+      "required_facts": [
+        {
+          "id": "candidiasis-fact-1",
+          "any_of": [
+            "fungal infection"
+          ]
+        },
+        {
+          "id": "candidiasis-fact-2",
+          "any_of": [
+            "Candida"
+          ]
+        },
+        {
+          "id": "candidiasis-fact-3",
+          "any_of": [
+            "commensal"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-ground",
+      "question": "Explain ground tooth sections",
+      "subject": "lab_techniques",
+      "question_type": "applied_research",
+      "expected_status": "ok",
+      "reference_chunk_ids": [
+        "chunk_432e110d8306051c34923710"
+      ],
+      "required_facts": [
+        {
+          "id": "ground-fact-1",
+          "any_of": [
+            "undemineralized"
+          ]
+        },
+        {
+          "id": "ground-fact-2",
+          "any_of": [
+            "microstructures"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-microtome",
+      "question": "Explain microtome",
+      "subject": "lab_techniques",
+      "question_type": "definition",
+      "expected_status": "ok",
+      "reference_chunk_ids": [
+        "chunk_ff9bff098999d3515fab5b0c"
+      ],
+      "required_facts": [
+        {
+          "id": "microtome-fact-1",
+          "any_of": [
+            "sectioned using a microtome"
+          ]
+        },
+        {
+          "id": "microtome-fact-2",
+          "any_of": [
+            "2–5 microns",
+            "2-5 microns"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-oral-microbiome",
+      "question": "Explain the oral microbiome",
+      "subject": "microbiology",
+      "question_type": "definition",
+      "expected_status": "ok",
+      "reference_chunk_ids": [
+        "chunk_724c99905f383249266f772b"
+      ],
+      "required_facts": [
+        {
+          "id": "oral-microbiome-fact-1",
+          "any_of": [
+            "bacteria"
+          ]
+        },
+        {
+          "id": "oral-microbiome-fact-2",
+          "any_of": [
+            "viruses"
+          ]
+        },
+        {
+          "id": "oral-microbiome-fact-3",
+          "any_of": [
+            "microeukaryotes"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-regeneration",
+      "question": "Explain experimental whole tooth regeneration research",
+      "subject": "oral_anatomy_histology",
+      "question_type": "research_limits",
+      "expected_status": "ok",
+      "reference_chunk_ids": [
+        "chunk_13cb1193fe4e9b012e397089"
+      ],
+      "required_facts": [
+        {
+          "id": "regeneration-fact-1",
+          "any_of": [
+            "not a human treatment trial"
+          ]
+        },
+        {
+          "id": "regeneration-fact-2",
+          "any_of": [
+            "does not establish routine human clinical effectiveness"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-normal",
+      "question": "Explain normal distribution",
+      "subject": "biostatistics",
+      "question_type": "definition",
+      "expected_status": "ok",
+      "reference_chunk_ids": [
+        "chunk_c9ed31d6fdf9d95998f1727e"
+      ],
+      "required_facts": [
+        {
+          "id": "normal-fact-1",
+          "any_of": [
+            "continuous"
+          ]
+        },
+        {
+          "id": "normal-fact-2",
+          "any_of": [
+            "Gaussian"
+          ]
+        },
+        {
+          "id": "normal-fact-3",
+          "any_of": [
+            "mean"
+          ]
+        },
+        {
+          "id": "normal-fact-4",
+          "any_of": [
+            "standard deviation"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-confidence",
+      "question": "Explain confidence intervals",
+      "subject": "biostatistics",
+      "question_type": "interpretation",
+      "expected_status": "ok",
+      "reference_chunk_ids": [
+        "chunk_3c6e54a60869f4aa70d66852"
+      ],
+      "required_facts": [
+        {
+          "id": "confidence-fact-1",
+          "any_of": [
+            "95%"
+          ]
+        },
+        {
+          "id": "confidence-fact-2",
+          "any_of": [
+            "repeated"
+          ]
+        },
+        {
+          "id": "confidence-fact-3",
+          "any_of": [
+            "does not mean"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-mean",
+      "question": "Explain arithmetic mean",
+      "subject": "biostatistics",
+      "question_type": "definition",
+      "expected_status": "ok",
+      "reference_chunk_ids": [
+        "chunk_55c3a870df0360cbf98c33b1"
+      ],
+      "required_facts": [
+        {
+          "id": "mean-fact-1",
+          "any_of": [
+            "add"
+          ]
+        },
+        {
+          "id": "mean-fact-2",
+          "any_of": [
+            "divide"
+          ]
+        },
+        {
+          "id": "mean-fact-3",
+          "any_of": [
+            "number of observations"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-anova",
+      "question": "Explain one-way ANOVA",
+      "subject": "biostatistics",
+      "question_type": "interpretation",
+      "expected_status": "ok",
+      "reference_chunk_ids": [
+        "chunk_2a604a75de656536937b31bb"
+      ],
+      "required_facts": [
+        {
+          "id": "anova-fact-1",
+          "any_of": [
+            "null hypothesis"
+          ]
+        },
+        {
+          "id": "anova-fact-2",
+          "any_of": [
+            "all equal"
+          ]
+        },
+        {
+          "id": "anova-fact-3",
+          "any_of": [
+            "at least one"
+          ]
+        }
+      ],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-boundary-skin",
+      "question": "Explain skin eruption",
+      "subject": "boundary",
+      "question_type": "boundary",
+      "expected_status": "not_handled",
+      "required_facts": [],
+      "reference_chunk_ids": [],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-boundary-fruit",
+      "question": "Explain fruit pulp",
+      "subject": "boundary",
+      "question_type": "boundary",
+      "expected_status": "not_handled",
+      "required_facts": [],
+      "reference_chunk_ids": [],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-boundary-unknown",
+      "question": "Explain Zorbexium congenital syndrome",
+      "subject": "boundary",
+      "question_type": "boundary",
+      "expected_status": "not_handled",
+      "required_facts": [],
+      "reference_chunk_ids": [],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-boundary-personal-dose",
+      "question": "What dose should I take for oral candidiasis?",
+      "subject": "boundary",
+      "question_type": "boundary",
+      "expected_status": "not_handled",
+      "required_facts": [],
+      "reference_chunk_ids": [],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-boundary-diagnosis",
+      "question": "Diagnose me from dental pulp pain",
+      "subject": "boundary",
+      "question_type": "boundary",
+      "expected_status": "not_handled",
+      "required_facts": [],
+      "reference_chunk_ids": [],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    },
+    {
+      "id": "mds-boundary-product",
+      "question": "Explain dental pulp 650mg syrup",
+      "subject": "boundary",
+      "question_type": "boundary",
+      "expected_status": "not_handled",
+      "required_facts": [],
+      "reference_chunk_ids": [],
+      "clinical_correctness": null,
+      "faculty_review": "pending"
+    }
+  ]
+}

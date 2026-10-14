@@ -1,0 +1,7 @@
+# Recovery privacy/security status
+
+Existing owned sessions, bounded uploads, safe DOM rendering, source holds and common terminal guard preserved. New facet traces are request-scoped and omit full prompts/source text; browser display and independent triage remain null. Offline governance/oracles/FGRC are not public endpoints. No whole-repository new security scan or clinical safety certification claimed. Credentials/private workspaces excluded from source checkpoint.
+
+Local reviewer registry: token hashes stored, imports tied to exact assignment/packet/case/rubric hashes, immutable submissions and adjudication freezing tested. No external transfer, credential verification or full security audit is implied. Protect registry/token files with host user permissions.
+
+Private PDF engineering checks cover explicit permission, real bounded parsing, owned/current-revision confirmation, source-policy/injection withholding, exact span identity, private-context checks across statuses and relabelled identities, uncached private text checks, shared quotas, session clear/expiry during parsing and deletion. Actual synthetic browser upload/confirm/follow-up/reopen/delete was observed. Private pages remain in temporary owning sessions; raw PDF bytes are not persisted. OCR, table/column reliability, complete appraisal, packaged parsing and comprehensive parser security certification remain unfinished. Latest evidence is in artifacts/evaluation/master-2026-10-13/private-paper-v1/checkpoint.json.

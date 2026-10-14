@@ -1,0 +1,47 @@
+{
+  "toothache": {
+    "selected_text_sha256": "350db9df5478a4c89c7d8e48c3db4107fe62e7d5efcefa3236da57848b519bde",
+    "publisher_review_date": "2024-07-01",
+    "next_review_due": "2027-07-01"
+  },
+  "tooth-decay": {
+    "selected_text_sha256": "5633bf3ab913f9e61afd539e5b37d72f42358a2ec9b8456b61b93c7ca1e7ca23",
+    "publisher_review_date": "2025-08-13",
+    "next_review_due": "2028-08-13"
+  },
+  "headache": {
+    "selected_text_sha256": "9fae8d4b7f42bf6fda75f8ba620a49d23b35005b84ecf5f3f1096d5496ae7151",
+    "publisher_review_date": "2024-04-17",
+    "next_review_due": "2027-04-17"
+  },
+  "fever-adult": {
+    "selected_text_sha256": "ee90c86471036ecdc903b5d6de57d2f6a4d572f2810ad48df781a85a66d6f0af",
+    "publisher_review_date": "2023-05-24",
+    "next_review_due": "2026-05-24"
+  },
+  "fever-child": {
+    "selected_text_sha256": "a6f7985012fe4db21b7b4a8ed323d3fb0273406ac2e83f7712492bbdcc2a3efe",
+    "publisher_review_date": "2024-01-03",
+    "next_review_due": "2027-01-03"
+  },
+  "sore-throat": {
+    "selected_text_sha256": "d0d42c15128c9737f9565d71522596b0238c2c2da3b71a6b0518fc1a53069306",
+    "publisher_review_date": "2024-04-08",
+    "next_review_due": "2027-04-08"
+  },
+  "abdominal-pain": {
+    "selected_text_sha256": "a790439e2d37a1bd88089f908dd47755d0eca7bd116401150404a7b80223d64d",
+    "publisher_review_date": "2023-05-26",
+    "next_review_due": "2026-05-26"
+  },
+  "breathing": {
+    "selected_text_sha256": "0197ecb43769b79013b8ab5955898a46838691c72398afd815e1880e4be5e1d5",
+    "publisher_review_date": "2024-01-30",
+    "next_review_due": "2027-01-30"
+  },
+  "_permissions": {
+    "terms": "071da79266de43418de00b771d1ac6425ad81f815028cf95bdf5918e912296ff",
+    "exclusions": "4c7c9788029a865139242f605097db8f96f50b70ffe9cd200fcfbb99b1501af1",
+    "ogl": "b843adabab14ab5f3a7de1a96492cc4e8790ef7c993fefd3b4e763a1efb8904d"
+  }
+}

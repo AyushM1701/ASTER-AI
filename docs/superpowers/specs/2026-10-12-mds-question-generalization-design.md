@@ -1,0 +1,11 @@
+# General MDS question and explanation support
+
+User intent: explain the two supplied question sets and the same task types across all nine MDS specialties. These inputs are examples of general operations, not a stored FAQ. Preserve the existing local FastAPI/Ollama/HTML stack, temporary sessions, patient policy, original source permissions and source identities. National curriculum only.
+
+Extend the existing planner for multi-entity comparisons, independent multipart operations, fictional written cases and examiner-style viva requests. Keep provisional entity identities explicit; a topic being named does not imply source readiness. Requested facets include clinical tests, invasion, biological behavior, materials, educational management and diagnostic limitations. Personal treatment remains governed by existing policy.
+
+Integrate reviewed source-bound teaching explanations into the same facet composer and terminal guard. A prepared explanation must already be admitted in a verified teaching release and explicitly bound to the requested facet/scope, its complete text hash and source hashes. It cannot be inferred from a heading, generated on demand and declared reviewed, or accepted from response-supplied metadata. Whole units and qualifications remain intact. Exact excerpts remain available as supporting evidence.
+
+Progressive explanations must add distinct supported detail while retaining source context. Viva must ask one question and wait, with explicit provisional assessment; lexical matching cannot be presented as clinical grading. Fictional case interpretation must state differentials/required investigation and uncertainty, without deriving a diagnosis solely from a prompt.
+
+Verification must preserve attachment bytes and exact supplied cases, retain multi-turn sequences, and include wording/entity variations. Report planning, source support, explanation availability, task shape and independent review separately. Neither code tests nor source tags establish all-MDS medical correctness. Do not modify the earlier150-question pilot or scorer to create apparent improvement. Stage new source artifacts and run actualAPI evaluations before considering activation. No silent active source/index replacement.

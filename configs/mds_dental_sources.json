@@ -1,0 +1,610 @@
+{
+  "version": "mds-dental-source-config-v1-2026-10-09",
+  "documents": [
+    {
+      "id": "mds-sheldahl-2020-chapter-01",
+      "title": "Histology and Embryology for Dental Hygiene: Cell biology review",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-1-cell-biology-review/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-1-cell-biology-review/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-01.md",
+      "raw_sha256": "caa117ec20addd8e2de47340ae1698f5ea06ecded6ccf70cfbb783595649cd78",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_1.json",
+          "sha256": "2121abd6bb1846e6bf7ce40444863340425431098fe9d54d8256e4037471cf24"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    },
+    {
+      "id": "mds-sheldahl-2020-chapter-02",
+      "title": "Histology and Embryology for Dental Hygiene: Histology review",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/30/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/30/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-02.md",
+      "raw_sha256": "59df03beb4a6559a89872c9462736a49040bb877f80500ef7821e66c9c4fb558",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_1.json",
+          "sha256": "2121abd6bb1846e6bf7ce40444863340425431098fe9d54d8256e4037471cf24"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    },
+    {
+      "id": "mds-sheldahl-2020-chapter-03",
+      "title": "Histology and Embryology for Dental Hygiene: Histology of the oral mucosa",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-3-histology-of-the-oral-mucosa/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-3-histology-of-the-oral-mucosa/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-03.md",
+      "raw_sha256": "677ba2f1bb0612adab39b72d569b5245d8792d330c45e8dcd0a35ae6e1a32588",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_1.json",
+          "sha256": "2121abd6bb1846e6bf7ce40444863340425431098fe9d54d8256e4037471cf24"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    },
+    {
+      "id": "mds-sheldahl-2020-chapter-04",
+      "title": "Histology and Embryology for Dental Hygiene: Histology of tooth and periodontal tissues",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-4-histology-of-the-teeth-and-periodontal-tissue/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-4-histology-of-the-teeth-and-periodontal-tissue/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-04.md",
+      "raw_sha256": "c573217de0a8c00377ff1ef3b1b69c4d9deee2268ebce8d6fbd20f5fc23a9e7b",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_2.json",
+          "sha256": "5f66d5eaa48c68e8239e897055dfa6fea16be95b7582e748193b6f8201e7f137"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    },
+    {
+      "id": "mds-sheldahl-2020-chapter-05",
+      "title": "Histology and Embryology for Dental Hygiene: Histology of glands, lymphatics and sinuses",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-5-histology-of-glands-lymphatics-and-sinuses/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-5-histology-of-glands-lymphatics-and-sinuses/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-05.md",
+      "raw_sha256": "f8fc38398ea031841de3ee96477b05194b8b9c1c5a6204ecaba964643c6d3baf",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_2.json",
+          "sha256": "5f66d5eaa48c68e8239e897055dfa6fea16be95b7582e748193b6f8201e7f137"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    },
+    {
+      "id": "mds-sheldahl-2020-chapter-06",
+      "title": "Histology and Embryology for Dental Hygiene: Early development",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-6-early-development/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-6-early-development/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-06.md",
+      "raw_sha256": "ed3253d70dddb6e5897009bff518104d8d5592b84dbc1bc57fe14e81d1a5f598",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_2.json",
+          "sha256": "5f66d5eaa48c68e8239e897055dfa6fea16be95b7582e748193b6f8201e7f137"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    },
+    {
+      "id": "mds-sheldahl-2020-chapter-07",
+      "title": "Histology and Embryology for Dental Hygiene: Pharyngeal arches",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-7-pharyngeal-arches/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-7-pharyngeal-arches/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-07.md",
+      "raw_sha256": "3f9f3f20847228a58f60d3dc2721f112321e50893d72b1d24435fcab1ff0a823",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_3.json",
+          "sha256": "a8ca360e730382203cf0024e654333a3a3f934be73e3e3600a3f6480891808ea"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    },
+    {
+      "id": "mds-sheldahl-2020-chapter-08",
+      "title": "Histology and Embryology for Dental Hygiene: Tooth development",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-8-tooth-development/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-8-tooth-development/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-08.md",
+      "raw_sha256": "392415a2565b5fab93d8e0862ab1eaef9165857be57fb70d8104a13f87eae2ef",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_3.json",
+          "sha256": "a8ca360e730382203cf0024e654333a3a3f934be73e3e3600a3f6480891808ea"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    },
+    {
+      "id": "mds-sheldahl-2020-chapter-09",
+      "title": "Histology and Embryology for Dental Hygiene: Enamel development",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-9-enamel-development/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-9-enamel-development/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-09.md",
+      "raw_sha256": "51146aeef27e2cd65968c57431227c7fbf5d0d1164fc8335286c07cd7f2c6206",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_3.json",
+          "sha256": "a8ca360e730382203cf0024e654333a3a3f934be73e3e3600a3f6480891808ea"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    },
+    {
+      "id": "mds-sheldahl-2020-chapter-10",
+      "title": "Histology and Embryology for Dental Hygiene: Dentin-pulp complex development",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-10-dentin-pulp-complex-development/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-10-dentin-pulp-complex-development/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-10.md",
+      "raw_sha256": "68630ccf05db6c30fbf584567f326231a5a7856aac6952e2325b313436e6839a",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_4.json",
+          "sha256": "bf416a3350dd91faf4cde72b8aaf382250efb38e263f79b11b464eb33019da7b"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    },
+    {
+      "id": "mds-sheldahl-2020-chapter-11",
+      "title": "Histology and Embryology for Dental Hygiene: Periodontium development",
+      "url": "https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-11-periodontium-development/",
+      "publisher": "Open Oregon Educational Resources / Laird C Sheldahl",
+      "jurisdiction": "US",
+      "source_date": "2020",
+      "retrieved_date": "2026-10-09",
+      "edition": "2020; publisher markdown snapshot 2026-10-09",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "No explicit AI prohibition found in chapter licenses, publisher preface or captured Jan 2025 official Pressbooks terms. This is local noncommercial educational retrieval, not an assertion of unrestricted training rights.",
+      "terms": "CC BY-NC-SA 4.0: appropriate attribution, license link, indication of extraction changes, noncommercial use only; distributed adaptations retain same license. Exceptions for third-party content: all figures and external media excluded.",
+      "attribution": "Sheldahl, Laird C. Histology and Embryology for Dental Hygiene (2020). ISBN 978-0-578-76350-7. https://openoregon.pressbooks.pub/histologyandembryology/chapter/chapter-11-periodontium-development/ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/). Extraction changes: section segmentation, paragraph overlap; figures, tables, quizzes, navigation and external media omitted. No endorsement implied.",
+      "subjects": [
+        "dental_histology",
+        "oral_embryology",
+        "oral_physiology"
+      ],
+      "level": "Dental hygiene foundation textbook; partial postgraduate MDS support",
+      "raw_snapshot_path": "data/references/mds/raw/dental/sheldahl-2020-chapter-11.md",
+      "raw_sha256": "5ef46c05d444ca9f9106ec335362b1e3e053d7f34cbcf4acacb6f728ec339812",
+      "license_snapshot_path": "data/references/mds/raw/dental/publisher-license-evidence.md",
+      "license_snapshot_sha256": "443a3da760127d1ff7253678cfe2b241991099390f834abe61d5edacba44525f",
+      "terms_snapshot_path": "data/references/mds/raw/dental/platform-terms-and-license-legalcode.md",
+      "terms_snapshot_sha256": "2140b5c3f7e782ad976d2f6638e703fb8ed53d50d4be707fab2e147356c0cbe2",
+      "acquisition_method": "Exa web_fetch_exa official publisher-page clean markdown, maxCharacters=180000; direct requests HTTP 403. Raw tool response pinned alongside page.",
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_4.json",
+          "sha256": "bf416a3350dd91faf4cde72b8aaf382250efb38e263f79b11b464eb33019da7b"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_fetch_initial.json",
+          "sha256": "0dbc3222af7de6a2b059d35cecb11d1ece27ca31a5125d6f26ba736b18bcd5d6"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_batch_0.json",
+          "sha256": "9a8f3b1589767bac924d4b2182ffe1fca4ec0c6470b3df207afa1bb0653bb864"
+        },
+        {
+          "path": "data/references/mds/raw/dental/dental_terms.json",
+          "sha256": "6b325c13764fde66fd1d7c8f3b7fbbe526cfdc53fc0095cb5a4576d261b0f373"
+        }
+      ],
+      "limitations": [
+        "Foundation textbook aimed at dental hygiene, not a complete MDS Oral Pathology and Oral Microbiology text.",
+        "Publication copyright 2020; acquired webpage may contain subsequent changes not separately dated.",
+        "Publisher text retains source errors and typos; faculty correctness review pending.",
+        "Occasional nonhuman developmental analogies are educational comparisons, not clinical trial evidence."
+      ]
+    }
+  ]
+}

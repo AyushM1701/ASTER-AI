@@ -1,0 +1,3 @@
+# Annotation protocol
+
+Labels supports/contradicts/insufficient require actual facet-specific source reading. Relevance 0–3 is separate from support; preserve population, classification and temporal qualifiers. No source heading or retrieval score is a gold label. Missing labels remain missing and masked. Assign source/topic/question/augmentation groups before splitting. AI inspection is weak/development evidence, never faculty review. Qualified reviewer identity/credentials must be verified separately; disagreement and adjudication preserve the original output and case/rubric hashes. Do not reuse an opened holdout as unseen. Synthetic data verifies mechanics only.

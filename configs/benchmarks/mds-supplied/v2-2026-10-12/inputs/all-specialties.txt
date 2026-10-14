@@ -1,0 +1,111 @@
+1. Conservative Dentistry & Endodontics
+Tests pulp biology, root canal treatment, restorative materials, diagnostic reasoning and complications.
+1. Basic: Explain the structure and functions of the dentin–pulp complex. How does the pulp respond to dental caries?
+2. Mechanism: Explain the pathophysiology of irreversible pulpitis, including the roles of bacterial toxins, inflammatory mediators, intrapulpal pressure and sensory nerve activation.
+3. Comparison: Differentiate reversible pulpitis, symptomatic irreversible pulpitis, pulp necrosis and symptomatic apical periodontitis based on symptoms, clinical examination, sensibility testing and radiographic findings.
+4. Clinical case: A 32-year-old fictional patient reports spontaneous, lingering pain in a mandibular first molar, especially after cold stimulation. Discuss the differential diagnosis, relevant tests, interpretation of results and evidence-based treatment options in an educational context.
+5. Long answer: Discuss the principles of modern root canal treatment, covering access cavity preparation, working-length determination, chemomechanical preparation, irrigation, intracanal medication, obturation and coronal sealing. Explain the scientific rationale and limitations of each stage.
+6. Viva: Act as an MDS Endodontics examiner. Ask me one challenging question about sodium hypochlorite irrigation, wait for my answer, evaluate it against an explicit rubric, and then ask a more advanced follow-up.
+2. Orthodontics & Dentofacial Orthopedics
+Tests craniofacial growth, biomechanics, cephalometrics and orthodontic treatment planning.
+1. Basic: Define malocclusion and explain Angle's classification, including its limitations in describing skeletal and transverse discrepancies.
+2. Mechanism: Explain the biological basis of orthodontic tooth movement, including periodontal ligament responses, bone remodeling, pressure–tension theory and associated inflammatory mediators.
+3. Comparison: Compare fixed orthodontic appliances and clear aligners in terms of biomechanics, control of tooth movement, indications, limitations, compliance and evidence of effectiveness.
+4. Clinical case: A fictional 13-year-old patient presents with an increased overjet, a convex facial profile and a skeletal Class II relationship. Discuss diagnostic records, growth assessment, cephalometric considerations and possible treatment approaches, including the limitations of growth modification.
+5. Long answer: Explain the principles of orthodontic anchorage, including conventional anchorage, skeletal anchorage, temporary anchorage devices and biomechanical factors influencing unwanted tooth movement.
+6. Viva: Conduct an MDS Orthodontics viva on cephalometric analysis. Ask me to interpret the significance of SNA, SNB and ANB angles, wait for my response, evaluate it using a rubric and introduce one challenging limitation of ANB interpretation.
+3. Oral & Maxillofacial Surgery
+Tests facial trauma, surgical anatomy, complications, diagnostic planning and management principles.
+1. Basic: Classify mandibular fractures according to anatomical location and describe their common clinical and radiographic features.
+2. Mechanism: Explain the stages of bone healing following a mandibular fracture and discuss factors that influence healing, nonunion and infection.
+3. Comparison: Differentiate Le Fort I, II and III fractures based on their anatomical fracture patterns, clinical presentation and imaging findings.
+4. Clinical case: A fictional 28-year-old patient presents after a road traffic accident with facial swelling, malocclusion, limited mouth opening and suspected bilateral mandibular fractures. Discuss initial trauma priorities, clinical examination, imaging selection and the principles of definitive management.
+5. Long answer: Discuss the surgical principles and major complications associated with impacted mandibular third-molar removal, including preoperative assessment, inferior alveolar nerve risk, infection, alveolar osteitis and postoperative follow-up.
+6. Viva: Act as an MDS Oral and Maxillofacial Surgery examiner. Present a fictional patient with a mandibular angle fracture, ask me one diagnostic question at a time, evaluate my answers and increase the complexity of subsequent questions.
+
+4. Prosthodontics and Crown & Bridge
+Tests complete dentures, fixed restorations, occlusion, implants and prosthetic planning.
+1. Basic: Define vertical dimension of occlusion (VDO) and vertical dimension at rest (VDR). Explain their clinical significance in complete denture fabrication.
+2. Mechanism: Explain osseointegration of dental implants at the cellular and tissue levels. Discuss primary stability, secondary stability and factors affecting implant success.
+3. Comparison: Compare metal-ceramic crowns, monolithic zirconia crowns and lithium disilicate restorations in terms of material properties, indications, preparation requirements, aesthetics and failure modes.
+4. Clinical case: A fictional 65-year-old completely edentulous patient presents with severe mandibular ridge resorption and poor retention of a conventional lower denture. Discuss examination, anatomical limitations, treatment alternatives and prosthodontic planning.
+5. Long answer: Describe the principles of complete denture impression making, covering anatomical landmarks, stress-bearing areas, selective pressure, border molding, impression materials and common impression errors.
+6. Viva: Act as an MDS Prosthodontics examiner. Ask me challenging questions on centric relation, maximum intercuspation and occlusal schemes in complete dentures, one at a time. Assess each answer using a postgraduate rubric.
+5. Periodontology
+Tests periodontal disease classification, inflammation, regeneration and clinical diagnosis.
+1. Basic: Describe the normal anatomy and histology of the periodontium, including gingiva, periodontal ligament, cementum and alveolar bone.
+2. Mechanism: Explain the pathogenesis of periodontitis, emphasizing dysbiotic biofilms, host immune responses, cytokines, osteoclast activation and alveolar bone loss.
+3. Comparison: Differentiate gingivitis and periodontitis based on clinical features, attachment loss, pocketing, radiographic findings and reversibility of tissue damage.
+4. Clinical case: A fictional 45-year-old patient presents with generalized interdental clinical attachment loss, radiographic bone loss extending to the middle third of several roots, and a history of tooth loss due to periodontitis. Explain how you would determine periodontal stage and grade, including what further clinical information is required.
+5. Long answer: Critically discuss guided tissue regeneration in periodontal therapy, including biological principles, barrier membranes, indications, limitations and factors affecting regenerative outcomes.
+6. Viva: Act as an MDS Periodontology examiner. Ask me a case-based question on the 2017 World Workshop classification of periodontal diseases. Wait for my answer, evaluate it and ask a follow-up involving stage and grade.
+6. Pediatric & Preventive Dentistry
+Tests developing dentition, pediatric pulp treatment, behavior guidance and prevention.
+1. Basic: Explain the chronology of primary tooth eruption and exfoliation and discuss the clinical consequences of disturbances in eruption timing.
+2. Mechanism: Explain early childhood caries (ECC), including the roles of cariogenic biofilms, fermentable carbohydrates, feeding patterns, salivary factors and social determinants.
+3. Comparison: Compare pulpotomy and pulpectomy in primary teeth, including indications, contraindications, procedural principles, materials and clinical success criteria.
+4. Clinical case: A fictional 5-year-old child presents with extensive caries in a primary mandibular second molar, occasional spontaneous pain and a possible furcation radiolucency. Explain the diagnostic assessment, pulp-status considerations and factors influencing treatment selection.
+5. Long answer: Discuss contemporary behavior guidance in pediatric dentistry, comparing basic behavioral approaches, protective stabilization, sedation and general anesthesia. Include consent, indications, safety requirements and ethical considerations.
+6. Viva: Conduct an MDS Pediatric Dentistry viva on molar-incisor hypomineralization (MIH). Ask one question at a time about clinical identification, differential diagnosis, hypersensitivity and management principles, then assess my responses.
+7. Oral Medicine & Radiology
+Tests oral disease recognition, diagnostic interpretation, radiology and imaging selection.
+1. Basic: Define radiolucent and radiopaque lesions. Explain how lesion location, borders, internal structure and effects on surrounding tissues contribute to radiographic interpretation.
+2. Mechanism: Explain the pathogenesis of oral candidiasis and discuss its predisposing factors, common clinical presentations and relevant diagnostic investigations.
+3. Comparison: Compare intraoral periapical radiography, panoramic radiography, CBCT and conventional CT in terms of imaging principles, indications, limitations, radiation considerations and diagnostic value.
+4. Clinical case: A fictional 55-year-old patient presents with a persistent, non-scrapable white patch on the lateral border of the tongue. Discuss differential diagnoses, risk-factor assessment, examination, indications for biopsy and the limitations of clinical appearance alone.
+5. Long answer: Discuss osteoradionecrosis of the jaws, including pathogenesis, risk factors, clinical and imaging features, differential diagnosis, prevention and evidence-based management principles.
+6. Viva: Act as an MDS Oral Medicine and Radiology examiner. Present the written radiographic findings of a multilocular radiolucent lesion in the posterior mandible. Ask me to construct a differential diagnosis, justify it and identify further investigations.
+8. Oral Pathology & Microbiology
+Tests histopathology, oral oncology, odontogenic lesions, immunopathology and microscopic diagnosis.
+1. Basic: Define oral epithelial dysplasia. Describe its principal architectural and cytological features and explain their importance in histopathological assessment.
+2. Mechanism: Explain the molecular pathogenesis of oral squamous cell carcinoma, including DNA damage, TP53 alterations, cell-cycle dysregulation, epithelial invasion and tumour microenvironment interactions.
+3. Comparison: Differentiate odontogenic keratocyst and dentigerous cyst based on clinical presentation, radiographic features, epithelial lining, histopathology and recurrence patterns.
+4. Clinical case: A fictional 48-year-old patient has progressive oral burning sensation, reduced mouth opening and palpable fibrous bands in the buccal mucosa. Discuss the likely pathological process, differential diagnosis, etiopathogenesis, histopathology and malignant transformation risk.
+5. Long answer: Discuss the classification and histopathological features of ameloblastoma, including relevant variants, differential diagnosis, molecular characteristics and their significance for pathological interpretation.
+6. Viva: Conduct an MDS Oral Pathology viva about pemphigus vulgaris and mucous membrane pemphigoid. Ask me questions about cleavage level, acantholysis, histopathological features and direct immunofluorescence, grading my answers against an explicit rubric.
+9. Public Health Dentistry
+Tests epidemiology, indices, biostatistics, prevention programs, health policy and research methods.
+1. Basic: Define the DMFT index and explain its components, applications, limitations and differences from indices used for primary dentition.
+2. Mechanism: Explain how social determinants of health influence oral disease prevalence, access to dental care and inequalities in oral health outcomes.
+3. Comparison: Differentiate incidence and prevalence, relative risk and odds ratio, and sensitivity and specificity. Explain appropriate uses of each measure in dental public health research.
+4. Public-health case: A rural district reports high childhood caries prevalence, limited access to dental professionals and low utilization of preventive services. Design a school oral-health program, including needs assessment, target population, interventions, implementation and outcome measures.
+5. Long answer: Critically evaluate community water fluoridation as a public-health intervention, discussing the evidence for effectiveness, dental fluorosis, surveillance, cost-effectiveness, equity and implementation considerations.
+6. Viva: Act as an MDS Public Health Dentistry examiner. Present a fictional case-control study investigating tobacco use and oral cancer. Ask me to identify the study design, select appropriate association measures, recognize confounding and explain important limitations.
+
+10. Additional high-difficulty, cross-specialty tests
+These are particularly useful for discovering the same problems seen in Aster's earlier responses.
+Test A — Multiple subjects in one question
+A patient has deep dental caries, symptomatic irreversible pulpitis, and localized periodontal attachment loss. Explain the endodontic and periodontal disease mechanisms, discuss how you would investigate possible combined lesions, and compare relevant differential diagnoses.
+
+Tests: Endodontics + Periodontology, multipart coverage, retrieval relevance and synthesis.
+Test B — Pathology and radiology
+Compare ameloblastoma, odontogenic keratocyst, and dentigerous cyst in terms of clinical features, radiographic appearance, histopathological findings, and biological behavior. Present the answer in a structured table and explain important diagnostic overlaps.
+
+Tests: Oral Pathology + Oral Radiology, comparison generation, diagnostic uncertainty and completeness.
+Test C — Treatment-planning reasoning
+A fictional 30-year-old patient has a missing maxillary first molar, limited interocclusal space, and adjacent teeth with large restorations. Compare tooth-supported fixed partial dentures and implant-supported crowns, discussing prosthodontic, periodontal, radiographic and surgical considerations. Identify additional information needed before choosing a treatment.
+
+Tests: Prosthodontics + Surgery + Periodontology, clinically appropriate reasoning without unjustified certainty.
+Test D — Research-paper evaluation
+Explain how you would critically appraise a randomized controlled trial comparing two endodontic irrigation protocols. Cover randomization, allocation concealment, blinding, primary outcomes, effect sizes, confidence intervals, bias, clinical significance, and limitations.
+
+Tests: Research methodology, literature literacy and ability to distinguish evidence from conclusions.
+Test E — Multi-turn viva
+Use these messages in the same conversation:
+Turn 1
+Explain the stages of osseointegration following implant placement.
+
+
+Turn 2
+Go deeper into the cellular mechanisms without repeating the previous explanation.
+
+
+Turn 3
+Ask me a difficult viva question about this topic and wait for my answer.
+
+
+Turn 4
+After I answer, grade it out of 10 using an explicit rubric and explain what I missed.
+
+
+Tests: Conversational memory, depth progression, task switching, interactive assessment and retention of topic context.

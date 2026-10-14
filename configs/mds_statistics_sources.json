@@ -1,0 +1,520 @@
+{
+  "version": "mds-statistics-source-config-v1-2026-10-09",
+  "documents": [
+    {
+      "id": "mds-navarro-lsr-02",
+      "title": "Learning Statistics with R: 2 A brief introduction to research design",
+      "url": "https://learningstatisticswithr.com/02-studydesign.html",
+      "publisher": "Danielle Navarro (author-published)",
+      "jurisdiction": "AU",
+      "source_date": "2026-10-07",
+      "retrieved_date": "2026-10-09",
+      "edition": "0.7.1 (2026-10-07 author changelog)",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "Author homepage explicitly grants CC BY-SA4.0 reuse/adaptation; no explicit AI reuse prohibition found in captured author homepage, changelog, selected chapters or CC legalcode. No separate terms page is linked in captured author pages. Local educational retrieval; no claim of endorsement or guarantee of all other rights.",
+      "terms": "CC BY-SA4.0: attribution, license link, indication of changes; distributed adaptations under same license. Retain source identity without implying author endorsement. Figures/tables and code excluded from retrieval.",
+      "attribution": "Navarro, Danielle. Learning Statistics with R, v0.7.1 (2026-10-07). https://learningstatisticswithr.com/02-studydesign.html License CC BY-SA4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: selected complete conceptual sections, rendered HTML whitespace normalization, section segmentation/paragraph overlap; figures/tables/code omitted; footnotes retained where present. No endorsement implied.",
+      "subjects": [
+        "biostatistics",
+        "research_methods"
+      ],
+      "level": "University introductory statistical foundations; partial MDS biostatistics support",
+      "raw_snapshot_path": "data/references/mds/raw/statistics/02-studydesign.html",
+      "raw_sha256": "97d5a888091b34b90f4301414e3349be4cdff8282727215cc7e85ae6f8b1f0ce",
+      "license_snapshot_path": "data/references/mds/raw/statistics/index.html",
+      "license_snapshot_sha256": "4200b40c4d9293f2ed83caa0f4d585ae7a5ac4cd6b1bbd9a5b9967ac0405b16f",
+      "rights_review_snapshot_path": "data/references/mds/raw/statistics/publisher-rights-review.html",
+      "rights_review_snapshot_sha256": "6f92d9b5f8e86b3b9e7a3c5b09b048061249d18882e08ebc98e8ed2fd9df9975",
+      "original_pdf_path": "data/references/mds/raw/statistics/Learning-Statistics-with-R.pdf",
+      "original_pdf_sha256": "a5314ddd00a2f1db5c02321c9002ae290115cc64575cbccf5d41f7f12faa638b",
+      "original_pdf_url": "https://learningstatisticswithr.com/Learning-Statistics-with-R.pdf",
+      "acquisition_method": "Direct requests HTTPS200 author-hosted HTML and PDF; no accounts or fees. Paragraph extraction canonical HTML; physical PDF pages secondary locators.",
+      "include_sections": [
+        "2.2",
+        "2.5",
+        "2.7.4",
+        "2.7.6"
+      ],
+      "exclude_sections": [],
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/statistics/acquisition.json",
+          "sha256": "3ea0b6ffd87180b65a2883d8e072e6e012196138a666328bb4f8c8aa373cb59d"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/changelog.html",
+          "sha256": "8e9ce049232c682ea2815a766983c6d1254760179e4130f4b7bb9719808b5288"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/cc-by-sa4-legalcode.html",
+          "sha256": "47c0a954c88d793bdefe92fb007ae3c038fb3807f1a27083433d01aa7542c0d8"
+        }
+      ],
+      "limitations": [
+        "Statistical teaching examples are often simulated or psychological examples, not clinical studies.",
+        "Selected complete conceptual sections; detailed software walkthroughs and unrelated chapters omitted.",
+        "Faculty statistical correctness review pending.",
+        "Sampling and research design provide partial foundations rather than a complete health-survey protocol."
+      ]
+    },
+    {
+      "id": "mds-navarro-lsr-05",
+      "title": "Learning Statistics with R: 5 Descriptive statistics",
+      "url": "https://learningstatisticswithr.com/05-descriptives.html",
+      "publisher": "Danielle Navarro (author-published)",
+      "jurisdiction": "AU",
+      "source_date": "2026-10-07",
+      "retrieved_date": "2026-10-09",
+      "edition": "0.7.1 (2026-10-07 author changelog)",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "Author homepage explicitly grants CC BY-SA4.0 reuse/adaptation; no explicit AI reuse prohibition found in captured author homepage, changelog, selected chapters or CC legalcode. No separate terms page is linked in captured author pages. Local educational retrieval; no claim of endorsement or guarantee of all other rights.",
+      "terms": "CC BY-SA4.0: attribution, license link, indication of changes; distributed adaptations under same license. Retain source identity without implying author endorsement. Figures/tables and code excluded from retrieval.",
+      "attribution": "Navarro, Danielle. Learning Statistics with R, v0.7.1 (2026-10-07). https://learningstatisticswithr.com/05-descriptives.html License CC BY-SA4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: selected complete conceptual sections, rendered HTML whitespace normalization, section segmentation/paragraph overlap; figures/tables/code omitted; footnotes retained where present. No endorsement implied.",
+      "subjects": [
+        "biostatistics",
+        "research_methods"
+      ],
+      "level": "University introductory statistical foundations; partial MDS biostatistics support",
+      "raw_snapshot_path": "data/references/mds/raw/statistics/05-descriptives.html",
+      "raw_sha256": "792444d0cc643ba8b83c6643dfa69807ff613d26511512f7839dd6079b8c37b6",
+      "license_snapshot_path": "data/references/mds/raw/statistics/index.html",
+      "license_snapshot_sha256": "4200b40c4d9293f2ed83caa0f4d585ae7a5ac4cd6b1bbd9a5b9967ac0405b16f",
+      "rights_review_snapshot_path": "data/references/mds/raw/statistics/publisher-rights-review.html",
+      "rights_review_snapshot_sha256": "6f92d9b5f8e86b3b9e7a3c5b09b048061249d18882e08ebc98e8ed2fd9df9975",
+      "original_pdf_path": "data/references/mds/raw/statistics/Learning-Statistics-with-R.pdf",
+      "original_pdf_sha256": "a5314ddd00a2f1db5c02321c9002ae290115cc64575cbccf5d41f7f12faa638b",
+      "original_pdf_url": "https://learningstatisticswithr.com/Learning-Statistics-with-R.pdf",
+      "acquisition_method": "Direct requests HTTPS200 author-hosted HTML and PDF; no accounts or fees. Paragraph extraction canonical HTML; physical PDF pages secondary locators.",
+      "include_sections": [
+        "5.1.1",
+        "5.1.3",
+        "5.1.4",
+        "5.1.7",
+        "5.2.1",
+        "5.2.2",
+        "5.2.4",
+        "5.2.5",
+        "5.2.7",
+        "5.7.2",
+        "5.7.3",
+        "5.7.5",
+        "5.7.6"
+      ],
+      "exclude_sections": [],
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/statistics/acquisition.json",
+          "sha256": "3ea0b6ffd87180b65a2883d8e072e6e012196138a666328bb4f8c8aa373cb59d"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/changelog.html",
+          "sha256": "8e9ce049232c682ea2815a766983c6d1254760179e4130f4b7bb9719808b5288"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/cc-by-sa4-legalcode.html",
+          "sha256": "47c0a954c88d793bdefe92fb007ae3c038fb3807f1a27083433d01aa7542c0d8"
+        }
+      ],
+      "limitations": [
+        "Statistical teaching examples are often simulated or psychological examples, not clinical studies.",
+        "Selected complete conceptual sections; detailed software walkthroughs and unrelated chapters omitted.",
+        "Faculty statistical correctness review pending.",
+        "Sampling and research design provide partial foundations rather than a complete health-survey protocol."
+      ]
+    },
+    {
+      "id": "mds-navarro-lsr-09",
+      "title": "Learning Statistics with R: 9 Introduction to probability",
+      "url": "https://learningstatisticswithr.com/09-probability.html",
+      "publisher": "Danielle Navarro (author-published)",
+      "jurisdiction": "AU",
+      "source_date": "2026-10-07",
+      "retrieved_date": "2026-10-09",
+      "edition": "0.7.1 (2026-10-07 author changelog)",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "Author homepage explicitly grants CC BY-SA4.0 reuse/adaptation; no explicit AI reuse prohibition found in captured author homepage, changelog, selected chapters or CC legalcode. No separate terms page is linked in captured author pages. Local educational retrieval; no claim of endorsement or guarantee of all other rights.",
+      "terms": "CC BY-SA4.0: attribution, license link, indication of changes; distributed adaptations under same license. Retain source identity without implying author endorsement. Figures/tables and code excluded from retrieval.",
+      "attribution": "Navarro, Danielle. Learning Statistics with R, v0.7.1 (2026-10-07). https://learningstatisticswithr.com/09-probability.html License CC BY-SA4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: selected complete conceptual sections, rendered HTML whitespace normalization, section segmentation/paragraph overlap; figures/tables/code omitted; footnotes retained where present. No endorsement implied.",
+      "subjects": [
+        "biostatistics",
+        "research_methods"
+      ],
+      "level": "University introductory statistical foundations; partial MDS biostatistics support",
+      "raw_snapshot_path": "data/references/mds/raw/statistics/09-probability.html",
+      "raw_sha256": "fb64b242465dec2e6f21e6f30dac09908b091b1af891a7d45a1818c8620a7ad2",
+      "license_snapshot_path": "data/references/mds/raw/statistics/index.html",
+      "license_snapshot_sha256": "4200b40c4d9293f2ed83caa0f4d585ae7a5ac4cd6b1bbd9a5b9967ac0405b16f",
+      "rights_review_snapshot_path": "data/references/mds/raw/statistics/publisher-rights-review.html",
+      "rights_review_snapshot_sha256": "6f92d9b5f8e86b3b9e7a3c5b09b048061249d18882e08ebc98e8ed2fd9df9975",
+      "original_pdf_path": "data/references/mds/raw/statistics/Learning-Statistics-with-R.pdf",
+      "original_pdf_sha256": "a5314ddd00a2f1db5c02321c9002ae290115cc64575cbccf5d41f7f12faa638b",
+      "original_pdf_url": "https://learningstatisticswithr.com/Learning-Statistics-with-R.pdf",
+      "acquisition_method": "Direct requests HTTPS200 author-hosted HTML and PDF; no accounts or fees. Paragraph extraction canonical HTML; physical PDF pages secondary locators.",
+      "include_sections": [
+        "9.1",
+        "9.2.1",
+        "9.3",
+        "9.5",
+        "9.6"
+      ],
+      "exclude_sections": [],
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/statistics/acquisition.json",
+          "sha256": "3ea0b6ffd87180b65a2883d8e072e6e012196138a666328bb4f8c8aa373cb59d"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/changelog.html",
+          "sha256": "8e9ce049232c682ea2815a766983c6d1254760179e4130f4b7bb9719808b5288"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/cc-by-sa4-legalcode.html",
+          "sha256": "47c0a954c88d793bdefe92fb007ae3c038fb3807f1a27083433d01aa7542c0d8"
+        }
+      ],
+      "limitations": [
+        "Statistical teaching examples are often simulated or psychological examples, not clinical studies.",
+        "Selected complete conceptual sections; detailed software walkthroughs and unrelated chapters omitted.",
+        "Faculty statistical correctness review pending.",
+        "Sampling and research design provide partial foundations rather than a complete health-survey protocol."
+      ]
+    },
+    {
+      "id": "mds-navarro-lsr-10",
+      "title": "Learning Statistics with R: 10 Estimating unknown quantities from a sample",
+      "url": "https://learningstatisticswithr.com/10-estimation.html",
+      "publisher": "Danielle Navarro (author-published)",
+      "jurisdiction": "AU",
+      "source_date": "2026-10-07",
+      "retrieved_date": "2026-10-09",
+      "edition": "0.7.1 (2026-10-07 author changelog)",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "Author homepage explicitly grants CC BY-SA4.0 reuse/adaptation; no explicit AI reuse prohibition found in captured author homepage, changelog, selected chapters or CC legalcode. No separate terms page is linked in captured author pages. Local educational retrieval; no claim of endorsement or guarantee of all other rights.",
+      "terms": "CC BY-SA4.0: attribution, license link, indication of changes; distributed adaptations under same license. Retain source identity without implying author endorsement. Figures/tables and code excluded from retrieval.",
+      "attribution": "Navarro, Danielle. Learning Statistics with R, v0.7.1 (2026-10-07). https://learningstatisticswithr.com/10-estimation.html License CC BY-SA4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: selected complete conceptual sections, rendered HTML whitespace normalization, section segmentation/paragraph overlap; figures/tables/code omitted; footnotes retained where present. No endorsement implied.",
+      "subjects": [
+        "biostatistics",
+        "research_methods"
+      ],
+      "level": "University introductory statistical foundations; partial MDS biostatistics support",
+      "raw_snapshot_path": "data/references/mds/raw/statistics/10-estimation.html",
+      "raw_sha256": "ef543a638c2205624bce20a4bd9f98cf69b12b1d27559fd224a75ee1b2068105",
+      "license_snapshot_path": "data/references/mds/raw/statistics/index.html",
+      "license_snapshot_sha256": "4200b40c4d9293f2ed83caa0f4d585ae7a5ac4cd6b1bbd9a5b9967ac0405b16f",
+      "rights_review_snapshot_path": "data/references/mds/raw/statistics/publisher-rights-review.html",
+      "rights_review_snapshot_sha256": "6f92d9b5f8e86b3b9e7a3c5b09b048061249d18882e08ebc98e8ed2fd9df9975",
+      "original_pdf_path": "data/references/mds/raw/statistics/Learning-Statistics-with-R.pdf",
+      "original_pdf_sha256": "a5314ddd00a2f1db5c02321c9002ae290115cc64575cbccf5d41f7f12faa638b",
+      "original_pdf_url": "https://learningstatisticswithr.com/Learning-Statistics-with-R.pdf",
+      "acquisition_method": "Direct requests HTTPS200 author-hosted HTML and PDF; no accounts or fees. Paragraph extraction canonical HTML; physical PDF pages secondary locators.",
+      "include_sections": [
+        "10.1",
+        "10.3",
+        "10.4",
+        "10.5.1",
+        "10.5.2"
+      ],
+      "exclude_sections": [],
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/statistics/acquisition.json",
+          "sha256": "3ea0b6ffd87180b65a2883d8e072e6e012196138a666328bb4f8c8aa373cb59d"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/changelog.html",
+          "sha256": "8e9ce049232c682ea2815a766983c6d1254760179e4130f4b7bb9719808b5288"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/cc-by-sa4-legalcode.html",
+          "sha256": "47c0a954c88d793bdefe92fb007ae3c038fb3807f1a27083433d01aa7542c0d8"
+        }
+      ],
+      "limitations": [
+        "Statistical teaching examples are often simulated or psychological examples, not clinical studies.",
+        "Selected complete conceptual sections; detailed software walkthroughs and unrelated chapters omitted.",
+        "Faculty statistical correctness review pending.",
+        "Sampling and research design provide partial foundations rather than a complete health-survey protocol."
+      ]
+    },
+    {
+      "id": "mds-navarro-lsr-11",
+      "title": "Learning Statistics with R: 11 Hypothesis testing",
+      "url": "https://learningstatisticswithr.com/11-hypothesistesting.html",
+      "publisher": "Danielle Navarro (author-published)",
+      "jurisdiction": "AU",
+      "source_date": "2026-10-07",
+      "retrieved_date": "2026-10-09",
+      "edition": "0.7.1 (2026-10-07 author changelog)",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "Author homepage explicitly grants CC BY-SA4.0 reuse/adaptation; no explicit AI reuse prohibition found in captured author homepage, changelog, selected chapters or CC legalcode. No separate terms page is linked in captured author pages. Local educational retrieval; no claim of endorsement or guarantee of all other rights.",
+      "terms": "CC BY-SA4.0: attribution, license link, indication of changes; distributed adaptations under same license. Retain source identity without implying author endorsement. Figures/tables and code excluded from retrieval.",
+      "attribution": "Navarro, Danielle. Learning Statistics with R, v0.7.1 (2026-10-07). https://learningstatisticswithr.com/11-hypothesistesting.html License CC BY-SA4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: selected complete conceptual sections, rendered HTML whitespace normalization, section segmentation/paragraph overlap; figures/tables/code omitted; footnotes retained where present. No endorsement implied.",
+      "subjects": [
+        "biostatistics",
+        "research_methods"
+      ],
+      "level": "University introductory statistical foundations; partial MDS biostatistics support",
+      "raw_snapshot_path": "data/references/mds/raw/statistics/11-hypothesistesting.html",
+      "raw_sha256": "cc52896bc6add90f8ae52ffd35761059400a356e36c4ff70f387bacc47e0fac0",
+      "license_snapshot_path": "data/references/mds/raw/statistics/index.html",
+      "license_snapshot_sha256": "4200b40c4d9293f2ed83caa0f4d585ae7a5ac4cd6b1bbd9a5b9967ac0405b16f",
+      "rights_review_snapshot_path": "data/references/mds/raw/statistics/publisher-rights-review.html",
+      "rights_review_snapshot_sha256": "6f92d9b5f8e86b3b9e7a3c5b09b048061249d18882e08ebc98e8ed2fd9df9975",
+      "original_pdf_path": "data/references/mds/raw/statistics/Learning-Statistics-with-R.pdf",
+      "original_pdf_sha256": "a5314ddd00a2f1db5c02321c9002ae290115cc64575cbccf5d41f7f12faa638b",
+      "original_pdf_url": "https://learningstatisticswithr.com/Learning-Statistics-with-R.pdf",
+      "acquisition_method": "Direct requests HTTPS200 author-hosted HTML and PDF; no accounts or fees. Paragraph extraction canonical HTML; physical PDF pages secondary locators.",
+      "include_sections": [
+        "11.1.2",
+        "11.2",
+        "11.3",
+        "11.4.2",
+        "11.5",
+        "11.8"
+      ],
+      "exclude_sections": [],
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/statistics/acquisition.json",
+          "sha256": "3ea0b6ffd87180b65a2883d8e072e6e012196138a666328bb4f8c8aa373cb59d"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/changelog.html",
+          "sha256": "8e9ce049232c682ea2815a766983c6d1254760179e4130f4b7bb9719808b5288"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/cc-by-sa4-legalcode.html",
+          "sha256": "47c0a954c88d793bdefe92fb007ae3c038fb3807f1a27083433d01aa7542c0d8"
+        }
+      ],
+      "limitations": [
+        "Statistical teaching examples are often simulated or psychological examples, not clinical studies.",
+        "Selected complete conceptual sections; detailed software walkthroughs and unrelated chapters omitted.",
+        "Faculty statistical correctness review pending.",
+        "Sampling and research design provide partial foundations rather than a complete health-survey protocol."
+      ]
+    },
+    {
+      "id": "mds-navarro-lsr-13",
+      "title": "Learning Statistics with R: 13 The \\(t\\) -test",
+      "url": "https://learningstatisticswithr.com/13-ttest.html",
+      "publisher": "Danielle Navarro (author-published)",
+      "jurisdiction": "AU",
+      "source_date": "2026-10-07",
+      "retrieved_date": "2026-10-09",
+      "edition": "0.7.1 (2026-10-07 author changelog)",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "Author homepage explicitly grants CC BY-SA4.0 reuse/adaptation; no explicit AI reuse prohibition found in captured author homepage, changelog, selected chapters or CC legalcode. No separate terms page is linked in captured author pages. Local educational retrieval; no claim of endorsement or guarantee of all other rights.",
+      "terms": "CC BY-SA4.0: attribution, license link, indication of changes; distributed adaptations under same license. Retain source identity without implying author endorsement. Figures/tables and code excluded from retrieval.",
+      "attribution": "Navarro, Danielle. Learning Statistics with R, v0.7.1 (2026-10-07). https://learningstatisticswithr.com/13-ttest.html License CC BY-SA4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: selected complete conceptual sections, rendered HTML whitespace normalization, section segmentation/paragraph overlap; figures/tables/code omitted; footnotes retained where present. No endorsement implied.",
+      "subjects": [
+        "biostatistics",
+        "research_methods"
+      ],
+      "level": "University introductory statistical foundations; partial MDS biostatistics support",
+      "raw_snapshot_path": "data/references/mds/raw/statistics/13-ttest.html",
+      "raw_sha256": "1fa798924b67beca24cf14b8102479a9bcb2eb4897d06d1a04c147207e1d5f89",
+      "license_snapshot_path": "data/references/mds/raw/statistics/index.html",
+      "license_snapshot_sha256": "4200b40c4d9293f2ed83caa0f4d585ae7a5ac4cd6b1bbd9a5b9967ac0405b16f",
+      "rights_review_snapshot_path": "data/references/mds/raw/statistics/publisher-rights-review.html",
+      "rights_review_snapshot_sha256": "6f92d9b5f8e86b3b9e7a3c5b09b048061249d18882e08ebc98e8ed2fd9df9975",
+      "original_pdf_path": "data/references/mds/raw/statistics/Learning-Statistics-with-R.pdf",
+      "original_pdf_sha256": "a5314ddd00a2f1db5c02321c9002ae290115cc64575cbccf5d41f7f12faa638b",
+      "original_pdf_url": "https://learningstatisticswithr.com/Learning-Statistics-with-R.pdf",
+      "acquisition_method": "Direct requests HTTPS200 author-hosted HTML and PDF; no accounts or fees. Paragraph extraction canonical HTML; physical PDF pages secondary locators.",
+      "include_sections": [
+        "13.1.1",
+        "13.1.2",
+        "13.1.4",
+        "13.2.1",
+        "13.2.3",
+        "13.3.8",
+        "13.4.2",
+        "13.5.2",
+        "13.10"
+      ],
+      "exclude_sections": [],
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/statistics/acquisition.json",
+          "sha256": "3ea0b6ffd87180b65a2883d8e072e6e012196138a666328bb4f8c8aa373cb59d"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/changelog.html",
+          "sha256": "8e9ce049232c682ea2815a766983c6d1254760179e4130f4b7bb9719808b5288"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/cc-by-sa4-legalcode.html",
+          "sha256": "47c0a954c88d793bdefe92fb007ae3c038fb3807f1a27083433d01aa7542c0d8"
+        }
+      ],
+      "limitations": [
+        "Statistical teaching examples are often simulated or psychological examples, not clinical studies.",
+        "Selected complete conceptual sections; detailed software walkthroughs and unrelated chapters omitted.",
+        "Faculty statistical correctness review pending.",
+        "Sampling and research design provide partial foundations rather than a complete health-survey protocol."
+      ]
+    },
+    {
+      "id": "mds-navarro-lsr-14",
+      "title": "Learning Statistics with R: 14 Comparing several means (one-way ANOVA)",
+      "url": "https://learningstatisticswithr.com/14-anova.html",
+      "publisher": "Danielle Navarro (author-published)",
+      "jurisdiction": "AU",
+      "source_date": "2026-10-07",
+      "retrieved_date": "2026-10-09",
+      "edition": "0.7.1 (2026-10-07 author changelog)",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "Author homepage explicitly grants CC BY-SA4.0 reuse/adaptation; no explicit AI reuse prohibition found in captured author homepage, changelog, selected chapters or CC legalcode. No separate terms page is linked in captured author pages. Local educational retrieval; no claim of endorsement or guarantee of all other rights.",
+      "terms": "CC BY-SA4.0: attribution, license link, indication of changes; distributed adaptations under same license. Retain source identity without implying author endorsement. Figures/tables and code excluded from retrieval.",
+      "attribution": "Navarro, Danielle. Learning Statistics with R, v0.7.1 (2026-10-07). https://learningstatisticswithr.com/14-anova.html License CC BY-SA4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: selected complete conceptual sections, rendered HTML whitespace normalization, section segmentation/paragraph overlap; figures/tables/code omitted; footnotes retained where present. No endorsement implied.",
+      "subjects": [
+        "biostatistics",
+        "research_methods"
+      ],
+      "level": "University introductory statistical foundations; partial MDS biostatistics support",
+      "raw_snapshot_path": "data/references/mds/raw/statistics/14-anova.html",
+      "raw_sha256": "30cf6846d18fc5281e60b3fc075e9739d229c04be236095a371fb8a56295d863",
+      "license_snapshot_path": "data/references/mds/raw/statistics/index.html",
+      "license_snapshot_sha256": "4200b40c4d9293f2ed83caa0f4d585ae7a5ac4cd6b1bbd9a5b9967ac0405b16f",
+      "rights_review_snapshot_path": "data/references/mds/raw/statistics/publisher-rights-review.html",
+      "rights_review_snapshot_sha256": "6f92d9b5f8e86b3b9e7a3c5b09b048061249d18882e08ebc98e8ed2fd9df9975",
+      "original_pdf_path": "data/references/mds/raw/statistics/Learning-Statistics-with-R.pdf",
+      "original_pdf_sha256": "a5314ddd00a2f1db5c02321c9002ae290115cc64575cbccf5d41f7f12faa638b",
+      "original_pdf_url": "https://learningstatisticswithr.com/Learning-Statistics-with-R.pdf",
+      "acquisition_method": "Direct requests HTTPS200 author-hosted HTML and PDF; no accounts or fees. Paragraph extraction canonical HTML; physical PDF pages secondary locators.",
+      "include_sections": [
+        "14.2",
+        "14.6",
+        "14.10"
+      ],
+      "exclude_sections": [
+        "14.2.5",
+        "14.10.3"
+      ],
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/statistics/acquisition.json",
+          "sha256": "3ea0b6ffd87180b65a2883d8e072e6e012196138a666328bb4f8c8aa373cb59d"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/changelog.html",
+          "sha256": "8e9ce049232c682ea2815a766983c6d1254760179e4130f4b7bb9719808b5288"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/cc-by-sa4-legalcode.html",
+          "sha256": "47c0a954c88d793bdefe92fb007ae3c038fb3807f1a27083433d01aa7542c0d8"
+        }
+      ],
+      "limitations": [
+        "Statistical teaching examples are often simulated or psychological examples, not clinical studies.",
+        "Selected complete conceptual sections; detailed software walkthroughs and unrelated chapters omitted.",
+        "Faculty statistical correctness review pending.",
+        "Sampling and research design provide partial foundations rather than a complete health-survey protocol."
+      ]
+    },
+    {
+      "id": "mds-navarro-lsr-15",
+      "title": "Learning Statistics with R: 15 Linear regression",
+      "url": "https://learningstatisticswithr.com/15-regression.html",
+      "publisher": "Danielle Navarro (author-published)",
+      "jurisdiction": "AU",
+      "source_date": "2026-10-07",
+      "retrieved_date": "2026-10-09",
+      "edition": "0.7.1 (2026-10-07 author changelog)",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "ai_reuse_review": "Author homepage explicitly grants CC BY-SA4.0 reuse/adaptation; no explicit AI reuse prohibition found in captured author homepage, changelog, selected chapters or CC legalcode. No separate terms page is linked in captured author pages. Local educational retrieval; no claim of endorsement or guarantee of all other rights.",
+      "terms": "CC BY-SA4.0: attribution, license link, indication of changes; distributed adaptations under same license. Retain source identity without implying author endorsement. Figures/tables and code excluded from retrieval.",
+      "attribution": "Navarro, Danielle. Learning Statistics with R, v0.7.1 (2026-10-07). https://learningstatisticswithr.com/15-regression.html License CC BY-SA4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: selected complete conceptual sections, rendered HTML whitespace normalization, section segmentation/paragraph overlap; figures/tables/code omitted; footnotes retained where present. No endorsement implied.",
+      "subjects": [
+        "biostatistics",
+        "research_methods"
+      ],
+      "level": "University introductory statistical foundations; partial MDS biostatistics support",
+      "raw_snapshot_path": "data/references/mds/raw/statistics/15-regression.html",
+      "raw_sha256": "de8989a64e2b7156fe7975d5d6806860bd16f9e6c586d1dc3d100eee9a055e65",
+      "license_snapshot_path": "data/references/mds/raw/statistics/index.html",
+      "license_snapshot_sha256": "4200b40c4d9293f2ed83caa0f4d585ae7a5ac4cd6b1bbd9a5b9967ac0405b16f",
+      "rights_review_snapshot_path": "data/references/mds/raw/statistics/publisher-rights-review.html",
+      "rights_review_snapshot_sha256": "6f92d9b5f8e86b3b9e7a3c5b09b048061249d18882e08ebc98e8ed2fd9df9975",
+      "original_pdf_path": "data/references/mds/raw/statistics/Learning-Statistics-with-R.pdf",
+      "original_pdf_sha256": "a5314ddd00a2f1db5c02321c9002ae290115cc64575cbccf5d41f7f12faa638b",
+      "original_pdf_url": "https://learningstatisticswithr.com/Learning-Statistics-with-R.pdf",
+      "acquisition_method": "Direct requests HTTPS200 author-hosted HTML and PDF; no accounts or fees. Paragraph extraction canonical HTML; physical PDF pages secondary locators.",
+      "include_sections": [
+        "15.1",
+        "15.4",
+        "15.6.1",
+        "15.8"
+      ],
+      "exclude_sections": [],
+      "acquisition_evidence": [
+        {
+          "path": "data/references/mds/raw/statistics/acquisition.json",
+          "sha256": "3ea0b6ffd87180b65a2883d8e072e6e012196138a666328bb4f8c8aa373cb59d"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/changelog.html",
+          "sha256": "8e9ce049232c682ea2815a766983c6d1254760179e4130f4b7bb9719808b5288"
+        },
+        {
+          "path": "data/references/mds/raw/statistics/cc-by-sa4-legalcode.html",
+          "sha256": "47c0a954c88d793bdefe92fb007ae3c038fb3807f1a27083433d01aa7542c0d8"
+        }
+      ],
+      "limitations": [
+        "Statistical teaching examples are often simulated or psychological examples, not clinical studies.",
+        "Selected complete conceptual sections; detailed software walkthroughs and unrelated chapters omitted.",
+        "Faculty statistical correctness review pending.",
+        "Sampling and research design provide partial foundations rather than a complete health-survey protocol."
+      ]
+    }
+  ],
+  "link_only": [
+    {
+      "title": "OpenIntro Statistics",
+      "url": "https://www.openintro.org/book/os/",
+      "status": "not_ingested",
+      "reason": "Current terms include automated AI/ML-training scraping agreement; no contractual permissions sought or accepted. Local retrieval is distinct, but independently licensed author source selected instead.",
+      "terms_url": "https://www.openintro.org/terms/"
+    },
+    {
+      "title": "Statistics for Research Students",
+      "url": "https://usq.pressbooks.pub/statisticsforresearchstudents/",
+      "status": "not_ingested",
+      "reason": "Reviewed normality teaching conflates univariate and multivariate normality; independent statistical foundations preferred."
+    }
+  ]
+}

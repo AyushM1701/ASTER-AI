@@ -1,0 +1,1704 @@
+{
+  "version": "mds-research-2026-10-09-v2",
+  "scope": "Curated supporting research for photographed Oral Pathology and Oral Microbiology topics; not all research or a complete textbook.",
+  "documents": [
+    {
+      "id": "mds-pmc-10569891",
+      "pmcid": "PMC10569891",
+      "title": "Primary Tuberculosis of Buccal and Labial Mucosa: Literature Review and a Rare Case Report of a Public Health Menace",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10569891/",
+      "publisher": "Wiley",
+      "authors": [
+        "Shyamkumar Sriram",
+        "Shamimul Hasan",
+        "Shazina Saeed",
+        "Syed Ansar Ahmad",
+        "Swagatika Panda"
+      ],
+      "doi": "10.1155/2023/6543595",
+      "source_date": "2023-10-05",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC10569891.xml",
+      "raw_sha256": "23b47ec3a8481e5a973c394225e73683bd1000d30270338c6a95efac2f0a5146",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC10569891.license.xml",
+      "license_snapshot_sha256": "e5a48dc8167bfb874e58411b91884ae65837e8b0707cd56f1c3968dcca1c1ecd",
+      "subjects": [
+        "oral_microbiology",
+        "mycobacteria",
+        "oral_pathology"
+      ],
+      "syllabus_ids": [
+        "MDS-66",
+        "MDS-87"
+      ],
+      "study_type": "human",
+      "study_design": "case report with literature review",
+      "study_context": "Single patient with primary buccal and labial mucosal tuberculosis plus literature review.",
+      "limitations": [
+        "Single case cannot estimate prevalence or establish diagnostic accuracy or treatment effectiveness."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-10683881",
+      "pmcid": "PMC10683881",
+      "title": "Role of immunohistochemistry in diagnosing round-cell tumours affecting the oral and maxillofacial regions",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10683881/",
+      "publisher": "Wolters Kluwer -- Medknow Publications",
+      "authors": [
+        "Harpreet Kaur",
+        "Deepika Mishra",
+        "Aanchal Kakkar",
+        "Ajoy Roychoudhury"
+      ],
+      "doi": "10.4103/jomfp.jomfp_347_20",
+      "source_date": "2023-09-12",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC10683881.xml",
+      "raw_sha256": "fbb5ef7043659596be5758900180c26c8bd4a0ca7ff84d41110858c1c1097119",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC10683881.license.xml",
+      "license_snapshot_sha256": "261fead732e7082fabc5fe276b4962bbddf626ddc1d72791d693391ae532d112",
+      "subjects": [
+        "oral_pathology",
+        "immunohistochemistry",
+        "microscopy",
+        "tissue_processing"
+      ],
+      "syllabus_ids": [
+        "MDS-30",
+        "MDS-80",
+        "MDS-81",
+        "MDS-83",
+        "MDS-84",
+        "MDS-87",
+        "MDS-89"
+      ],
+      "study_type": "human",
+      "study_design": "retrospective clinicopathological study",
+      "study_context": "Formalin-fixed paraffin-embedded round-cell tumour specimens from oral and maxillofacial regions.",
+      "limitations": [
+        "Selected tumour spectrum; marker panels require clinicopathological interpretation."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-10813147",
+      "pmcid": "PMC10813147",
+      "title": "Salivary Gland Bioengineering",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10813147/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Stephen C. Rose",
+        "Melinda Larsen",
+        "Yubing Xie",
+        "Susan T. Sharfstein",
+        "Giuseppe Pettinato",
+        "Giuseppe Ietto",
+        "Xuejun Wen"
+      ],
+      "doi": "10.3390/bioengineering11010028",
+      "source_date": "2023-12-26",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC10813147.xml",
+      "raw_sha256": "3720f2728b88261ce570982917605ac4de5232b57a744954a7cc0fca6a4cf7cb",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC10813147.license.xml",
+      "license_snapshot_sha256": "e65892d0109973ba96c94d1d060268116e40856532b13175b599179b18b7f6fc",
+      "subjects": [
+        "oral_histology",
+        "salivary_glands",
+        "tissue_regeneration"
+      ],
+      "syllabus_ids": [
+        "MDS-21",
+        "MDS-25",
+        "MDS-38",
+        "MDS-54",
+        "MDS-55"
+      ],
+      "study_type": "mixed",
+      "study_design": "narrative review",
+      "study_context": "Salivary gland development and bioengineering literature spanning cell cultures and preclinical models.",
+      "limitations": [
+        "Engineered tissue and preclinical regeneration are not established clinical treatments."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-10917908",
+      "pmcid": "PMC10917908",
+      "title": "Oral streptococci: modulators of health and disease",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10917908/",
+      "publisher": "Frontiers Media SA",
+      "authors": [
+        "Susanne Bloch",
+        "Fiona F. Hager-Mair",
+        "Oleh Andrukhov",
+        "Christina Schäffer"
+      ],
+      "doi": "10.3389/fcimb.2024.1357631",
+      "source_date": "2024-02-22",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC10917908.xml",
+      "raw_sha256": "7dfcfe8e64f91565b21ea050ed03ff67784154236abf7eb6ba37e0cd6d12f69e",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC10917908.license.xml",
+      "license_snapshot_sha256": "977f681c43ee4b97a190ea4753a2aeaa29102ad02c672befc96d3be016406c26",
+      "subjects": [
+        "oral_microbiology",
+        "oral_streptococci",
+        "biofilm"
+      ],
+      "syllabus_ids": [
+        "MDS-63",
+        "MDS-67",
+        "MDS-69",
+        "MDS-71"
+      ],
+      "study_type": "mixed",
+      "study_design": "narrative review",
+      "study_context": "Commensal and pathogenic oral streptococci literature across host observations and laboratory models.",
+      "limitations": [
+        "Species and strains differ; laboratory mechanisms do not establish human therapeutic benefit."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-10956246",
+      "pmcid": "PMC10956246",
+      "title": "Neuroscience of taste: unlocking the human taste code",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10956246/",
+      "publisher": "BMC",
+      "authors": [
+        "Göran Hellekant"
+      ],
+      "doi": "10.1186/s12868-024-00847-2",
+      "source_date": "2024-03-21",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC10956246.xml",
+      "raw_sha256": "fb732eb944f7ef80106f5d75a700394769467457fac0cefa0f9f082e365b5150",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC10956246.license.xml",
+      "license_snapshot_sha256": "b856fae98ab26a4925015538967cf77a03d942acaf2b573e8d800b87ca12c793",
+      "subjects": [
+        "oral_physiology",
+        "taste",
+        "orofacial_receptors"
+      ],
+      "syllabus_ids": [
+        "MDS-15",
+        "MDS-57"
+      ],
+      "study_type": "mixed",
+      "study_design": "review of neurophysiological research",
+      "study_context": "Behavioral and single-fiber taste recordings across nonhuman primates with comparison to human taste.",
+      "limitations": [
+        "Species differences limit direct transfer to human taste physiology."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-11143751",
+      "pmcid": "PMC11143751",
+      "title": "Drug-resistant oral candidiasis in patients with HIV infection: a systematic review and meta-analysis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11143751/",
+      "publisher": "BMC",
+      "authors": [
+        "Amirreza Keyvanfar",
+        "Hanieh Najafiarab",
+        "Niki Talebian",
+        "Mahdi Falah Tafti",
+        "Gelareh Adeli",
+        "Zahra Ghasemi",
+        "Shabnam Tehrani"
+      ],
+      "doi": "10.1186/s12879-024-09442-6",
+      "source_date": "2024-05-31",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11143751.xml",
+      "raw_sha256": "5e6aaab26ca31172f244b4d24469803439d6bce882dce9dfd8a48dcf263e2f61",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC11143751.license.xml",
+      "license_snapshot_sha256": "51696d20b81d93b502f203c8db262fd1537ed1449a1d698ed73451d107e6baf3",
+      "subjects": [
+        "oral_microbiology",
+        "mycology",
+        "candidiasis"
+      ],
+      "syllabus_ids": [
+        "MDS-64",
+        "MDS-69"
+      ],
+      "study_type": "human",
+      "study_design": "systematic review and meta-analysis",
+      "study_context": "Studies of antifungal resistance among Candida isolates from HIV-positive people with oral candidiasis.",
+      "limitations": [
+        "Population and assay heterogeneity; resistance prevalence does not select an individual prescription."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-11272015",
+      "pmcid": "PMC11272015",
+      "title": "Determination of sample size for various study designs in medical research: A practical primer",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272015/",
+      "publisher": "Wolters Kluwer -- Medknow Publications",
+      "authors": [
+        "Reena Bhardwaj",
+        "Usha Agrawal",
+        "Praveen Vashist",
+        "Souvik Manna"
+      ],
+      "doi": "10.4103/jfmpc.jfmpc_1675_23",
+      "source_date": "2024-06-28",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11272015.xml",
+      "raw_sha256": "2b011354f936dff3c058c97613d909628f562c603b309d95e0c3b5f22eb40cc1",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC11272015.license.xml",
+      "license_snapshot_sha256": "261fead732e7082fabc5fe276b4962bbddf626ddc1d72791d693391ae532d112",
+      "subjects": [
+        "biostatistics",
+        "sampling",
+        "sample_size"
+      ],
+      "syllabus_ids": [
+        "MDS-44",
+        "MDS-48",
+        "MDS-49",
+        "MDS-50",
+        "MDS-51"
+      ],
+      "study_type": "unknown",
+      "study_design": "methodological narrative review",
+      "study_context": "Sample-size planning across observational and experimental study designs; no single patient cohort.",
+      "limitations": [
+        "Sample-size formulas depend on effect assumptions and design; power is not proof of validity."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-11434038",
+      "pmcid": "PMC11434038",
+      "title": "Presence and Causes of Sterilization Equipment Failures with Biological Indicators in Dental Offices in Mexico: A Longitudinal Cohort",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11434038/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Nuria Patiño-Marín",
+        "Lorena Dafnee Villa-García",
+        "Yolanda Terán-Figueroa",
+        "Carlo Eduardo Medina-Solis",
+        "Yesica Yolanda Rangel-Flores",
+        "Marco Felipe Salas-Orozco",
+        "Fidel Martínez-Gutiérrez",
+        "Eva Concepción Aguirre-López",
+        "Bruno Chrcanovic"
+      ],
+      "doi": "10.3390/medicina60091525",
+      "source_date": "2024-09-19",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11434038.xml",
+      "raw_sha256": "711cc75be10eb41ce003a5579b5240abd120ced10cdde28d20a057b1a1e6740a",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC11434038.license.xml",
+      "license_snapshot_sha256": "5169c4e3ecced9d792d444ca915de3a14c3e4ce81dfda87a49917fb41f16f1cb",
+      "subjects": [
+        "oral_microbiology",
+        "sterilization"
+      ],
+      "syllabus_ids": [
+        "MDS-68"
+      ],
+      "study_type": "human",
+      "study_design": "longitudinal dental-office cohort",
+      "study_context": "Biological-indicator monitoring of sterilizers in 175 dental offices in San Luis Potosi, Mexico.",
+      "limitations": [
+        "Local equipment and practices limit generalizability; no substitute for validated infection-control protocols."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-11442140",
+      "pmcid": "PMC11442140",
+      "title": "Oral microbiome in human health and diseases",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11442140/",
+      "publisher": "Wiley",
+      "authors": [
+        "Siqi Tian",
+        "Tao Ding",
+        "Hui Li"
+      ],
+      "doi": "10.1002/mlf2.12136",
+      "source_date": "2024-09-16",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11442140.xml",
+      "raw_sha256": "5511718d93f3feb78796c223670f60479da6c678080bcc88a01fab69667e3acc",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC11442140.license.xml",
+      "license_snapshot_sha256": "a7b36366301a2c1de55007accee10be0739a5fae1a653c0c3b281bac69c9cbde",
+      "subjects": [
+        "oral_microbiology",
+        "oral_microbiome"
+      ],
+      "syllabus_ids": [
+        "MDS-63",
+        "MDS-67",
+        "MDS-69",
+        "MDS-71"
+      ],
+      "study_type": "mixed",
+      "study_design": "narrative review",
+      "study_context": "Oral microbiome literature across human associations and mechanistic models.",
+      "limitations": [
+        "Microbiome associations are not causal proof; mechanisms and populations differ."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-11477375",
+      "pmcid": "PMC11477375",
+      "title": "EDA Variants Are Responsible for Approximately 90% of Deciduous Tooth Agenesis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11477375/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Lanxin Su",
+        "Bichen Lin",
+        "Miao Yu",
+        "Yang Liu",
+        "Shichen Sun",
+        "Hailan Feng",
+        "Haochen Liu",
+        "Dong Han",
+        "Jose Luis Pérez-Castrillón"
+      ],
+      "doi": "10.3390/ijms251910451",
+      "source_date": "2024-09-27",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11477375.xml",
+      "raw_sha256": "00a50466b0541487d0b6530201ab8f37344d3bcf97dce06485ee78c8d576ce60",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC11477375.license.xml",
+      "license_snapshot_sha256": "bdfd920d3ef6f8081f5de8809b8f8e0e749cd36ccf9195cd69989c11935e80fc",
+      "subjects": [
+        "oral_embryology",
+        "tooth_development",
+        "dental_genetics"
+      ],
+      "syllabus_ids": [
+        "MDS-31",
+        "MDS-75",
+        "MDS-76"
+      ],
+      "study_type": "human",
+      "study_design": "clinical genetic cohort",
+      "study_context": "Whole-exome and Sanger sequencing in 84 patients with severe deciduous tooth agenesis.",
+      "limitations": [
+        "Selected severe cohort; reported gene proportions do not generalize to all tooth agenesis."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-11506617",
+      "pmcid": "PMC11506617",
+      "title": "Fundamentals of Nonparametric Statistical Tests for Dental Clinical Research",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11506617/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Arturo Garrocho-Rangel",
+        "Saray Aranda-Romo",
+        "Rita Martínez-Martínez",
+        "Verónica Zavala-Alonso",
+        "Juan Carlos Flores-Arriaga",
+        "Amaury Pozos-Guillén",
+        "Hans S Malmstrom",
+        "Daniele Cardaropoli"
+      ],
+      "doi": "10.3390/dj12100314",
+      "source_date": "2024-09-29",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11506617.xml",
+      "raw_sha256": "48de66754c208ddea31dbd93f33c1efdac7a71feb6f99cf2fd5dab55e15d6544",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC11506617.license.xml",
+      "license_snapshot_sha256": "bdfd920d3ef6f8081f5de8809b8f8e0e749cd36ccf9195cd69989c11935e80fc",
+      "subjects": [
+        "biostatistics",
+        "nonparametric_testing"
+      ],
+      "syllabus_ids": [
+        "MDS-44",
+        "MDS-49",
+        "MDS-51",
+        "MDS-52"
+      ],
+      "study_type": "unknown",
+      "study_design": "methodological narrative review",
+      "study_context": "Nonparametric statistical procedures illustrated for dental clinical research; no single study population.",
+      "limitations": [
+        "Distribution-free tests still have design and independence assumptions; significance is not clinical importance."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [
+        {
+          "pattern": "population assumptions are unnecessary",
+          "reason": "Broad claim about nonparametric-test assumptions is misleading; entire section held pending statistical review."
+        }
+      ],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-11595533",
+      "pmcid": "PMC11595533",
+      "title": "Bioengineering the Junctional Epithelium in 3D Oral Mucosa Models",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11595533/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Marianna Gavriiloglou",
+        "Mira Hammad",
+        "Jordan M. Iliopoulos",
+        "Pierre Layrolle",
+        "Danae A. Apazidou",
+        "Bruno Chrcanovic"
+      ],
+      "doi": "10.3390/jfb15110330",
+      "source_date": "2024-11-06",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11595533.xml",
+      "raw_sha256": "c75e8d1d458da16929033e1f2a5c7b784b275224124098e55887d2db11eabaf9",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC11595533.license.xml",
+      "license_snapshot_sha256": "e65892d0109973ba96c94d1d060268116e40856532b13175b599179b18b7f6fc",
+      "subjects": [
+        "oral_histology",
+        "oral_mucosa",
+        "dentogingival_junction"
+      ],
+      "syllabus_ids": [
+        "MDS-05",
+        "MDS-39",
+        "MDS-40"
+      ],
+      "study_type": "mixed",
+      "study_design": "narrative bioengineering review",
+      "study_context": "Three-dimensional oral mucosa and junctional epithelium model literature.",
+      "limitations": [
+        "Experimental reconstructed tissues do not reproduce every human tissue function."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-11599014",
+      "pmcid": "PMC11599014",
+      "title": "The Emergence of Saliva as a Diagnostic and Prognostic Tool for Viral Infections",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11599014/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Nilson Ferreira de Oliveira Neto",
+        "Rafael Antônio Velôso Caixeta",
+        "Rodrigo Melim Zerbinati",
+        "Amanda Caroline Zarpellon",
+        "Matheus Willian Caetano",
+        "Debora Pallos",
+        "Roger Junges",
+        "André Luiz Ferreira Costa",
+        "Juan Aitken-Saavedra",
+        "Simone Giannecchini",
+        "Paulo Henrique Braz-Silva",
+        "Anna Rosa Garbuglia",
+        "Licia Bordi"
+      ],
+      "doi": "10.3390/v16111759",
+      "source_date": "2024-11-11",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11599014.xml",
+      "raw_sha256": "ea0087fa9d14cf8dd521f509f551a9c7ca2b8e2a41d7cc6cb3cd12ac8d89b349",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC11599014.license.xml",
+      "license_snapshot_sha256": "e65892d0109973ba96c94d1d060268116e40856532b13175b599179b18b7f6fc",
+      "subjects": [
+        "oral_physiology",
+        "saliva",
+        "virology"
+      ],
+      "syllabus_ids": [
+        "MDS-55",
+        "MDS-65"
+      ],
+      "study_type": "mixed",
+      "study_design": "narrative review",
+      "study_context": "Saliva-based viral diagnostic literature across assays and clinical studies.",
+      "limitations": [
+        "Assay accuracy depends on specimen handling, population and comparator; no standalone diagnosis."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-11638196",
+      "pmcid": "PMC11638196",
+      "title": "Inflammation and immune response in the development of periodontal disease: a narrative review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11638196/",
+      "publisher": "Frontiers Media SA",
+      "authors": [
+        "Nansi López-Valverde",
+        "Norberto Quispe-López",
+        "José Antonio Blanco Rueda"
+      ],
+      "doi": "10.3389/fcimb.2024.1493818",
+      "source_date": "2024-11-29",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11638196.xml",
+      "raw_sha256": "03d22cd32e97e62e4bc0b8b43c15e89fa411e0f8cd13733a0c3da00b8763fa4e",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC11638196.license.xml",
+      "license_snapshot_sha256": "977f681c43ee4b97a190ea4753a2aeaa29102ad02c672befc96d3be016406c26",
+      "subjects": [
+        "oral_pathology",
+        "inflammation",
+        "periodontal_immunology"
+      ],
+      "syllabus_ids": [
+        "MDS-10",
+        "MDS-22",
+        "MDS-36",
+        "MDS-37",
+        "MDS-69",
+        "MDS-70",
+        "MDS-71"
+      ],
+      "study_type": "mixed",
+      "study_design": "narrative review",
+      "study_context": "Periodontal inflammation and immune response literature including human and mechanistic research.",
+      "limitations": [
+        "Heterogeneous evidence and models; no individualized periodontal treatment guidance."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-11749591",
+      "pmcid": "PMC11749591",
+      "title": "Oral microbiota in aging and diseases",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11749591/",
+      "publisher": "Oxford University Press",
+      "authors": [
+        "Ya Ren",
+        "Mingxu Chen",
+        "Ziyang Wang",
+        "Jing-Dong J Han"
+      ],
+      "doi": "10.1093/lifemedi/lnae024",
+      "source_date": "2024-06-28",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11749591.xml",
+      "raw_sha256": "a1f17cbc98b874970b9e874d66929bdf3f4d7941297e428a1a3a0d80f869e0de",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC11749591.license.xml",
+      "license_snapshot_sha256": "2c2c85ec3b0b95790a97daf8a1aed20c57e76b1b6cfe8fd1a5cf81d3dfd8258d",
+      "subjects": [
+        "oral_microbiology",
+        "oral_aging"
+      ],
+      "syllabus_ids": [
+        "MDS-54",
+        "MDS-69"
+      ],
+      "study_type": "mixed",
+      "study_design": "narrative review",
+      "study_context": "Oral microbiota and aging literature integrating human observational and mechanistic evidence.",
+      "limitations": [
+        "Age-related associations are confounded and do not establish causation."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-12039698",
+      "pmcid": "PMC12039698",
+      "title": "Global health trends of human papillomavirus‐associated oral cancer: A review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12039698/",
+      "publisher": "Wiley",
+      "authors": [
+        "Kehinde Kazeem Kanmodi",
+        "Jimoh Amzat",
+        "Jacob Njideka Nwafor",
+        "Lawrence Achilles Nnyanzi"
+      ],
+      "doi": "10.1002/puh2.126",
+      "source_date": "2023-10-03",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC12039698.xml",
+      "raw_sha256": "9582946a58a843d54e05f2347dfb1b6e4a57fd6883cadfdbe467f4e1fc3e44fd",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC12039698.license.xml",
+      "license_snapshot_sha256": "3868e8ba64433027da94b0cf0a11e402e31ecb9f02901f650aa32af8e7c4e5b6",
+      "subjects": [
+        "oral_microbiology",
+        "virology",
+        "oral_neoplasia"
+      ],
+      "syllabus_ids": [
+        "MDS-30",
+        "MDS-65",
+        "MDS-74"
+      ],
+      "study_type": "human",
+      "study_design": "narrative review",
+      "study_context": "Human papillomavirus-associated oral cancer literature; oral and oropharyngeal sites must be distinguished.",
+      "limitations": [
+        "Site definitions and geographic evidence vary; HPV association alone does not diagnose cancer."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-12068536",
+      "pmcid": "PMC12068536",
+      "title": "Clinico‐Pathological Significance of Tumor Infiltrating Immune Cells in Oral Squamous Cell Carcinoma—Hope or Hype?",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12068536/",
+      "publisher": "Head & Neck",
+      "authors": [
+        "Rajkumar K Seenivasagam",
+        "Ashok Singh",
+        "Vinay N Gowda",
+        "Dharma R Poonia",
+        "Kinjal S Majumdar",
+        "Thaduri Abhinav",
+        "Pallvi Kaul",
+        "Achyuth Panuganti",
+        "Vikramjit S Kailey",
+        "Rahul Kumar",
+        "Nilotpal Chowdhury"
+      ],
+      "doi": "10.1002/hed.28083",
+      "source_date": "2025-01-24",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC12068536.xml",
+      "raw_sha256": "6e7701bef39bea68c18cbef587018c9ba1d48eaf286230346127215462ee1dbe",
+      "license": "CC-BY-NC-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC12068536.license.xml",
+      "license_snapshot_sha256": "f2d42ad97b296c460e148706a6fbd26f363d29f53b8b59295361815f2f5d8f23",
+      "subjects": [
+        "oral_pathology",
+        "oral_cancer",
+        "tumour_immunology",
+        "immunohistochemistry"
+      ],
+      "syllabus_ids": [
+        "MDS-30",
+        "MDS-74",
+        "MDS-84"
+      ],
+      "study_type": "human",
+      "study_design": "clinicopathological immunohistochemical correlation study",
+      "study_context": "Immune infiltrates in oral squamous cell carcinoma histology from 111 patients.",
+      "limitations": [
+        "Correlations do not establish causation or validate an individual prognostic test."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-3254861",
+      "pmcid": "PMC3254861",
+      "title": "Chromosome Analysis Using Spectral Karyotyping (SKY)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3254861/",
+      "publisher": "Cell Biochemistry and Biophysics",
+      "authors": [
+        "George Imataka",
+        "Osamu Arisaka"
+      ],
+      "doi": "10.1007/s12013-011-9285-2",
+      "source_date": "2011-09-27",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC3254861.xml",
+      "raw_sha256": "ca143becf4f127a3f96f7939c180b891d1b2c134e718986e9101c8f33b49b889",
+      "license": "CC-BY-NC-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC3254861.license.xml",
+      "license_snapshot_sha256": "584a064ea4a57f28d12d6d788d15414410294b9c20e5dbae059073f0dc404242",
+      "subjects": [
+        "genetics",
+        "karyotyping",
+        "molecular_cytogenetics"
+      ],
+      "syllabus_ids": [
+        "MDS-75",
+        "MDS-77"
+      ],
+      "study_type": "human",
+      "study_design": "methods review with case illustrations",
+      "study_context": "Spectral karyotyping principles with human chromosome-analysis case examples.",
+      "limitations": [
+        "Karyotyping resolution and examples limit inference; no comprehensive genetic diagnosis."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-5763855",
+      "pmcid": "PMC5763855",
+      "title": "Oral candidiasis: A retrospective study of 276 Brazilian patients",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5763855/",
+      "publisher": "Wolters Kluwer -- Medknow Publications",
+      "authors": [
+        "Henrique Cortes Meira",
+        "Bruna Mascarenhas De Oliveira",
+        "Igor Figueiredo Pereira",
+        "Marcelo Drumond Naves",
+        "Ricardo Alves Mesquita",
+        "Vagner Rodrigues Santos"
+      ],
+      "doi": "10.4103/jomfp.JOMFP_77_16",
+      "source_date": "2017",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC5763855.xml",
+      "raw_sha256": "ad943a07b551458909abde5d7903855b3cd138774ce47069e615906f92314d97",
+      "license": "CC-BY-NC-SA-3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC5763855.license.xml",
+      "license_snapshot_sha256": "8a0f6b47c000fa219599d8d1ca9e6a15d1b6ea53e7dc613b7bac5ed69f91e63c",
+      "subjects": [
+        "oral_microbiology",
+        "mycology",
+        "oral_pathology"
+      ],
+      "syllabus_ids": [
+        "MDS-64",
+        "MDS-69"
+      ],
+      "study_type": "human",
+      "study_design": "retrospective patient series",
+      "study_context": "276 Brazilian patients with oral candidiasis.",
+      "limitations": [
+        "Retrospective selected cohort; findings do not generalize to all populations or determine individual treatment."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-6350423",
+      "pmcid": "PMC6350423",
+      "title": "Descriptive Statistics and Normality Tests for Statistical Data",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6350423/",
+      "publisher": "Wolters Kluwer -- Medknow Publications",
+      "authors": [
+        "Prabhaker Mishra",
+        "Chandra M Pandey",
+        "Uttam Singh",
+        "Anshul Gupta",
+        "Chinmoy Sahu",
+        "Amit Keshri"
+      ],
+      "doi": "10.4103/aca.ACA_157_18",
+      "source_date": "2019",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC6350423.xml",
+      "raw_sha256": "2fd72e8691f3bcd21a9b4c61ecf32418272400236c46e0e3ffe241b9f7ab83c6",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC6350423.license.xml",
+      "license_snapshot_sha256": "261fead732e7082fabc5fe276b4962bbddf626ddc1d72791d693391ae532d112",
+      "subjects": [
+        "biostatistics",
+        "descriptive_statistics",
+        "normality"
+      ],
+      "syllabus_ids": [
+        "MDS-44",
+        "MDS-45",
+        "MDS-46",
+        "MDS-47",
+        "MDS-49"
+      ],
+      "study_type": "unknown",
+      "study_design": "methodological educational article",
+      "study_context": "Descriptive summaries and normality-test methods; no single clinical population.",
+      "limitations": [
+        "Simplified heuristics; statistical assumptions depend on design and model, not a universal cutoff."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [
+        {
+          "pattern": "Central limit theorem states that when sample size has 100",
+          "reason": "Universal sample-size normality heuristic is misleading; statistical assumptions depend on design, sampling and model."
+        },
+        {
+          "pattern": "extreme values in the data set have no significant impact on the mean",
+          "reason": "Claim about extreme values and sample mean is misleading; section held pending statistical review."
+        }
+      ],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-6802633",
+      "pmcid": "PMC6802633",
+      "title": "3D cellular visualization of intact mouse tooth using optical clearing without decalcification",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6802633/",
+      "publisher": "Nature Publishing Group",
+      "authors": [
+        "Sujung Hong",
+        "Jingu Lee",
+        "Jin Man Kim",
+        "Sun-Young Kim",
+        "Hyung-Ryong Kim",
+        "Pilhan Kim"
+      ],
+      "doi": "10.1038/s41368-019-0056-z",
+      "source_date": "2019-08-27",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC6802633.xml",
+      "raw_sha256": "847a055205068f209f1a8f5a3969bc725a72d068571125508d28d1a3168d7959",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC6802633.license.xml",
+      "license_snapshot_sha256": "149af61c21e337febe77f10d29644f9c6b858770797371439f20c2a3eea6cb9e",
+      "subjects": [
+        "oral_histology",
+        "dental_pulp",
+        "microscopy",
+        "tissue_processing"
+      ],
+      "syllabus_ids": [
+        "MDS-33",
+        "MDS-34",
+        "MDS-78",
+        "MDS-80",
+        "MDS-83"
+      ],
+      "study_type": "animal",
+      "study_design": "experimental imaging-method study",
+      "study_context": "Optical clearing and three-dimensional visualization of intact mouse teeth.",
+      "limitations": [
+        "Mouse tissue imaging results do not validate every human histology application."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-7312198",
+      "pmcid": "PMC7312198",
+      "title": "Tooth Formation: Are the Hardest Tissues of Human Body Hard to Regenerate?",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7312198/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Juliana Baranova",
+        "Dominik Büchner",
+        "Werner Götz",
+        "Margit Schulze",
+        "Edda Tobiasch"
+      ],
+      "doi": "10.3390/ijms21114031",
+      "source_date": "2020-06-04",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC7312198.xml",
+      "raw_sha256": "44ea31c5b52c1b09b3d766395543af25bb57587945490b3f6cfd5e25882890ad",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC7312198.license.xml",
+      "license_snapshot_sha256": "14cdb41589e115e8482bcff0ab92d43f9a7f41cae83922f7b284221e19c006c1",
+      "subjects": [
+        "oral_histology",
+        "tooth_development",
+        "tooth_regeneration"
+      ],
+      "syllabus_ids": [
+        "MDS-19",
+        "MDS-25",
+        "MDS-26",
+        "MDS-31",
+        "MDS-32",
+        "MDS-33",
+        "MDS-34",
+        "MDS-35",
+        "MDS-36",
+        "MDS-37",
+        "MDS-62"
+      ],
+      "study_type": "mixed",
+      "study_design": "narrative review",
+      "study_context": "Dental tissue and whole-tooth regeneration literature spanning cellular and animal models; not a human treatment trial.",
+      "limitations": [
+        "Experimental regeneration does not establish routine human clinical effectiveness."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [
+        {
+          "pattern": "epithelium is derived from the embryonic endoderm",
+          "reason": "Publisher statement conflicts with established oral ectoderm origin of dental epithelium. Entire section held without correcting original source; requires faculty review."
+        }
+      ],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-9245907",
+      "pmcid": "PMC9245907",
+      "title": "A Systematic Review of Oral Biopsies, Sample Types, and Detection Techniques Applied in Relation to Oral Cancer Detection",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9245907/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Guanghuan Yang",
+        "Luqi Wei",
+        "Benjamin K. S. Thong",
+        "Yuanyuan Fu",
+        "Io Hong Cheong",
+        "Zisis Kozlakidis",
+        "Xue Li",
+        "Hui Wang",
+        "Xiaoguang Li",
+        "Luciana Caenazzo"
+      ],
+      "doi": "10.3390/biotech11010005",
+      "source_date": "2022-03-02",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC9245907.xml",
+      "raw_sha256": "fdc3e8ea87ea7246e76b23264708989f7f82bc703ab02bbee89f3deaf8e095a4",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC9245907.license.xml",
+      "license_snapshot_sha256": "e65892d0109973ba96c94d1d060268116e40856532b13175b599179b18b7f6fc",
+      "subjects": [
+        "oral_pathology",
+        "biopsy",
+        "cytology",
+        "molecular_diagnostics"
+      ],
+      "syllabus_ids": [
+        "MDS-30",
+        "MDS-76",
+        "MDS-87",
+        "MDS-88"
+      ],
+      "study_type": "human",
+      "study_design": "systematic review",
+      "study_context": "Oral biopsy specimens, sample types and detection techniques in oral cancer literature.",
+      "limitations": [
+        "Heterogeneous sampling and diagnostic methods; no single screening method replaces clinical assessment."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-9364647",
+      "pmcid": "PMC9364647",
+      "title": "Unveiling the arcanum of formalin-fixed paraffin-embedded archival tissue blocks: A valuable resource for genomic DNA extraction",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9364647/",
+      "publisher": "Wolters Kluwer -- Medknow Publications",
+      "authors": [
+        "Sameera Begum",
+        "Vishnudas Prabhu",
+        "Varshasnata Mohanty",
+        "K Krishnaraj Upadhyaya",
+        "Riaz Abdulla"
+      ],
+      "doi": "10.4103/jomfp.jomfp_424_20",
+      "source_date": "2022-06-28",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC9364647.xml",
+      "raw_sha256": "e445efd2cfe21824e6f3fbc142141e3afcae8a7a4574de4bab3bf9b610f29653",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC9364647.license.xml",
+      "license_snapshot_sha256": "261fead732e7082fabc5fe276b4962bbddf626ddc1d72791d693391ae532d112",
+      "subjects": [
+        "oral_pathology",
+        "fixation",
+        "tissue_processing",
+        "molecular_diagnostics"
+      ],
+      "syllabus_ids": [
+        "MDS-76",
+        "MDS-82",
+        "MDS-83",
+        "MDS-89"
+      ],
+      "study_type": "human",
+      "study_design": "retrospective archival tissue laboratory study",
+      "study_context": "Genomic DNA extraction from human formalin-fixed paraffin-embedded tumour blocks stored up to 11 years.",
+      "limitations": [
+        "Archival laboratory results are protocol-specific and do not establish diagnostic accuracy."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-9959297",
+      "pmcid": "PMC9959297",
+      "title": "Type IVb Hypersensitivity Reaction in the Novel Murine Model of Palladium–Induced Intraoral Allergic Contact Mucositis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9959297/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Keisuke Nasu",
+        "Kenichi Kumagai",
+        "Takamasa Yoshizawa",
+        "Kazutaka Kitaura",
+        "Ryota Matsubara",
+        "Motoaki Suzuki",
+        "Ryuji Suzuki",
+        "Yoshiki Hamada",
+        "Kenneth Michael Pollard"
+      ],
+      "doi": "10.3390/ijms24043137",
+      "source_date": "2023-02-05",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC9959297.xml",
+      "raw_sha256": "5e31189e29b30877c95d024cf041c10676b0065f18202b9560859aadfcbb0eaf",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC9959297.license.xml",
+      "license_snapshot_sha256": "e65892d0109973ba96c94d1d060268116e40856532b13175b599179b18b7f6fc",
+      "subjects": [
+        "oral_immunology",
+        "hypersensitivity",
+        "oral_mucosa"
+      ],
+      "syllabus_ids": [
+        "MDS-39",
+        "MDS-70",
+        "MDS-71",
+        "MDS-72"
+      ],
+      "study_type": "animal",
+      "study_design": "experimental murine study",
+      "study_context": "Palladium-induced intraoral allergic contact mucositis in sensitized mice.",
+      "limitations": [
+        "Mouse hypersensitivity model does not establish human diagnosis or treatment."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "excluded_paragraph_patterns": [],
+      "ai_reuse_restriction": false
+    },
+    {
+      "id": "mds-pmc-10150715",
+      "pmcid": "PMC10150715",
+      "title": "An improved method for preparing stained ground teeth sections",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10150715/",
+      "publisher": "PeerJ, Inc",
+      "authors": [
+        "Qizhong Qin",
+        "Yueheng Li",
+        "Yujian Zhou",
+        "Mahendra Tomar"
+      ],
+      "doi": "10.7717/peerj.15240",
+      "source_date": "2023-04-28",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC10150715.xml",
+      "raw_sha256": "7d660b2fa4324efad640f61be28558f9093ef7dc78f7844ad39081bc6c003eb6",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC10150715.license.xml",
+      "license_snapshot_sha256": "f794e750ff2f42fd16b1f682726cd26ddf45061d0191b13bb04dbc979b121775",
+      "subjects": [
+        "oral_histology",
+        "ground_sectioning",
+        "histological_staining",
+        "microtomy"
+      ],
+      "syllabus_ids": [
+        "MDS-33",
+        "MDS-79",
+        "MDS-80",
+        "MDS-81",
+        "MDS-82",
+        "MDS-86",
+        "MDS-89"
+      ],
+      "study_type": "human",
+      "study_design": "ex-vivo laboratory comparison",
+      "study_context": "Undemineralized human premolars and impacted teeth extracted for orthodontic purposes; rosin, H&E and unstained ground sections compared.",
+      "limitations": [
+        "Laboratory preparation and morphology results do not establish clinical diagnostic accuracy."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "excluded_paragraph_patterns": []
+    },
+    {
+      "id": "mds-pmc-13170827",
+      "pmcid": "PMC13170827",
+      "title": "Decoding (digital) histopathology: The building blocks for computational researchers",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13170827/",
+      "publisher": "PLOS",
+      "authors": [
+        "Salma Dammak",
+        "Alessandro Caputo",
+        "Diana Montezuma",
+        "Vincenzo L’Imperio",
+        "Sara P. Oliveira",
+        "Charles B. Delahunt"
+      ],
+      "doi": "10.1371/journal.pdig.0001148",
+      "source_date": "2026-05-13",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC13170827.xml",
+      "raw_sha256": "d4d4ced324bb1574f53e37602ad16c81e2c5ac9a8b13e56fe2a9fb01093ed113",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/research/PMC13170827.license.xml",
+      "license_snapshot_sha256": "418a728e05b0b23635d67125f2929d371799758a15d6ccb152751290b2a9d114",
+      "subjects": [
+        "lab_techniques",
+        "tissue_processing",
+        "histological_staining",
+        "microtomy",
+        "fixation"
+      ],
+      "syllabus_ids": [
+        "MDS-80",
+        "MDS-81",
+        "MDS-82",
+        "MDS-83",
+        "MDS-84",
+        "MDS-86",
+        "MDS-87",
+        "MDS-88",
+        "MDS-89"
+      ],
+      "study_type": "unknown",
+      "study_design": "methodological educational review",
+      "study_context": "Foundational pathology laboratory workflow for computational researchers; no single clinical cohort.",
+      "limitations": [
+        "Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "excluded_paragraph_patterns": [],
+      "include_section_patterns": [
+        "^Pathology lab essentials:",
+        "^Digital pathology: from glass slides to images / Whole slide images / Optical magnification"
+      ]
+    }
+  ],
+  "bibliography": [
+    {
+      "id": "mds-pmc-10314358",
+      "pmcid": "PMC10314358",
+      "title": "Oral amyloidosis: an update",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10314358/",
+      "publisher": "Medicina Oral S.L",
+      "authors": [
+        "Flávia Sirotheau Corrêa Pontes",
+        "Gabrielle Bastos Machado Ferreira",
+        "Felipe Paiva Fonseca",
+        "Tatiana Foscaldo Ribeiro Abreu Ribeiro",
+        "Patrícia Carlos Caldeira",
+        "Thalita Soares Tavares",
+        "Ana Paula Guerreiro Bentes",
+        "Márcio Ajudarte Lopes",
+        "Tarcília Aparecida da Silva",
+        "Jeanne Gisele Rodrigues de Lemos",
+        "Hélder Antônio Rebelo Pontes"
+      ],
+      "doi": "10.4317/medoral.25761",
+      "source_date": "2023-06-18",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC10314358.xml",
+      "raw_sha256": "d60d5fe7d02a8c63a6fe20b790fd70ef8655a39a66697a4cbef34ba750d1cb44",
+      "reuse_status": "link_only",
+      "reason": "Unverified or ambiguous article license/version",
+      "license_evidence": "<permissions><copyright-statement>Copyright: © 2023 Medicina Oral S.L.</copyright-statement><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-1065119",
+      "pmcid": "PMC1065119",
+      "title": "Statistics review 14: Logistic regression",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1065119/",
+      "publisher": "BMC",
+      "authors": [
+        "Viv Bewick",
+        "Liz Cheek",
+        "Jonathan Ball"
+      ],
+      "doi": "10.1186/cc3045",
+      "source_date": "2005-01-13",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC1065119.xml",
+      "raw_sha256": "c0b19e5d2a61f97f41a57bd01116b8df76631603ead4440a07d3200602e9b1fd",
+      "reuse_status": "link_only",
+      "reason": "No article-level license evidence",
+      "license_evidence": "<permissions><copyright-statement>Copyright © 2005 BioMed Central Ltd</copyright-statement></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-10697859",
+      "pmcid": "PMC10697859",
+      "title": "A case of oral tuberculous ulcer and literature review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10697859/",
+      "publisher": "Wiley",
+      "authors": [
+        "Juan Tang",
+        "Jinhua Zuo",
+        "Honghai Fu"
+      ],
+      "doi": "10.1002/ccr3.8216",
+      "source_date": "2023-12-05",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC10697859.xml",
+      "raw_sha256": "b2bce4a5e0014c6507bfe9938411bfac8d3e3249bb04c1991912b17ee2b37f40",
+      "reuse_status": "link_only",
+      "reason": "No derivatives license: bibliography only",
+      "license_evidence": "<permissions xmlns:ns0=\"http://www.niso.org/schemas/ali/1.0/\" xmlns:ns1=\"http://www.w3.org/1999/xlink\"><copyright-statement content-type=\"article-copyright\">© 2023 The Authors. <italic toggle=\"yes\">Clinical Case Reports</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ns0:license_ref specific-use=\"textmining\" content-type=\"ccbyncndlicense\">https://creativecommons.org/licenses/by-nc-nd/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type=\"uri\" ns1:href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-11189148",
+      "pmcid": "PMC11189148",
+      "title": "Relationship between mastication and malnutrition in community-dwelling older adults: a meta-analysis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11189148/",
+      "publisher": "Sociedade Brasileira de Fonoaudiologia",
+      "authors": [
+        "Alba Maria Melo Medeiros",
+        "Ramon Cipriano Pacheco de Araújo",
+        "Allya Francisca Marques Borges",
+        "Sara Estéfani Soares de Sousa",
+        "Cristiano Miranda de Araujo",
+        "Hipólito Virgilio Magalhães",
+        "Renata Veiga Andersen Cavalcanti",
+        "Karinna Veríssimo Meira Taveira"
+      ],
+      "doi": "10.1590/2317-1782/20242023209en",
+      "source_date": "2024-05-31",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11189148.xml",
+      "raw_sha256": "4fc88d32291fd41f3e1aae0bd59f2ce63163c7a62a437e9a05a6092abdcc38db",
+      "reuse_status": "link_only",
+      "reason": "Unverified or ambiguous article license/version",
+      "license_evidence": "<permissions><license><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-11194622",
+      "pmcid": "PMC11194622",
+      "title": "Characterization and morphological methods for oral biofilm visualization: where are we nowadays?",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11194622/",
+      "publisher": "AIMS Press",
+      "authors": [
+        "Davide Gerardi",
+        "Sara Bernardi",
+        "Angelo Bruni",
+        "Giovanni Falisi",
+        "Gianluca Botticelli"
+      ],
+      "doi": "10.3934/microbiol.2024020",
+      "source_date": "2024-06-06",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11194622.xml",
+      "raw_sha256": "60cbe7530ccb7f56ddb4cb0499e5b4081d94ed22ef6100e1fce9b10e5d135acc",
+      "reuse_status": "link_only",
+      "reason": "Candidate not selected after scope review",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-11196616",
+      "pmcid": "PMC11196616",
+      "title": "An update on periodontal inflammation and bone loss",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11196616/",
+      "publisher": "Frontiers Media SA",
+      "authors": [
+        "Mingzhu Zhang",
+        "Yali Liu",
+        "Hamideh Afzali",
+        "Dana T Graves"
+      ],
+      "doi": "10.3389/fimmu.2024.1385436",
+      "source_date": "2024-06-11",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11196616.xml",
+      "raw_sha256": "a469c732b442c2bd8b5759bc82786428272cdbcbba675899e6d8e0cc236f36c1",
+      "reuse_status": "link_only",
+      "reason": "Unverified or ambiguous article license/version",
+      "license_evidence": "<permissions><copyright-statement>Copyright © 2024 Zhang, Liu, Afzali and Graves</copyright-statement><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-13068552",
+      "pmcid": "PMC13068552",
+      "title": "Ageing of the Oral Mucosa: Mechanisms and Consequences",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13068552/",
+      "publisher": "Elsevier",
+      "authors": [
+        "Chongsheng Qiu",
+        "Weiping Jie",
+        "Yinjie Qian",
+        "Xiao Lu",
+        "Yaqian Chen",
+        "Misi Si"
+      ],
+      "doi": "10.1016/j.identj.2026.109482",
+      "source_date": "2026-03-30",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC13068552.xml",
+      "raw_sha256": "d38a4c6da958d3820f8d8c115c205cc07d44a7fc54e243321289f3d20459fa76",
+      "reuse_status": "link_only",
+      "reason": "No derivatives license: bibliography only",
+      "license_evidence": "<permissions><copyright-statement>© 2026 The Authors</copyright-statement><license><license-p>This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-137296",
+      "pmcid": "PMC137296",
+      "title": "Statistics review 2: Samples and populations",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC137296/",
+      "publisher": "BMC",
+      "authors": [
+        "Elise Whitley",
+        "Jonathan Ball"
+      ],
+      "doi": "10.1186/cc1473",
+      "source_date": "2002-02-07",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC137296.xml",
+      "raw_sha256": "d9057da592d092d15e1cd71098f2dc9a0e0959e403e0100f53f9e20593a3843a",
+      "reuse_status": "link_only",
+      "reason": "No article-level license evidence",
+      "license_evidence": "<permissions><copyright-statement>Copyright © 2002 BioMed Central Ltd.</copyright-statement></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-3970103",
+      "pmcid": "PMC3970103",
+      "title": "Comparison of Methods for the Extraction of DNA from Formalin-Fixed, Paraffin-Embedded Archival Tissues",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3970103/",
+      "publisher": "Ivyspring International Publisher",
+      "authors": [
+        "Burcu Sengüven",
+        "Emre Baris",
+        "Tulin Oygur",
+        "Mehmet Berktas"
+      ],
+      "doi": "10.7150/ijms.8842",
+      "source_date": "2014-03-27",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC3970103.xml",
+      "raw_sha256": "c8cafebf597ef71e667c04551552e35f15efec4a71fdd67dad0bbb10cac6f9a3",
+      "reuse_status": "link_only",
+      "reason": "No article-level license evidence",
+      "license_evidence": "<permissions><copyright-statement>© Ivyspring International Publisher. This is an open-access article distributed under the terms of the Creative Commons License (http://creativecommons.org/licenses/by-nc-nd/3.0/). Reproduction is permitted for personal, noncommercial use, provided that the article is in whole, unmodified, and properly cited.</copyright-statement></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-420045",
+      "pmcid": "PMC420045",
+      "title": "Statistics review 9: One-way analysis of variance",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC420045/",
+      "publisher": "BMC",
+      "authors": [
+        "Viv Bewick",
+        "Liz Cheek",
+        "Jonathan Ball"
+      ],
+      "doi": "10.1186/cc2836",
+      "source_date": "2004-03-01",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC420045.xml",
+      "raw_sha256": "7bbbd1ae73f554cb9cb1b1f774116a8e06e05f52a4d7f152e7ef44a55c6592d6",
+      "reuse_status": "link_only",
+      "reason": "No article-level license evidence",
+      "license_evidence": "<permissions><copyright-statement>Copyright © 2004 BioMed Central Ltd</copyright-statement></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-468904",
+      "pmcid": "PMC468904",
+      "title": "Statistics review 10: Further nonparametric methods",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC468904/",
+      "publisher": "BMC",
+      "authors": [
+        "Viv Bewick",
+        "Liz Cheek",
+        "Jonathan Ball"
+      ],
+      "doi": "10.1186/cc2857",
+      "source_date": "2004-04-16",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC468904.xml",
+      "raw_sha256": "c47777b791414df4dbec81dfac11599ba3b5101fcc7cd3254705e3a2b1b5d8a1",
+      "reuse_status": "link_only",
+      "reason": "No article-level license evidence",
+      "license_evidence": "<permissions><copyright-statement>Copyright © 2004 BioMed Central Ltd</copyright-statement></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-7201441",
+      "pmcid": "PMC7201441",
+      "title": "Histological, Histomorphometrical, and Biomechanical Studies of Bone-Implanted Medical Devices: Hard Resin Embedding",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7201441/",
+      "publisher": "Wiley",
+      "authors": [
+        "M Maglio",
+        "F Salamanna",
+        "S Brogini",
+        "V Borsari",
+        "S Pagani",
+        "N Nicoli Aldini",
+        "G Giavaresi",
+        "M Fini"
+      ],
+      "doi": "10.1155/2020/1804630",
+      "source_date": "2020-01-17",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC7201441.xml",
+      "raw_sha256": "70be9634a261a2f2e035d4f7d327fa8ba7e1fb5065180f39d8931512638b2b4e",
+      "reuse_status": "link_only",
+      "reason": "Unverified or ambiguous article license/version",
+      "license_evidence": "<permissions><copyright-statement>Copyright © 2020 M. Maglio et al.</copyright-statement><license><license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-7717471",
+      "pmcid": "PMC7717471",
+      "title": "Linear Regression in Medical Research",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7717471/",
+      "publisher": "Anesthesia and Analgesia",
+      "authors": [
+        "Patrick Schober",
+        "Thomas R Vetter"
+      ],
+      "doi": "10.1213/ANE.0000000000005206",
+      "source_date": "2020-12-14",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC7717471.xml",
+      "raw_sha256": "ee493cc04086ad5d05cb5e15398a74c72621e0795d5c1977f85714da0fb421b7",
+      "reuse_status": "link_only",
+      "reason": "No derivatives license: bibliography only",
+      "license_evidence": "<permissions xmlns:ns0=\"http://www.w3.org/1999/xlink\"><copyright-statement>Copyright © 2020 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the International Anesthesia Research Society.</copyright-statement><license><license-p>This is an open-access article distributed under the terms of the <ext-link ns0:href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" ext-link-type=\"uri\">Creative Commons Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NC-ND)</ext-link>, where it is permissible to download and share the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal.</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-7718448",
+      "pmcid": "PMC7718448",
+      "title": "Basic statistics: A research primer for low- and middle-income countries",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7718448/",
+      "publisher": "African Federation for Emergency Medicine",
+      "authors": [
+        "Justin Kaplan",
+        "Mohammad Jalili",
+        "David McD. Taylor"
+      ],
+      "doi": "10.1016/j.afjem.2020.06.007",
+      "source_date": "2020-07-11",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC7718448.xml",
+      "raw_sha256": "1ecdeccbb2ccb8911ed6bb1f78cd6dc17506d19b88d70f30aea0b8f5ee7e0b22",
+      "reuse_status": "link_only",
+      "reason": "No derivatives license: bibliography only",
+      "license_evidence": "<permissions xmlns:ns0=\"http://www.w3.org/1999/xlink\" xmlns:ns1=\"http://www.niso.org/schemas/ali/1.0/\"><copyright-statement>© 2020 African Federation for Emergency Medicine. Publishing services provided by Elsevier.</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>African Federation for Emergency Medicine</copyright-holder><license license-type=\"CC BY-NC-ND\" ns0:href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><ns1:license_ref specific-use=\"textmining\" content-type=\"ccbyncndlicense\">https://creativecommons.org/licenses/by-nc-nd/4.0/</ns1:license_ref><license-p>This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-7785709",
+      "pmcid": "PMC7785709",
+      "title": "Logistic Regression in Medical Research",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7785709/",
+      "publisher": "Anesthesia and Analgesia",
+      "authors": [
+        "Patrick Schober",
+        "Thomas R Vetter"
+      ],
+      "doi": "10.1213/ANE.0000000000005247",
+      "source_date": "2021-01-14",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC7785709.xml",
+      "raw_sha256": "7ab8cb808acc6f0be153554d50020451397f866aabf9954f6043e5ef528acae9",
+      "reuse_status": "link_only",
+      "reason": "No derivatives license: bibliography only",
+      "license_evidence": "<permissions xmlns:ns0=\"http://www.w3.org/1999/xlink\"><copyright-statement>Copyright © 2021 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the International Anesthesia Research Society.</copyright-statement><license><license-p>This is an open-access article distributed under the terms of the <ext-link ns0:href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" ext-link-type=\"uri\">Creative Commons Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NC-ND)</ext-link>, where it is permissible to download and share the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal.</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-8531503",
+      "pmcid": "PMC8531503",
+      "title": "Programmed Cell Death Not as Sledgehammer but as Chisel: Apoptosis in Normal and Abnormal Craniofacial Patterning and Development",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8531503/",
+      "publisher": "Frontiers Media SA",
+      "authors": [
+        "Claudia Compagnucci",
+        "Kira Martinus",
+        "John Griffin",
+        "Michael J Depew"
+      ],
+      "doi": "10.3389/fcell.2021.717404",
+      "source_date": "2021-10-08",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC8531503.xml",
+      "raw_sha256": "3dcf76c6ca53598c14e875c9175b2c129fe9d2b1cc14eb326dd22e7bd1ae32b4",
+      "reuse_status": "link_only",
+      "reason": "Unverified or ambiguous article license/version",
+      "license_evidence": "<permissions><copyright-statement>Copyright © 2021 Compagnucci, Martinus, Griffin and Depew.</copyright-statement><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-9494622",
+      "pmcid": "PMC9494622",
+      "title": "Clinicopathologic factors influencing the screening accuracy of oral cytology: A retrospective cohort study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9494622/",
+      "publisher": "Spandidos Publications",
+      "authors": [
+        "Masami Kawaharada",
+        "Satoshi Maruyama",
+        "Manabu Yamazaki",
+        "Tatsuya Abé",
+        "Nyein Nyein Chan",
+        "Akinori Funayama",
+        "Atsushi Uenoyama",
+        "Toshiyuki Akimori",
+        "Kei Tomihara",
+        "Jun-Ichi Tanuma"
+      ],
+      "doi": "10.3892/ol.2022.13505",
+      "source_date": "2022-09-15",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC9494622.xml",
+      "raw_sha256": "282bb0a82d3d0b33fb48f372e064aae87112e0d19be44220e63cf29dcf90a871",
+      "reuse_status": "link_only",
+      "reason": "No derivatives license: bibliography only",
+      "license_evidence": "<permissions xmlns:ns0=\"http://www.niso.org/schemas/ali/1.0/\" xmlns:ns1=\"http://www.w3.org/1999/xlink\"><copyright-statement>Copyright: © Kawaharada et al.</copyright-statement><copyright-year>2022</copyright-year><license><ns0:license_ref specific-use=\"textmining\" content-type=\"ccbyncndlicense\">https://creativecommons.org/licenses/by-nc-nd/4.0/</ns0:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type=\"uri\" ns1:href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Attribution-NonCommercial-NoDerivs License</ext-link>, which permits use and distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-9870618",
+      "pmcid": "PMC9870618",
+      "title": "Updates on immunological mechanistic insights and targeting of the oral lichen planus microenvironment",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9870618/",
+      "publisher": "Frontiers Media SA",
+      "authors": [
+        "Xiaoting Deng",
+        "Ying Wang",
+        "Lu Jiang",
+        "Jing Li",
+        "Qianming Chen"
+      ],
+      "doi": "10.3389/fimmu.2022.1023213",
+      "source_date": "2023-01-09",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC9870618.xml",
+      "raw_sha256": "a9dd1f62d7acde7ca8cbb9e1bf74b0a021672cb3e6e01159f83e6aae9db2c756",
+      "reuse_status": "link_only",
+      "reason": "Unverified or ambiguous article license/version",
+      "license_evidence": "<permissions><copyright-statement>Copyright © 2023 Deng, Wang, Jiang, Li and Chen</copyright-statement><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions>",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-12414758",
+      "pmcid": "PMC12414758",
+      "title": "Mastering the art of sectioning: a comprehensive guide to slide-microtome technology and histological applications",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12414758/",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC12414758.xml",
+      "raw_sha256": "656732c4b7a3ce34bfdc26dea1f67a561dbafa5917b39dcda8af9eda59016b23",
+      "reason": "Unverified or ambiguous article license/version",
+      "reuse_status": "link_only",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-11537205",
+      "pmcid": "PMC11537205",
+      "title": "Data-driven nucleus subclassification on colon hematoxylin and eosin using style-transferred digital pathology",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11537205/",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC11537205.xml",
+      "raw_sha256": "5cd6e129a7812a2d2f799d6add980199f50edf1177edc919da7b792b94cf0eb2",
+      "reason": "Narrow computational/imaging study not needed after foundational lab-method review acquisition",
+      "reuse_status": "link_only",
+      "clinical_review": false
+    },
+    {
+      "id": "mds-pmc-6746717",
+      "pmcid": "PMC6746717",
+      "title": "All-optical Reflection-mode Microscopic Histology of Unstained Human Tissues",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6746717/",
+      "raw_snapshot_path": "data/references/mds/raw/research/PMC6746717.xml",
+      "raw_sha256": "32145674a1254519701aeba989f20662c955206c48ba785b55d295f1e19f0ea9",
+      "reason": "Narrow computational/imaging study not needed after foundational lab-method review acquisition",
+      "reuse_status": "link_only",
+      "clinical_review": false
+    }
+  ],
+  "faculty_review": "pending",
+  "clinical_correctness": null,
+  "acquisition_date": "2026-10-09",
+  "ledger": [
+    "Executing-plans task 3: component implemented; no Git repository.",
+    "License validation rejects unknown versions and NoDerivatives.",
+    "Source discrepancies are held at full-section level with exact paragraph hash; original snapshots unchanged.",
+    "v2 adds source-licensed ground teeth section method and curated foundation laboratory workflow sections; v1 unchanged."
+  ]
+}

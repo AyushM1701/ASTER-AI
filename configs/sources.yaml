@@ -1,0 +1,127 @@
+sources:
+- source_id: asthma
+  title: 'Asthma: overview'
+  url: https://www.nhlbi.nih.gov/health/asthma
+  publisher: NIH
+  jurisdiction: US
+  language: en
+  approval: developer_reviewed
+  clinical_review: false
+  retrieved_date: '2026-10-06'
+  terms: Original brief paraphrase; linked primary reference retained. NHLBI attribution
+    and use policy applies to NHLBI material.
+  local_path: data/references/normalized/seed.jsonl
+  checksum: f64e5248a79e8c49d3985e82711e627c1ab511649733b275ffc4608e1f450fd4
+  checksum_format: sha256-canonical-record-v1
+- source_id: blood-pressure
+  title: 'High blood pressure: overview'
+  url: https://www.nhlbi.nih.gov/health/high-blood-pressure
+  publisher: NIH
+  jurisdiction: US
+  language: en
+  approval: developer_reviewed
+  clinical_review: false
+  retrieved_date: '2026-10-06'
+  terms: Original brief paraphrase; linked primary reference retained. NHLBI attribution
+    and use policy applies to NHLBI material.
+  local_path: data/references/normalized/seed.jsonl
+  checksum: 3679efbb336170146a7f3aa0953b092e7c5c193dc4fba91dc82acb486c1b9a78
+  checksum_format: sha256-canonical-record-v1
+- source_id: sleep-apnea
+  title: 'Sleep apnea: overview'
+  url: https://www.nhlbi.nih.gov/health/sleep-apnea
+  publisher: NIH
+  jurisdiction: US
+  language: en
+  approval: developer_reviewed
+  clinical_review: false
+  retrieved_date: '2026-10-06'
+  terms: Original brief paraphrase; linked primary reference retained. NHLBI attribution
+    and use policy applies to NHLBI material.
+  local_path: data/references/normalized/seed.jsonl
+  checksum: c18fd222d3f1a71cf3e657b0556b699b5470d8d142e8eeb2380192ff63ea23a5
+  checksum_format: sha256-canonical-record-v1
+- source_id: diabetes
+  title: 'Diabetes: overview'
+  url: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes
+  publisher: NIH
+  jurisdiction: US
+  language: en
+  approval: developer_reviewed
+  clinical_review: false
+  retrieved_date: '2026-10-06'
+  terms: Original brief paraphrase; linked primary reference retained. NHLBI attribution
+    and use policy applies to NHLBI material.
+  local_path: data/references/normalized/seed.jsonl
+  checksum: 5f1bccd0946cc873a35e9c333e8aa4262ad8c7f7406201bd18e1f7fa97591814
+  checksum_format: sha256-canonical-record-v1
+- source_id: pneumonia
+  title: 'Pneumonia: overview'
+  url: https://www.nhlbi.nih.gov/health/pneumonia
+  publisher: NIH
+  jurisdiction: US
+  language: en
+  approval: developer_reviewed
+  clinical_review: false
+  retrieved_date: '2026-10-06'
+  terms: Original brief paraphrase; linked primary reference retained. NHLBI attribution
+    and use policy applies to NHLBI material.
+  local_path: data/references/normalized/seed.jsonl
+  checksum: 18d555e19a9805fdfa7b57f304359a1b4a8b9e412695ebd16135907bba9fab4c
+  checksum_format: sha256-canonical-record-v1
+- source_id: anemia
+  title: 'Anemia: overview'
+  url: https://www.nhlbi.nih.gov/health/anemia
+  publisher: NIH
+  jurisdiction: US
+  language: en
+  approval: developer_reviewed
+  clinical_review: false
+  retrieved_date: '2026-10-06'
+  terms: Original brief paraphrase; linked primary reference retained. NHLBI attribution
+    and use policy applies to NHLBI material.
+  local_path: data/references/normalized/seed.jsonl
+  checksum: 0864a83756c960e7f40e2a071d39fdf3229de6df6b2d8ca3877ddab4e7fb7483
+  checksum_format: sha256-canonical-record-v1
+- source_id: copd
+  title: 'COPD: overview'
+  url: https://www.nhlbi.nih.gov/health/copd
+  publisher: NIH
+  jurisdiction: US
+  language: en
+  approval: developer_reviewed
+  clinical_review: false
+  retrieved_date: '2026-10-06'
+  terms: Original brief paraphrase; linked primary reference retained. NHLBI attribution
+    and use policy applies to NHLBI material.
+  local_path: data/references/normalized/seed.jsonl
+  checksum: 7e6957c8a1d6005aefc734351b7136cb23b97fef751959ba3c32cac894661e91
+  checksum_format: sha256-canonical-record-v1
+- source_id: pleura
+  title: 'Pleural disorders: overview'
+  url: https://www.nhlbi.nih.gov/health/pleural-disorders
+  publisher: NIH
+  jurisdiction: US
+  language: en
+  approval: developer_reviewed
+  clinical_review: false
+  retrieved_date: '2026-10-06'
+  terms: Original brief paraphrase; linked primary reference retained. NHLBI attribution
+    and use policy applies to NHLBI material.
+  local_path: data/references/normalized/seed.jsonl
+  checksum: af25c1f1bb7a673709b07bc932fe0c5d960c94e1e4de5b584c5c0a0956c112a5
+  checksum_format: sha256-canonical-record-v1
+- source_id: metformin-label
+  title: 'Metformin hydrochloride tablets: US reference label'
+  url: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a7f7ef3-a94b-4ff6-a9f2-f5de4a99c7f6
+  publisher: NLM DailyMed
+  jurisdiction: US
+  language: en
+  approval: developer_reviewed
+  clinical_review: false
+  retrieved_date: '2026-10-06'
+  terms: Original brief paraphrase; linked primary reference retained. NHLBI attribution
+    and use policy applies to NHLBI material.
+  local_path: data/references/normalized/seed.jsonl
+  checksum: 10c94976e73ed2880483750048fa5a01212cbdcf40c91847cd1b806cc9257758
+  checksum_format: sha256-canonical-record-v1

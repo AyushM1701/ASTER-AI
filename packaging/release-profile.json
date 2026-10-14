@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "app_version": "0.1.0-beta.1",
+  "edition": "ValidationOnly",
+  "model": {
+    "tag": "qwen3-vl:2b-instruct",
+    "digest": "ea422f1e73652a95479954d8572d3c8c6022f628ce2d38a1a04aae1b7f2d5300",
+    "store": "data/models/ollama-store"
+  },
+  "settings": {
+    "answer_mode": "ollama",
+    "text_model": "qwen3-vl:2b-instruct",
+    "vision_model": "qwen3-vl:2b-instruct",
+    "ollama_base_url": "http://127.0.0.1:11435",
+    "strict_source_grounding": true,
+    "enable_general_chat": true,
+    "retrieval_backend": "hybrid",
+    "reference_collection": "medical_reference_v2",
+    "corpus_path": "data/references/releases/aster-v2-netmeds-r2-2026-10-07/records.jsonl",
+    "source_register": "data/references/releases/aster-v2-netmeds-r2-2026-10-07/sources.yaml",
+    "chroma_path": "data/indexes/aster-v2-netmeds-r2-2026-10-07",
+    "embedding_path": "data/models/minilm",
+    "enable_teaching": true,
+    "teaching_backend": "hybrid",
+    "teaching_release_path": "data/references/mds/releases/aster-teaching-epithelium-v1-2026-10-09",
+    "teaching_index_path": "data/indexes/comprehensive-audit-v1-2026-10-09",
+    "teaching_explanations_path": "data/references/mds/releases/aster-teaching-epithelium-v1-2026-10-09/explanations.json",
+    "teaching_explanations_sha256": "8ec171094d2ae334e5261996005e6ed4082741e72d6c1625f684477dbc0e57c2",
+    "enable_secondary_references": true,
+    "secondary_reference_path": "data/references/secondary/aster-secondary-v1-r2-2026-10-07",
+    "secondary_manifest_sha256": "8eb503aa2d0911175cc19dfc138472d63edc5d84a5274e077e4779cf74b13e6a",
+    "enable_handwriting_ocr": false,
+    "enable_xray": false,
+    "tesseract_cmd": "runtime/tesseract/tesseract.exe"
+  },
+  "features": {
+    "medical_education": true,
+    "general_chat": true,
+    "printed_ocr": true,
+    "vision_routing": true,
+    "teaching": true,
+    "secondary_medicines": true,
+    "handwriting": false,
+    "xray_scores": false,
+    "clinical_validation": false
+  },
+  "data": {
+    "primary": {"release": "aster-v2-netmeds-r2-2026-10-07", "records": 266870, "retailer_products": 23939, "clinical_review": false},
+    "teaching": {"release": "aster-teaching-epithelium-v1-2026-10-09", "records": 2916, "sources": 201, "explanations": 43, "holds": 117, "faculty_review": "pending"},
+    "secondary": {"release": "aster-secondary-v1-r2-2026-10-07", "records": 6670, "linked_products": 3408, "review_status": "unverified"},
+    "xray": {"included": false, "reason": "Rights and packaged research validation pending"}
+  },
+  "components": []
+}

@@ -1,0 +1,2081 @@
+{
+  "version": "aster-all-mds-research-v1-2026-10-10",
+  "scope": "Editorial specialty topic map, not a complete competency inventory or proof of mastery. Applied basic sciences preserved in existing library.",
+  "curriculum_reference": "https://dciindia.gov.in/Rule_Regulation/MDS_Course_Regulations_2017.pdf",
+  "curriculum_status": "2017 syllabus reference; later amendments and university requirements need reconciliation.",
+  "specialties": [
+    {
+      "id": "orthodontics",
+      "title": "Orthodontics and Dentofacial Orthopaedics",
+      "topics": [
+        {
+          "id": "ALL-MDS-ORTHODONTICS-01",
+          "title": "Craniofacial growth",
+          "query": "craniofacial AND growth",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-02",
+          "title": "Orthodontic tooth movement",
+          "query": "orthodontic AND tooth AND movement",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-03",
+          "title": "Orthodontic biomechanics",
+          "query": "orthodontic AND biomechanics",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-04",
+          "title": "Cephalometric analysis",
+          "query": "cephalometric AND analysis",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-05",
+          "title": "Malocclusion",
+          "query": "malocclusion",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-06",
+          "title": "Class II malocclusion",
+          "query": "class AND ii AND malocclusion",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-07",
+          "title": "Class III malocclusion",
+          "query": "class AND iii AND malocclusion",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-08",
+          "title": "Functional appliances",
+          "query": "functional AND appliances",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-09",
+          "title": "Orthodontic anchorage",
+          "query": "orthodontic AND anchorage",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-10",
+          "title": "Clear aligners",
+          "query": "clear AND aligners",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-11",
+          "title": "Maxillary expansion",
+          "query": "maxillary AND expansion",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-12",
+          "title": "Orthognathic surgery",
+          "query": "orthognathic AND surgery",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-13",
+          "title": "Orthodontic retention",
+          "query": "orthodontic AND retention",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORTHODONTICS-14",
+          "title": "Impacted canines",
+          "query": "impacted AND canines",
+          "area": "orthodontics",
+          "specialty": "Orthodontics and Dentofacial Orthopaedics",
+          "coverage_claim": "topic_association_only"
+        }
+      ]
+    },
+    {
+      "id": "endodontics",
+      "title": "Conservative Dentistry and Endodontics",
+      "topics": [
+        {
+          "id": "ALL-MDS-ENDODONTICS-01",
+          "title": "Dental caries",
+          "query": "dental AND caries",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-02",
+          "title": "Dentin bonding",
+          "query": "(dentin OR dentine) AND bonding",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-03",
+          "title": "Dental composite",
+          "query": "dental AND composite",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-04",
+          "title": "Dental pulp",
+          "query": "dental AND pulp",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-05",
+          "title": "Pulpitis",
+          "query": "pulpitis",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-06",
+          "title": "Root canal anatomy",
+          "query": "root AND canal AND anatomy",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-07",
+          "title": "Endodontic diagnosis",
+          "query": "endodontic AND diagnosis",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-08",
+          "title": "Root canal irrigation",
+          "query": "root AND canal AND irrigation",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-09",
+          "title": "Root canal instrumentation",
+          "query": "root AND canal AND instrumentation",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-10",
+          "title": "Root canal obturation",
+          "query": "root AND canal AND obturation",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-11",
+          "title": "Endodontic retreatment",
+          "query": "endodontic AND retreatment",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-12",
+          "title": "Regenerative endodontics",
+          "query": "regenerative AND endodontics",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-13",
+          "title": "Vital pulp therapy",
+          "query": "vital AND pulp AND therapy",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ENDODONTICS-14",
+          "title": "Cracked tooth",
+          "query": "cracked AND tooth",
+          "area": "endodontics",
+          "specialty": "Conservative Dentistry and Endodontics",
+          "coverage_claim": "topic_association_only"
+        }
+      ]
+    },
+    {
+      "id": "oral_surgery",
+      "title": "Oral and Maxillofacial Surgery",
+      "topics": [
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-01",
+          "title": "Third molar surgery",
+          "query": "third AND molar AND surgery",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-02",
+          "title": "Odontogenic infections",
+          "query": "odontogenic AND infections",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-03",
+          "title": "Mandibular fractures",
+          "query": "mandibular AND fractures",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-04",
+          "title": "Midface fractures",
+          "query": "midface AND fractures",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-05",
+          "title": "Orthognathic surgery",
+          "query": "orthognathic AND surgery",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-06",
+          "title": "Cleft lip and palate",
+          "query": "cleft AND lip AND palate",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-07",
+          "title": "Maxillofacial reconstruction",
+          "query": "maxillofacial AND reconstruction",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-08",
+          "title": "Medication related osteonecrosis",
+          "query": "medication AND osteonecrosis",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-09",
+          "title": "Oral cancer surgery",
+          "query": "oral AND cancer AND surgery",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-10",
+          "title": "Salivary gland surgery",
+          "query": "salivary AND gland AND surgery",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-11",
+          "title": "Temporomandibular joint surgery",
+          "query": "temporomandibular AND joint AND surgery",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-12",
+          "title": "Dental implant complications",
+          "query": "dental AND implant AND complications",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-13",
+          "title": "Dental local anesthesia",
+          "query": "dental AND local AND (anesthesia OR anaesthesia)",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_SURGERY-14",
+          "title": "Oroantral communication",
+          "query": "oroantral AND communication",
+          "area": "oral_surgery",
+          "specialty": "Oral and Maxillofacial Surgery",
+          "coverage_claim": "topic_association_only"
+        }
+      ]
+    },
+    {
+      "id": "prosthodontics",
+      "title": "Prosthodontics and Crown & Bridge",
+      "topics": [
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-01",
+          "title": "Complete dentures",
+          "query": "complete AND dentures",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-02",
+          "title": "Removable partial dentures",
+          "query": "removable AND partial AND dentures",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-03",
+          "title": "Fixed dental prostheses",
+          "query": "fixed AND dental AND prostheses",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-04",
+          "title": "Dental ceramics",
+          "query": "dental AND ceramics",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-05",
+          "title": "Dental impressions",
+          "query": "dental AND impressions",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-06",
+          "title": "Digital dentistry",
+          "query": "digital AND dentistry",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-07",
+          "title": "Implant supported prostheses",
+          "query": "implant AND supported AND prostheses",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-08",
+          "title": "Dental occlusion",
+          "query": "dental AND occlusion",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-09",
+          "title": "Temporomandibular disorders",
+          "query": "temporomandibular AND disorders",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-10",
+          "title": "Maxillofacial prostheses",
+          "query": "maxillofacial AND prostheses",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-11",
+          "title": "Overdentures",
+          "query": "overdentures",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-12",
+          "title": "Dental abutments",
+          "query": "dental AND abutments",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-13",
+          "title": "Geriatric dentistry",
+          "query": "geriatric AND dentistry",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PROSTHODONTICS-14",
+          "title": "Prosthetic complications",
+          "query": "prosthetic AND complications",
+          "area": "prosthodontics",
+          "specialty": "Prosthodontics and Crown & Bridge",
+          "coverage_claim": "topic_association_only"
+        }
+      ]
+    },
+    {
+      "id": "periodontology",
+      "title": "Periodontology",
+      "topics": [
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-01",
+          "title": "Periodontal anatomy",
+          "query": "periodontal AND anatomy",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-02",
+          "title": "Periodontal pathogenesis",
+          "query": "periodontal AND pathogenesis",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-03",
+          "title": "Periodontitis classification",
+          "query": "periodontitis AND classification",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-04",
+          "title": "Periodontal diagnosis",
+          "query": "periodontal AND diagnosis",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-05",
+          "title": "Periodontal microbiome",
+          "query": "periodontal AND microbiome",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-06",
+          "title": "Non surgical periodontal therapy",
+          "query": "surgical AND periodontal AND therapy",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-07",
+          "title": "Periodontal surgery",
+          "query": "periodontal AND surgery",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-08",
+          "title": "Periodontal regeneration",
+          "query": "periodontal AND regeneration",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-09",
+          "title": "Gingival recession",
+          "query": "gingival AND recession",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-10",
+          "title": "Peri implantitis",
+          "query": "(implantitis OR periimplantitis OR \"peri-implantitis\")",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-11",
+          "title": "Periodontitis and diabetes",
+          "query": "periodontitis AND diabetes",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-12",
+          "title": "Periodontal maintenance",
+          "query": "periodontal AND maintenance",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-13",
+          "title": "Mucogingival surgery",
+          "query": "mucogingival AND surgery",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PERIODONTOLOGY-14",
+          "title": "Periodontal biomarkers",
+          "query": "periodontal AND biomarkers",
+          "area": "periodontology",
+          "specialty": "Periodontology",
+          "coverage_claim": "topic_association_only"
+        }
+      ]
+    },
+    {
+      "id": "oral_medicine",
+      "title": "Oral Medicine and Radiology",
+      "topics": [
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-01",
+          "title": "Oral potentially malignant disorders",
+          "query": "oral AND potentially AND malignant AND disorders",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-02",
+          "title": "Oral lichen planus",
+          "query": "oral AND lichen AND planus",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-03",
+          "title": "Oral leukoplakia",
+          "query": "oral AND leukoplakia",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-04",
+          "title": "Oral submucous fibrosis",
+          "query": "oral AND submucous AND fibrosis",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-05",
+          "title": "Oral ulcers",
+          "query": "oral AND ulcers",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-06",
+          "title": "Oral candidiasis",
+          "query": "oral AND candidiasis",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-07",
+          "title": "Salivary gland disorders",
+          "query": "salivary AND gland AND disorders",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-08",
+          "title": "Orofacial pain",
+          "query": "orofacial AND pain",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-09",
+          "title": "Burning mouth syndrome",
+          "query": "burning AND mouth AND syndrome",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-10",
+          "title": "Cone beam computed tomography",
+          "query": "cone AND beam AND computed AND tomography",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-11",
+          "title": "Dental radiation protection",
+          "query": "dental AND radiation AND protection",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-12",
+          "title": "Jaw lesions imaging",
+          "query": "jaw AND lesions AND imaging",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-13",
+          "title": "Oral manifestations of systemic disease",
+          "query": "oral AND manifestations AND systemic AND disease",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_MEDICINE-14",
+          "title": "Oral cancer screening",
+          "query": "oral AND cancer AND screening",
+          "area": "oral_medicine",
+          "specialty": "Oral Medicine and Radiology",
+          "coverage_claim": "topic_association_only"
+        }
+      ]
+    },
+    {
+      "id": "paediatric_dentistry",
+      "title": "Paediatric and Preventive Dentistry",
+      "topics": [
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-01",
+          "title": "Early childhood caries",
+          "query": "early AND childhood AND caries",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-02",
+          "title": "Dental behavior management",
+          "query": "dental AND (behavior OR behaviour) AND management",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-03",
+          "title": "Pediatric pulp therapy",
+          "query": "(pediatric OR paediatric) AND pulp AND therapy",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-04",
+          "title": "Immature permanent teeth",
+          "query": "immature AND permanent AND teeth",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-05",
+          "title": "Dental trauma in children",
+          "query": "dental AND trauma AND children",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-06",
+          "title": "Fluoride caries prevention",
+          "query": "fluoride AND caries AND prevention",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-07",
+          "title": "Fissure sealants",
+          "query": "fissure AND sealants",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-08",
+          "title": "Space maintainers",
+          "query": "space AND maintainers",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-09",
+          "title": "Molar incisor hypomineralization",
+          "query": "molar AND incisor AND (hypomineralization OR hypomineralisation)",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-10",
+          "title": "Dental development",
+          "query": "dental AND development",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-11",
+          "title": "Special needs dentistry",
+          "query": "special AND needs AND dentistry",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-12",
+          "title": "Silver diamine fluoride",
+          "query": "silver AND diamine AND fluoride",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-13",
+          "title": "Dental sedation in children",
+          "query": "dental AND sedation AND children",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-14",
+          "title": "Dental prevention in children",
+          "query": "dental AND prevention AND children",
+          "area": "paediatric_dentistry",
+          "specialty": "Paediatric and Preventive Dentistry",
+          "coverage_claim": "topic_association_only"
+        }
+      ]
+    },
+    {
+      "id": "oral_pathology",
+      "title": "Oral Pathology and Microbiology",
+      "topics": [
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-01",
+          "title": "Odontogenic cysts",
+          "query": "odontogenic AND cysts",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-02",
+          "title": "Odontogenic tumors",
+          "query": "odontogenic AND (tumors OR tumours)",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-03",
+          "title": "Oral squamous cell carcinoma",
+          "query": "oral AND squamous AND cell AND carcinoma",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-04",
+          "title": "Salivary gland tumors",
+          "query": "salivary AND gland AND (tumors OR tumours)",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-05",
+          "title": "Fibro osseous jaw lesions",
+          "query": "fibro AND osseous AND jaw AND lesions",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-06",
+          "title": "Oral epithelial dysplasia",
+          "query": "oral AND epithelial AND dysplasia",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-07",
+          "title": "Oral histopathology",
+          "query": "oral AND histopathology",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-08",
+          "title": "Oral immunohistochemistry",
+          "query": "oral AND immunohistochemistry",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-09",
+          "title": "Oral microbiome",
+          "query": "oral AND microbiome",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-10",
+          "title": "Oral fungal infections",
+          "query": "oral AND fungal AND infections",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-11",
+          "title": "Oral viral infections",
+          "query": "oral AND viral AND infections",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-12",
+          "title": "Forensic odontology",
+          "query": "forensic AND odontology",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-13",
+          "title": "Tooth development",
+          "query": "tooth AND development",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-ORAL_PATHOLOGY-14",
+          "title": "Oral molecular pathology",
+          "query": "oral AND molecular AND pathology",
+          "area": "oral_pathology",
+          "specialty": "Oral Pathology and Microbiology",
+          "coverage_claim": "topic_association_only"
+        }
+      ]
+    },
+    {
+      "id": "public_health_dentistry",
+      "title": "Public Health Dentistry",
+      "topics": [
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-01",
+          "title": "Dental epidemiology",
+          "query": "dental AND epidemiology",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-02",
+          "title": "Oral health inequalities",
+          "query": "oral AND health AND inequalities",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-03",
+          "title": "Community oral health promotion",
+          "query": "community AND oral AND health AND promotion",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-04",
+          "title": "Water fluoridation",
+          "query": "water AND fluoridation",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-05",
+          "title": "Public oral health India",
+          "query": "public AND oral AND health AND india",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-06",
+          "title": "Oral health surveys",
+          "query": "oral AND health AND surveys",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-07",
+          "title": "Dental health economics",
+          "query": "dental AND health AND economics",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-08",
+          "title": "Evidence based dentistry",
+          "query": "evidence AND based AND dentistry",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-09",
+          "title": "Dental systematic review methodology",
+          "query": "dental AND systematic AND review AND methodology",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-10",
+          "title": "Dental biostatistics",
+          "query": "dental AND biostatistics",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-11",
+          "title": "Tobacco cessation dentistry",
+          "query": "tobacco AND cessation AND dentistry",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-12",
+          "title": "Oral health policy",
+          "query": "oral AND health AND policy",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-13",
+          "title": "Dental infection prevention",
+          "query": "dental AND infection AND prevention",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        },
+        {
+          "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-14",
+          "title": "Oral health quality of life",
+          "query": "oral AND health AND quality AND life",
+          "area": "public_health_dentistry",
+          "specialty": "Public Health Dentistry",
+          "coverage_claim": "topic_association_only"
+        }
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "ALL-MDS-ORTHODONTICS-01",
+      "title": "Craniofacial growth",
+      "query": "craniofacial AND growth",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-02",
+      "title": "Orthodontic tooth movement",
+      "query": "orthodontic AND tooth AND movement",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-03",
+      "title": "Orthodontic biomechanics",
+      "query": "orthodontic AND biomechanics",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-04",
+      "title": "Cephalometric analysis",
+      "query": "cephalometric AND analysis",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-05",
+      "title": "Malocclusion",
+      "query": "malocclusion",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-06",
+      "title": "Class II malocclusion",
+      "query": "class AND ii AND malocclusion",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-07",
+      "title": "Class III malocclusion",
+      "query": "class AND iii AND malocclusion",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-08",
+      "title": "Functional appliances",
+      "query": "functional AND appliances",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-09",
+      "title": "Orthodontic anchorage",
+      "query": "orthodontic AND anchorage",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-10",
+      "title": "Clear aligners",
+      "query": "clear AND aligners",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-11",
+      "title": "Maxillary expansion",
+      "query": "maxillary AND expansion",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-12",
+      "title": "Orthognathic surgery",
+      "query": "orthognathic AND surgery",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-13",
+      "title": "Orthodontic retention",
+      "query": "orthodontic AND retention",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORTHODONTICS-14",
+      "title": "Impacted canines",
+      "query": "impacted AND canines",
+      "area": "orthodontics",
+      "specialty": "Orthodontics and Dentofacial Orthopaedics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-01",
+      "title": "Dental caries",
+      "query": "dental AND caries",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-02",
+      "title": "Dentin bonding",
+      "query": "(dentin OR dentine) AND bonding",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-03",
+      "title": "Dental composite",
+      "query": "dental AND composite",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-04",
+      "title": "Dental pulp",
+      "query": "dental AND pulp",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-05",
+      "title": "Pulpitis",
+      "query": "pulpitis",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-06",
+      "title": "Root canal anatomy",
+      "query": "root AND canal AND anatomy",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-07",
+      "title": "Endodontic diagnosis",
+      "query": "endodontic AND diagnosis",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-08",
+      "title": "Root canal irrigation",
+      "query": "root AND canal AND irrigation",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-09",
+      "title": "Root canal instrumentation",
+      "query": "root AND canal AND instrumentation",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-10",
+      "title": "Root canal obturation",
+      "query": "root AND canal AND obturation",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-11",
+      "title": "Endodontic retreatment",
+      "query": "endodontic AND retreatment",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-12",
+      "title": "Regenerative endodontics",
+      "query": "regenerative AND endodontics",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-13",
+      "title": "Vital pulp therapy",
+      "query": "vital AND pulp AND therapy",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ENDODONTICS-14",
+      "title": "Cracked tooth",
+      "query": "cracked AND tooth",
+      "area": "endodontics",
+      "specialty": "Conservative Dentistry and Endodontics",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-01",
+      "title": "Third molar surgery",
+      "query": "third AND molar AND surgery",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-02",
+      "title": "Odontogenic infections",
+      "query": "odontogenic AND infections",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-03",
+      "title": "Mandibular fractures",
+      "query": "mandibular AND fractures",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-04",
+      "title": "Midface fractures",
+      "query": "midface AND fractures",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-05",
+      "title": "Orthognathic surgery",
+      "query": "orthognathic AND surgery",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-06",
+      "title": "Cleft lip and palate",
+      "query": "cleft AND lip AND palate",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-07",
+      "title": "Maxillofacial reconstruction",
+      "query": "maxillofacial AND reconstruction",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-08",
+      "title": "Medication related osteonecrosis",
+      "query": "medication AND osteonecrosis",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-09",
+      "title": "Oral cancer surgery",
+      "query": "oral AND cancer AND surgery",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-10",
+      "title": "Salivary gland surgery",
+      "query": "salivary AND gland AND surgery",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-11",
+      "title": "Temporomandibular joint surgery",
+      "query": "temporomandibular AND joint AND surgery",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-12",
+      "title": "Dental implant complications",
+      "query": "dental AND implant AND complications",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-13",
+      "title": "Dental local anesthesia",
+      "query": "dental AND local AND (anesthesia OR anaesthesia)",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_SURGERY-14",
+      "title": "Oroantral communication",
+      "query": "oroantral AND communication",
+      "area": "oral_surgery",
+      "specialty": "Oral and Maxillofacial Surgery",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-01",
+      "title": "Complete dentures",
+      "query": "complete AND dentures",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-02",
+      "title": "Removable partial dentures",
+      "query": "removable AND partial AND dentures",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-03",
+      "title": "Fixed dental prostheses",
+      "query": "fixed AND dental AND prostheses",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-04",
+      "title": "Dental ceramics",
+      "query": "dental AND ceramics",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-05",
+      "title": "Dental impressions",
+      "query": "dental AND impressions",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-06",
+      "title": "Digital dentistry",
+      "query": "digital AND dentistry",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-07",
+      "title": "Implant supported prostheses",
+      "query": "implant AND supported AND prostheses",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-08",
+      "title": "Dental occlusion",
+      "query": "dental AND occlusion",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-09",
+      "title": "Temporomandibular disorders",
+      "query": "temporomandibular AND disorders",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-10",
+      "title": "Maxillofacial prostheses",
+      "query": "maxillofacial AND prostheses",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-11",
+      "title": "Overdentures",
+      "query": "overdentures",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-12",
+      "title": "Dental abutments",
+      "query": "dental AND abutments",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-13",
+      "title": "Geriatric dentistry",
+      "query": "geriatric AND dentistry",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PROSTHODONTICS-14",
+      "title": "Prosthetic complications",
+      "query": "prosthetic AND complications",
+      "area": "prosthodontics",
+      "specialty": "Prosthodontics and Crown & Bridge",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-01",
+      "title": "Periodontal anatomy",
+      "query": "periodontal AND anatomy",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-02",
+      "title": "Periodontal pathogenesis",
+      "query": "periodontal AND pathogenesis",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-03",
+      "title": "Periodontitis classification",
+      "query": "periodontitis AND classification",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-04",
+      "title": "Periodontal diagnosis",
+      "query": "periodontal AND diagnosis",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-05",
+      "title": "Periodontal microbiome",
+      "query": "periodontal AND microbiome",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-06",
+      "title": "Non surgical periodontal therapy",
+      "query": "surgical AND periodontal AND therapy",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-07",
+      "title": "Periodontal surgery",
+      "query": "periodontal AND surgery",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-08",
+      "title": "Periodontal regeneration",
+      "query": "periodontal AND regeneration",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-09",
+      "title": "Gingival recession",
+      "query": "gingival AND recession",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-10",
+      "title": "Peri implantitis",
+      "query": "(implantitis OR periimplantitis OR \"peri-implantitis\")",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-11",
+      "title": "Periodontitis and diabetes",
+      "query": "periodontitis AND diabetes",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-12",
+      "title": "Periodontal maintenance",
+      "query": "periodontal AND maintenance",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-13",
+      "title": "Mucogingival surgery",
+      "query": "mucogingival AND surgery",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PERIODONTOLOGY-14",
+      "title": "Periodontal biomarkers",
+      "query": "periodontal AND biomarkers",
+      "area": "periodontology",
+      "specialty": "Periodontology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-01",
+      "title": "Oral potentially malignant disorders",
+      "query": "oral AND potentially AND malignant AND disorders",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-02",
+      "title": "Oral lichen planus",
+      "query": "oral AND lichen AND planus",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-03",
+      "title": "Oral leukoplakia",
+      "query": "oral AND leukoplakia",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-04",
+      "title": "Oral submucous fibrosis",
+      "query": "oral AND submucous AND fibrosis",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-05",
+      "title": "Oral ulcers",
+      "query": "oral AND ulcers",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-06",
+      "title": "Oral candidiasis",
+      "query": "oral AND candidiasis",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-07",
+      "title": "Salivary gland disorders",
+      "query": "salivary AND gland AND disorders",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-08",
+      "title": "Orofacial pain",
+      "query": "orofacial AND pain",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-09",
+      "title": "Burning mouth syndrome",
+      "query": "burning AND mouth AND syndrome",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-10",
+      "title": "Cone beam computed tomography",
+      "query": "cone AND beam AND computed AND tomography",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-11",
+      "title": "Dental radiation protection",
+      "query": "dental AND radiation AND protection",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-12",
+      "title": "Jaw lesions imaging",
+      "query": "jaw AND lesions AND imaging",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-13",
+      "title": "Oral manifestations of systemic disease",
+      "query": "oral AND manifestations AND systemic AND disease",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_MEDICINE-14",
+      "title": "Oral cancer screening",
+      "query": "oral AND cancer AND screening",
+      "area": "oral_medicine",
+      "specialty": "Oral Medicine and Radiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-01",
+      "title": "Early childhood caries",
+      "query": "early AND childhood AND caries",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-02",
+      "title": "Dental behavior management",
+      "query": "dental AND (behavior OR behaviour) AND management",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-03",
+      "title": "Pediatric pulp therapy",
+      "query": "(pediatric OR paediatric) AND pulp AND therapy",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-04",
+      "title": "Immature permanent teeth",
+      "query": "immature AND permanent AND teeth",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-05",
+      "title": "Dental trauma in children",
+      "query": "dental AND trauma AND children",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-06",
+      "title": "Fluoride caries prevention",
+      "query": "fluoride AND caries AND prevention",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-07",
+      "title": "Fissure sealants",
+      "query": "fissure AND sealants",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-08",
+      "title": "Space maintainers",
+      "query": "space AND maintainers",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-09",
+      "title": "Molar incisor hypomineralization",
+      "query": "molar AND incisor AND (hypomineralization OR hypomineralisation)",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-10",
+      "title": "Dental development",
+      "query": "dental AND development",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-11",
+      "title": "Special needs dentistry",
+      "query": "special AND needs AND dentistry",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-12",
+      "title": "Silver diamine fluoride",
+      "query": "silver AND diamine AND fluoride",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-13",
+      "title": "Dental sedation in children",
+      "query": "dental AND sedation AND children",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PAEDIATRIC_DENTISTRY-14",
+      "title": "Dental prevention in children",
+      "query": "dental AND prevention AND children",
+      "area": "paediatric_dentistry",
+      "specialty": "Paediatric and Preventive Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-01",
+      "title": "Odontogenic cysts",
+      "query": "odontogenic AND cysts",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-02",
+      "title": "Odontogenic tumors",
+      "query": "odontogenic AND (tumors OR tumours)",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-03",
+      "title": "Oral squamous cell carcinoma",
+      "query": "oral AND squamous AND cell AND carcinoma",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-04",
+      "title": "Salivary gland tumors",
+      "query": "salivary AND gland AND (tumors OR tumours)",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-05",
+      "title": "Fibro osseous jaw lesions",
+      "query": "fibro AND osseous AND jaw AND lesions",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-06",
+      "title": "Oral epithelial dysplasia",
+      "query": "oral AND epithelial AND dysplasia",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-07",
+      "title": "Oral histopathology",
+      "query": "oral AND histopathology",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-08",
+      "title": "Oral immunohistochemistry",
+      "query": "oral AND immunohistochemistry",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-09",
+      "title": "Oral microbiome",
+      "query": "oral AND microbiome",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-10",
+      "title": "Oral fungal infections",
+      "query": "oral AND fungal AND infections",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-11",
+      "title": "Oral viral infections",
+      "query": "oral AND viral AND infections",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-12",
+      "title": "Forensic odontology",
+      "query": "forensic AND odontology",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-13",
+      "title": "Tooth development",
+      "query": "tooth AND development",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-ORAL_PATHOLOGY-14",
+      "title": "Oral molecular pathology",
+      "query": "oral AND molecular AND pathology",
+      "area": "oral_pathology",
+      "specialty": "Oral Pathology and Microbiology",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-01",
+      "title": "Dental epidemiology",
+      "query": "dental AND epidemiology",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-02",
+      "title": "Oral health inequalities",
+      "query": "oral AND health AND inequalities",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-03",
+      "title": "Community oral health promotion",
+      "query": "community AND oral AND health AND promotion",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-04",
+      "title": "Water fluoridation",
+      "query": "water AND fluoridation",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-05",
+      "title": "Public oral health India",
+      "query": "public AND oral AND health AND india",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-06",
+      "title": "Oral health surveys",
+      "query": "oral AND health AND surveys",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-07",
+      "title": "Dental health economics",
+      "query": "dental AND health AND economics",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-08",
+      "title": "Evidence based dentistry",
+      "query": "evidence AND based AND dentistry",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-09",
+      "title": "Dental systematic review methodology",
+      "query": "dental AND systematic AND review AND methodology",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-10",
+      "title": "Dental biostatistics",
+      "query": "dental AND biostatistics",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-11",
+      "title": "Tobacco cessation dentistry",
+      "query": "tobacco AND cessation AND dentistry",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-12",
+      "title": "Oral health policy",
+      "query": "oral AND health AND policy",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-13",
+      "title": "Dental infection prevention",
+      "query": "dental AND infection AND prevention",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    },
+    {
+      "id": "ALL-MDS-PUBLIC_HEALTH_DENTISTRY-14",
+      "title": "Oral health quality of life",
+      "query": "oral AND health AND quality AND life",
+      "area": "public_health_dentistry",
+      "specialty": "Public Health Dentistry",
+      "coverage_claim": "topic_association_only"
+    }
+  ],
+  "topic_count": 126
+}

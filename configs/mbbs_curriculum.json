@@ -1,0 +1,663 @@
+{
+  "schema_version": 1,
+  "release": "mbbs-v1",
+  "research_date": "2026-10-08",
+  "curriculum_role": "Curriculum inventory and review checklist only; never medical answer evidence",
+  "originating_index": "https://nmc.org.in/page/rules-regulations-rules-regulations-nmc",
+  "curriculum_sources": [
+    {
+      "id": "nmc-cbme-2024",
+      "title": "NMC Competency Based Medical Education Curriculum 2024",
+      "publication_date": "2024-09-12",
+      "retrieved_on": "2026-10-08",
+      "url": "https://nmc.org.in/storage/cms/rules-regulation-nmc/YTW423v3EsCFdtPv3I5qZkaNNhuXfub42UZITDRM.pdf",
+      "path": "data/references/mbbs/raw/curriculum-nmc-2024.pdf",
+      "sha256": "aa601690b9e92b74f7412973a70969539e93210b41829018f052059bbf5ae23c",
+      "reuse": "Public official curriculum snapshot for local checklist and provenance; no general open-content license asserted"
+    },
+    {
+      "id": "nmc-cbme-2024-clarification",
+      "title": "Additional clarification on CBME Guideline 2024",
+      "publication_date": "2024-10-10",
+      "retrieved_on": "2026-10-08",
+      "url": "https://nmc.org.in/storage/cms/rules-regulation-nmc/fzR5SHdI5dNhLCPbGWQNS6WhYGVohp8FRY7AWh7t.pdf",
+      "path": "data/references/mbbs/raw/curriculum-nmc-clarification.pdf",
+      "sha256": "62a60b29a1fd5a97f2fcac4a1c3761286f2dac2c371e76047f5ea8cbccb13db0",
+      "reuse": "Public official clarification for curriculum metadata; not answer evidence"
+    }
+  ],
+  "published_summary_counts_source": {
+    "source_id": "nmc-cbme-2024",
+    "pdf_pages": [
+      91,
+      92,
+      93
+    ]
+  },
+  "competency_table_pdf_page_ranges": [
+    [
+      108,
+      234
+    ],
+    [
+      269,
+      362
+    ],
+    [
+      403,
+      459
+    ]
+  ],
+  "published_summary_counts": {
+    "Anatomy": 413,
+    "Physiology": 136,
+    "Biochemistry": 84,
+    "Pharmacology": 92,
+    "Pathology": 182,
+    "Microbiology": 74,
+    "Forensic Medicine and Toxicology": 158,
+    "Community Medicine": 136,
+    "General Medicine": 525,
+    "Paediatrics": 406,
+    "Psychiatry": 17,
+    "Dermatology, Venereology and Leprosy": 48,
+    "General Surgery": 133,
+    "Ophthalmology": 60,
+    "Otorhinolaryngology": 63,
+    "Obstetrics and Gynaecology": 141,
+    "Orthopaedics": 40,
+    "Anaesthesiology": 52,
+    "Radiodiagnosis": 21
+  },
+  "clarifications": [
+    {
+      "code": "PS9.2",
+      "action": "delete",
+      "source_id": "nmc-cbme-2024-clarification",
+      "source_page": 3
+    },
+    {
+      "code": "PY9.1",
+      "action": "replace",
+      "text": "Explain sex determination, sex differentiation, and their physiological alterations and discuss the effects of removal of gonads on physiological functions.",
+      "source_id": "nmc-cbme-2024-clarification",
+      "source_page": 3
+    },
+    {
+      "code": "PE6.4",
+      "action": "replace",
+      "text": "Describe adolescent sexuality, diversity in sexual orientation and gender identity",
+      "source_id": "nmc-cbme-2024-clarification",
+      "source_page": 3
+    }
+  ],
+  "source_candidates": [
+    {
+      "id": "vt-micropharmimmuno",
+      "title": "Microbiology, Pharmacology, and Immunology for Pre-Clinical Students",
+      "authors": "Jennifer L. Cleveland; Andrew P. Binks; Renee J. LeClair",
+      "edition_year": 2025,
+      "publisher": "Virginia Tech Carilion School of Medicine and Virginia Tech Publishing",
+      "subjects": [
+        "Microbiology",
+        "Pharmacology",
+        "Immunology"
+      ],
+      "url": "https://pressbooks.lib.vt.edu/micropharmimmuno/",
+      "license": "CC-BY-4.0",
+      "license_evidence_url": "https://pressbooks.lib.vt.edu/micropharmimmuno/front-matter/instructor-resources/",
+      "license_evidence_summary": "Publisher permits attributed sharing and adaptation under CC BY 4.0, except where otherwise noted.",
+      "acquisition_status": "eligible_text_candidate",
+      "conditions": [
+        "Preserve author/title/URL/license attribution",
+        "Check borrowed text and third-party exclusions per section",
+        "No images acquired by this curriculum workflow"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_snapshot_status": "request_failed_primary_page_verified_with_web_search"
+    },
+    {
+      "id": "osu-biochemistry-free-for-all",
+      "title": "Biochemistry Free For All",
+      "authors": "Kevin Ahern; Indira Rajagopal; Taralyn Tan",
+      "publisher": "Oregon State University",
+      "subjects": [
+        "Biochemistry"
+      ],
+      "url": "https://open.oregonstate.education/biochemfreeforall/",
+      "license": "CC-BY-NC-4.0",
+      "license_evidence_url": "https://open.oregonstate.education/biochemfreeforall/",
+      "license_evidence_summary": "Publisher footer identifies CC BY-NC 4.0 except otherwise noted; introduction permits free educational adaptation and forbids profit-making or paid access.",
+      "acquisition_status": "eligible_noncommercial_text_candidate",
+      "conditions": [
+        "Noncommercial local educational use only",
+        "Preserve author/title/URL/license attribution",
+        "Check section exclusions and PDF edition"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_snapshot_status": "request_failed_primary_page_verified_with_web_search"
+    },
+    {
+      "id": "vt-cellbio",
+      "title": "Cell Biology, Genetics, and Biochemistry for Pre-Clinical Students",
+      "authors": "Renee J. LeClair",
+      "edition_year": 2021,
+      "publisher": "Virginia Tech Publishing",
+      "subjects": [
+        "Biochemistry",
+        "Genetics",
+        "Cell biology"
+      ],
+      "url": "https://pressbooks.lib.vt.edu/cellbio/",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_evidence_url": "https://pressbooks.lib.vt.edu/cellbio/front-matter/instructor-resources/",
+      "license_evidence_summary": "Publisher permits noncommercial attributed adaptation and redistribution under NC-SA 4.0; some images have separate licenses.",
+      "acquisition_status": "eligible_noncommercial_text_candidate",
+      "conditions": [
+        "Noncommercial use",
+        "Attribution and ShareAlike for adaptations",
+        "Exclude third-party components unless individually cleared"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_snapshot_status": "request_failed_primary_page_verified_with_web_search"
+    },
+    {
+      "id": "vt-cardiovascular-pathophysiology",
+      "title": "Cardiovascular Pathophysiology for Pre-Clinical Students",
+      "authors": "Andrew Binks",
+      "edition_year": 2022,
+      "publisher": "Virginia Tech Publishing",
+      "subjects": [
+        "Physiology",
+        "General Medicine",
+        "Pathophysiology"
+      ],
+      "url": "https://pressbooks.lib.vt.edu/cardiovascularpathophysiology/",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_evidence_url": "https://openvt.lib.vt.edu/2022/04/07/new-open-textbook-cardiovascular-pathophysiology-for-pre-clinical-students/",
+      "license_evidence_summary": "University publisher confirms attributed noncommercial adaptation and redistribution under NC-SA 4.0 unless otherwise noted.",
+      "acquisition_status": "eligible_noncommercial_text_candidate",
+      "conditions": [
+        "Noncommercial use",
+        "Attribution and ShareAlike for adaptations",
+        "Not a substitute for contemporary Indian clinical protocols"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-vt-cardiovascular-pathophysiology.html",
+      "license_evidence_sha256": "8b80c25e0099588c3aa7bac6f3e09f7e9d514abc68d118d7d93b70a7e3eacede",
+      "license_snapshot_status": "acquired"
+    },
+    {
+      "id": "who-postnatal-2022",
+      "title": "WHO recommendations on maternal and newborn care for a positive postnatal experience",
+      "authors": "World Health Organization",
+      "edition_year": 2022,
+      "publisher": "World Health Organization",
+      "subjects": [
+        "Obstetrics and Gynaecology",
+        "Paediatrics",
+        "Community Medicine"
+      ],
+      "url": "https://www.who.int/publications/i/item/9789240045989",
+      "license": "CC-BY-NC-SA-3.0-IGO",
+      "license_evidence_url": "https://www.who.int/publications/b/63157",
+      "license_evidence_summary": "Publication-specific rights state noncommercial copying, adaptation and redistribution with citation and same or similar license terms.",
+      "acquisition_status": "eligible_noncommercial_text_candidate",
+      "conditions": [
+        "Check 26 May 2022 corrigendum and newer clinical updates",
+        "Noncommercial use with citation and adaptation notice",
+        "ShareAlike",
+        "No WHO endorsement or logo use",
+        "Check third-party material separately"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-who-postnatal-2022.html",
+      "license_evidence_sha256": "7138484978a01db0750270375e5aedf7875575d018bfa9208511f76c9719cb58",
+      "license_snapshot_status": "acquired"
+    },
+    {
+      "id": "who-basic-emergency-care",
+      "title": "WHO-ICRC Basic Emergency Care: approach to the acutely ill and injured",
+      "edition_year": 2018,
+      "publisher": "WHO and ICRC",
+      "subjects": [
+        "General Medicine",
+        "General Surgery",
+        "Emergency care"
+      ],
+      "url": "https://www.who.int/publications/i/item/basic-emergency-care-approach-to-the-acutely-ill-and-injured",
+      "license": "CC-BY-NC-SA-3.0-IGO",
+      "license_evidence_url": "https://hlh.who.int/docs/librariesprovider4/hlh-documents/who-icrc-basic-emergency-care.pdf?sfvrsn=4460e22e_5",
+      "license_evidence_summary": "English WHO-hosted PDF copyright page explicitly permits attributed noncommercial copying, redistribution and adaptation under IGO NC-SA 3.0.",
+      "acquisition_status": "eligible_noncommercial_text_candidate",
+      "conditions": [
+        "Noncommercial attribution and same or equivalent license for adaptations",
+        "No WHO/ICRC endorsement or logo use",
+        "Exclude or individually clear third-party materials",
+        "Check December 2025 slides and November 2025 postpartum haemorrhage update"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-who-basic-emergency-care.pdf",
+      "license_evidence_sha256": "3936675af1181fc588cc40dc2667cd5f07ff3da87305d1536f0f667879513ca7",
+      "license_snapshot_status": "acquired",
+      "document_url": "https://hlh.who.int/docs/librariesprovider4/hlh-documents/who-icrc-basic-emergency-care.pdf?sfvrsn=4460e22e_5"
+    },
+    {
+      "id": "openstax-books",
+      "title": "OpenStax Anatomy and Physiology 2e / Microbiology",
+      "publisher": "OpenStax / Rice University",
+      "subjects": [
+        "Anatomy",
+        "Physiology",
+        "Microbiology"
+      ],
+      "url": "https://openstax.org/books/microbiology/pages/index",
+      "license": "CC-BY-NC-SA-4.0 with express AI offering restriction",
+      "license_evidence_url": "https://openstax.org/books/microbiology/pages/index",
+      "license_evidence_summary": "Current attribution panel requires prior written permission to ingest book content into LLMs or generative AI offerings.",
+      "acquisition_status": "excluded_express_ai_restriction",
+      "conditions": [
+        "No account created",
+        "No gated image acquired",
+        "No permission request sent"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-openstax-books.html",
+      "license_evidence_sha256": "eef9ad19ef4277f79d7b3c713d694c41fbe5d5ea597577bea98d50e4c965835b",
+      "license_snapshot_status": "acquired"
+    },
+    {
+      "id": "statpearls",
+      "title": "StatPearls",
+      "publisher": "StatPearls Publishing",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430685/toc/",
+      "license": "CC-BY-NC-ND-4.0",
+      "license_evidence_url": "https://www.ncbi.nlm.nih.gov/books/NBK430685/toc/",
+      "license_evidence_summary": "Book permits attributed noncommercial distribution without alteration; adapted teaching units are not cleared by this license.",
+      "acquisition_status": "excluded_for_adapted_teaching",
+      "conditions": [
+        "No derivatives licensed",
+        "Public readability is not adaptation permission"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_snapshot_status": "blocked_challenge_primary_page_verified_with_web_search"
+    },
+    {
+      "id": "clinical-methods-1990",
+      "title": "Clinical Methods: The History, Physical, and Laboratory Examinations, 3rd edition",
+      "edition_year": 1990,
+      "publisher": "Butterworth Publishers",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK201/",
+      "license": "No open reuse license verified",
+      "license_evidence_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK201/",
+      "license_evidence_summary": "NCBI book page lists publisher copyright; public access does not establish an open adaptation license.",
+      "acquisition_status": "excluded_unverified_reuse_permission",
+      "conditions": [
+        "Do not treat NCBI hosting as public domain",
+        "Historical clinical material requires currency review"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_snapshot_status": "request_failed_primary_page_verified_with_web_search"
+    },
+    {
+      "id": "cdc-epidemiology-third-edition",
+      "title": "Principles of Epidemiology in Public Health Practice: Third Edition: Self-Study Course SS1978",
+      "edition_year": 2006,
+      "updated_year": 2012,
+      "publisher": "Centers for Disease Control and Prevention",
+      "authors": "CDC Office of Workforce and Career Development",
+      "subjects": [
+        "Community Medicine",
+        "Epidemiology",
+        "Biostatistics"
+      ],
+      "url": "https://stacks.cdc.gov/view/cdc/13178",
+      "document_url": "https://stacks.cdc.gov/view/cdc/13178/cdc_13178_DS1.pdf",
+      "license": "Public-Domain",
+      "license_evidence_url": "https://stacks.cdc.gov/view/cdc/13178",
+      "license_evidence_summary": "Publication-specific CDC repository metadata explicitly identifies Rights as Public Domain, the federal author and 511 PDF pages. The course covers surveillance, investigations, descriptive statistics and epidemiologic measures.",
+      "acquisition_status": "eligible_government_text_candidate",
+      "conditions": [
+        "Preserve federal author, title and dated edition citation",
+        "Historic foundational methods source; US examples and surveillance procedures are not Indian policy or current clinical guidance",
+        "Check third-party figure/table attributions separately"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_snapshot_status": "acquired",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-cdc-epidemiology-third-edition.html",
+      "license_evidence_sha256": "c90ff1f877408902b59c4cc2f0a6326539528cd6023496c58e5ab068f8410dd2"
+    },
+    {
+      "license": "CC-BY-NC-SA-3.0-IGO",
+      "acquisition_status": "eligible_noncommercial_text_candidate",
+      "license_research_date": "2026-10-08",
+      "clinical_review": "not_performed",
+      "conditions": [
+        "Noncommercial local educational use",
+        "Attribute title, publisher, edition and license",
+        "Adaptations use same or equivalent license and adaptation notice",
+        "No WHO endorsement or logo use",
+        "Individually clear or exclude third-party tables, figures and images",
+        "Check edition currency before clinical recommendation use"
+      ],
+      "id": "who-surgical-site-infection-2018",
+      "title": "Global guidelines for the prevention of surgical site infection, second edition",
+      "edition_year": 2018,
+      "publisher": "World Health Organization",
+      "subjects": [
+        "General Surgery",
+        "Perioperative care",
+        "Infection prevention"
+      ],
+      "url": "https://www.who.int/publications/b/47483",
+      "document_url": "https://iris.who.int/bitstream/handle/10665/277399/9789241550475-eng.pdf",
+      "license_evidence_url": "https://www.who.int/publications/b/47483",
+      "license_evidence_summary": "Publication-specific WHO rights grant attributed noncommercial copying and adaptation under IGO NC-SA 3.0. Copyright page of the second edition confirms the same license.",
+      "scope_limitations": [
+        "Surgical infection prevention; does not cover all general surgery or operative techniques",
+        "Not a current Indian clinical protocol"
+      ],
+      "license_snapshot_status": "acquired",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-who-surgical-site-infection-2018.html",
+      "license_evidence_sha256": "65efa618587a6ca4824c289ebae4867cf473b08eb87b3f84db4a0853d926fb89"
+    },
+    {
+      "license": "CC-BY-NC-SA-3.0-IGO",
+      "acquisition_status": "eligible_noncommercial_text_candidate",
+      "license_research_date": "2026-10-08",
+      "clinical_review": "not_performed",
+      "conditions": [
+        "Noncommercial local educational use",
+        "Attribute title, publisher, edition and license",
+        "Adaptations use same or equivalent license and adaptation notice",
+        "No WHO endorsement or logo use",
+        "Individually clear or exclude third-party tables, figures and images",
+        "Check edition currency before clinical recommendation use"
+      ],
+      "id": "who-mhgap-2023",
+      "title": "Mental Health Gap Action Programme (mhGAP) guideline for mental, neurological and substance use disorders",
+      "edition_year": 2023,
+      "publisher": "World Health Organization",
+      "subjects": [
+        "Psychiatry",
+        "General Medicine",
+        "Community Medicine"
+      ],
+      "url": "https://www.who.int/publications/b/70678",
+      "document_url": "https://iris.who.int/bitstream/handle/10665/374250/9789240084278-eng.pdf",
+      "license_evidence_url": "https://www.who.int/publications/b/70678",
+      "license_evidence_summary": "WHO publication-specific rights and English PDF copyright page identify CC BY-NC-SA 3.0 IGO with noncommercial attributed reuse and adaptation.",
+      "scope_limitations": [
+        "Guidelines for non-specialized settings; teaching source is not an individual psychiatric diagnosis or treatment plan"
+      ],
+      "license_snapshot_status": "acquired",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-who-mhgap-2023.html",
+      "license_evidence_sha256": "9cc59b1a746a68087113b3eab4cbdc4fc71b2a5571885224b3807f6101b2c02c"
+    },
+    {
+      "license": "CC-BY-NC-SA-3.0-IGO",
+      "acquisition_status": "eligible_noncommercial_text_candidate",
+      "license_research_date": "2026-10-08",
+      "clinical_review": "not_performed",
+      "conditions": [
+        "Noncommercial local educational use",
+        "Attribute title, publisher, edition and license",
+        "Adaptations use same or equivalent license and adaptation notice",
+        "No WHO endorsement or logo use",
+        "Individually clear or exclude third-party tables, figures and images",
+        "Check edition currency before clinical recommendation use"
+      ],
+      "id": "who-abortion-care-handbook-2023",
+      "title": "Clinical practice handbook for quality abortion care",
+      "edition_year": 2023,
+      "publisher": "World Health Organization",
+      "subjects": [
+        "Obstetrics and Gynaecology",
+        "Medical ethics",
+        "Reproductive health"
+      ],
+      "url": "https://www.who.int/publications/b/69646",
+      "document_url": "https://iris.who.int/bitstream/handle/10665/369488/9789240075207-eng.pdf",
+      "license_evidence_url": "https://www.who.int/publications/b/69646",
+      "license_evidence_summary": "Publication-specific WHO rights identify IGO NC-SA 3.0 and permit attributed noncommercial reuse and adaptation.",
+      "scope_limitations": [
+        "Publisher explicitly says the handbook assumes professional skills and training and is not a substitute for formal training",
+        "Indian abortion law and local clinical protocols require independent current authoritative evidence"
+      ],
+      "document_access_observed": "Legacy IRIS PDF fetch returned 403 to web tool; public publisher mirror or accessible official document must be acquired without bypassing restrictions",
+      "license_snapshot_status": "acquired",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-who-abortion-care-handbook-2023.html",
+      "license_evidence_sha256": "8ae69df82f4290825b8606bc0e4d406aa9e862e2ab70bb23421a07d1b4f5def0"
+    },
+    {
+      "license": "CC-BY-NC-SA-3.0-IGO",
+      "acquisition_status": "copyright_page_verification_pending",
+      "license_research_date": "2026-10-08",
+      "clinical_review": "not_performed",
+      "conditions": [
+        "Noncommercial local educational use",
+        "Attribute title, publisher, edition and license",
+        "Adaptations use same or equivalent license and adaptation notice",
+        "No WHO endorsement or logo use",
+        "Individually clear or exclude third-party tables, figures and images",
+        "Check edition currency before clinical recommendation use"
+      ],
+      "id": "who-pediatric-primary-care-2022",
+      "title": "Pocket book of primary health care for children and adolescents: guidelines for health promotion, disease prevention and management from the newborn period to adolescence",
+      "edition_year": 2022,
+      "publisher": "WHO Regional Office for Europe",
+      "subjects": [
+        "Paediatrics",
+        "Community Medicine",
+        "Adolescent health"
+      ],
+      "url": "https://www.who.int/europe/publications/i/item/9789289057622",
+      "document_url": "https://iris.who.int/bitstream/handle/10665/352485/9789289057622-eng.pdf",
+      "license_evidence_url": "https://iris.who.int/bitstream/handle/10665/381512/WHO-EURO-2025-12340-52112-79990-eng.pdf?sequence=2",
+      "license_evidence_summary": "Primary WHO 2025 publication bibliography identifies the 2022 pediatric pocket book and its CC BY-NC-SA 3.0 IGO license. Verify the acquired book copyright page before release.",
+      "license_verification_basis": "Primary WHO citation; acquired book copyright-page confirmation pending",
+      "scope_limitations": [
+        "WHO European primary-care context; not automatically Indian protocols or local legal practice",
+        "No pediatric dosing or patient-specific advice permitted from this candidate register"
+      ],
+      "document_access_observed": "Legacy IRIS PDF fetch returned 403 to web tool",
+      "license_snapshot_status": "request_failed_primary_evidence_verified_with_web_tool",
+      "license_snapshot_error": "ConnectTimeout"
+    },
+    {
+      "id": "atsdr-lead-toxicity-2017",
+      "title": "Case Studies in Environmental Medicine: Lead Toxicity",
+      "edition_year": 2017,
+      "authors": "Oscar Tarrago; Mary Jean Brown",
+      "publisher": "Agency for Toxic Substances and Disease Registry / CDC",
+      "subjects": [
+        "Forensic Medicine and Toxicology",
+        "Community Medicine",
+        "Environmental medicine"
+      ],
+      "url": "https://stacks.cdc.gov/view/cdc/61565",
+      "document_url": "https://stacks.cdc.gov/view/cdc/61565/cdc_61565_DS1.pdf",
+      "license": "Public-Domain",
+      "license_evidence_url": "https://stacks.cdc.gov/view/cdc/61565",
+      "license_evidence_summary": "Publication-specific CDC repository states Public Domain, federal agency authorship and 185 numbered pages.",
+      "acquisition_status": "eligible_government_text_candidate",
+      "conditions": [
+        "Preserve source title, federal agency and 2017 edition citation",
+        "Educational toxicology mechanisms and exposure histories only until thresholds and treatments receive current clinical review",
+        "Exclude separately attributed third-party material",
+        "No claim that US occupational law is Indian medico-legal practice"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_snapshot_status": "acquired",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-atsdr-lead-toxicity-2017.html",
+      "license_evidence_sha256": "20c1b58ca006e1702c55e1567e1262b774f30f4da06f92f601331f46b21edb5e"
+    },
+    {
+      "id": "nij-death-investigation-2024",
+      "title": "Death Investigation: A Guide for the Scene Investigator, 2024",
+      "edition_year": 2024,
+      "publisher": "US Department of Justice / National Institute of Justice",
+      "subjects": [
+        "Forensic Medicine and Toxicology",
+        "Death investigation",
+        "Medicolegal documentation"
+      ],
+      "url": "https://www.ojp.gov/library/publications/death-investigation-guide-scene-investigator-2024",
+      "document_url": "https://www.ojp.gov/pdffiles1/nij/308955.pdf",
+      "license": "Public-Domain",
+      "license_evidence_url": "https://www.justice.gov/legalpolicies",
+      "license_evidence_summary": "DOJ agency policy states DOJ website information is public domain and may be copied and distributed unless otherwise indicated. Government publication metadata identifies NIJ as author; text search of the 56-page PDF finds no copyright notice.",
+      "additional_provenance_url": "https://www.govinfo.gov/app/details/GOVPUB-J28-PURL-gpo235137",
+      "acquisition_status": "eligible_government_text_candidate",
+      "conditions": [
+        "Federal publication text only; exclude separately attributed third-party images or material",
+        "Attribute publisher and 2024 edition",
+        "US scene-investigation workflow is not Indian medico-legal authority",
+        "This candidate concerns scene documentation and investigation, not full forensic pathology mastery"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_snapshot_status": "acquired",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-nij-death-investigation-2024.html",
+      "license_evidence_sha256": "9a51cb17b5c10488bcbfcee2033b45550a8e5a7f76819116f63b9015a6ec15fa"
+    },
+    {
+      "id": "nlm-genetics-handbook",
+      "title": "Help Me Understand Genetics",
+      "publisher": "National Library of Medicine / MedlinePlus Genetics",
+      "subjects": [
+        "Genetics",
+        "Medical ethics",
+        "Informed consent",
+        "Patient communication"
+      ],
+      "url": "https://medlineplus.gov/genetics/understanding/",
+      "document_url": "https://www.medlineplus.gov/download/genetics/understanding/primer.pdf",
+      "license": "Public-Domain",
+      "license_evidence_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "license_evidence_summary": "NLM category-specific reuse policy explicitly identifies Genetics summaries and the Help Me Understand Genetics handbook as public-domain information that may be reproduced and redistributed.",
+      "example_teaching_section_url": "https://medlineplus.gov/genetics/understanding/testing/informedconsent/",
+      "acquisition_status": "eligible_government_text_candidate",
+      "conditions": [
+        "Preserve NLM source title, source URL and acquisition date",
+        "Use federal-authored handbook text only; linked outside resources are not automatically cleared",
+        "Do not ingest MedlinePlus ADAM encyclopedia or licensed drug material under this permission",
+        "US consent-law discussion is context only, not Indian legal advice"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_snapshot_status": "acquired",
+      "license_evidence_path": "data/references/mbbs/raw/curriculum-license-nlm-genetics-handbook.html",
+      "license_evidence_sha256": "7ace2e4cb2e57a63225ad12edc1dca6255291a8016b9699d3d6a5d99f4f67558"
+    },
+    {
+      "id": "hhs-belmont-report",
+      "title": "The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research",
+      "edition_year": 1979,
+      "publisher": "Department of Health, Education, and Welfare / HHS OHRP",
+      "subjects": [
+        "Medical ethics",
+        "Research ethics",
+        "Human subjects protection"
+      ],
+      "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html",
+      "document_url": "https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf",
+      "license": "Government-work status; document-specific reuse confirmation pending",
+      "license_evidence_url": "https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf",
+      "license_evidence_summary": "Official federal agency report identifies the National Commission and Department of Health, Education, and Welfare. No document-specific open reuse statement was located in this research pass.",
+      "acquisition_status": "license_verification_pending",
+      "conditions": [
+        "Do not infer all HHS website content or stock photographs are public domain",
+        "Research-ethics principles only; not a complete clinical-ethics manual or current Indian research regulation"
+      ],
+      "clinical_review": "not_performed",
+      "license_research_date": "2026-10-08",
+      "license_snapshot_status": "request_failed_primary_evidence_verified_with_web_tool",
+      "license_snapshot_error": "HTTPError"
+    }
+  ],
+  "limitations": [
+    "Extraction is an automated inventory, not a faculty-validated curriculum transcription.",
+    "Published summary counts can disagree with detailed tables; discrepancies and conflicting duplicate codes remain explicit.",
+    "Descriptions preserve full extracted competency cells and page continuations; PDF font spacing and table artifacts may require manual review.",
+    "NMC clarification amendments are explicitly applied, with original text retained. Disability competencies were under review in that clarification; no claim that these two PDFs alone capture every subsequent amendment.",
+    "All initial competencies are unmapped gaps. Only explicit source-record mappings can change relevance labels; keyword overlap never proves coverage.",
+    "No qualified medical faculty review, clinical mastery assessment, treatment-guideline validation, or clinical accuracy score was performed.",
+    "Source candidates are license research, not proof that text has been acquired or fulfills an MBBS competency. NC and SA requirements constrain reuse.",
+    "No accounts, paid services, copyright agreements, gated images, or communications with publishers were used."
+  ],
+  "table_extraction_sha256": "69c3777685b0e9a049d069bedfb28b009af4555d7e7953066fe650127de09299",
+  "source_observations": [
+    {
+      "subject": "Paediatrics",
+      "pdf_pages": [
+        329,
+        350,
+        351
+      ],
+      "observation": "Detailed pediatric tables contain complete numeric sequences PE1 through PE32 (253 codes); page 350 ends PE32.1 and page 351 begins Psychiatry. The same source lists 35 topics and 406 competencies. This discrepancy is unresolved and no rows or topics were invented."
+    },
+    {
+      "subject": "Biochemistry",
+      "pdf_page": 169,
+      "observation": "The first laboratory competency is printed as 14.1 without a subject prefix. Its description is retained as a malformed-code issue, not silently assigned a code."
+    },
+    {
+      "subject": "General Surgery",
+      "pdf_page": 409,
+      "observation": "Topic 26 lists four competencies but source table jumps from SU26.1 to SU26.3 and SU26.4. SU26.2 is not fabricated."
+    }
+  ],
+  "extraction_dependencies": {
+    "pypdf": "6.19.0",
+    "pdfplumber": "0.11.10"
+  },
+  "developer_source_spotcheck": {
+    "review_type": "developer_visual_source_identifier_check",
+    "clinical_faculty_review": "not_performed",
+    "reviewed_on": "2026-10-08",
+    "renderer": "Poppler pdftoppm, 110 dpi",
+    "scope": "Four malformed identifiers only; does not validate all curriculum text or competency mastery",
+    "pages": [
+      {
+        "pdf_page": 169,
+        "source_identifier_visible": "14.1",
+        "result": "Source visual rendering confirms malformed identifier is present in official PDF",
+        "render_path": "data/references/mbbs/raw/curriculum-spotcheck-169.png",
+        "render_sha256": "222c00fd5cbf2226ed51feb81f10dff3c5f89f5e2f1c39a9631f4b3029d3f98b"
+      },
+      {
+        "pdf_page": 212,
+        "source_identifier_visible": "MI 8.",
+        "result": "Source visual rendering confirms malformed identifier is present in official PDF",
+        "render_path": "data/references/mbbs/raw/curriculum-spotcheck-212.png",
+        "render_sha256": "dfae8f07f3d0e63db704ccc31040858786fe00f9f00a91e856a57f4c7f564bd6"
+      },
+      {
+        "pdf_page": 445,
+        "source_identifier_visible": "OR2. 2.9",
+        "result": "Source visual rendering confirms malformed identifier is present in official PDF",
+        "render_path": "data/references/mbbs/raw/curriculum-spotcheck-445.png",
+        "render_sha256": "68af8b2b860948f08b4278531cebb36e6abb75e1b7e1296e7b37c9f4958728b6"
+      },
+      {
+        "pdf_page": 454,
+        "source_identifier_visible": "ASS.4",
+        "result": "Source visual rendering confirms malformed identifier is present in official PDF",
+        "render_path": "data/references/mbbs/raw/curriculum-spotcheck-454.png",
+        "render_sha256": "361f07bb617eac47b79783bb3ae692898a5922607ee0cc21ad7e146bb9ccbf42"
+      }
+    ]
+  }
+}

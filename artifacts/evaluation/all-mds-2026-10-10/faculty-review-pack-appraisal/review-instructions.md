@@ -1,0 +1,3 @@
+# Independent review
+
+Only qualified humans enter their own assessments. Scores and identities are blank. Use an independent reference; record correctness, completeness, applicability and clarity from 0 (unacceptable) to 4 (fully satisfactory), serious errors and disagreements. An abstention is not a factual answer. Credentials require separate verification. This export cannot establish qualified clinical review. Use the existing curriculum_audit.py import-scores workflow for its own compatible packs; this small pack is a separate developer export. Do not import its CSV into an incompatible schema or auto-fill scores. Source material remains subject to its terms.

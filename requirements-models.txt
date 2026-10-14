@@ -1,0 +1,4 @@
+# Optional. Install torch and torchvision as a matched pair from pytorch.org first.
+sentence-transformers==6.1.0
+torchxrayvision>=1,<2
+scikit-learn==1.9.1

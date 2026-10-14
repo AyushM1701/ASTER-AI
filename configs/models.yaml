@@ -1,0 +1,35 @@
+text:
+  provider: ollama
+  tag: qwen3-vl:2b-instruct
+  installed_digest: ea422f1e73652a95479954d8572d3c8c6022f628ce2d38a1a04aae1b7f2d5300
+  validation: 22_question_live_development_probe_and_targeted_policy_retest
+embedding:
+  model: sentence-transformers/all-MiniLM-L6-v2
+  revision: null
+  validation: not_run
+xray:
+  model: densenet121-res224-all
+  weight_sha256: 56524913dd16a906422e8d8b66a7a5c46be1d82eb7ac012d8103776f1aa68899
+  source_revision: 588eadcc6a744da71f8dce768bc974ec629443f5
+  runtime: torch-2.14.1+cpu_torchvision-0.29.1+cpu_torchxrayvision-1.4.0
+  preprocessing: xrv-8bit-center224-v1
+  validation: two_nih_demo_inferences_and_one_real_browser_attachment_only
+  clinical_validation: false
+  independent_evaluation: false
+ocr:
+  engine: tesseract_and_experimental_local_vision
+  language: eng
+  psm: 6
+  handwriting_model: qwen3-vl:2b-instruct
+  accuracy_validation: 37_english_medicine_word_crops_and_7_synthetic_scan_variants
+  handwriting_exact_words: 10
+  handwriting_test_words: 37
+  handwriting_wrong_non_abstained: 27
+  full_prescription_validation: false
+  clinical_validation: false
+vision_routing:
+  provider: ollama
+  tag: qwen3-vl:2b-instruct
+  installed_digest: ea422f1e73652a95479954d8572d3c8c6022f628ce2d38a1a04aae1b7f2d5300
+  validation: synthetic_prescription_cc0_radiograph_and_one_registered_nih_radiograph_only
+  clinical_validation: false

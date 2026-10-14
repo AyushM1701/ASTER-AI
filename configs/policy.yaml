@@ -1,0 +1,6 @@
+version: research-policy-v1
+language: en
+clinical_review: false
+allowed: [general_education, confirmed_transcription, curated_research_scores]
+blocked: [diagnosis, medication_selection, personal_dosing, treatment_changes, normality_verdict]
+urgency_note: Conservative deterministic language checks; not validated medical triage.

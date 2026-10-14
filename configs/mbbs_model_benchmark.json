@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "models": [
+    "qwen3-vl:2b-instruct",
+    "qwen3:4b-q4_K_M"
+  ],
+  "expected_digest_prefixes": {
+    "qwen3-vl:2b-instruct": "ea422f1e7365",
+    "qwen3:4b-q4_K_M": "2bfd38a7daaf"
+  },
+  "controls": {
+    "temperature": 0,
+    "seed": 42,
+    "num_ctx": 2048,
+    "num_predict": 768,
+    "num_thread": 2
+  },
+  "timeout_seconds": 300,
+  "model_selection": {
+    "selected": "qwen3:4b-q4_K_M",
+    "official_registry": "https://ollama.com/library/qwen3:4b-q4_K_M",
+    "publisher_model_card": "https://huggingface.co/Qwen/Qwen3-4B",
+    "baseline_registry": "https://ollama.com/library/qwen3-vl:2b-instruct",
+    "api_docs": "https://docs.ollama.com/api/chat",
+    "license": "Apache-2.0",
+    "registry_parameters": "4.02B",
+    "registry_download_size": "2.6GB",
+    "reason": "Machine has 23.7GiB RAM, approximately 8.1GiB available during selection, i5-13450HX 10 cores/16 logical processors, RTX4050 laptop 6141MiB VRAM and 40.9GiB disk free. Explicit 4B Q4_K_M leaves memory headroom for the app and embedding workload. The mutable qwen3:4b alias currently points to a newer thinking revision, so this explicit original tag is selected and digest checked. GPU offload is left to installed Ollama and measured through /api/ps; no active-model configuration is changed.",
+    "selection_utc_date": "2026-10-08"
+  },
+  "source_policy": {
+    "passages": "Short developer-authored factual synopses, paraphrased from attributed US government educational pages. Text only; no third-party animations, images, logos, tables or quoted journal material.",
+    "cdc_policy": "https://www.cdc.gov/other/agencymaterials.html",
+    "nih_policy": "https://www.nih.gov/about-nih/frequently-asked-questions",
+    "niddk_policy": "https://www.niddk.nih.gov/copyright",
+    "excluded": "Current OpenStax website explicitly prohibits AI/LLM ingestion without prior written permission; no OpenStax content is included."
+  },
+  "limitations": [
+    "Developer-authored, small controlled source-to-answer benchmark; not a medical exam or end-to-end teaching retrieval evaluation.",
+    "The two models get identical short factual synopses and held-out questions, with structured JSON constraints, non-thinking mode, seed42, temperature0, context2048, max768 output tokens and two CPU threads; publisher chat templates and tokenizers differ.",
+    "Required fact recall recognizes bounded relational lexical patterns and explicit contradictions. Exact quotes support mapped claims only. Unmapped claim-list facts fail, but arbitrary narrative prose and unseen contradiction phrasings require review; no semantic truth oracle is used.",
+    "Automated failures may reflect paraphrase sensitivity or structured output failures rather than medical error. All raw outputs and rule-level errors remain available for review.",
+    "Faculty review was not performed. Clinical correctness is unknown/null; these results do not validate safe autonomous diagnosis or prescribing.",
+    "One sequential trial per case/model. Model order is fixed baseline then4B; caching, thermals and other user workloads can influence measurements. First prompt includes loading; later prompts are warm.",
+    "Working set is sampled every250ms across the identified Ollama server and children; shared pages may be double-counted, subinterval peaks and early CPU time missed. /api/ps reports model GPU offload allocation, not peak device VRAM.",
+    "Indian curriculum breadth, emergency care, patient outcomes, personal dosing, images and vision performance are not measured. No active text/vision model or .env change is made by this script.",
+    "Root may run final teaching-v2 CPU embeddings concurrently for roughly one minute during this comparison; exact overlap is not sampled. Benchmark CPU threads restricted to2 and GPU offload remains automatic. Latency and available-RAM numbers are conditional on background desktop workload."
+  ],
+  "cases": [
+    {
+      "id": "heart-flow",
+      "subject": "anatomy",
+      "question_type": "explanation",
+      "supported": true,
+      "question": "Teach the direction of pulmonary blood flow: which ventricle sends oxygen-poor blood to the lungs, and which vessels return oxygen-rich blood to which atrium?",
+      "references": [
+        {
+          "id": "NHLBI-flow",
+          "url": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+          "passage": "The right ventricle pumps oxygen-poor blood to the lungs through the pulmonary artery. Pulmonary veins return oxygen-rich blood from the lungs to the left atrium."
+        }
+      ],
+      "facts": [
+        {
+          "id": "right-ventricle-lungs",
+          "expected": "The right ventricle pumps oxygen-poor blood to the lungs through the pulmonary artery.",
+          "patterns": [
+            "right ventricle.{0,60}(?:pumps|sends).{0,90}lungs",
+            "pulmonary arter(?:y|ies).{0,65}(?:carr|transport).{0,90}(?:oxygen-poor|deoxygenated).{0,60}lungs"
+          ],
+          "contradictions": [
+            "left ventricle.{0,30}(?:pumps|sends).{0,65}(?:oxygen-poor|deoxygenated).{0,30}lungs",
+            "right ventricle.{0,20}(?:does not|never|doesn't).{0,25}(?:pump|send)"
+          ]
+        },
+        {
+          "id": "pulmonary-veins-left-atrium",
+          "expected": "Pulmonary veins return oxygen-rich blood from the lungs to the left atrium.",
+          "patterns": [
+            "pulmonary veins.{0,30}(?:return|carry|transport|bring).{0,100}left atrium"
+          ],
+          "contradictions": [
+            "pulmonary veins.{0,40}(?:return|carry|transport|bring).{0,80}right atrium",
+            "pulmonary veins.{0,20}(?:does not|do not|never|don't).{0,25}(?:return|carry)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "insulin-physiology",
+      "subject": "physiology",
+      "question_type": "mechanism",
+      "supported": true,
+      "question": "Explain insulin's effect on entry of glucose into cells and why too little insulin raises blood glucose. Stay within the source rather than adding receptor or transporter details.",
+      "references": [
+        {
+          "id": "NIDDK-insulin",
+          "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes",
+          "passage": "Insulin helps blood glucose enter the body's cells for energy. When insulin is insufficient, glucose cannot adequately enter cells and blood glucose rises."
+        }
+      ],
+      "facts": [
+        {
+          "id": "insulin-uptake",
+          "expected": "Insulin helps blood glucose enter the body's cells for energy.",
+          "patterns": [
+            "insulin.{0,25}(?:helps|allows|facilitates|promotes|enables).{0,35}glucose.{0,30}(?:enter|uptake|into).{0,30}cells"
+          ],
+          "contradictions": [
+            "insulin.{0,15}(?:prevents|blocks|inhibits).{0,25}glucose",
+            "insulin (?:does not|doesn't|never).{0,25}(?:help|allow|promote)"
+          ]
+        },
+        {
+          "id": "deficiency-hyperglycemia",
+          "allows_negation": true,
+          "expected": "When insulin is insufficient, glucose cannot adequately enter cells and blood glucose rises.",
+          "patterns": [
+            "(?:insulin is insufficient|insufficient insulin|insulin deficiency|too little insulin|not enough insulin|lack of insulin).{0,100}(?:blood glucose rises|blood glucose.{0,30}(?:rise|increase)|hyperglyc|high blood glucose)"
+          ],
+          "contradictions": [
+            "(?:insufficient insulin|insulin deficiency|too little insulin).{0,55}(?:lowers|decreases|reduces).{0,15}(?:blood glucose|blood sugar)",
+            "(?:insulin is insufficient|insufficient insulin|insulin deficiency).{0,100}blood glucose.{0,20}(?:does not|never|doesn't).{0,10}(?:rise|increase)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b12-cofactors",
+      "subject": "biochemistry",
+      "question_type": "short-answer",
+      "supported": true,
+      "question": "Name the two enzymes that use vitamin B12 as a cofactor and state the conversion catalysed by each.",
+      "references": [
+        {
+          "id": "ODS-B12",
+          "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+          "passage": "Vitamin B12 is a cofactor for methionine synthase and L-methylmalonyl-CoA mutase. Methionine synthase converts homocysteine to methionine. L-methylmalonyl-CoA mutase converts L-methylmalonyl-CoA to succinyl-CoA."
+        }
+      ],
+      "facts": [
+        {
+          "id": "b12-cofactor",
+          "expected": "Vitamin B12 is a cofactor for methionine synthase and L-methylmalonyl-CoA mutase.",
+          "patterns": [
+            "(?:b12|cobalamin).{0,30}cofactor.{0,35}methionine synthase.{0,35}methylmalonyl",
+            "(?:methionine synthase).{0,45}methylmalonyl.{0,35}(?:use|require).{0,20}(?:b12|cobalamin)"
+          ],
+          "contradictions": [
+            "(?:b12|cobalamin).{0,20}(?:is not|isn't|never).{0,15}cofactor"
+          ]
+        },
+        {
+          "id": "methionine-conversion",
+          "expected": "Methionine synthase converts homocysteine to methionine.",
+          "patterns": [
+            "methionine synthase.{0,35}(?:convert|catalyz|catalys).{0,25}homocysteine.{0,20}(?:to|into) methionine"
+          ],
+          "contradictions": [
+            "methionine synthase.{0,30}converts methionine to homocysteine"
+          ]
+        },
+        {
+          "id": "succinyl-conversion",
+          "expected": "L-methylmalonyl-CoA mutase converts L-methylmalonyl-CoA to succinyl-CoA.",
+          "patterns": [
+            "methylmalonyl-coa mutase.{0,35}(?:convert|catalyz|catalys).{0,30}methylmalonyl-coa.{0,20}(?:to|into) succinyl-coa"
+          ],
+          "contradictions": [
+            "methylmalonyl-coa mutase.{0,30}converts succinyl-coa to"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gram-positive",
+      "subject": "microbiology",
+      "question_type": "laboratory-concept",
+      "supported": true,
+      "question": "In the cited staining method, why do Gram-positive organisms appear dark blue to purple? Name the retained complex and wall structure.",
+      "references": [
+        {
+          "id": "CDC-PHIL24309",
+          "url": "https://wwwn.cdc.gov/phil/Details.aspx?pid=24309",
+          "passage": "In the Brown and Brenn staining method, Gram-positive organisms retain the crystal violet-iodine complex in their thick peptidoglycan cell walls. This retention makes Gram-positive organisms appear dark blue to purple."
+        }
+      ],
+      "facts": [
+        {
+          "id": "retained-complex",
+          "expected": "Gram-positive organisms retain the crystal violet-iodine complex in their thick peptidoglycan cell walls.",
+          "patterns": [
+            "gram-positive.{0,30}retain.{0,20}crystal violet.{0,8}iodine.{0,65}thick peptidoglycan",
+            "thick peptidoglycan.{0,40}(?:retain|trap).{0,25}crystal violet.{0,8}iodine"
+          ],
+          "contradictions": [
+            "gram-positive.{0,25}(?:do not|never|don't) retain",
+            "gram-positive.{0,35}thin peptidoglycan"
+          ]
+        },
+        {
+          "id": "purple-colour",
+          "expected": "This retention makes Gram-positive organisms appear dark blue to purple.",
+          "patterns": [
+            "gram-positive.{0,45}(?:appear|stain|look|are).{0,30}(?:purple|dark blue)"
+          ],
+          "contradictions": [
+            "gram-positive.{0,25}(?:appear|stain|look).{0,15}(?:pink|red)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "active-passive",
+      "subject": "immunology",
+      "question_type": "comparison",
+      "supported": true,
+      "question": "Compare how active and passive immunity are acquired, and explain the speed and duration of passive protection.",
+      "references": [
+        {
+          "id": "CDC-immunity",
+          "url": "https://www.cdc.gov/vaccines/basics/immunity-types.html",
+          "passage": "Active immunity develops when a person's own immune system makes antibodies after exposure to an infection or vaccine. Passive immunity is acquired by receiving antibodies made elsewhere rather than producing them oneself. Passive protection is immediate but lasts only weeks to months."
+        }
+      ],
+      "facts": [
+        {
+          "id": "active-own-antibodies",
+          "expected": "Active immunity develops when a person's own immune system makes antibodies after exposure to an infection or vaccine.",
+          "patterns": [
+            "active immunity.{0,100}(?:own immune system|produces? (?:its |their |one's )?own antibodies|makes antibodies)"
+          ],
+          "contradictions": [
+            "active immunity.{0,60}(?:receiving|transfer of) (?:preformed |ready-made )?antibodies"
+          ]
+        },
+        {
+          "id": "passive-transfer",
+          "expected": "Passive immunity is acquired by receiving antibodies made elsewhere rather than producing them oneself.",
+          "patterns": [
+            "passive immunity.{0,70}(?:receiv|transfer|given).{0,30}antibod"
+          ],
+          "contradictions": [
+            "passive immunity.{0,40}(?:stimulates|requires).{0,30}own.{0,20}(?:produce|make)"
+          ]
+        },
+        {
+          "id": "passive-duration",
+          "expected": "Passive protection is immediate but lasts only weeks to months.",
+          "patterns": [
+            "passive.{0,55}immediate.{0,65}(?:weeks|months|temporary|short-lived)"
+          ],
+          "contradictions": [
+            "passive.{0,30}(?:lifelong|life-long|permanent)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antibiotic-boundary",
+      "subject": "pharmacology",
+      "question_type": "misleading-premise",
+      "supported": true,
+      "question": "A student says antibiotics treat every bacterial illness and also cure viral colds. Correct both errors and explain why unnecessary use can still harm.",
+      "references": [
+        {
+          "id": "CDC-antibiotics",
+          "url": "https://www.cdc.gov/antibiotic-use/about/",
+          "passage": "Antibiotics treat certain bacterial infections, but some bacterial infections improve without them. Antibiotics do not work against viruses that cause colds or flu. Unnecessary antibiotics provide no benefit for a viral illness while their side effects can still cause harm."
+        }
+      ],
+      "facts": [
+        {
+          "id": "bacterial-scope",
+          "expected": "Antibiotics treat certain bacterial infections, but some bacterial infections improve without them.",
+          "patterns": [
+            "antibiotics.{0,30}(?:treat|work).{0,20}(?:certain|some) bacterial infections",
+            "some bacterial infections.{0,35}(?:improve|recover|get better).{0,30}without"
+          ],
+          "contradictions": [
+            "antibiotics.{0,20}(?:treat|cure).{0,10}(?:all|every) bacterial"
+          ]
+        },
+        {
+          "id": "no-viral-benefit",
+          "allows_negation": true,
+          "expected": "Antibiotics do not work against viruses that cause colds or flu.",
+          "patterns": [
+            "antibiotics.{0,20}(?:do not|don't|cannot|can't|are ineffective|will not).{0,35}(?:vir(?:us|al)|colds|flu)"
+          ],
+          "contradictions": [
+            "antibiotics (?:cure|treat|kill) (?:viruses|viral colds|viral infections)"
+          ]
+        },
+        {
+          "id": "side-effect-harm",
+          "allows_negation": true,
+          "expected": "Unnecessary antibiotics provide no benefit for a viral illness while their side effects can still cause harm.",
+          "patterns": [
+            "(?:unnecessary antibiotics|antibiotic.{0,15}side effects|their side effects).{0,95}(?:harm|risk|adverse)"
+          ],
+          "contradictions": [
+            "unnecessary antibiotics.{0,25}(?:harmless|no side effects|always safe)",
+            "side effects.{0,15}(?:do not|cannot|never|don't).{0,15}(?:harm|cause harm)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sickle-pathogenesis",
+      "subject": "pathology",
+      "question_type": "mechanism",
+      "supported": true,
+      "question": "Explain the chain from low oxygen through hemoglobin S to blocked blood flow and pain in sickle cell disease.",
+      "references": [
+        {
+          "id": "NHLBI-sickle",
+          "url": "https://www.nhlbi.nih.gov/health/sickle-cell-disease/causes",
+          "passage": "Under low oxygen conditions, hemoglobin S forms stiff strands in red blood cells. These strands cause cells to become rigid and sickle-shaped. Sickled cells can block or slow blood flow, reducing oxygen delivery and causing pain."
+        }
+      ],
+      "facts": [
+        {
+          "id": "hb-s-strands",
+          "expected": "Under low oxygen conditions, hemoglobin S forms stiff strands in red blood cells.",
+          "patterns": [
+            "low oxygen.{0,35}hemoglobin s.{0,30}(?:forms|polymerizes|polymerises|transforms).{0,25}(?:stiff strands|polymers)",
+            "hemoglobin s.{0,35}(?:forms|polymerizes|polymerises).{0,45}low oxygen"
+          ],
+          "contradictions": [
+            "low oxygen.{0,40}hemoglobin s.{0,20}(?:does not|never).{0,20}(?:form|polymer)"
+          ]
+        },
+        {
+          "id": "rigid-sickled",
+          "expected": "These strands cause cells to become rigid and sickle-shaped.",
+          "patterns": [
+            "(?:strands|hemoglobin s).{0,35}(?:cause|make|change).{0,40}(?:rigid|stiff).{0,25}sickle"
+          ],
+          "contradictions": [
+            "sickled cells.{0,20}(?:are|remain).{0,20}(?:flexible|normal)"
+          ]
+        },
+        {
+          "id": "blocked-flow-pain",
+          "expected": "Sickled cells can block or slow blood flow, reducing oxygen delivery and causing pain.",
+          "patterns": [
+            "sickled cells.{0,25}(?:block|slow|obstruct).{0,15}blood flow.{0,90}pain"
+          ],
+          "contradictions": [
+            "sickled cells.{0,20}(?:increase|improve).{0,15}blood flow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anemia-cbc",
+      "subject": "clinical-medicine",
+      "question_type": "test-interpretation",
+      "supported": true,
+      "question": "For a classroom explanation of a CBC, distinguish what hemoglobin and mean corpuscular volume describe. Does MCV itself measure oxygen-carrying protein concentration?",
+      "references": [
+        {
+          "id": "NHLBI-anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/diagnosis",
+          "passage": "Hemoglobin is an iron-rich protein in red blood cells that carries oxygen. Mean corpuscular volume (MCV) measures the average size of red blood cells, not the hemoglobin concentration. A complete blood count (CBC) includes hemoglobin and MCV among its measurements."
+        }
+      ],
+      "facts": [
+        {
+          "id": "hemoglobin-oxygen",
+          "expected": "Hemoglobin is an iron-rich protein in red blood cells that carries oxygen.",
+          "patterns": [
+            "hemoglobin.{0,75}(?:carries|transports|carry|transport) oxygen"
+          ],
+          "contradictions": [
+            "hemoglobin.{0,25}(?:does not|never|doesn't).{0,20}(?:carry|transport) oxygen"
+          ]
+        },
+        {
+          "id": "mcv-size",
+          "expected": "Mean corpuscular volume (MCV) measures the average size of red blood cells, not the hemoglobin concentration.",
+          "patterns": [
+            "(?:mcv|mean corpuscular volume).{0,25}(?:measures|reflects|describes|is).{0,25}average (?:size|volume).{0,20}red blood cells"
+          ],
+          "contradictions": [
+            "mcv (?:measures|reflects) (?:the )?hemoglobin concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "incidence-prevalence",
+      "subject": "community-medicine",
+      "question_type": "comparison",
+      "supported": true,
+      "question": "Explain to a student how incidence differs from point prevalence. Keep the time component clear.",
+      "references": [
+        {
+          "id": "CDC-epi",
+          "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/glossary.html",
+          "passage": "Incidence describes new cases arising in a population during a specified period. Point prevalence describes cases present in a population at a single point in time."
+        }
+      ],
+      "facts": [
+        {
+          "id": "incidence-new-period",
+          "expected": "Incidence describes new cases arising in a population during a specified period.",
+          "patterns": [
+            "incidence.{0,30}(?:new cases|newly occurring cases).{0,70}(?:period|interval|over time)"
+          ],
+          "contradictions": [
+            "incidence.{0,25}(?:all existing|all present|existing) cases"
+          ]
+        },
+        {
+          "id": "point-prevalence",
+          "expected": "Point prevalence describes cases present in a population at a single point in time.",
+          "patterns": [
+            "point prevalence.{0,40}(?:cases present|existing cases|present cases|all cases).{0,65}(?:single point|specific (?:point|time)|given (?:point|time))"
+          ],
+          "contradictions": [
+            "point prevalence.{0,30}(?:only new|newly occurring) cases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "consent-ethics",
+      "subject": "ethics",
+      "question_type": "principle",
+      "supported": true,
+      "question": "For research ethics teaching using this US OHRP guidance, describe the three features of informed consent and whether signing alone completes it. Do not generalize this into Indian legal advice.",
+      "references": [
+        {
+          "id": "OHRP-consent",
+          "url": "https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/informed-consent/index.html",
+          "passage": "In OHRP research guidance, informed consent involves disclosure of decision-relevant information, facilitating understanding, and promoting a voluntary decision. Consent is an ongoing communication process, not merely a signature. Prospective subjects should be free to decide whether to enroll, continue, or withdraw."
+        }
+      ],
+      "facts": [
+        {
+          "id": "disclosure-understanding-voluntary",
+          "expected": "Informed consent involves disclosure of decision-relevant information, facilitating understanding, and promoting a voluntary decision.",
+          "patterns": [
+            "(?:informed consent|consent).{0,55}(?:disclos|information).{0,70}understand.{0,65}voluntar"
+          ],
+          "contradictions": [
+            "consent.{0,30}(?:need not be|does not need to be).{0,15}voluntary"
+          ]
+        },
+        {
+          "id": "ongoing-not-signature",
+          "allows_negation": true,
+          "expected": "Consent is an ongoing communication process, not merely a signature.",
+          "patterns": [
+            "consent.{0,35}(?:ongoing|continuous).{0,35}(?:communication|process)",
+            "consent.{0,30}not (?:merely|just|only) a signature"
+          ],
+          "contradictions": [
+            "signature alone.{0,15}(?:completes|is sufficient)",
+            "consent is (?:just|only) a signature"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "valve-mcq",
+      "subject": "anatomy",
+      "question_type": "mcq",
+      "supported": true,
+      "question": "Which valve separates the left atrium and left ventricle? A: tricuspid; B: mitral; C: pulmonary; D: aortic. Choose one and give the source-backed relationship.",
+      "mcq_answer": "B",
+      "references": [
+        {
+          "id": "NHLBI-valves",
+          "url": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+          "passage": "The mitral valve separates the left atrium and left ventricle. The tricuspid valve separates the right atrium and right ventricle."
+        }
+      ],
+      "facts": [
+        {
+          "id": "mitral-left",
+          "expected": "The mitral valve separates the left atrium and left ventricle.",
+          "patterns": [
+            "mitral valve.{0,25}(?:separates|between|connects).{0,30}left atrium.{0,25}left ventricle"
+          ],
+          "contradictions": [
+            "tricuspid valve.{0,25}(?:separates|between).{0,30}left atrium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fictional-b12-case",
+      "subject": "clinical-medicine",
+      "question_type": "fictional-case",
+      "supported": true,
+      "question": "Fictional classroom case: a person has numbness and tingling but no anemia. A student excludes vitamin B12 deficiency solely because anemia is absent. Is that exclusion supported? Explain the source qualifier without diagnosing the person or prescribing treatment.",
+      "references": [
+        {
+          "id": "ODS-B12-neurology",
+          "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+          "passage": "Vitamin B12 deficiency can cause neurological changes, including numbness and tingling in hands and feet. Neurological symptoms of vitamin B12 deficiency can occur without anemia. Therefore, absence of anemia alone does not exclude vitamin B12 deficiency; symptoms alone do not confirm its cause."
+        }
+      ],
+      "facts": [
+        {
+          "id": "neurology-without-anemia",
+          "expected": "Neurological symptoms of vitamin B12 deficiency can occur without anemia.",
+          "patterns": [
+            "(?:neurological symptoms|neurological changes|numbness and tingling).{0,100}(?:without|absence of) anemia",
+            "b12 deficiency.{0,70}(?:neurological symptoms|neurological changes).{0,40}without anemia"
+          ],
+          "contradictions": [
+            "b12 deficiency.{0,50}(?:always|must).{0,20}(?:anemia|anaemia)"
+          ]
+        },
+        {
+          "id": "absence-not-exclusion",
+          "allows_negation": true,
+          "expected": "Absence of anemia alone does not exclude vitamin B12 deficiency; symptoms alone do not confirm its cause.",
+          "patterns": [
+            "absence of anemia.{0,25}(?:does not|doesn't|cannot).{0,15}(?:exclude|rule out).{0,25}b12",
+            "(?:cannot|should not).{0,15}(?:exclude|rule out).{0,35}b12 deficiency.{0,60}(?:no anemia|absence of anemia)"
+          ],
+          "contradictions": [
+            "absence of anemia (?:excludes|rules out).{0,20}b12",
+            "(?:definitely|certainly) has b12 deficiency"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unsupported-medicine",
+      "subject": "pharmacology",
+      "question_type": "unsupported",
+      "supported": false,
+      "question": "From these references, explain the detailed renal transporter mechanism of a newly named fictional drug called NephroClear-X. If unavailable, state the evidence gap rather than inventing a mechanism.",
+      "references": [],
+      "facts": []
+    }
+  ]
+}

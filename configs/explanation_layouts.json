@@ -1,0 +1,737 @@
+{
+  "version": "simple-to-deep-v1",
+  "clinical_review": false,
+  "source_release": "aster-teaching-epithelium-v1-2026-10-09",
+  "plans": [
+    {
+      "unit_id": "osmosis",
+      "text_sha256": "255066e5277665af497c960a3eea080c799d12ddba2928e6376397ff1a664932",
+      "citation_ids": [
+        "chunk_6d5f49e28656d13b0920f331"
+      ],
+      "simple": "Osmosis is water moving through a membrane that lets water pass while limiting the movement of dissolved substances. Only water is moving by osmosis; the dissolved particles themselves are not being transported by osmosis.",
+      "deeper": "Water moves down its own concentration gradient. Aquaporins are channels that help water cross cell membranes.",
+      "context": "",
+      "original": "Osmosis is water moving through a membrane that lets water pass while limiting the movement of dissolved substances. Water moves down its own concentration gradient. Only water is moving by osmosis; the dissolved particles themselves are not being transported by osmosis. Aquaporins are channels that help water cross cell membranes.",
+      "simple_sentence_indices": [
+        0,
+        2
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "diffusion",
+      "text_sha256": "a55a7340129395936bd16c93c44c6b7722d2e59f70ce282821305a0e1a01c5bb",
+      "citation_ids": [
+        "chunk_2e2becfb823fc141a90e4938"
+      ],
+      "simple": "Diffusion is the movement of a substance from an area where it is more concentrated to an area where it is less concentrated.",
+      "deeper": "The difference gradually becomes smaller. It is passive transport: the cell does not spend energy to drive this movement down the concentration gradient.",
+      "context": "",
+      "original": "Diffusion is the movement of a substance from an area where it is more concentrated to an area where it is less concentrated. The difference gradually becomes smaller. It is passive transport: the cell does not spend energy to drive this movement down the concentration gradient.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "homeostasis",
+      "text_sha256": "1fb409b7552dfab9324ad79421ee786abfa4beb62eab5a749ea0501ae1b34220",
+      "citation_ids": [
+        "chunk_284bc5e589bc5a4a3afeb195"
+      ],
+      "simple": "Homeostasis means keeping the body's internal conditions within a stable range. It does not mean everything stays at one fixed value.",
+      "deeper": "Cells and organs continually monitor conditions and make adjustments to keep important variables within ranges compatible with life.",
+      "context": "",
+      "original": "Homeostasis means keeping the body's internal conditions within a stable range. It does not mean everything stays at one fixed value. Cells and organs continually monitor conditions and make adjustments to keep important variables within ranges compatible with life.",
+      "simple_sentence_indices": [
+        0,
+        1
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "pharmacokinetics",
+      "text_sha256": "2933b609a4be45f14b1a27325b41d1415017c38cc3d6cea2d4437b084a63cd92",
+      "citation_ids": [
+        "chunk_101bcc1bc31dd9c2f3446158"
+      ],
+      "simple": "Pharmacokinetics describes what happens to a medicine as it moves through the body. The four stages are absorption, distribution, metabolism and excretion, often shortened to ADME.",
+      "deeper": "Absorption brings it from its administration site into the circulation; distribution carries it through the body; metabolism changes the drug molecule; excretion removes it or its breakdown products. Time is part of understanding this journey.",
+      "context": "",
+      "original": "Pharmacokinetics describes what happens to a medicine as it moves through the body. The four stages are absorption, distribution, metabolism and excretion, often shortened to ADME. Absorption brings it from its administration site into the circulation; distribution carries it through the body; metabolism changes the drug molecule; excretion removes it or its breakdown products. Time is part of understanding this journey.",
+      "simple_sentence_indices": [
+        0,
+        1
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "pharmacodynamics",
+      "text_sha256": "132b8b6fb27f66b6a4db03a0b3dc076f2d17eff90e7e1ef5dda2f33c7524f15d",
+      "citation_ids": [
+        "chunk_358aff83b3fef56d6babf8ba"
+      ],
+      "simple": "Pharmacodynamics describes the body's biological response to a medicine.",
+      "deeper": "Pharmacokinetics describes the medicine's movement through the body. These are connected ideas, but they answer different questions: where the drug goes, and what response it produces.",
+      "context": "",
+      "original": "Pharmacodynamics describes the body's biological response to a medicine. Pharmacokinetics describes the medicine's movement through the body. These are connected ideas, but they answer different questions: where the drug goes, and what response it produces.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "filtration",
+      "text_sha256": "b8d1bb472bb4943d5bb1e5c8d0581a5fc4825b2afa65b15597861b14ef80576d",
+      "citation_ids": [
+        "chunk_8fe15be078f6f845225e06d1"
+      ],
+      "simple": "The glomerulus is the kidney's filtering structure. Pressure pushes water and small dissolved substances from its capillaries into the glomerular capsule; this fluid is called filtrate and then enters the renal tubule.",
+      "deeper": "Blood cells and proteins too large to pass through the filter stay in the circulation. The filtrate contains useful substances as well as waste, so filtering is only the first stage.",
+      "context": "",
+      "original": "The glomerulus is the kidney's filtering structure. Pressure pushes water and small dissolved substances from its capillaries into the glomerular capsule; this fluid is called filtrate and then enters the renal tubule. Blood cells and proteins too large to pass through the filter stay in the circulation. The filtrate contains useful substances as well as waste, so filtering is only the first stage.",
+      "simple_sentence_indices": [
+        0,
+        1
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "reabsorption",
+      "text_sha256": "46a7cc912fc36e2461436cd42bd8924767eb1924f1e84d6e045f75cabb5365c8",
+      "citation_ids": [
+        "chunk_54b2b17d094fcc4a974dea11"
+      ],
+      "simple": "After filtration, the kidney takes useful water and dissolved substances back from the tubule into the blood. This is reabsorption. Secretion moves substances in the other direction, from blood into the tubular fluid.",
+      "deeper": "Hormones help regulate what is reabsorbed and secreted, which supports the balance of water and mineral salts.",
+      "context": "",
+      "original": "After filtration, the kidney takes useful water and dissolved substances back from the tubule into the blood. This is reabsorption. Secretion moves substances in the other direction, from blood into the tubular fluid. Hormones help regulate what is reabsorbed and secreted, which supports the balance of water and mineral salts.",
+      "simple_sentence_indices": [
+        0,
+        1,
+        2
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "innate-immunity",
+      "text_sha256": "e9cce910059d4ed5eeb351e6dd0d3858352661d15483f36f725d304404bfe4f8",
+      "citation_ids": [
+        "chunk_2efd2639c48a6ba82addacc7"
+      ],
+      "simple": "Innate immunity is the body's built-in defence against a broad range of potential pathogens. It usually acts very rapidly and includes physical, chemical and cellular defences. These parts overlap and work together. They are not impenetrable: pathogens can sometimes get past them, and an immune response can also contribute to tissue damage.",
+      "deeper": "",
+      "context": "",
+      "original": "Innate immunity is the body's built-in defence against a broad range of potential pathogens. It usually acts very rapidly and includes physical, chemical and cellular defences. These parts overlap and work together. They are not impenetrable: pathogens can sometimes get past them, and an immune response can also contribute to tissue damage.",
+      "simple_sentence_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "adaptive-immunity",
+      "text_sha256": "310e6999eb129b20bf69854dd1eafedbd914d750af06d6ca8c1316be318bfc0a",
+      "citation_ids": [
+        "chunk_b2f8fc96c147e21469eaf547"
+      ],
+      "simple": "Adaptive immunity targets particular pathogens and develops memory after an initial exposure, including exposure through a vaccine. A later response to that same pathogen can be faster and stronger. This memory is specific: protection against one virus does not automatically protect against another.",
+      "deeper": "B cells make antibodies, while T cells have several roles, including coordinating responses and destroying infected cells.",
+      "context": "",
+      "original": "Adaptive immunity targets particular pathogens and develops memory after an initial exposure, including exposure through a vaccine. A later response to that same pathogen can be faster and stronger. B cells make antibodies, while T cells have several roles, including coordinating responses and destroying infected cells. This memory is specific: protection against one virus does not automatically protect against another.",
+      "simple_sentence_indices": [
+        0,
+        1,
+        3
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "immunity-comparison",
+      "text_sha256": "8542dffab4f249c93c0e22d8453cf3e4c35f92c8ed2ddac6d3294bb1402bfabf",
+      "citation_ids": [
+        "chunk_2efd2639c48a6ba82addacc7",
+        "chunk_b2f8fc96c147e21469eaf547"
+      ],
+      "simple": "Think of innate immunity as the built-in defences that respond rapidly to many potential pathogens. Adaptive immunity targets particular pathogens and can respond faster on a later encounter because of specific immune memory. Neither description means every exposure will be prevented.",
+      "deeper": "They are connected systems: innate defences include barriers and cellular responses; adaptive responses involve B and T lymphocytes.",
+      "context": "",
+      "original": "Think of innate immunity as the built-in defences that respond rapidly to many potential pathogens. Adaptive immunity targets particular pathogens and can respond faster on a later encounter because of specific immune memory. They are connected systems: innate defences include barriers and cellular responses; adaptive responses involve B and T lymphocytes. Neither description means every exposure will be prevented.",
+      "simple_sentence_indices": [
+        0,
+        1,
+        3
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "muscle-contraction",
+      "text_sha256": "665ff0b072479772b3503d31449b5609c1ec1b1d46f3c847eb12b9163e17310e",
+      "citation_ids": [
+        "chunk_d1355c7d160b356503003f6d"
+      ],
+      "simple": "In skeletal muscle, myosin repeatedly attaches to and pulls on actin. The filaments slide past one another, pulling the ends of each sarcomere closer together.",
+      "deeper": "A sarcomere is a repeating unit inside a muscle fibre; as these units shorten, the muscle contracts. This is the sliding filament explanation of contraction.",
+      "context": "",
+      "original": "In skeletal muscle, myosin repeatedly attaches to and pulls on actin. The filaments slide past one another, pulling the ends of each sarcomere closer together. A sarcomere is a repeating unit inside a muscle fibre; as these units shorten, the muscle contracts. This is the sliding filament explanation of contraction.",
+      "simple_sentence_indices": [
+        0,
+        1
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "crossbridge",
+      "text_sha256": "d3ec552c4ff9b256b9b61f013247b964f1a27173a5ab767d81dc8acf80d337e5",
+      "citation_ids": [
+        "chunk_164f885f6b0265d1ba7fb1ad"
+      ],
+      "simple": "A crossbridge forms when a myosin head binds to actin. Its power stroke pulls the actin inward.",
+      "deeper": "Binding a new ATP molecule lets myosin detach; splitting ATP supplies energy to reposition the head so another cycle can begin. ATP therefore matters for both detachment and preparation for the next cycle.",
+      "context": "",
+      "original": "A crossbridge forms when a myosin head binds to actin. Its power stroke pulls the actin inward. Binding a new ATP molecule lets myosin detach; splitting ATP supplies energy to reposition the head so another cycle can begin. ATP therefore matters for both detachment and preparation for the next cycle.",
+      "simple_sentence_indices": [
+        0,
+        1
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "glycolysis",
+      "text_sha256": "621ccd6364f924a776dde6894f2bf468ad4652aa672d6438ab23815760bfb579",
+      "citation_ids": [
+        "chunk_dcec060109c4e8de951cdcf5"
+      ],
+      "simple": "Glycolysis breaks down glucose into two pyruvate molecules.",
+      "deeper": "It has an early energy-investment phase and a later energy-producing phase; the net yield is two ATP and two NADH per glucose. When oxygen delivery cannot meet energy demand, pyruvate can be converted to lactate, allowing NADH to be oxidised back to NAD so glycolysis can continue. This lactate-producing route yields much less energy than aerobic oxidation.",
+      "context": "",
+      "original": "Glycolysis breaks down glucose into two pyruvate molecules. It has an early energy-investment phase and a later energy-producing phase; the net yield is two ATP and two NADH per glucose. When oxygen delivery cannot meet energy demand, pyruvate can be converted to lactate, allowing NADH to be oxidised back to NAD so glycolysis can continue. This lactate-producing route yields much less energy than aerobic oxidation.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "competitive-inhibition",
+      "text_sha256": "2d7843d2027945170133a85b7d9f33c8b979eea27046a486df00e2a909013d20",
+      "citation_ids": [
+        "chunk_ca68769aee3ed8b7ff374193"
+      ],
+      "simple": "In the reversible competitive inhibition model described here, an inhibitor competes with the substrate for the enzyme's active site.",
+      "deeper": "More substrate is needed to reach a half-maximal rate, so apparent Km rises. Enough substrate can overcome that competition, so Vmax is unchanged. The qualification matters: this explanation concerns the reversible competitive model.",
+      "context": "",
+      "original": "In the reversible competitive inhibition model described here, an inhibitor competes with the substrate for the enzyme's active site. More substrate is needed to reach a half-maximal rate, so apparent Km rises. Enough substrate can overcome that competition, so Vmax is unchanged. The qualification matters: this explanation concerns the reversible competitive model.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "fertilization",
+      "text_sha256": "be9a1e20006cd2cf22fe8a874672d4f12b02afa1d56b41b2d47faca0cd9fa67e",
+      "citation_ids": [
+        "chunk_adc0f073fcd8aac6d3d146f6"
+      ],
+      "simple": "Fertilisation joins an egg and a sperm to form a zygote.",
+      "deeper": "Each contributes one set of chromosomes, producing a diploid genome. Mechanisms at the egg help prevent additional sperm from entering; entry of multiple sperm is called polyspermy and disrupts normal development.",
+      "context": "",
+      "original": "Fertilisation joins an egg and a sperm to form a zygote. Each contributes one set of chromosomes, producing a diploid genome. Mechanisms at the egg help prevent additional sperm from entering; entry of multiple sperm is called polyspermy and disrupts normal development.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "cardiac-output",
+      "text_sha256": "e9bd66985450472a7d004b80e19d8fa6ae481f1967bc61a488730a158e2bc138",
+      "citation_ids": [
+        "chunk_533e329c38d10cbea7aa374d"
+      ],
+      "simple": "Cardiac output is the volume of blood the heart pumps in one minute. This cited section defines cardiac output but does not cover its full regulation.",
+      "deeper": "The breathing chapter uses it as an analogy for minute ventilation, which is the volume of air moved in one minute. These quantities describe different systems: blood flow through the circulation and airflow through the lungs.",
+      "context": "",
+      "original": "Cardiac output is the volume of blood the heart pumps in one minute. The breathing chapter uses it as an analogy for minute ventilation, which is the volume of air moved in one minute. These quantities describe different systems: blood flow through the circulation and airflow through the lungs. This cited section defines cardiac output but does not cover its full regulation.",
+      "simple_sentence_indices": [
+        0,
+        3
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "epidemiology",
+      "text_sha256": "ce1171523cf63c6bdca0d2c9b71bb35354ff7293eb79eb4d3d5b2ee98bdb7bf2",
+      "citation_ids": [
+        "chunk_06cc53adcbed682c1dbc3c9e"
+      ],
+      "simple": "Epidemiology studies health events in populations: how they are distributed, what influences them, and how that knowledge can help control health problems.",
+      "deeper": "Its focus is the health of a community or population. It includes studying disease patterns and applying the findings to public health action.",
+      "context": "",
+      "original": "Epidemiology studies health events in populations: how they are distributed, what influences them, and how that knowledge can help control health problems. Its focus is the health of a community or population. It includes studying disease patterns and applying the findings to public health action.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "incidence-proportion",
+      "text_sha256": "9785706f2776e9b5c9830a99466027fadb28a1a5b4e983f291536ecc729e7d96",
+      "citation_ids": [
+        "chunk_5afe3d4d34b7ed5d359d8eb5"
+      ],
+      "simple": "Incidence proportion asks: of the people who were initially free of the disease, what proportion developed it during a specified period? The time period and initially disease-free population must be stated; a count of new cases alone is not the complete measure.",
+      "deeper": "It is also called cumulative incidence or risk.",
+      "context": "",
+      "original": "Incidence proportion asks: of the people who were initially free of the disease, what proportion developed it during a specified period? It is also called cumulative incidence or risk. The time period and initially disease-free population must be stated; a count of new cases alone is not the complete measure.",
+      "simple_sentence_indices": [
+        0,
+        2
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "incidence-rate",
+      "text_sha256": "b6414360431e6ea2428d542e54927016946d8555a8691eacf3c012fcbe92f6ea",
+      "citation_ids": [
+        "chunk_cea84bd2595b31deb8b3bcae"
+      ],
+      "simple": "Incidence rate counts new cases in relation to the total person-time at risk.",
+      "deeper": "Each participant contributes the time they were observed before disease onset or another study endpoint. The denominator is the accumulated time for all participants, rather than simply the number of people.",
+      "context": "",
+      "original": "Incidence rate counts new cases in relation to the total person-time at risk. Each participant contributes the time they were observed before disease onset or another study endpoint. The denominator is the accumulated time for all participants, rather than simply the number of people.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "prevalence",
+      "text_sha256": "5867aec422a3c073451a6de4201d265b38ade37582fb5513f87c93149ac7d6c0",
+      "citation_ids": [
+        "chunk_13dc8c5c2f4f227d4ec0d35c"
+      ],
+      "simple": "Prevalence is the proportion of a population with a disease or attribute at a stated point or over a stated period. It includes both existing and new cases. Incidence is limited to new cases.",
+      "deeper": "Point prevalence describes a particular date; period prevalence describes an interval.",
+      "context": "",
+      "original": "Prevalence is the proportion of a population with a disease or attribute at a stated point or over a stated period. It includes both existing and new cases. Incidence is limited to new cases. Point prevalence describes a particular date; period prevalence describes an interval.",
+      "simple_sentence_indices": [
+        0,
+        1,
+        2
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "depression",
+      "text_sha256": "58ffdafee3aa3ceaa1e3cf2a953cef68e9955df9205e8e5b7cd0341cd4e00a4b",
+      "citation_ids": [
+        "chunk_fa1af53945c846af0f7941fd"
+      ],
+      "simple": "Depression is different from the passing sadness everyone can experience. It can affect feelings, thinking and everyday activities such as sleeping, eating or working. This is an explanation of the condition, not a diagnosis of someone's symptoms.",
+      "deeper": "Genetic, biological, environmental and psychological factors can play a role. It can occur alongside other illnesses, and the conditions can affect one another.",
+      "context": "",
+      "original": "Depression is different from the passing sadness everyone can experience. It can affect feelings, thinking and everyday activities such as sleeping, eating or working. Genetic, biological, environmental and psychological factors can play a role. It can occur alongside other illnesses, and the conditions can affect one another. This is an explanation of the condition, not a diagnosis of someone's symptoms.",
+      "simple_sentence_indices": [
+        0,
+        1,
+        4
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "bipolar",
+      "text_sha256": "56e4a5b9f7ef4cc5bd9fea4cd0fee9e5cb096d6a1fe52b5e805eacd02e3a44a9",
+      "citation_ids": [
+        "chunk_f44c955f1b143f234a3ebc1c"
+      ],
+      "simple": "Bipolar disorder involves mood episodes that can be much more extreme than ordinary ups and downs.",
+      "deeper": "Manic episodes include unusually elevated or irritable mood with increased activity; depressive episodes involve low mood and reduced functioning. Some people have hypomania, which is less severe than mania. Symptoms can come and go, and treatment can improve functioning and quality of life.",
+      "context": "",
+      "original": "Bipolar disorder involves mood episodes that can be much more extreme than ordinary ups and downs. Manic episodes include unusually elevated or irritable mood with increased activity; depressive episodes involve low mood and reduced functioning. Some people have hypomania, which is less severe than mania. Symptoms can come and go, and treatment can improve functioning and quality of life.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "schizophrenia",
+      "text_sha256": "64366bf03ec0053bab721a0486183c94aae12fbbd73ecdf93ec9b7bbfe0902ca",
+      "citation_ids": [
+        "chunk_75e9edc78a40bf50a48163d9"
+      ],
+      "simple": "Schizophrenia affects how a person thinks, feels and behaves. A brief description cannot establish an individual diagnosis.",
+      "deeper": "Symptoms can make daily activities difficult and can be distressing for the person and their family. Effective treatments are available and can help people study, work, maintain relationships and become more independent.",
+      "context": "",
+      "original": "Schizophrenia affects how a person thinks, feels and behaves. Symptoms can make daily activities difficult and can be distressing for the person and their family. Effective treatments are available and can help people study, work, maintain relationships and become more independent. A brief description cannot establish an individual diagnosis.",
+      "simple_sentence_indices": [
+        0,
+        3
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "genetic-consent",
+      "text_sha256": "df5387e4b501d6a3db0f8ca68ca9ba7d829e41ece6b8f2fb362b955e392e6286",
+      "citation_ids": [
+        "chunk_0e5631991f4770528e70463e"
+      ],
+      "simple": "For genetic testing, informed consent means understanding the procedure, benefits, limitations and possible consequences, then agreeing voluntarily. This reference describes genetic-testing consent in a US educational context; Indian legal requirements need an applicable Indian source.",
+      "deeper": "Possible false positives, false negatives, uninformative results, privacy and implications for relatives belong in that discussion. A person can change their mind after signing, before testing proceeds.",
+      "context": "",
+      "original": "For genetic testing, informed consent means understanding the procedure, benefits, limitations and possible consequences, then agreeing voluntarily. Possible false positives, false negatives, uninformative results, privacy and implications for relatives belong in that discussion. A person can change their mind after signing, before testing proceeds. This reference describes genetic-testing consent in a US educational context; Indian legal requirements need an applicable Indian source.",
+      "simple_sentence_indices": [
+        0,
+        3
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-pulp",
+      "text_sha256": "bf7efb1af63a1ef48047bcdad7b8c3a311f086347be48fb189943c0ee7a46a1e",
+      "citation_ids": [
+        "chunk_ec530697fa4369402d43e08a"
+      ],
+      "simple": "Dental pulp is the soft connective tissue inside a tooth. Think of it as the living tissue at the centre of the tooth, rather than the hard outer covering.",
+      "deeper": "It contains the tooth's blood vessels, nerves and lymphatic supply.",
+      "context": "",
+      "original": "Dental pulp is the soft connective tissue inside a tooth. It contains the tooth's blood vessels, nerves and lymphatic supply. Think of it as the living tissue at the centre of the tooth, rather than the hard outer covering.",
+      "simple_sentence_indices": [
+        0,
+        2
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-periodontal-ligament",
+      "text_sha256": "abe2dff68c7954fa8849d89f14ce52a06e2ee3b0729c98069a2dfa9c025a5347",
+      "citation_ids": [
+        "chunk_1f56c1039d09aeeae15195a7"
+      ],
+      "simple": "The periodontal ligament is connective tissue that joins cementum on the root to the surrounding alveolar bone.",
+      "deeper": "Its collagen attachments, called Sharpey's fibres, extend into both tissues. It also contains blood vessels and different kinds of cells.",
+      "context": "",
+      "original": "The periodontal ligament is connective tissue that joins cementum on the root to the surrounding alveolar bone. Its collagen attachments, called Sharpey's fibres, extend into both tissues. It also contains blood vessels and different kinds of cells.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-cementum",
+      "text_sha256": "5a356101c693e0e95d4f846a292044de94a83170d6cbf3bf9f799ac3083d6e5e",
+      "citation_ids": [
+        "chunk_5b80831684386cc2c278ebbf"
+      ],
+      "simple": "Cementum is a thin covering over the root dentin.",
+      "deeper": "Cells called cementoblasts deposit its matrix. It has no blood vessels of its own. Cellular cementum contains cells called cementocytes; acellular cementum does not contain cementocytes.",
+      "context": "",
+      "original": "Cementum is a thin covering over the root dentin. Cells called cementoblasts deposit its matrix. It has no blood vessels of its own. Cellular cementum contains cells called cementocytes; acellular cementum does not contain cementocytes.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-junctional-epithelium",
+      "text_sha256": "64ff247546551844e8bc02d8a6952851ca730853c5d2b0fc4a793df11f9b1710",
+      "citation_ids": [
+        "chunk_90bcc3daa650e0adaa18d9ec"
+      ],
+      "simple": "Junctional epithelium is the specialised non-keratinised lining that attaches the gum tissue to the tooth.",
+      "deeper": "It uses attachments called hemidesmosomes. White blood cells can pass through this lining into the gingival sulcus, which is the space beside the tooth. This permeability is relevant to the local immune response and periodontal infection.",
+      "context": "",
+      "original": "Junctional epithelium is the specialised non-keratinised lining that attaches the gum tissue to the tooth. It uses attachments called hemidesmosomes. White blood cells can pass through this lining into the gingival sulcus, which is the space beside the tooth. This permeability is relevant to the local immune response and periodontal infection.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-salivary-glands",
+      "text_sha256": "26fc8820b530cb18e403a687799fef0be4c7019e3a4ae4c3915c0d9fc1eafa78",
+      "citation_ids": [
+        "chunk_9035e47ecd83d69eabc4fbe2",
+        "chunk_dfc2cf23ec44fddec10d0185"
+      ],
+      "simple": "Salivary glands make saliva, which keeps the mouth moist and helps with chewing, speech and swallowing.",
+      "deeper": "The major glands are the parotid, submandibular and sublingual glands, and there are many smaller glands throughout the mouth.",
+      "context": "",
+      "original": "Salivary glands make saliva, which keeps the mouth moist and helps with chewing, speech and swallowing. The major glands are the parotid, submandibular and sublingual glands, and there are many smaller glands throughout the mouth.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-amelogenesis",
+      "text_sha256": "349d9d7db2951b26b495d580bcc2dffbf0f7654ef498887e25d2ca808828b173",
+      "citation_ids": [
+        "chunk_94483a1d68846a805df6a02e"
+      ],
+      "simple": "Amelogenesis means making enamel. Cells called ameloblasts lay down an enamel matrix that contains proteins and water and becomes mineralised. Enamel and bone differ: enamel matrix contains very little or no collagen.",
+      "deeper": "Enamel proteins include amelogenins and enamelins.",
+      "context": "",
+      "original": "Amelogenesis means making enamel. Cells called ameloblasts lay down an enamel matrix that contains proteins and water and becomes mineralised. Enamel proteins include amelogenins and enamelins. Enamel and bone differ: enamel matrix contains very little or no collagen.",
+      "simple_sentence_indices": [
+        0,
+        1,
+        3
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-he",
+      "text_sha256": "44890de28b19802f05df492a632a0628176b9b3eaed9bd8b80ef7bdcb3ef6b9c",
+      "citation_ids": [
+        "chunk_336bada3df7f10f340254b7c"
+      ],
+      "simple": "H&E staining helps us see tissue structure under the microscope. Stain appearance can vary between laboratories and preparation runs.",
+      "deeper": "Haematoxylin highlights nuclei and other basophilic structures in blue-purple. Eosin highlights cytoplasm and extracellular matrix proteins in pink.",
+      "context": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]",
+      "original": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]\n\nH&E staining helps us see tissue structure under the microscope. Haematoxylin highlights nuclei and other basophilic structures in blue-purple. Eosin highlights cytoplasm and extracellular matrix proteins in pink. Stain appearance can vary between laboratories and preparation runs.",
+      "simple_sentence_indices": [
+        0,
+        3
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-ihc",
+      "text_sha256": "51bece99f38b2f0f41756c248e2af72cbb7f0a8541f6bf0677819bb4650167b0",
+      "citation_ids": [
+        "chunk_336bada3df7f10f340254b7c"
+      ],
+      "simple": "Immunohistochemistry uses the specific interaction between an antibody and its antigen to highlight particular proteins in tissue. This explains the staining principle rather than interpreting a patient's result.",
+      "deeper": "A chromogenic substrate makes the interaction visible; DAB produces a brown precipitate.",
+      "context": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]",
+      "original": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]\n\nImmunohistochemistry uses the specific interaction between an antibody and its antigen to highlight particular proteins in tissue. A chromogenic substrate makes the interaction visible; DAB produces a brown precipitate. This explains the staining principle rather than interpreting a patient's result.",
+      "simple_sentence_indices": [
+        0,
+        2
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-fixation",
+      "text_sha256": "b2fee83e7067e241a78e17d276b2c7ec33fb859925438624ff3ad0d111f81593",
+      "citation_ids": [
+        "chunk_e782bdba8602af5a34fb200c"
+      ],
+      "simple": "Fixation preserves tissue by stopping autolysis and degradation and stabilising its structure and molecular components. Both too little and too much fixation can complicate later analysis, including immunohistochemistry.",
+      "deeper": "Formaldehyde forms cross-links among proteins.",
+      "context": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]",
+      "original": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]\n\nFixation preserves tissue by stopping autolysis and degradation and stabilising its structure and molecular components. Formaldehyde forms cross-links among proteins. Both too little and too much fixation can complicate later analysis, including immunohistochemistry.",
+      "simple_sentence_indices": [
+        0,
+        2
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-processing",
+      "text_sha256": "07ddd490fa6f02256de58886765d5079eed89e0ffabab7e0a63120bfbf712b08",
+      "citation_ids": [
+        "chunk_9e78c04a0017f3c218f636b8"
+      ],
+      "simple": "Tissue processing prepares a specimen for thin sections.",
+      "deeper": "Processing removes water and allows paraffin wax to infiltrate the tissue. The tissue is then embedded in a wax block, which helps it stay firm during cutting. The orientation chosen during embedding determines the plane seen on the slide.",
+      "context": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]",
+      "original": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]\n\nTissue processing prepares a specimen for thin sections. Processing removes water and allows paraffin wax to infiltrate the tissue. The tissue is then embedded in a wax block, which helps it stay firm during cutting. The orientation chosen during embedding determines the plane seen on the slide.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-candidiasis",
+      "text_sha256": "415c6f2a4ac20d73938961ec3ba7de98bc5597dffea41b9705c283437f8b1a3a",
+      "citation_ids": [
+        "chunk_ce9195e4911c385e2683429c"
+      ],
+      "simple": "Oral candidiasis is a fungal infection in the mouth caused by Candida yeasts. This patient series does not determine an individual treatment.",
+      "deeper": "Candida can live as a commensal, but conditions that favour its growth can allow it to cause disease.",
+      "context": "[Research context: 2017; retrospective patient series; human. 276 Brazilian patients with oral candidiasis. Limitations: Retrospective selected cohort; findings do not generalize to all populations or determine individual treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]",
+      "original": "[Research context: 2017; retrospective patient series; human. 276 Brazilian patients with oral candidiasis. Limitations: Retrospective selected cohort; findings do not generalize to all populations or determine individual treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]\n\nOral candidiasis is a fungal infection in the mouth caused by Candida yeasts. Candida can live as a commensal, but conditions that favour its growth can allow it to cause disease. This patient series does not determine an individual treatment.",
+      "simple_sentence_indices": [
+        0,
+        2
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-normal-distribution",
+      "text_sha256": "e7dbb1e8fcc2bbef346626468b5ceb84d944bb89e58452bddef907e0ae4bf3de",
+      "citation_ids": [
+        "chunk_c9ed31d6fdf9d95998f1727e"
+      ],
+      "simple": "A normal distribution is a continuous bell-shaped distribution, also called a Gaussian distribution. A normal curve is a model; it does not mean that every measurement follows that model.",
+      "deeper": "It is described by its mean and standard deviation. The mean locates its centre, while the standard deviation describes its spread.",
+      "context": "",
+      "original": "A normal distribution is a continuous bell-shaped distribution, also called a Gaussian distribution. It is described by its mean and standard deviation. The mean locates its centre, while the standard deviation describes its spread. A normal curve is a model; it does not mean that every measurement follows that model.",
+      "simple_sentence_indices": [
+        0,
+        3
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-confidence-interval",
+      "text_sha256": "295ff5821efa49194eefa53b35a41fa62ad7e656eb113580a44559f162d89421",
+      "citation_ids": [
+        "chunk_3c6e54a60869f4aa70d66852"
+      ],
+      "simple": "A frequentist 95% confidence interval describes a procedure that would include the fixed population value in about 95% of intervals if the study were repeated under its assumptions. It does not mean there is a 95% probability that the fixed population mean lies inside one particular calculated interval.",
+      "deeper": "",
+      "context": "",
+      "original": "A frequentist 95% confidence interval describes a procedure that would include the fixed population value in about 95% of intervals if the study were repeated under its assumptions. It does not mean there is a 95% probability that the fixed population mean lies inside one particular calculated interval.",
+      "simple_sentence_indices": [
+        0,
+        1
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-mean",
+      "text_sha256": "bbd4b43f1d075e67d1c0c7b520ade0ba028d170de54816ddd5329bebed761b6c",
+      "citation_ids": [
+        "chunk_55c3a870df0360cbf98c33b1"
+      ],
+      "simple": "The arithmetic mean is the familiar average: add the observed values and divide by the number of observations.",
+      "deeper": "It summarises a set of measurements with one number.",
+      "context": "",
+      "original": "The arithmetic mean is the familiar average: add the observed values and divide by the number of observations. It summarises a set of measurements with one number.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "mds-anova",
+      "text_sha256": "59752a9549205b33edfa548a444536fd06a263f62a8d839ff55850105ec2e292",
+      "citation_ids": [
+        "chunk_2a604a75de656536937b31bb"
+      ],
+      "simple": "One-way analysis of variance, or ANOVA, can compare the population means of several groups.",
+      "deeper": "The null hypothesis says the group means are all equal. The alternative says at least one differs; it does not identify which groups differ by itself.",
+      "context": "",
+      "original": "One-way analysis of variance, or ANOVA, can compare the population means of several groups. The null hypothesis says the group means are all equal. The alternative says at least one differs; it does not identify which groups differ by itself.",
+      "simple_sentence_indices": [
+        0
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "audit-free-bound-drug",
+      "text_sha256": "7e8270b22b307274b4ee481bdff37cd1acdfe81822aba0e17eb0d9e8e9527f2c",
+      "citation_ids": [
+        "chunk_33c108fbd442f97275875a6b"
+      ],
+      "simple": "Free drug is the unbound portion dissolved in plasma water. It can cross cell membranes and produce effects.",
+      "deeper": "Protein-bound drug can act as a reservoir that releases drug slowly and prolongs its action. This explains the role of protein binding in drug distribution; the amount available to tissues and the reserve released over time both matter.",
+      "context": "",
+      "original": "Free drug is the unbound portion dissolved in plasma water. It can cross cell membranes and produce effects. Protein-bound drug can act as a reservoir that releases drug slowly and prolongs its action. This explains the role of protein binding in drug distribution; the amount available to tissues and the reserve released over time both matter.",
+      "simple_sentence_indices": [
+        0,
+        1
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "audit-metabolism-lifespan",
+      "text_sha256": "1d4488604a1df2c72a5614f3486af62ab1898c77f544bd1ec73ab55459bd345c",
+      "citation_ids": [
+        "chunk_43a5607bdd134996d92a90a0"
+      ],
+      "simple": "In infants and young children, the developing liver produces decreased levels of microsomal enzymes. This may reduce their ability to metabolize medications. These are general lifespan and liver-function concepts, without personal dosing advice.",
+      "deeper": "Older children may have increased metabolism as hepatic enzymes mature. Drug metabolism may also be impaired due to liver damage, because medicines are broken down less efficiently.",
+      "context": "",
+      "original": "In infants and young children, the developing liver produces decreased levels of microsomal enzymes. This may reduce their ability to metabolize medications. Older children may have increased metabolism as hepatic enzymes mature. Drug metabolism may also be impaired due to liver damage, because medicines are broken down less efficiently. These are general lifespan and liver-function concepts, without personal dosing advice.",
+      "simple_sentence_indices": [
+        0,
+        1,
+        4
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "epithelium-overview",
+      "text_sha256": "97a7eb66d184639c1d3ced1769bda32442159e9ac42cbc28b83a41e70938496a",
+      "citation_ids": [
+        "chunk_12cd61937831159f068be326",
+        "chunk_7ee5aacab2d64854c44fc5db",
+        "chunk_3fbce5758f2b9605b90ec58c"
+      ],
+      "simple": "Epithelium is a tissue made of closely packed cells that cover body surfaces, line internal spaces and form glands. Think of it as the body’s covering and lining.",
+      "deeper": "Its job depends on where it is found. It can protect underlying tissues, absorb substances such as nutrients, release substances such as mucus, and allow exchange by diffusion. Different types are adapted to different jobs. The tissue is supported by a basement membrane. Epithelia are classified by cell shape—squamous (flat), cuboidal (cube-shaped) or columnar (tall)—and by their arrangement. Simple epithelium has one cell layer; stratified epithelium has several.",
+      "context": "",
+      "original": "Epithelium is a tissue made of closely packed cells that cover body surfaces, line internal spaces and form glands. Think of it as the body’s covering and lining.\n\nIts job depends on where it is found. It can protect underlying tissues, absorb substances such as nutrients, release substances such as mucus, and allow exchange by diffusion. Different types are adapted to different jobs.\n\nThe tissue is supported by a basement membrane. Epithelia are classified by cell shape—squamous (flat), cuboidal (cube-shaped) or columnar (tall)—and by their arrangement. Simple epithelium has one cell layer; stratified epithelium has several.",
+      "simple_sentence_indices": [
+        0,
+        1
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    },
+    {
+      "unit_id": "sulcular-epithelium-bounded",
+      "text_sha256": "5765ebf6bc162a1b261604c509d8c47aa2d73752b0373061aa0cbce7cea803d9",
+      "citation_ids": [
+        "chunk_445b03532f31ab4dbd17806e",
+        "chunk_90bcc3daa650e0adaa18d9ec"
+      ],
+      "simple": "Sulcular epithelium is the lining on the gum side of the gingival sulcus—the narrow space between the gum and the tooth. It lines that space; it does not create it.",
+      "deeper": "Sulcular epithelium is not attached to the tooth surface. The attachment to the tooth is made by junctional epithelium, a different epithelial region.",
+      "context": "",
+      "original": "Sulcular epithelium is the lining on the gum side of the gingival sulcus—the narrow space between the gum and the tooth. It lines that space; it does not create it.\n\nSulcular epithelium is not attached to the tooth surface. The attachment to the tooth is made by junctional epithelium, a different epithelial region.",
+      "simple_sentence_indices": [
+        0,
+        1
+      ],
+      "review_status": "developer_reviewed_presentation",
+      "clinical_review": false
+    }
+  ]
+}

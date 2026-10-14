@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "review_scope": "Partial AI-assisted developer review of the specialty component; no faculty assessment. Verified concerns are held, remaining source claims await review.",
+  "clinical_accuracy": null,
+  "source_holds": [
+    {"chunk_id":"chunk_d7e398259f59712e727f312b","recommended_runtime_policy":"exclude","reason":"Placeholder refers only to an excluded table and provides no standalone teaching content.","medical_counterevidence_urls":[]},
+    {"chunk_id":"chunk_d1f70f191bf4c40039d00d36","recommended_runtime_policy":"explanation_only","reason":"Missing table context and authors' preferred cyst subdivisions must not become current WHO classification facts.","medical_counterevidence_urls":[]},
+    {"chunk_id":"chunk_a5cf824e3d5ec3d0982ec555","recommended_runtime_policy":"explanation_only","reason":"Source reverses the reported direction of the oral screening five-year survival result; hold raw wording.","medical_counterevidence_urls":["https://www.cochrane.org/evidence/CD004150_screening-programmes-early-detection-and-prevention-oral-cancer","https://www.iarc.who.int/wp-content/uploads/2018/07/wcr_2008_6.pdf"]},
+    {"chunk_id":"chunk_0467f04d8580f2c485991681","recommended_runtime_policy":"explanation_only","reason":"Conflates HPV-associated oropharyngeal sites with oral-cavity squamous cell carcinoma.","medical_counterevidence_urls":["https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer"]},
+    {"chunk_id":"chunk_45e58309bd3ba1e56b9a66f5","recommended_runtime_policy":"exclude","reason":"Erroneous protein name jasmine and outdated 40-protein count; the 2024 ISA nomenclature report lists 42. No invented replacement.","medical_counterevidence_urls":["https://pubmed.ncbi.nlm.nih.gov/39350582/"]},
+    {"chunk_id":"chunk_68f555f6b92b391d7e027756","recommended_runtime_policy":"explanation_only","reason":"Incorrect expansion of NT-proBNP as beta-terminal pro natriuretic peptide.","medical_counterevidence_urls":["https://precision.fda.gov/ginas/app/ui/substances/GL2CLL2YZK"]},
+    {"chunk_id":"chunk_7ed2677b4d8c12f483e27b3f","recommended_runtime_policy":"exclude","reason":"Merges in-vitro inhibition and increased deposition after in-vivo SerpinA1 downregulation in mice, reversing the experimental intervention and setting.","medical_counterevidence_urls":["https://pubmed.ncbi.nlm.nih.gov/34502397/"]},
+    {"chunk_id":"chunk_3f9e0e2a6bcf01e91d07da79","recommended_runtime_policy":"explanation_only","reason":"Universal antiparallel amyloid beta-strand description conflicts with parallel contacts in original patient-derived ATTR cryo-EM structure.","medical_counterevidence_urls":["https://pmc.ncbi.nlm.nih.gov/articles/PMC6825171/"]},
+    {"chunk_id":"chunk_af3fd366d3d997390f98c118","recommended_runtime_policy":"explanation_only","reason":"Native intrinsically disordered proteins are conflated with intrinsically misfolded proteins.","medical_counterevidence_urls":["https://meshb.nlm.nih.gov/record/ui?ui=D064267"]}
+  ]
+}

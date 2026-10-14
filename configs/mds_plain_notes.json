@@ -1,0 +1,558 @@
+{
+  "schema_version": 1,
+  "component_manifest_sha256": "daef966401085867aa2459b628926ca99fa64376c2367c903bb0da06ffb32b44",
+  "review_scope": "Bounded developer source comparison; no faculty review.",
+  "units": [
+    {
+      "id": "mds-pulp",
+      "topics": [
+        "dental pulp",
+        "pulp"
+      ],
+      "text": "Dental pulp is the soft connective tissue inside a tooth. It contains the tooth's blood vessels, nerves and lymphatic supply. Think of it as the living tissue at the centre of the tooth, rather than the hard outer covering.",
+      "citation_ids": [
+        "chunk_ec530697fa4369402d43e08a"
+      ],
+      "qualifications": []
+    },
+    {
+      "id": "mds-periodontal-ligament",
+      "topics": [
+        "periodontal ligament",
+        "PDL"
+      ],
+      "text": "The periodontal ligament is connective tissue that joins cementum on the root to the surrounding alveolar bone. Its collagen attachments, called Sharpey's fibres, extend into both tissues. It also contains blood vessels and different kinds of cells.",
+      "citation_ids": [
+        "chunk_1f56c1039d09aeeae15195a7"
+      ],
+      "qualifications": []
+    },
+    {
+      "id": "mds-cementum",
+      "topics": [
+        "cementum"
+      ],
+      "text": "Cementum is a thin covering over the root dentin. Cells called cementoblasts deposit its matrix. It has no blood vessels of its own. Cellular cementum contains cells called cementocytes; acellular cementum does not contain cementocytes.",
+      "citation_ids": [
+        "chunk_5b80831684386cc2c278ebbf"
+      ],
+      "qualifications": [
+        "does not contain cementocytes"
+      ]
+    },
+    {
+      "id": "mds-junctional-epithelium",
+      "topics": [
+        "junctional epithelium"
+      ],
+      "text": "Junctional epithelium is the specialised non-keratinised lining that attaches the gum tissue to the tooth. It uses attachments called hemidesmosomes. White blood cells can pass through this lining into the gingival sulcus, which is the space beside the tooth. This permeability is relevant to the local immune response and periodontal infection.",
+      "citation_ids": [
+        "chunk_90bcc3daa650e0adaa18d9ec"
+      ],
+      "qualifications": [
+        "non-keratinised"
+      ]
+    },
+    {
+      "id": "mds-salivary-glands",
+      "topics": [
+        "salivary glands",
+        "saliva"
+      ],
+      "text": "Salivary glands make saliva, which keeps the mouth moist and helps with chewing, speech and swallowing. The major glands are the parotid, submandibular and sublingual glands, and there are many smaller glands throughout the mouth.",
+      "citation_ids": [
+        "chunk_9035e47ecd83d69eabc4fbe2",
+        "chunk_dfc2cf23ec44fddec10d0185"
+      ],
+      "qualifications": []
+    },
+    {
+      "id": "mds-amelogenesis",
+      "topics": [
+        "amelogenesis",
+        "enamel formation",
+        "enamel development"
+      ],
+      "text": "Amelogenesis means making enamel. Cells called ameloblasts lay down an enamel matrix that contains proteins and water and becomes mineralised. Enamel proteins include amelogenins and enamelins. Enamel and bone differ: enamel matrix contains very little or no collagen.",
+      "citation_ids": [
+        "chunk_94483a1d68846a805df6a02e"
+      ],
+      "qualifications": [
+        "very little or no collagen"
+      ]
+    },
+    {
+      "id": "mds-he",
+      "topics": [
+        "H&E staining",
+        "haematoxylin and eosin",
+        "hematoxylin and eosin"
+      ],
+      "text": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]\n\nH&E staining helps us see tissue structure under the microscope. Haematoxylin highlights nuclei and other basophilic structures in blue-purple. Eosin highlights cytoplasm and extracellular matrix proteins in pink. Stain appearance can vary between laboratories and preparation runs.",
+      "citation_ids": [
+        "chunk_336bada3df7f10f340254b7c"
+      ],
+      "qualifications": [
+        "not a clinical recommendation"
+      ]
+    },
+    {
+      "id": "mds-ihc",
+      "topics": [
+        "immunohistochemistry",
+        "IHC",
+        "immunohistochemical stains"
+      ],
+      "text": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]\n\nImmunohistochemistry uses the specific interaction between an antibody and its antigen to highlight particular proteins in tissue. A chromogenic substrate makes the interaction visible; DAB produces a brown precipitate. This explains the staining principle rather than interpreting a patient's result.",
+      "citation_ids": [
+        "chunk_336bada3df7f10f340254b7c"
+      ],
+      "qualifications": [
+        "not a clinical recommendation"
+      ]
+    },
+    {
+      "id": "mds-fixation",
+      "topics": [
+        "tissue fixation",
+        "fixation"
+      ],
+      "text": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]\n\nFixation preserves tissue by stopping autolysis and degradation and stabilising its structure and molecular components. Formaldehyde forms cross-links among proteins. Both too little and too much fixation can complicate later analysis, including immunohistochemistry.",
+      "citation_ids": [
+        "chunk_e782bdba8602af5a34fb200c"
+      ],
+      "qualifications": [
+        "not a clinical recommendation"
+      ]
+    },
+    {
+      "id": "mds-processing",
+      "topics": [
+        "tissue processing"
+      ],
+      "text": "[Research context: 2026-05-13; methodological educational review; unknown. Foundational pathology laboratory workflow for computational researchers; no single clinical cohort. Limitations: Educational laboratory overview; computational guidance does not validate an autonomous diagnosis or clinical treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]\n\nTissue processing prepares a specimen for thin sections. Processing removes water and allows paraffin wax to infiltrate the tissue. The tissue is then embedded in a wax block, which helps it stay firm during cutting. The orientation chosen during embedding determines the plane seen on the slide.",
+      "citation_ids": [
+        "chunk_9e78c04a0017f3c218f636b8"
+      ],
+      "qualifications": [
+        "not a clinical recommendation"
+      ]
+    },
+    {
+      "id": "mds-candidiasis",
+      "topics": [
+        "oral candidiasis"
+      ],
+      "text": "[Research context: 2017; retrospective patient series; human. 276 Brazilian patients with oral candidiasis. Limitations: Retrospective selected cohort; findings do not generalize to all populations or determine individual treatment. Educational research evidence; not a clinical recommendation. Faculty review pending.]\n\nOral candidiasis is a fungal infection in the mouth caused by Candida yeasts. Candida can live as a commensal, but conditions that favour its growth can allow it to cause disease. This patient series does not determine an individual treatment.",
+      "citation_ids": [
+        "chunk_ce9195e4911c385e2683429c"
+      ],
+      "qualifications": [
+        "not a clinical recommendation"
+      ]
+    },
+    {
+      "id": "mds-normal-distribution",
+      "topics": [
+        "normal distribution",
+        "Gaussian distribution"
+      ],
+      "text": "A normal distribution is a continuous bell-shaped distribution, also called a Gaussian distribution. It is described by its mean and standard deviation. The mean locates its centre, while the standard deviation describes its spread. A normal curve is a model; it does not mean that every measurement follows that model.",
+      "citation_ids": [
+        "chunk_c9ed31d6fdf9d95998f1727e"
+      ],
+      "qualifications": []
+    },
+    {
+      "id": "mds-confidence-interval",
+      "topics": [
+        "confidence interval",
+        "confidence intervals"
+      ],
+      "text": "A frequentist 95% confidence interval describes a procedure that would include the fixed population value in about 95% of intervals if the study were repeated under its assumptions. It does not mean there is a 95% probability that the fixed population mean lies inside one particular calculated interval.",
+      "citation_ids": [
+        "chunk_3c6e54a60869f4aa70d66852"
+      ],
+      "qualifications": [
+        "does not mean"
+      ]
+    },
+    {
+      "id": "mds-mean",
+      "topics": [
+        "arithmetic mean",
+        "mean"
+      ],
+      "text": "The arithmetic mean is the familiar average: add the observed values and divide by the number of observations. It summarises a set of measurements with one number.",
+      "citation_ids": [
+        "chunk_55c3a870df0360cbf98c33b1"
+      ],
+      "qualifications": []
+    },
+    {
+      "id": "mds-anova",
+      "topics": [
+        "analysis of variance",
+        "ANOVA"
+      ],
+      "text": "One-way analysis of variance, or ANOVA, can compare the population means of several groups. The null hypothesis says the group means are all equal. The alternative says at least one differs; it does not identify which groups differ by itself.",
+      "citation_ids": [
+        "chunk_2a604a75de656536937b31bb"
+      ],
+      "qualifications": [
+        "at least one"
+      ]
+    }
+  ],
+  "holds": [
+    {
+      "chunk_id": "chunk_7b3275aa8bba2170d7ed8f45",
+      "runtime_policy": "exclude",
+      "reason": "DNA replication timing and chromosome/chromatid counts are misstated. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_67c4b85135bf18c01193ef37",
+      "runtime_policy": "exclude",
+      "reason": "Cyclins are incorrectly called transcription factors. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_573228e804559274c6264a9c",
+      "runtime_policy": "exclude",
+      "reason": "Cyclins are incorrectly called transcription factors. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_51ea9bb9b2e1bc6442fd8309",
+      "runtime_policy": "exclude",
+      "reason": "Desmosome proteins and cell-to-cell versus matrix attachment are conflated. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_614d6e0b9f4db72b2b152900",
+      "runtime_policy": "exclude",
+      "reason": "RANKL is described as a generic caspase-triggering apoptosis signal. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_c5d634f7ede5ee9b90039f06",
+      "runtime_policy": "exclude",
+      "reason": "Odontoclast lineage and causes of pathological dentin resorption are misstated. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_c3c940471ae0f62ea367232e",
+      "runtime_policy": "exclude",
+      "reason": "Absolute orthodontic prohibition with bisphosphonates and contradictory RANKL roles. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_8bcd2a1f5936dd848371652c",
+      "runtime_policy": "exclude",
+      "reason": "Tooth-eruption discussion conflates PTH with PTHrP. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_5b241c6a029fb697aa68255c",
+      "runtime_policy": "exclude",
+      "reason": "Tooth-eruption discussion conflates PTH with PTHrP. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_cdbf773ddde5669f9f22128f",
+      "runtime_policy": "exclude",
+      "reason": "Primary failure of eruption is conflated with impaction and ankylosis. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_8c9daf6b053f197f321bdbf9",
+      "runtime_policy": "exclude",
+      "reason": "Mantle-dentin thickness magnitude is questionable. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_bae498293b5fa4de4d769caa",
+      "runtime_policy": "exclude",
+      "reason": "Serous demilunes and myoepithelial cells are conflated; duct statements are overbroad. Hold pending faculty review."
+    },
+    {
+      "chunk_id": "chunk_90bcc3daa650e0adaa18d9ec",
+      "runtime_policy": "explanation_only",
+      "reason": "Tooth attachment surface orientation is questionable; bounded note omits orientation."
+    },
+    {
+      "chunk_id": "chunk_5b80831684386cc2c278ebbf",
+      "runtime_policy": "explanation_only",
+      "reason": "Thickness uses concentration notation muM; bounded note omits numerical thickness."
+    },
+    {
+      "chunk_id": "chunk_dfc2cf23ec44fddec10d0185",
+      "runtime_policy": "explanation_only",
+      "reason": "Amylase, lysozyme and bacterial/viral structures are conflated; bounded note covers saliva moistening functions only."
+    },
+    {
+      "chunk_id": "chunk_9035e47ecd83d69eabc4fbe2",
+      "runtime_policy": "explanation_only",
+      "reason": "Parotid duct is said to pass through masseter; bounded note names glands without this duct-course claim."
+    },
+    {
+      "chunk_id": "chunk_41ef6303718ce4fdcb9f8ec7",
+      "runtime_policy": "exclude",
+      "reason": "Ranula is generalised to obstruction of any major salivary gland."
+    },
+    {
+      "chunk_id": "chunk_3b3121831adec731da75be43",
+      "runtime_policy": "exclude",
+      "reason": "Dentin/enamel thickness is presented as simply caused by formation order."
+    },
+    {
+      "chunk_id": "chunk_94483a1d68846a805df6a02e",
+      "runtime_policy": "explanation_only",
+      "reason": "Neonatal-line causal wording and developmental simplifications need review; bounded enamel-matrix claims only."
+    },
+    {
+      "chunk_id": "chunk_32b90b82e1e21e730872a0cf",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_dca6b01d9d6d34b6d6211e8d",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_29d6fb6179c1ebfec93419b0",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_638df8a70a02c58d2b1411ec",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_14ba5b7ac44027c5e441ede9",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_0c7af70a72ead60b72197ca9",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_e0cea9a8203f28e028359f87",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_d92fb6f2b28ebd96c330d7b3",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_75653f1f13059b93a9fa3277",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_768ba8447e8307fd46b18a0c",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_a6bf06a7a58a0951593bdd73",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_0a29b50e910cb1297422a7a0",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_f4de92e7629492a457241abe",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_08330738e750bc5fabb3c4b9",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_a7cd52ce4b7cdbc62db385c4",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_5686deb9f9b58d40dfa4b6f5",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_8248a17719db8b3575b0f475",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_d10f125de9ceabc34864e9cf",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_b47d66f0185cf627dbe5cba4",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_88901dd8e3e1be08954449d5",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_3a4aa4a7efba72ba709d6bd2",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_3784c0d78a80441a716b2c2b",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_716aa33454f61620f69eb28a",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_1098c981b96c80857a0043cf",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_0e9b3332b0d6e073bf6300a3",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_f7ae400f1905c90f7c87114a",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_f988608a27ce1bfd0c548ed4",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_7fe1d854d0d05669b864b7ad",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_0a098f840b0ac32c8538debe",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_66ead0c3ac25a53d6357602b",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_e62f157509fe48a28b02afc9",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_58a3e9cdf9d0fcbc5997da28",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_87fde48edb49d03d7a5dd149",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_f501883969a0ebee9f14b30c",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_714843741a95b79c1c3c4053",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_79d1e3b9a05ee51e365e565c",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_9c793c0d4d7fe478595cbf9d",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_5c6a1186f269ea6c8b8fb54b",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_8e3305a015d949fa46c1a476",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_7665a587f187f93a6cbe9ca2",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_c457b9fc3588ee3f9032ebe3",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_04d48168b02120ee248a7e44",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_1f37f57b66331e1d093b9aa4",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_9f7c2ad4ee1d0b8a4b160318",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_384301cc9fd5d0763b6f0c66",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_70608a5054a415995c878f39",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_21137ffb2190988c429e8b02",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_6a383a6cf9ad3ed25d280676",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_39fc3aedfb9288d2cdfcc749",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    },
+    {
+      "chunk_id": "chunk_2eb761c7e8c4ad70a52bc3b5",
+      "runtime_policy": "exclude",
+      "reason": "Statistical methods article held at source level after detected generalisation errors or displayed-formula omissions. Use the independently licensed statistics textbook; original article retained for review."
+    }
+  ],
+  "additional_component_manifests": {
+    "mds-research-2026-10-09-v2": "703dcb821535c754d867efccad0033c368186a8097449a60d53b59692d5d3a52",
+    "mds-statistics-v1-2026-10-09": "e58a616b89f8a1ecdabe1658ecb6e1e88966cb388081579476903656f3d82fb9"
+  }
+}

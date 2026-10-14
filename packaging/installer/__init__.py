@@ -1,0 +1,1 @@
+"""Authenticated release bootstrapper."""

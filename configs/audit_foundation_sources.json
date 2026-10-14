@@ -1,0 +1,999 @@
+{
+  "retrieved_date": "2026-10-09",
+  "documents": [
+    {
+      "id": "audit-osu-anatomy2019-18-6-blood-typing",
+      "title": "18.6 Blood Typing – Anatomy & Physiology",
+      "url": "https://open.oregonstate.education/anatomy/chapter/18-6-blood-typing/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2019-09-26",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2019 web edition",
+      "authors": [
+        "Lindsay M. Biga",
+        "Staci Bronson",
+        "Sierra Dawson",
+        "Amy Harwell",
+        "Robin Hopkins",
+        "Joel Kaufmann",
+        "Mike LeMaster",
+        "Philip Matern",
+        "Katie Morrison-Graham",
+        "Kristen Oja",
+        "Devon Quick",
+        "Jon Runyeon",
+        "OpenStax",
+        "OSU OERU"
+      ],
+      "subjects": [
+        "physiology"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy2019-license.md",
+      "license_snapshot_sha256": "ccda8d162e02f4b386ae3ddd3439c4811722953aeaf3ff960994b7ab2a05f66c",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-18-6-blood-typing.md",
+      "raw_sha256": "6643bbaa43f76d1fd2514b13d13d4f573fc9b51c3cbb5a520a986ba257af946b",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax, OSU OERU. Anatomy & Physiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax, OSU OERU. Anatomy & Physiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-anatomy2e-anatomy-synovial-joints",
+      "title": "9.6 Anatomy of Selected Synovial Joints – Anatomy & Physiology 2e",
+      "url": "https://open.oregonstate.education/anatomy2e/chapter/anatomy-synovial-joints/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2025-09-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2025 second web edition",
+      "authors": [
+        "Lindsay M. Biga",
+        "Staci Bronson",
+        "Sierra Dawson",
+        "Amy Harwell",
+        "Robin Hopkins",
+        "Joel Kaufmann",
+        "Mike LeMaster",
+        "Philip Matern",
+        "Katie Morrison-Graham",
+        "Kristen Oja",
+        "Devon Quick",
+        "Jon Runyeon",
+        "OpenStax"
+      ],
+      "subjects": [
+        "anatomy",
+        "head and neck anatomy"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-license.md",
+      "license_snapshot_sha256": "b6383bd2ce8d3770072f2e75e972038f44ac331e78574a2dfdfb17817d9d3060",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-anatomy-synovial-joints.md",
+      "raw_sha256": "633a3a3bf47aa4c285489e936a8771411505e59a839aeeb790689dcf54850c3a",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-anatomy2e-axial-muscles-head-neck-back",
+      "title": "11.4 Axial Muscles of the Head, Neck, and Back – Anatomy & Physiology 2e",
+      "url": "https://open.oregonstate.education/anatomy2e/chapter/axial-muscles-head-neck-back/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2025-09-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2025 second web edition",
+      "authors": [
+        "Lindsay M. Biga",
+        "Staci Bronson",
+        "Sierra Dawson",
+        "Amy Harwell",
+        "Robin Hopkins",
+        "Joel Kaufmann",
+        "Mike LeMaster",
+        "Philip Matern",
+        "Katie Morrison-Graham",
+        "Kristen Oja",
+        "Devon Quick",
+        "Jon Runyeon",
+        "OpenStax"
+      ],
+      "subjects": [
+        "anatomy",
+        "head and neck anatomy"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-license.md",
+      "license_snapshot_sha256": "b6383bd2ce8d3770072f2e75e972038f44ac331e78574a2dfdfb17817d9d3060",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-axial-muscles-head-neck-back.md",
+      "raw_sha256": "0ad0023d0995e5a2bbb00915a950c8533789dafd0230449867e3c17db6d6160e",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-anatomy2e-cell-membrane",
+      "title": "3.1 The Cell Membrane – Anatomy & Physiology 2e",
+      "url": "https://open.oregonstate.education/anatomy2e/chapter/cell-membrane/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2025-09-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2025 second web edition",
+      "authors": [
+        "Lindsay M. Biga",
+        "Staci Bronson",
+        "Sierra Dawson",
+        "Amy Harwell",
+        "Robin Hopkins",
+        "Joel Kaufmann",
+        "Mike LeMaster",
+        "Philip Matern",
+        "Katie Morrison-Graham",
+        "Kristen Oja",
+        "Devon Quick",
+        "Jon Runyeon",
+        "OpenStax"
+      ],
+      "subjects": [
+        "anatomy",
+        "head and neck anatomy"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-license.md",
+      "license_snapshot_sha256": "b6383bd2ce8d3770072f2e75e972038f44ac331e78574a2dfdfb17817d9d3060",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-cell-membrane.md",
+      "raw_sha256": "22cf6d14f3aa623521b77b9ad22c8e372cdd72b7d0bca7d98caf6529bc08dc12",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-anatomy2e-hemostasis",
+      "title": "18.5 Hemostasis – Anatomy & Physiology 2e",
+      "url": "https://open.oregonstate.education/anatomy2e/chapter/hemostasis/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2025-09-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2025 second web edition",
+      "authors": [
+        "Lindsay M. Biga",
+        "Staci Bronson",
+        "Sierra Dawson",
+        "Amy Harwell",
+        "Robin Hopkins",
+        "Joel Kaufmann",
+        "Mike LeMaster",
+        "Philip Matern",
+        "Katie Morrison-Graham",
+        "Kristen Oja",
+        "Devon Quick",
+        "Jon Runyeon",
+        "OpenStax"
+      ],
+      "subjects": [
+        "physiology"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-license.md",
+      "license_snapshot_sha256": "b6383bd2ce8d3770072f2e75e972038f44ac331e78574a2dfdfb17817d9d3060",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-hemostasis.md",
+      "raw_sha256": "69c19f2cae131b1ca6ea770757097e51dcfa569bb478023f5f5a6675aff330a6",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-anatomy2e-mouth-pharynx-esophagus",
+      "title": "23.3 The Mouth, Pharynx, and Esophagus – Anatomy & Physiology 2e",
+      "url": "https://open.oregonstate.education/anatomy2e/chapter/mouth-pharynx-esophagus/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2025-09-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2025 second web edition",
+      "authors": [
+        "Lindsay M. Biga",
+        "Staci Bronson",
+        "Sierra Dawson",
+        "Amy Harwell",
+        "Robin Hopkins",
+        "Joel Kaufmann",
+        "Mike LeMaster",
+        "Philip Matern",
+        "Katie Morrison-Graham",
+        "Kristen Oja",
+        "Devon Quick",
+        "Jon Runyeon",
+        "OpenStax"
+      ],
+      "subjects": [
+        "anatomy",
+        "head and neck anatomy"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-license.md",
+      "license_snapshot_sha256": "b6383bd2ce8d3770072f2e75e972038f44ac331e78574a2dfdfb17817d9d3060",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-mouth-pharynx-esophagus.md",
+      "raw_sha256": "3809fb6f940b90b7cf4b98f8307755cd3237fd6735c1d7e1cfe080c4478cfa0f",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-anatomy2e-sensory-receptors",
+      "title": "13.1 Sensory Receptors – Anatomy & Physiology 2e",
+      "url": "https://open.oregonstate.education/anatomy2e/chapter/sensory-receptors/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2025-09-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2025 second web edition",
+      "authors": [
+        "Lindsay M. Biga",
+        "Staci Bronson",
+        "Sierra Dawson",
+        "Amy Harwell",
+        "Robin Hopkins",
+        "Joel Kaufmann",
+        "Mike LeMaster",
+        "Philip Matern",
+        "Katie Morrison-Graham",
+        "Kristen Oja",
+        "Devon Quick",
+        "Jon Runyeon",
+        "OpenStax"
+      ],
+      "subjects": [
+        "physiology"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-license.md",
+      "license_snapshot_sha256": "b6383bd2ce8d3770072f2e75e972038f44ac331e78574a2dfdfb17817d9d3060",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-sensory-receptors.md",
+      "raw_sha256": "c9370df31b1962e99f68ffd78515bf59fffcdb1be3267a9bcba74358890afa24",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-anatomy2e-spinal-cranial-nerves",
+      "title": "13.3 Spinal and Cranial Nerves – Anatomy & Physiology 2e",
+      "url": "https://open.oregonstate.education/anatomy2e/chapter/spinal-cranial-nerves/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2025-09-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2025 second web edition",
+      "authors": [
+        "Lindsay M. Biga",
+        "Staci Bronson",
+        "Sierra Dawson",
+        "Amy Harwell",
+        "Robin Hopkins",
+        "Joel Kaufmann",
+        "Mike LeMaster",
+        "Philip Matern",
+        "Katie Morrison-Graham",
+        "Kristen Oja",
+        "Devon Quick",
+        "Jon Runyeon",
+        "OpenStax"
+      ],
+      "subjects": [
+        "anatomy",
+        "head and neck anatomy"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-license.md",
+      "license_snapshot_sha256": "b6383bd2ce8d3770072f2e75e972038f44ac331e78574a2dfdfb17817d9d3060",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/anatomy-spinal-cranial-nerves.md",
+      "raw_sha256": "761a7f712894cce135f4c204042b8e5d51ec3fa1d66e835fe612432d695624d6",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms": "Lindsay M. Biga, Staci Bronson, Sierra Dawson, Amy Harwell, Robin Hopkins, Joel Kaufmann, Mike LeMaster, Philip Matern, Katie Morrison-Graham, Kristen Oja, Devon Quick, Jon Runyeon, OpenStax. Anatomy & Physiology 2e. 2025 second web edition. Oregon State University. https://creativecommons.org/licenses/by-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-micro-17-3cellular-defenses",
+      "title": "13.3\tCellular Defenses – Allied Health Microbiology",
+      "url": "https://open.oregonstate.education/microbiology/chapter/17-3cellular-defenses/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2019-12-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2019 web edition",
+      "authors": [
+        "OpenStax",
+        "Linda Bruslind (editor)"
+      ],
+      "subjects": [
+        "microbiology",
+        "oral microbiology"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/microbiology-license.md",
+      "license_snapshot_sha256": "19bb67444c6e630ea53d7e14041a2b19f24f552df884b0683fb4ba02f67d1d64",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/microbiology-17-3cellular-defenses.md",
+      "raw_sha256": "97eaf19246580335ba106e47c50ed4d82598b2922f308e8476c8e952c8b6ffd9",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "OpenStax, Linda Bruslind (editor). Allied Health Microbiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "terms": "OpenStax, Linda Bruslind (editor). Allied Health Microbiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-nc-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-micro-24-2microbial-diseases-of-the-mouth-and-oral-cavity",
+      "title": "19.2\tMicrobial Diseases of the Mouth and Oral Cavity – Allied Health Microbiology",
+      "url": "https://open.oregonstate.education/microbiology/chapter/24-2microbial-diseases-of-the-mouth-and-oral-cavity/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2019-12-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2019 web edition",
+      "authors": [
+        "OpenStax",
+        "Linda Bruslind (editor)"
+      ],
+      "subjects": [
+        "microbiology",
+        "oral microbiology"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/microbiology-license.md",
+      "license_snapshot_sha256": "19bb67444c6e630ea53d7e14041a2b19f24f552df884b0683fb4ba02f67d1d64",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/microbiology-24-2microbial-diseases-of-the-mouth-and-oral-cavity.md",
+      "raw_sha256": "f4019ddb53d41ee383ce0cb1966696edddb6a2d18b32a49b63816295d9366b3d",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "OpenStax, Linda Bruslind (editor). Allied Health Microbiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "terms": "OpenStax, Linda Bruslind (editor). Allied Health Microbiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-nc-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-micro-5-3fungi",
+      "title": "4.3 Fungi – Allied Health Microbiology",
+      "url": "https://open.oregonstate.education/microbiology/chapter/5-3fungi/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2019-12-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2019 web edition",
+      "authors": [
+        "OpenStax",
+        "Linda Bruslind (editor)"
+      ],
+      "subjects": [
+        "microbiology",
+        "oral microbiology"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/microbiology-license.md",
+      "license_snapshot_sha256": "19bb67444c6e630ea53d7e14041a2b19f24f552df884b0683fb4ba02f67d1d64",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/microbiology-5-3fungi.md",
+      "raw_sha256": "fcc5a493ed615cad3d754bb21c704e2c4857e7f28c7146ba746f5ce8bb438eab",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "OpenStax, Linda Bruslind (editor). Allied Health Microbiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "terms": "OpenStax, Linda Bruslind (editor). Allied Health Microbiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-nc-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-micro-6-1viruses",
+      "title": "5.1 Viruses – Allied Health Microbiology",
+      "url": "https://open.oregonstate.education/microbiology/chapter/6-1viruses/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2019-12-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2019 web edition",
+      "authors": [
+        "OpenStax",
+        "Linda Bruslind (editor)"
+      ],
+      "subjects": [
+        "microbiology",
+        "oral microbiology"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/microbiology-license.md",
+      "license_snapshot_sha256": "19bb67444c6e630ea53d7e14041a2b19f24f552df884b0683fb4ba02f67d1d64",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/microbiology-6-1viruses.md",
+      "raw_sha256": "9c280d37771c3eb9a5a191779aee90984c2ab554a8de231679ef6f788d8213ff",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "OpenStax, Linda Bruslind (editor). Allied Health Microbiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "terms": "OpenStax, Linda Bruslind (editor). Allied Health Microbiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-nc-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    },
+    {
+      "id": "audit-osu-micro-6-2the-viral-life-cycle",
+      "title": "5.2 The Viral Life Cycle – Allied Health Microbiology",
+      "url": "https://open.oregonstate.education/microbiology/chapter/6-2the-viral-life-cycle/",
+      "publisher": "Oregon State University / OpenStax",
+      "jurisdiction": "US",
+      "source_date": "2019-12-01",
+      "source_date_basis": "Publisher book edition publication date; chapter-specific modification date unavailable.",
+      "retrieved_date": "2026-10-09",
+      "edition": "2019 web edition",
+      "authors": [
+        "OpenStax",
+        "Linda Bruslind (editor)"
+      ],
+      "subjects": [
+        "microbiology",
+        "oral microbiology"
+      ],
+      "level": "undergraduate_medical_foundation",
+      "scope": "foundation",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/microbiology-license.md",
+      "license_snapshot_sha256": "19bb67444c6e630ea53d7e14041a2b19f24f552df884b0683fb4ba02f67d1d64",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/microbiology-6-2the-viral-life-cycle.md",
+      "raw_sha256": "4398402461835cabd78584d2f6124ed452a93b00db1710752f56a6ae2fd2c3c3",
+      "ai_reuse_restriction": false,
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "attribution": "OpenStax, Linda Bruslind (editor). Allied Health Microbiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "terms": "OpenStax, Linda Bruslind (editor). Allied Health Microbiology. 2019 web edition. Oregon State University. https://creativecommons.org/licenses/by-nc-sa/4.0/ Local noncommercial educational reuse; retain attribution, license and share-alike conditions. Exact publisher prose selected; figures, tables, exercises and suspect paragraphs excluded. No publisher endorsement.",
+      "acquisition_method": "Exa exact primary publisher URL extraction, maxCharacters150000-200000; original extraction snapshots retained.",
+      "limitations": [
+        "Foundation text; does not establish full MBBS/MDS competency coverage.",
+        "No qualified faculty clinical review or practical competence verification.",
+        "Figures, tables, assessments and suspicious source paragraphs excluded; retained prose may refer to figures/tables.",
+        "Edition dated source; treatment statements are historical education and do not constitute current clinical recommendations."
+      ]
+    }
+  ],
+  "held_snapshots": [
+    {
+      "path": "data\\references\\mds\\raw\\audit-foundations\\anatomy-blood-typing.md",
+      "sha256": "a898b2d8d74c3718c42019f615b13709552d8665b358027c166277dbb607d343",
+      "reason": "Corrupt gzip/binary extractor response; entire snapshot excluded."
+    },
+    {
+      "path": "data\\references\\mds\\raw\\audit-foundations\\anatomy-leukocytes-platelets.md",
+      "sha256": "4348c3827e80845789eb1ec458ba8c01ab6de0792476e2352b9d511f0205c7c9",
+      "reason": "Corrupt gzip/binary extractor response; entire snapshot excluded."
+    },
+    {
+      "path": "data\\references\\mds\\raw\\audit-foundations\\microbiology-22-2bacterial-infections-of-the-respiratory-tract.md",
+      "sha256": "e4828393b26f6ae1a5fae5fc758b3336b8151ab92d2a1865474600e27b7145f6",
+      "reason": "Source contains incorrect Ghon-complex confirmation/exposure guidance, BCG indications, and overly definite animal-derived infectious-dose statement; entire chapter held pending coherent specialist selection."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "audit-review-pmc9999699",
+      "pmcid": "PMC9999699",
+      "title": "The World Health Organization Classification of Odontogenic Lesions: A Summary of the Changes of the 2022 (5th) Edition",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9999699/",
+      "publisher": "Federation of Turkish Pathology Societies",
+      "authors": [
+        "Merva Soluk-Tekkesin",
+        "John M. Wright"
+      ],
+      "doi": "10.5146/tjpath.2022.01573",
+      "source_date": "2022-05-19",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/PMC9999699.xml",
+      "raw_sha256": "29818401069e73bc81199d68cea0cd6bacf6f5cac4256123e1c180141acfb08a",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/PMC9999699.license.xml",
+      "license_snapshot_sha256": "1dd8c6a7d33797359ab27cb5f09c2e425d8736bdb8b687d5b5e459bff24acf63",
+      "subjects": [
+        "oral_pathology",
+        "odontogenic_cysts",
+        "odontogenic_tumors"
+      ],
+      "syllabus_ids": [
+        "MDS-87"
+      ],
+      "study_type": "human",
+      "study_design": "narrative review",
+      "study_context": "Review of 2022 WHO odontogenic lesion classification and histopathological diagnostic features.",
+      "scope": "specialty_review",
+      "limitations": [
+        "Narrative review; no verified systematic completeness or guideline authority.",
+        "Edition dated definitions; no current-treatment recommendation or qualified faculty approval.",
+        "Supporting theoretical knowledge; does not demonstrate hands-on practical competence."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "include_section_patterns": [
+        "ODONTOGENIC TUMOURS",
+        "CYSTS OF THE JAWS"
+      ],
+      "excluded_paragraph_patterns": []
+    },
+    {
+      "id": "audit-review-pmc8345150",
+      "pmcid": "PMC8345150",
+      "title": "Overview of Oral Potentially Malignant Disorders: From Risk Factors to Specific Therapies",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8345150/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Luigi Lorini",
+        "Coro Bescós Atín",
+        "Selvam Thavaraj",
+        "Urs Müller-Richter",
+        "Margarita Alberola Ferranti",
+        "Jorge Pamias Romero",
+        "Manel Sáez Barba",
+        "Alba de Pablo García-Cuenca",
+        "Irene Braña García",
+        "Paolo Bossi",
+        "Paolo Nuciforo",
+        "Sara Simonetti",
+        "Eugenio Maiorano"
+      ],
+      "doi": "10.3390/cancers13153696",
+      "source_date": "2021-07-23",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/PMC8345150.xml",
+      "raw_sha256": "9b0ed506df50f3050ba0050bf5ed85a9b71ea62d7a35ade0a0b3617d11673a33",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/PMC8345150.license.xml",
+      "license_snapshot_sha256": "bdfd920d3ef6f8081f5de8809b8f8e0e749cd36ccf9195cd69989c11935e80fc",
+      "subjects": [
+        "oral_pathology",
+        "oral_oncology",
+        "oral_potentially_malignant_disorders"
+      ],
+      "syllabus_ids": [
+        "MDS-87"
+      ],
+      "study_type": "human",
+      "study_design": "narrative review",
+      "study_context": "Narrative review of OPMD risk factors, early diagnosis, clinicopathological features and dysplasia.",
+      "scope": "specialty_review",
+      "limitations": [
+        "Narrative review; no verified systematic completeness or guideline authority.",
+        "Edition dated definitions; no current-treatment recommendation or qualified faculty approval.",
+        "Supporting theoretical knowledge; does not demonstrate hands-on practical competence."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "include_section_patterns": [
+        "^1\\. Introduction",
+        "^2\\. Epidemiology",
+        "^3\\. Early Diagnosis",
+        "^4\\. Clinicopathological"
+      ],
+      "excluded_paragraph_patterns": []
+    },
+    {
+      "id": "audit-review-pmc10967966",
+      "pmcid": "PMC10967966",
+      "title": "State of the Art in the Diagnosis and Assessment of Oral Malignant and Potentially Malignant Disorders: Present Insights and Future Outlook—An Overview",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10967966/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Dardo Menditti",
+        "Mario Santagata",
+        "David Guida",
+        "Roberta Magliulo",
+        "Giovanni Maria D’Antonio",
+        "Samuel Staglianò",
+        "Ciro Emiliano Boschetti",
+        "Chengfei Zhang"
+      ],
+      "doi": "10.3390/bioengineering11030228",
+      "source_date": "2024-02-28",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/PMC10967966.xml",
+      "raw_sha256": "7ad7bac66153ee949f9e5217092ef8e431112a470d5f2effa0369e2c192a2689",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/PMC10967966.license.xml",
+      "license_snapshot_sha256": "bdfd920d3ef6f8081f5de8809b8f8e0e749cd36ccf9195cd69989c11935e80fc",
+      "subjects": [
+        "oral_pathology",
+        "oral_oncology",
+        "oral_potentially_malignant_disorders"
+      ],
+      "syllabus_ids": [
+        "MDS-87"
+      ],
+      "study_type": "human",
+      "study_design": "narrative review",
+      "study_context": "2024 narrative overview of oral malignant and potentially malignant lesions; diagnostic technology is research context.",
+      "scope": "specialty_review",
+      "limitations": [
+        "Narrative review; no verified systematic completeness or guideline authority.",
+        "Edition dated definitions; no current-treatment recommendation or qualified faculty approval.",
+        "Supporting theoretical knowledge; does not demonstrate hands-on practical competence."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "include_section_patterns": [
+        "^1\\. Introduction",
+        "^2\\. Oral Potentially",
+        "^3\\. Oral Malignancies",
+        "^5\\. Limitations"
+      ],
+      "excluded_paragraph_patterns": [
+        {
+          "pattern": "experts adhere to the distinction between precancerous lesions and precancerous conditions",
+          "reason": "Obsolete asserted lesion/condition terminology and broad unsupported lichen-planus transformation claims; entire section held."
+        },
+        {
+          "pattern": "a biopsy is invariably mandatory",
+          "reason": "Overly absolute biopsy indication; entire affected section held."
+        }
+      ]
+    },
+    {
+      "id": "audit-review-pmc11506355",
+      "pmcid": "PMC11506355",
+      "title": "Cardiac Amyloidosis: State-of-the-Art Review in Molecular Pathology",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11506355/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Cecilia Salzillo",
+        "Renato Franco",
+        "Andrea Ronchi",
+        "Andrea Quaranta",
+        "Andrea Marzullo"
+      ],
+      "doi": "10.3390/cimb46100684",
+      "source_date": "2024-10-16",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/PMC11506355.xml",
+      "raw_sha256": "ea3723823ce1e40202d173314aaea8f1d4c6edaeea015e33e66662d86c8167f0",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/PMC11506355.license.xml",
+      "license_snapshot_sha256": "e65892d0109973ba96c94d1d060268116e40856532b13175b599179b18b7f6fc",
+      "subjects": [
+        "pathology",
+        "amyloid",
+        "histopathology"
+      ],
+      "syllabus_ids": [
+        "MDS-25"
+      ],
+      "study_type": "human",
+      "study_design": "narrative review",
+      "study_context": "Narrative cardiac amyloidosis review; general amyloid structure and histopathology have supporting relevance beyond cardiac disease.",
+      "scope": "specialty_review",
+      "limitations": [
+        "Narrative review; no verified systematic completeness or guideline authority.",
+        "Edition dated definitions; no current-treatment recommendation or qualified faculty approval.",
+        "Supporting theoretical knowledge; does not demonstrate hands-on practical competence."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "include_section_patterns": [
+        "^1\\. Introduction",
+        "^3\\. Cardiac",
+        "^4\\. Diagnosis in Pathology",
+        "^5\\. Molecular Pathology"
+      ],
+      "excluded_paragraph_patterns": []
+    },
+    {
+      "id": "audit-review-pmc6097380",
+      "pmcid": "PMC6097380",
+      "title": "A review of artifacts in histopathology",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6097380/",
+      "publisher": "Wolters Kluwer -- Medknow Publications",
+      "authors": [
+        "Syed Ahmed Taqi",
+        "Syed Abdus Sami",
+        "Lateef Begum Sami",
+        "Syed Ahmed Zaki"
+      ],
+      "doi": "10.4103/jomfp.JOMFP_125_15",
+      "source_date": "2018",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/PMC6097380.xml",
+      "raw_sha256": "b4f28fe5e2885d952f05c492ec66cd37640f603d8eadaaef8ea2697a65ac23e9",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/PMC6097380.license.xml",
+      "license_snapshot_sha256": "f14e8eb38fdf83fc3906173e7183209e849105a86e9260b5954781f117d1f2d1",
+      "subjects": [
+        "oral_pathology",
+        "histopathology",
+        "tissue_processing",
+        "decalcification"
+      ],
+      "syllabus_ids": [
+        "MDS-79",
+        "MDS-80",
+        "MDS-81",
+        "MDS-82",
+        "MDS-83"
+      ],
+      "study_type": "human",
+      "study_design": "narrative review",
+      "study_context": "Narrative review of artifacts during biopsy fixation, decalcification, tissue processing, microtomy and staining.",
+      "scope": "specialty_review",
+      "limitations": [
+        "Narrative review; no verified systematic completeness or guideline authority.",
+        "Edition dated definitions; no current-treatment recommendation or qualified faculty approval.",
+        "Supporting theoretical knowledge; does not demonstrate hands-on practical competence."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "include_section_patterns": [
+        "^INTRODUCTION"
+      ],
+      "excluded_paragraph_patterns": []
+    },
+    {
+      "id": "audit-review-pmc12563642",
+      "pmcid": "PMC12563642",
+      "title": "Forensic Odontology in the Digital Era: A Narrative Review of Current Methods and Emerging Trends",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12563642/",
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "authors": [
+        "Carmen Corina Radu",
+        "Timur Hogea",
+        "Cosmin Carașca",
+        "Casandra-Maria Radu"
+      ],
+      "doi": "10.3390/diagnostics15202550",
+      "source_date": "2025-10-10",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/PMC12563642.xml",
+      "raw_sha256": "356352f577a74489315cca052f3c2b889d59c7c944c4d10614ef994ffb90a8f9",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/PMC12563642.license.xml",
+      "license_snapshot_sha256": "e65892d0109973ba96c94d1d060268116e40856532b13175b599179b18b7f6fc",
+      "subjects": [
+        "oral_pathology",
+        "forensic_odontology"
+      ],
+      "syllabus_ids": [
+        "MDS-87"
+      ],
+      "study_type": "human",
+      "study_design": "narrative review",
+      "study_context": "2025 narrative review of dental identification, age estimation, trauma and forensic limitations. Bite-mark evidence reliability is contested.",
+      "scope": "specialty_review",
+      "limitations": [
+        "Narrative review; no verified systematic completeness or guideline authority.",
+        "Edition dated definitions; no current-treatment recommendation or qualified faculty approval.",
+        "Supporting theoretical knowledge; does not demonstrate hands-on practical competence."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "include_section_patterns": [
+        "^1\\. Introduction",
+        "^3\\. Traditional",
+        "^5\\. Challenges",
+        "^7\\. Study Limitations"
+      ],
+      "excluded_paragraph_patterns": []
+    },
+    {
+      "id": "audit-review-pmc10474147",
+      "pmcid": "PMC10474147",
+      "title": "Diversity and complexity of cell death: a historical review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10474147/",
+      "publisher": "Korean Society for Biochemistry and Molecular Biology",
+      "authors": [
+        "Wonyoung Park",
+        "Shibo Wei",
+        "Bo-Sung Kim",
+        "Bosung Kim",
+        "Sung-Jin Bae",
+        "Young Chan Chae",
+        "Dongryeol Ryu",
+        "Ki-Tae Ha"
+      ],
+      "doi": "10.1038/s12276-023-01078-x",
+      "source_date": "2023-08-23",
+      "retrieved_date": "2026-10-09",
+      "raw_snapshot_path": "data/references/mds/raw/audit-foundations/PMC10474147.xml",
+      "raw_sha256": "a245995bb63eaa9d3025697e63383262e7c796822f437a27216655dd7f2fedbe",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_snapshot_path": "data/references/mds/raw/audit-foundations/PMC10474147.license.xml",
+      "license_snapshot_sha256": "37c0d60818c5b053977b0d615c92bd2eb0e59a21e28f51f80c1d57038ae6203f",
+      "subjects": [
+        "pathology",
+        "cell_injury",
+        "necrosis",
+        "apoptosis"
+      ],
+      "syllabus_ids": [
+        "MDS-24"
+      ],
+      "study_type": "human",
+      "study_design": "narrative review",
+      "study_context": "2023 historical review of cell death definitions and classification; selected necrosis/apoptosis and classification sections.",
+      "scope": "specialty_review",
+      "limitations": [
+        "Narrative review; no verified systematic completeness or guideline authority.",
+        "Edition dated definitions; no current-treatment recommendation or qualified faculty approval.",
+        "Supporting theoretical knowledge; does not demonstrate hands-on practical competence."
+      ],
+      "approval": "developer_reviewed",
+      "clinical_review": false,
+      "ai_reuse_restriction": false,
+      "include_section_patterns": [
+        "^Introduction$",
+        " / Necrosis$",
+        " / Apoptosis$",
+        " / The complexity of cell death classification$"
+      ],
+      "excluded_paragraph_patterns": []
+    }
+  ],
+  "bibliography_only": [
+    {
+      "pmcid": "PMC9019005",
+      "reason": "Publisher exclusive-license copyright; no independently verified open reuse license. Public availability does not authorize adaptation."
+    },
+    {
+      "pmcid": "PMC9018948",
+      "reason": "Publisher exclusive-license copyright; no independently verified open reuse license. No import."
+    },
+    {
+      "pmcid": "PMC8140695",
+      "reason": "No independently verified reuse license/full-text JATS; no import."
+    }
+  ]
+}

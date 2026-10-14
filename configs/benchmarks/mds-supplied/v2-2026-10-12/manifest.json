@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "version": "mds-supplied-v2-2026-10-12",
+  "files": {
+    "inputs/oral-pathology.txt": "e5a95584efcacc3bf5342c7fcb64607d4a5fc6df20c2aed60640c1e4147362cc",
+    "inputs/all-specialties.txt": "8040c785c80feeaae3eab164711b786fd8fd8de8547797e22a12c84b32ac5439",
+    "supplied.jsonl": "e04a1bc6550ab2b3a2103c39d718167e3b90ecfea5885d690e81cdfe06622970",
+    "variations.jsonl": "e1fd3487f6114f2d6b1c24e657e9013113dc2150933f5fa58bf621dc1b7997f2"
+  },
+  "case_count": 89,
+  "supplied_turn_count": 93,
+  "variation_count": 18,
+  "task_distribution": {
+    "explanation": 15,
+    "comparison": 16,
+    "mechanism": 13,
+    "critical_explanation": 2,
+    "multipart": 3,
+    "educational_case": 13,
+    "interactive_viva": 10,
+    "comparison_table": 2,
+    "progressive_explanation": 1,
+    "evidence_review": 1,
+    "long_answer": 9,
+    "public_health_case": 1,
+    "educational_case_comparison": 1,
+    "research_appraisal": 1,
+    "progressive_viva": 1
+  },
+  "input_hash_method": "SHA256 of exact attachment bytes; no newline or Unicode normalization",
+  "question_extraction": "Strip list/task labels and outer quotation marks; preserve message spelling and punctuation. Keep full original line alongside the question.",
+  "lock_rule": "Never rewrite locked bytes; new contracts or prompts require a new version directory",
+  "evaluation_role": "user_supplied_and_related_development_cases",
+  "independent_unseen": false,
+  "clinical_reference_answers": "absent; independent qualified adjudication required",
+  "clinical_accuracy": null,
+  "clinical_completeness": null,
+  "prohibited_inference": "Parser matches, alias mentions, valid citation coordinates and task shapes cannot establish clinical correctness or completeness."
+}
