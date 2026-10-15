@@ -214,6 +214,7 @@ def test_form_and_strength_must_belong_to_same_product():
     assert r.applicable_product("example", "chewable tablet", "4mg", "oral")
 
 
+@pytest.mark.local  # needs the local brand catalogue (data/knowledge_v2, not committed)
 def test_unverified_catalogue_never_supplies_clinical_citations():
     from backend.app.services.brand_catalogue import lookup
 
