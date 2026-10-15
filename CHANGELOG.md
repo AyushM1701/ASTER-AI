@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.0-rc.2 — release candidate (draft)
+## 0.2.0-rc.2 — release candidate (published as a prerelease, 16 Oct 2026)
 
 Builds on 0.2.0-rc.1 with the same reference library (2026.10.15) and models.
 

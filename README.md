@@ -165,7 +165,7 @@ Aster reports those gaps. US drug labels describe US products and do not establi
 
 - **Measurements.** The [acceptance report](docs/release-readiness/ACCEPTANCE_REPORT.md) records what was measured, on
   which build, and what remains. Highlights:
-  - all 26 checks on the packaged app passed;
+  - all 30 checks on the packaged app passed, including four for My Library;
   - held-out answer behaviour was 93% with the Standard profile (and 98% with the larger 4B model, measured on a GPU for the evaluation only), on questions and expected answers written by AI, not by
     clinicians;
   - prescription handwriting was tested on synthetic handwriting fonts only.
