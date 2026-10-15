@@ -4,9 +4,10 @@ rem First run: downloads and verifies the pinned Aster setup, which installs eve
 rem Later runs: starts the installed Aster (works offline).
 setlocal
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0tools\bootstrap\Start-Aster.ps1" %*
-if errorlevel 1 (
+set "ASTER_EXIT=%errorlevel%"
+if not "%ASTER_EXIT%"=="0" (
   echo.
   echo Aster could not start. See the message above, then press any key to close this window.
   pause >nul
 )
-endlocal
+endlocal & exit /b %ASTER_EXIT%
