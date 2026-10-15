@@ -13,10 +13,13 @@ import warnings
 
 MAX_BYTES = 20_971_520
 MEMORY_BYTES = 536_870_912
+# "library" mode reads whole books for My Library: larger bounds, tolerant parsing.
+LIBRARY_MAX_BYTES = 262_144_000
+LIBRARY_MEMORY_BYTES = 2_147_483_648
 _job = None
 
 
-def bound_memory():
+def bound_memory(memory_bytes=MEMORY_BYTES):
     global _job
     if os.name == "nt":
         import ctypes
@@ -48,14 +51,14 @@ def bound_memory():
         _job = kernel.CreateJobObjectW(None, None)
         limits = Extended()
         limits.basic.flags = 0x100 | 0x2000  # Process memory; kill on final job-handle close.
-        limits.process_memory = MEMORY_BYTES
+        limits.process_memory = memory_bytes
         if (not _job or not kernel.SetInformationJobObject(_job, 9, ctypes.byref(limits), ctypes.sizeof(limits))
                 or not kernel.AssignProcessToJobObject(_job, kernel.GetCurrentProcess())):
             raise RuntimeError("resource_bound_unavailable")
     elif os.name == "posix":
         import resource
 
-        resource.setrlimit(resource.RLIMIT_AS, (MEMORY_BYTES, MEMORY_BYTES))
+        resource.setrlimit(resource.RLIMIT_AS, (memory_bytes, memory_bytes))
     else:
         raise RuntimeError("resource_bound_unavailable")
 
@@ -64,34 +67,47 @@ def main():
     logging.disable(logging.CRITICAL)
     warnings.filterwarnings("ignore")
     try:
-        bound_memory()
+        library = len(sys.argv) > 3 and sys.argv[3] == "library"
+        bound_memory(LIBRARY_MEMORY_BYTES if library else MEMORY_BYTES)
         from pypdf import PdfReader
 
         page_limit, character_limit = int(sys.argv[1]), int(sys.argv[2])
-        if not 1 <= page_limit <= 100 or not 1000 <= character_limit <= 500000:
+        max_pages, max_characters, max_bytes = (5000, 20_000_000, LIBRARY_MAX_BYTES) if library else (100, 500000, MAX_BYTES)
+        if not 1 <= page_limit <= max_pages or not 1000 <= character_limit <= max_characters:
             raise ValueError("invalid_limits")
-        raw = sys.stdin.buffer.read(MAX_BYTES + 1)
-        if not raw.startswith(b"%PDF-") or len(raw) > MAX_BYTES:
+        raw = sys.stdin.buffer.read(max_bytes + 1)
+        if not raw.startswith(b"%PDF-") or len(raw) > max_bytes:
             raise ValueError("invalid_pdf")
-        reader = PdfReader(io.BytesIO(raw), strict=True)
+        reader = PdfReader(io.BytesIO(raw), strict=not library)
         if reader.is_encrypted or not 1 <= len(reader.pages) <= page_limit:
             raise ValueError("unsupported_pdf")
-        catalogue = reader.trailer["/Root"]
-        names = catalogue.get("/Names", {})
-        if hasattr(names, "get_object"):
-            names = names.get_object()
-        if "/OpenAction" in catalogue or "/AA" in catalogue or "/JavaScript" in names or "/EmbeddedFiles" in names:
-            raise ValueError("active_content_not_supported")
+        if not library:
+            catalogue = reader.trailer["/Root"]
+            names = catalogue.get("/Names", {})
+            if hasattr(names, "get_object"):
+                names = names.get_object()
+            if "/OpenAction" in catalogue or "/AA" in catalogue or "/JavaScript" in names or "/EmbeddedFiles" in names:
+                raise ValueError("active_content_not_supported")
+        # Library mode only extracts text; actions and scripts are never run, and
+        # real books routinely carry /OpenAction, so they are not rejected there.
         pages, characters = [], 0
         for page in reader.pages:
-            if "/AA" in page:
+            if not library and "/AA" in page:
                 raise ValueError("active_content_not_supported")
-            text = (page.extract_text() or "").strip()
+            try:
+                text = (page.extract_text() or "").strip()
+            except Exception:
+                if not library:
+                    raise
+                text = ""  # one damaged page should not lose a whole book
+            if library:
+                text = text.replace("\ufffd", "").replace("\x00", "")
             characters += len(text)
             if characters > character_limit or "\ufffd" in text or "\x00" in text:
                 raise ValueError("unreadable_or_oversized_text")
             pages.append(text)
-        if sum(character.isalpha() for text in pages for character in text) < 30:
+        # Library mode reports image-only pages as empty text; the caller machine-reads them (OCR).
+        if not library and sum(character.isalpha() for text in pages for character in text) < 30:
             raise ValueError("selectable_text_unavailable")
         print(json.dumps({"status": "ok", "pages": pages}, ensure_ascii=True), flush=True)
     except Exception:

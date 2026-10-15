@@ -14,7 +14,7 @@ from starlette.exceptions import HTTPException
 
 from backend.app.adapters.ocr import OCRAdapter
 from backend.app.adapters.ollama import OllamaAdapter
-from backend.app.api import attachments, chat, documents, education, library, papers, sessions, xray
+from backend.app.api import attachments, chat, documents, education, library, my_library, papers, sessions, xray
 from backend.app.config import Settings
 from backend.app.errors import REQUEST_ID, AppError, envelope
 from backend.app.services.answers import AnswerService
@@ -77,6 +77,8 @@ def create_app(settings=None):
         app.state.teaching.close()
         if app.state.grounded is not None:
             app.state.grounded.library.close()
+            if app.state.grounded.library.user is not None:
+                app.state.grounded.library.user.close()
         for session in list(app.state.sessions.sessions.values()):
             app.state.sessions.delete(session)
 
@@ -91,6 +93,8 @@ def create_app(settings=None):
             limit = (
                 settings.max_upload_bytes + 65536
                 if request.url.path in {"/v1/documents", "/v1/attachments", "/v1/papers"}
+                else settings.max_library_upload_bytes + 65536
+                if request.url.path == "/v1/library/documents"
                 else 65536
             )
             declared = request.headers.get("content-length")
@@ -262,7 +266,7 @@ def create_app(settings=None):
         return JSONResponse({"status": "ok" if ok else "failed", "checks": results}, status_code=200 if ok else 503)
 
     for router in (sessions.router, chat.router, documents.router, xray.router, attachments.router, education.router, papers.router,
-                   library.router):
+                   library.router, my_library.router):
         app.include_router(router)
     return app
 

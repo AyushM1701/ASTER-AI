@@ -15,8 +15,10 @@ from frontend.client import BASE
 ROOT = install_root()
 WEB = ROOT / "frontend/web"
 MAX_BODY = 11 * 1024 * 1024
+# My Library accepts whole books; the API enforces the configured limit.
+MAX_LIBRARY_BODY = 250 * 1024 * 1024
 API_PATH = re.compile(
-    r"(?:health/ready|v1/(?:library/(?:status|update)|education(?:/export)?|study/(?:topics|curriculum|source-inventory|progress(?:/[A-Za-z0-9_-]{1,80})?)|research/projects(?:/[A-Za-z0-9_-]{1,80}(?:/(?:export|writing))?)?|sessions(?:/current)?|chat|papers(?:/[A-Za-z0-9_-]{1,80}(?:/(?:confirm|reopen))?)?|attachments(?:/[A-Za-z0-9_-]{1,80}/(?:classify|xray))?|documents/[A-Za-z0-9_-]{1,80}(?:/(?:image|confirm|edit|explain|extract|fields/[A-Za-z0-9_-]{1,80}/crop))?))\Z"
+    r"(?:health/ready|v1/(?:library/(?:status|update|documents(?:/[A-Za-z0-9_-]{1,80})?)|education(?:/export)?|study/(?:topics|curriculum|source-inventory|progress(?:/[A-Za-z0-9_-]{1,80})?)|research/projects(?:/[A-Za-z0-9_-]{1,80}(?:/(?:export|writing))?)?|sessions(?:/current)?|chat|papers(?:/[A-Za-z0-9_-]{1,80}(?:/(?:confirm|reopen))?)?|attachments(?:/[A-Za-z0-9_-]{1,80}/(?:classify|xray))?|documents/[A-Za-z0-9_-]{1,80}(?:/(?:image|confirm|edit|explain|extract|fields/[A-Za-z0-9_-]{1,80}/crop))?))\Z"
 )
 
 
@@ -78,17 +80,18 @@ async def proxy(request: Request, path: str):
         "origin", expected_origin
     ) != expected_origin:
         return error("Open this workspace directly to send requests.", 403)
+    limit = MAX_LIBRARY_BODY if path == "v1/library/documents" else MAX_BODY
     try:
         length = int(request.headers.get("content-length", "0"))
     except ValueError:
         return error("Invalid request size.", 400)
-    if length < 0 or length > MAX_BODY:
-        return error("Image exceeds the upload limit.", 413)
+    if length < 0 or length > limit:
+        return error("File exceeds the upload limit.", 413)
     chunks, size = [], 0
     async for chunk in request.stream():
         size += len(chunk)
-        if size > MAX_BODY:
-            return error("Image exceeds the upload limit.", 413)
+        if size > limit:
+            return error("File exceeds the upload limit.", 413)
         chunks.append(chunk)
     headers = {
         key: request.headers[key]
