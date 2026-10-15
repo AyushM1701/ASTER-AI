@@ -73,6 +73,16 @@ class Settings(BaseSettings):
     answer_engine: str = "legacy"
     enable_library: bool = True
     library_root: Path = ROOT / "data/library/installed"
+    # "My Library": documents the user adds (PDF/TXT/MD/DOCX), indexed locally and
+    # searched alongside the installed packs. Never uploaded or shared.
+    user_library_path: Path = ROOT / "data/library/user"
+    max_library_upload_bytes: int = Field(104_857_600, ge=1024, le=262_144_000)
+    max_library_pages: int = Field(2000, ge=1, le=5000)
+    max_library_characters: int = Field(8_000_000, ge=1000, le=20_000_000)
+    max_library_documents: int = Field(300, ge=1, le=2000)
+    library_parse_timeout_seconds: int = Field(600, ge=10, le=1800)
+    # Scanned pages (no text layer) are machine-read with Tesseract within this total budget per document.
+    library_ocr_timeout_seconds: int = Field(1200, ge=10, le=7200)
     nli_model_path: Path = ROOT / "data/models/nli-deberta-v3-xsmall"
     rerank_model_path: Path = ROOT / "data/models/medcpt-cross-encoder"
     model_keep_alive: str = "30m"
@@ -153,6 +163,7 @@ class Settings(BaseSettings):
         "xray_manifest",
         "xray_weights_manifest",
         "library_root",
+        "user_library_path",
         "nli_model_path",
         "rerank_model_path",
         "xray_gates_config",

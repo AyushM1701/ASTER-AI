@@ -126,6 +126,9 @@ class Pack:
     def close(self):
         self.db.close()
 
+    def vector(self, rowid):
+        return np.asarray(self.vectors[rowid - 1], dtype=np.float32)
+
     def bm25(self, match, limit=80, classes=None):
         if not match:
             return []
@@ -178,17 +181,19 @@ class LibraryStore:
     """Loads active packs with last-known-good fallback and serves hybrid search."""
 
     CLASS_WEIGHT = {
-        "patient": {"patient": 1.25, "drug_label": 1.0, "professional": 0.85, "research": 0.55},
-        "study": {"professional": 1.2, "research": 0.9, "patient": 0.7, "drug_label": 0.8},
-        "drug": {"drug_label": 1.3, "professional": 0.95, "patient": 0.95, "research": 0.6},
-        "research": {"research": 1.15, "professional": 1.1, "patient": 0.5, "drug_label": 0.6},
+        "patient": {"patient": 1.25, "drug_label": 1.0, "professional": 0.85, "research": 0.55, "user": 1.0},
+        "study": {"professional": 1.2, "research": 0.9, "patient": 0.7, "drug_label": 0.8, "user": 1.2},
+        "drug": {"drug_label": 1.3, "professional": 0.95, "patient": 0.95, "research": 0.6, "user": 0.9},
+        "research": {"research": 1.15, "professional": 1.1, "patient": 0.5, "drug_label": 0.6, "user": 1.1},
     }
     TYPE_WEIGHT = {"textbook": 1.15, "guideline": 1.15, "systematic_review": 1.1, "meta_analysis": 1.1, "review": 1.05,
                    "patient_summary": 1.1, "patient_test_information": 1.1, "drug_label": 1.0, "rct": 0.95,
-                   "original_research": 0.85, "case_report": 0.7, "editorial": 0.6, "educational": 1.05}
+                   "original_research": 0.85, "case_report": 0.7, "editorial": 0.6, "educational": 1.05,
+                   "user_document": 1.0}
 
-    def __init__(self, root, *, encoder_path=None, reranker_path=None, enabled=True, clock=time.time):
+    def __init__(self, root, *, encoder_path=None, reranker_path=None, enabled=True, clock=time.time, user=None):
         self.root = Path(root)
+        self.user = user  # My Library (UserLibrary); owned by the engine, not closed with the packs
         self.encoder_path = encoder_path
         self.reranker_path = reranker_path
         self._reranker = None
@@ -229,6 +234,13 @@ class LibraryStore:
     def close(self):
         for pack in self.packs:
             pack.close()
+
+    def searchable(self):
+        """Installed packs plus My Library when it holds indexed passages."""
+        return self.packs + ([self.user] if self.user is not None and self.user.units else [])
+
+    def has_user_documents(self):
+        return self.user is not None and self.user.units > 0
 
     @property
     def encoder(self):
@@ -290,15 +302,17 @@ class LibraryStore:
                        "units": p.manifest["counts"]["units"], "by_content_class": p.manifest["counts"].get("by_content_class", {}),
                        "license_scope": p.manifest.get("license_scope")} for p in self.packs],
             "freshness": self.freshness() if self.packs else {},
+            "user_library": self.user.summary() if self.user is not None else None,
         }
 
     def search(self, query, *, expansions=(), audience="patient", classes=None, k=8, per_doc=2, candidates=80):
-        if not self.packs:
+        packs = self.searchable()
+        if not packs:
             return []
         vector = self.encoder.encode([query + (" " + " ".join(expansions[:3]) if expansions else "")])[0]
         match = fts_query(query, expansions)
         fused = {}
-        for pack in self.packs:
+        for pack in packs:
             lexical = pack.bm25(match, candidates, classes)
             dense = pack.dense(vector, candidates)
             if classes:
@@ -324,7 +338,7 @@ class LibraryStore:
                 signals = fused[(pack, rowid)]
                 dense_score = signals["dense"]
                 if dense_score is None:
-                    dense_score = float(np.dot(np.asarray(pack.vectors[rowid - 1], dtype=np.float32), vector))
+                    dense_score = float(np.dot(pack.vector(rowid), vector))
                     signals["dense"] = dense_score
                 score = signals["rrf"] * weights.get(hit.content_class, 0.8) * self.TYPE_WEIGHT.get(hit.evidence_type, 1.0)
                 if hit.kind == "table":
@@ -362,7 +376,8 @@ class LibraryStore:
             hits = sorted(pool, key=lambda h: h.score, reverse=True)
         chosen, per = [], {}
         for hit in hits:
-            if per.get(hit.doc_id, 0) >= per_doc:
+            # A user's book is one document with hundreds of pages; allow it more passages.
+            if per.get(hit.doc_id, 0) >= (per_doc * 2 if hit.content_class == "user" else per_doc):
                 continue
             per[hit.doc_id] = per.get(hit.doc_id, 0) + 1
             chosen.append(hit)
@@ -370,15 +385,20 @@ class LibraryStore:
                 break
         return chosen
 
-    def best_similarity(self, query):
+    def best_similarity(self, query, packs=None):
         """Max dense similarity of the query to the library (topicality signal)."""
-        if not self.packs:
+        packs = self.searchable() if packs is None else packs
+        if not packs:
             return 0.0
         vector = self.encoder.encode([query])[0]
         best = 0.0
-        for pack in self.packs:
+        for pack in packs:
             top = pack.dense(vector, 3)
             if top:
                 best = max(best, top[0][1])
         return best
 
+
+    def user_similarity(self, query):
+        """Max dense similarity of the query to My Library alone (0 when empty)."""
+        return self.best_similarity(query, [self.user]) if self.has_user_documents() else 0.0

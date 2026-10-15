@@ -13,6 +13,10 @@
 - **New reference library (2026.10.15).**
   - Licence-checked open sources, Ed25519-signed packs, freshness rules and opt-in signed updates.
   - 4,527 core and 2,206 optional noncommercial documents.
+- **My Library.** Add your own articles, notes, study material and whole textbooks (PDF with a text layer, .docx, .txt,
+  .md; up to 100 MB / 2,000 pages). They are indexed on this computer and searched with the reference library, so later
+  answers can draw on them and cite them by page. Ask “according to my notes…” to answer from your documents only.
+  The original files are not kept, and Aster does not review their content.
 - **Prescriptions.** PDF scans, automatic rotation, photo-quality feedback, fields beside source crops, written dose and
   verified-ingredient fields.
 - **X-ray.** Torch-free ONNX models behind evaluated input checks, with adult attestation.

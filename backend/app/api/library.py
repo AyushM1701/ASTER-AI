@@ -82,7 +82,7 @@ def update(request: Request, payload: UpdateRequest):
         from backend.app.services.library import LibraryStore
 
         refreshed = LibraryStore(root, encoder_path=state.settings.embedding_path,
-                                 reranker_path=state.settings.rerank_model_path)
+                                 reranker_path=state.settings.rerank_model_path, user=grounded.library.user)
         if refreshed.status != "ready":
             install.rollback(root)
             raise AppError(500, "error", "The updated library could not be loaded and the previous library was restored.")

@@ -4,6 +4,7 @@
 const $ = id => document.getElementById(id);
 const state = { token: null, health: {}, entries: [], activeDocument: null, busy: false, expired: false, selection: null, selectionURL: null, controller: null, starting: false, evidence: null, vivaQuestionId: null };
 let workspaceKey = null, educationalSaving = false, editingProject = null;
+const libraryState = { adding: false, timer: null };
 let editLoadVersion = 0;
 const unsavedDrafts = new Map();
 try { workspaceKey = localStorage.getItem('aster.education.key'); educationalSaving = localStorage.getItem('aster.education.enabled') === 'true' && /^[a-f0-9]{64}$/.test(workspaceKey || ''); } catch { /* Private browser modes may disable local storage. */ }
@@ -46,6 +47,7 @@ function updateControls() {
   $('send').disabled = !enabled() || !$('message').value.trim();
   $('paper-authorized').disabled = !enabled();
   if (isPaperFile(state.selection)) $('upload-submit').disabled = !enabled() || !$('paper-authorized').checked;
+  $('library-submit').disabled = !state.token || state.expired || libraryState.adding || !$('library-file').files.length || !$('library-rights').checked;
   $('new-chat').disabled = state.busy || state.starting;
   $('clear-session').disabled = state.busy || !state.token;
   $('confirm-clear').disabled = state.busy;
@@ -185,8 +187,9 @@ function sourceCards(parent, result) {
   for (const [index, source] of (result.citations || []).entries()) {
     const card = el('div', 'source-card');
     const title = (index + 1) + '  ' + source.publisher + ' · ' + source.title;
-    if (source.source_type === 'private_paper') text(card, title);
+    if (source.source_type === 'private_paper' || source.source_type === 'library_user') text(card, title);
     else link(card, title, source.url);
+    if (source.source_type === 'library_user') text(card, 'Your document in My Library · not reviewed by Aster' + (source.extraction_reliability === 'pdf_ocr' ? ' · scanned page, machine-read (OCR): check words and numbers in your original' : ''), 'result-caption');
     const statements = (result.claims || []).flatMap((claim, i) => (claim.citation_ids || []).includes(source.chunk_id) ? [i + 1] : []);
     const layers = result.explanation_layers;
     const supportedLayers = layers ? [['simple', 'simple explanation'], ['deeper', 'deeper explanation'], ['context', 'research context']].filter(([key]) => (layers[key] || []).some(part => (part.citation_ids || []).includes(source.chunk_id))).map(([, label]) => label) : [];
@@ -839,10 +842,69 @@ function renderLibraryServices(health, services) {
     ['Prescription reading', health.ocr?.available ? 'Ready' + (health.ocr.handwriting_enabled ? ' · handwriting experimental' : '') : missing],
     ['X-ray assistance', health.xray?.uploads_available ? 'Ready · adult frontal chest X-rays only · research use' : 'Not available']];
   for (const [title, value] of rows) services.append(el('dt', '', title), el('dd', '', value));
+  if (library.user_library) services.append(el('dt', '', 'My Library'), el('dd', '', library.user_library.documents ? Number(library.user_library.documents).toLocaleString() + ' documents · ' + Number(library.user_library.units).toLocaleString() + ' passages' : 'Empty · add your own documents from My Library'));
   for (const pack of library.packs || []) services.append(el('dt', '', pack.edition === 'nc' ? 'Noncommercial study pack' : 'Core library'), el('dd', '', Number(pack.documents).toLocaleString() + ' documents · ' + Number(pack.units).toLocaleString() + ' passages · built ' + String(pack.created || '').slice(0, 10)));
   for (const [kind, info] of Object.entries(library.freshness || {})) if (info.state !== 'current') services.append(el('dt', '', kind.replace('_', ' ') + ' information'), el('dd', '', info.state === 'outdated_warning' ? 'Older than its freshness limit · check for updates' : 'Update recommended'));
   if (health.release) services.append(el('dt', '', 'Installed version'), el('dd', '', health.release.app_version + (health.release.profile ? ' · ' + health.release.profile + ' profile' : '')));
   services.append(el('dt', '', 'Clinical validation'), el('dd', '', 'Not completed. Faculty and clinician review pending.'));
+}
+// ---------------------------------------------------------------- My Library
+function libraryNotice(message) { $('library-status').textContent = message || ''; }
+function libraryError(message) { $('library-error').textContent = message || ''; $('library-error').hidden = !message; }
+function formatBytes(value) { return value >= 1048576 ? (value / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(value / 1024)) + ' KB'; }
+function renderLibrary(result) {
+  const list = $('library-docs'); list.replaceChildren();
+  const documents = result.documents || [];
+  if (result.limits) $('library-limits').textContent = 'PDF (text or scanned), Word (.docx), text or Markdown · up to ' + Math.round(result.limits.max_bytes / 1048576) + ' MB · ' + Number(result.limits.max_pages).toLocaleString() + ' pages';
+  if (!documents.length) { list.append(el('li', 'small muted', 'No documents yet. Add your first article, notes or book above.')); return; }
+  for (const doc of documents) {
+    const item = el('li', 'library-doc'), details = el('div', 'library-doc-details');
+    details.append(el('strong', '', doc.title));
+    const facts = [doc.filename, doc.kind ? doc.kind.toUpperCase() : '', doc.pages ? doc.pages + ' pages' : '', formatBytes(doc.bytes || 0), 'added ' + String(doc.added || '').slice(0, 10)].filter(Boolean).join(' · ');
+    details.append(el('span', 'small muted', facts));
+    if (doc.status === 'ready') {
+      details.append(el('span', 'small', Number(doc.units).toLocaleString() + ' passages · ready to use in answers'));
+      if (doc.note) details.append(el('span', 'small muted', doc.note));
+    } else if (doc.status === 'processing') {
+      const bar = el('progress'); bar.max = 1; bar.value = doc.progress || 0; bar.setAttribute('aria-label', 'Indexing ' + doc.title);
+      const reading = doc.note && doc.note.startsWith('Machine-reading');
+      details.append(el('span', 'small', reading ? doc.note + '…' : (doc.progress || 0) < 0.1 ? 'Reading the document…' : 'Indexing passages · ' + Math.round((doc.progress || 0) * 100) + '%'), bar);
+    } else details.append(el('span', 'error-text', 'Not added · ' + (doc.error || 'The document could not be processed.')));
+    const remove = el('button', 'text-button', doc.status === 'failed' ? 'Dismiss' : 'Remove'); remove.type = 'button';
+    remove.setAttribute('aria-label', 'Remove ' + doc.title + ' from My Library');
+    remove.addEventListener('click', () => removeLibraryDocument(doc, remove));
+    item.append(details, remove); list.append(item);
+  }
+}
+async function loadLibrary() {
+  clearTimeout(libraryState.timer);
+  if (!state.token) { libraryNotice('Connecting locally…'); return; }
+  const result = await request('/v1/library/documents');
+  if (result.status !== 'ok') { libraryNotice(result.message || 'My Library is unavailable.'); renderLibrary({}); return; }
+  const summary = result.summary || {};
+  libraryNotice(summary.documents ? Number(summary.documents).toLocaleString() + ' document' + (summary.documents === 1 ? '' : 's') + ' · ' + Number(summary.units).toLocaleString() + ' passages searchable' : '');
+  renderLibrary(result);
+  if (summary.processing && $('library-dialog').open) libraryState.timer = setTimeout(loadLibrary, 2000);
+}
+async function openLibrary() { libraryError(''); $('library-dialog').showModal(); updateControls(); await loadLibrary(); }
+async function addLibraryDocument(event) {
+  event.preventDefault();
+  const file = $('library-file').files[0];
+  if (!file || !$('library-rights').checked || libraryState.adding) return;
+  libraryError(''); libraryState.adding = true; updateControls(); libraryNotice('Uploading ' + file.name + '…');
+  try {
+    const query = '?filename=' + encodeURIComponent(file.name) + '&title=' + encodeURIComponent($('library-title-input').value.trim()) + '&rights_confirmed=true';
+    const result = await request('/v1/library/documents' + query, { method: 'POST', body: file, contentType: 'application/octet-stream' });
+    if (result.status !== 'ok') { libraryError(result.message || 'The document could not be added.'); libraryNotice(''); return; }
+    $('library-form').reset(); $('library-title-input').placeholder = 'e.g. Shafer’s Oral Pathology, chapter 3'; announce(result.message); await loadLibrary(); await refreshHealth();
+  } finally { libraryState.adding = false; updateControls(); }
+}
+async function removeLibraryDocument(doc, button) {
+  if (doc.status !== 'failed' && !window.confirm('Remove “' + doc.title + '” from My Library? Aster will stop using it in answers. Your original file is not affected.')) return;
+  button.disabled = true;
+  const result = await request('/v1/library/documents/' + encodeURIComponent(doc.doc_id), { method: 'DELETE' });
+  if (result.status !== 'ok') { libraryError(result.message || 'The document could not be removed.'); button.disabled = false; return; }
+  libraryNotice(result.message); renderLibrary(result); await refreshHealth();
 }
 async function updateLibrary(button) {
   if (!window.confirm('Check for a newer medical library? Aster will contact the GitHub release server and download signed reference packs (several hundred MB). No questions, documents or images are sent.')) return;
@@ -964,3 +1026,8 @@ async function initialize() { updateControls(); render(); const connected = awai
 initialize();
 document.querySelectorAll('input[name="pdf-kind"]').forEach(radio => radio.addEventListener('change', syncPdfKind));
 $('update-library').addEventListener('click', event => updateLibrary(event.currentTarget));
+$('open-library').addEventListener('click', openLibrary);
+$('library-form').addEventListener('submit', addLibraryDocument);
+$('library-file').addEventListener('change', () => { libraryError(''); if ($('library-file').files[0]) $('library-title-input').placeholder = $('library-file').files[0].name.replace(/\.[^.]+$/, ''); updateControls(); });
+$('library-rights').addEventListener('change', updateControls);
+$('library-dialog').addEventListener('close', () => clearTimeout(libraryState.timer));
