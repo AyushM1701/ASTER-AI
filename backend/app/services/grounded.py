@@ -46,6 +46,9 @@ DRUG_QUESTION = re.compile(
     r"\b\w+(?:cillin|mycin|cycline|prazole|tidine|sartan|olol|pril|statin|mab|vir|azole|caine|profen|fenac|formin|gliptin|"
     r"dronate|parin|xaban|semide|thiazide|pine|zepam|oxetine|triptan)\b|\b(?:paracetamol|acetaminophen|aspirin|ibuprofen|"
     r"metformin|insulin|amoxicillin|chlorhexidine|fluoride|cetirizine|omeprazole|amlodipine|warfarin|lidocaine)\b", re.I)
+# "according to my notes", "from my uploaded book", "in my library" -> answer from My Library only.
+MY_LIBRARY = re.compile(r"\b(?:my|our)\s+(?:own\s+)?(?:library|notes?|books?|textbooks?|documents?|uploads?|uploaded\s+\w+|"
+                        r"study\s+materials?|materials?|articles?|pdfs?|files?)\b|\bi\s+(?:uploaded|added)\b", re.I)
 PRACTICE_REQUEST = re.compile(r"\b(?:mcqs?|multiple[- ]choice|quiz|viva|test me|practice questions?)\b", re.I)
 PRACTICE_STEM = re.compile(r"^(?:#+\s*)?(?:\*\*)?(?:q(?:uestion)?\s*\d+[.:)]|\d+[.)]\s+.*\?\s*(?:\*\*)?$|.*\?\s*(?:\*\*)?$)", re.I)
 PRACTICE_STRUCTURE = re.compile(
@@ -148,6 +151,8 @@ class GroundedAnswerEngine:
     # ------------------------------------------------------------------ routing
     def route(self, question, audience, history):
         """Return 'medical' or 'conversation'. General, not a whitelist."""
+        if self._mine(question):
+            return "medical"  # grounded in the user's own documents, whatever their subject
         if audience in {"study", "research"}:
             return "medical" if MEDICAL_PATTERN.search(question) or self._topical(question) >= 0.42 else "conversation"
         if MEDICAL_PATTERN.search(question):
@@ -161,6 +166,20 @@ class GroundedAnswerEngine:
         if self._topical(question) < 0.25:
             return "conversation"
         return self._llm_route(question)
+
+    def _has_mine(self):
+        return bool(getattr(self.library, "has_user_documents", lambda: False)())
+
+    def _mine(self, question):
+        """True when the question asks about, or closely matches, the user's own documents."""
+        if not self._has_mine():
+            return False
+        if MY_LIBRARY.search(question):
+            return True
+        try:
+            return self.library.user_similarity(question) >= 0.5
+        except Exception:
+            return False
 
     def _topical(self, question):
         try:
@@ -226,8 +245,10 @@ class GroundedAnswerEngine:
         """Patient symptom questions use patient/professional guidance; product labels
         and isolated research are added only when the question is about a medicine
         or explicitly about research."""
+        if MY_LIBRARY.search(question) and self._has_mine():
+            return ["user"]
         if audience == "patient":
-            classes = ["patient", "professional"]
+            classes = ["patient", "professional", "user"]
             if DRUG_QUESTION.search(question):
                 classes.append("drug_label")
             if re.search(r"\b(?:study|studies|research|trial|evidence)\b", question, re.I):
@@ -437,7 +458,7 @@ class GroundedAnswerEngine:
             calculated = biostat.answer(query, self.ollama, self.settings, self.compute)
             if calculated is not None:
                 return calculated
-        if self.library.status != "ready":
+        if self.library.status != "ready" and not self._has_mine():
             return envelope("error", "medical_education",
                             "The medical reference library is not available. Open Aster's setup and choose Repair to restore it.",
                             library_status=self.library.manifest(), task_completion=False)
@@ -560,6 +581,9 @@ class GroundedAnswerEngine:
     def notices(self, hits, used, audience, question):
         notes = []
         used_hits = [h for h in hits if h.unit_id in used]
+        if any(h.content_class == "user" for h in used_hits):
+            notes.append("Some statements come from documents you added to My Library. Aster has not reviewed those "
+                         "documents; check the cited page in your original.")
         if any(h.content_class == "drug_label" for h in used_hits):
             notes.append("Drug information comes from US product labels. It applies to the named US product and does not "
                          "establish equivalence with Indian brands or local prescribing guidance.")
@@ -569,9 +593,12 @@ class GroundedAnswerEngine:
             notes.append("A cited article has a published correction or expression of concern; check the original.")
         if any(h.access == "abstract" for h in used_hits):
             notes.append("Some statements come from an abstract only; the full paper was not available for appraisal.")
+        if any(h.reliability == "pdf_ocr" for h in used_hits):
+            notes.append("Some cited pages from My Library were scanned and machine-read (OCR), which can misread words "
+                         "and numbers; check them against the cited page in your original.")
         if any(h.reliability == "table_flattened" for h in used_hits):
             notes.append("Some values come from an automatically flattened table; verify numbers against the original source.")
-        if audience == "patient" and first_person(question):
+        if audience == "patient" and first_person(MY_LIBRARY.sub("", question)):
             notes.append("This is general information, not an assessment of you. A clinician who can examine you should "
                          "interpret your symptoms or results.")
         if re.search(r"\b(?:dose|dosage|mg/kg|maximum dose)\b", question, re.I):
@@ -637,9 +664,11 @@ def build_engine(settings, ollama, compute):
     """Create the engine from settings; returns (engine, error)."""
     from backend.app.services.claim_support import ClaimVerifier
     from backend.app.services.library import LibraryStore
+    from backend.app.services.user_library import UserLibrary
 
+    user = UserLibrary(settings.user_library_path, max_documents=settings.max_library_documents) if settings.enable_library else None
     library = LibraryStore(settings.library_root, encoder_path=settings.embedding_path,
-                           reranker_path=settings.rerank_model_path, enabled=settings.enable_library)
+                           reranker_path=settings.rerank_model_path, enabled=settings.enable_library, user=user)
     verifier = ClaimVerifier(settings.nli_model_path)
     if library.status == "ready":
         verifier.set_entities(library.generic_names())

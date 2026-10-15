@@ -21,6 +21,7 @@
     <div class="navigation-bottom">
       <div class="scope-note"><strong>Information, with context</strong><p>For education and research. Aster cannot diagnose or prescribe.</p></div>
       <button class="text-button" id="connections">Settings &amp; connections</button>
+      <button class="text-button" id="open-library" aria-haspopup="dialog" aria-controls="library-dialog">My Library</button>
       <button class="text-button" id="open-education" aria-controls="education-panel" aria-expanded="false">Study topics &amp; saved work</button>
       <button class="text-button muted" id="clear-session">Clear session data</button>
       <p class="small muted" id="session-label">Connecting locally…</p>
@@ -114,6 +115,20 @@
   <p class="small muted">Papers stay in this temporary session. Review extracted text before analysis. Image classification and confirmation do not establish medical validity.</p>
   <p id="upload-error" class="error-text" role="alert" hidden></p>
   <button class="button primary" id="upload-submit" disabled>Attach to conversation</button>
+</dialog>
+<dialog id="library-dialog" class="dialog library-dialog" aria-labelledby="library-title">
+  <div class="dialog-header"><h2 id="library-title">My Library</h2><button class="close-button" data-close="library-dialog" aria-label="Close My Library">Close</button></div>
+  <p class="muted">Add articles, notes, book chapters or whole textbooks. Aster indexes them on this computer and uses them, with page citations, when it answers your later questions. Ask “according to my notes…” to answer from your documents only.</p>
+  <form id="library-form" class="library-form">
+    <label class="drop-zone" for="library-file"><span class="icon icon-file" aria-hidden="true"></span><strong>Choose a document</strong><span class="small muted" id="library-limits">PDF (text or scanned), Word (.docx), text or Markdown · up to 100 MB</span><input id="library-file" type="file" accept=".pdf,.docx,.txt,.md,.markdown,application/pdf,text/plain,text/markdown,application/vnd.openxmlformats-officedocument.wordprocessingml.document"></label>
+    <label class="field">Title (optional)<input id="library-title-input" maxlength="200" placeholder="e.g. Shafer’s Oral Pathology, chapter 3"></label>
+    <label class="acknowledge"><input id="library-rights" type="checkbox"><span>I may keep a personal study copy of this document. It stays on this computer and is never uploaded or shared.</span></label>
+    <p id="library-error" class="error-text" role="alert" hidden></p>
+    <button class="button primary" id="library-submit" type="submit" disabled>Add to My Library</button>
+  </form>
+  <p id="library-status" class="small muted" role="status"></p>
+  <ul id="library-docs" class="library-docs" aria-label="Documents in My Library"></ul>
+  <p class="small muted">Aster does not review your documents, so answers drawn from them are only as reliable as the documents themselves. The original file is not stored; only its extracted text passages are kept. Scanned pages are machine-read (OCR) on this computer, which is slower and can misread words or numbers, so answers citing them say so.</p>
 </dialog>
 <dialog id="settings-dialog" class="dialog" aria-labelledby="settings-title">
   <div class="dialog-header"><h2 id="settings-title">Connections &amp; included data</h2><button class="close-button" data-close="settings-dialog" aria-label="Close connections">Close</button></div>
