@@ -2,8 +2,8 @@
   "schema_version": 1,
   "version": "0.2.0-rc.1",
   "file": "AsterSetup-Windows-x64.exe",
-  "sha256": "72c30b6997b732c23f82db3eba4669251ac865d736ec61e02862eebed3fa697e",
-  "bytes": 20460214,
+  "sha256": "6edd2277270df08954f132c9a37918359980b7959379f72411f473770fb42302",
+  "bytes": 20461189,
   "url": "https://github.com/AyushM1701/ASTER-AI/releases/download/v0.2.0-rc.1/AsterSetup-Windows-x64.exe",
-  "lock_sha256": "4e605a64633395020ddf526ddb2562f2e6affd2d11f98ebfdf2c90cc3da24a2b"
+  "lock_sha256": "7fc1e0b8e3d1a32b4006e65f7be868aa2beb861f89814565f1c01d495ab9838a"
 }
