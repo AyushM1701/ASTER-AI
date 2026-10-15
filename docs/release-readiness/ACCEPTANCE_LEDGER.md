@@ -31,18 +31,18 @@ Status values: `OPEN`, `IN_PROGRESS`, `VERIFIED` (evidence recorded against the 
 | X03 | Evaluation on public deidentified data, contamination disclosed (§6) | Metrics report | PARTIAL | Public data, contamination disclosed; no radiologist labels; docs/release-readiness/XRAY_EVALUATION.md |
 | S01 | Loopback-only, no patient content in logs/packs/telemetry, upload defenses (§7) | Tests + audit | VERIFIED | Packaged run: no non-loopback connections; logs hold states only |
 | S02 | User-facing recovery for missing/corrupt packs, model errors, low disk (§7) | Tests | VERIFIED | Packaged corruption → repair; pack fallback tests |
-| R01 | Pinned release lock as trust root (§2) | Lock committed; hash mismatch refused | VERIFIED | release/release-lock.json(.sig), lock 4e605a64…; tampered hashes refused (tests/test_setup_engine.py) |
+| R01 | Pinned release lock as trust root (§2) | Lock committed; hash mismatch refused | VERIFIED | release/release-lock.json(.sig), lock 7fc1e0b8…; tampered hashes refused (tests/test_setup_engine.py) |
 | R02 | Source-ZIP "Start Aster" launcher bootstraps pinned release (§2) | Tested from extracted source ZIP against mirror | PARTIAL | Start Aster.cmd pin check implemented; bootstrap from a real GitHub download blocked until publication (V05) |
-| R03 | AsterSetup-Windows-x64.exe per-user, progress window, resume, retry/cancel, free space (§2) | Built + tested | VERIFIED | Packaged install with resume after interruption; docs/release-readiness/evidence/acceptance-r5.json |
-| R04 | Shortcuts, uninstall, repair, rollback (§2) | Tested | PARTIAL | Shortcuts, uninstall entry, repair and uninstall checked in acceptance-r5. App-version `--rollback` is implemented but untested: it needs two installed versions. Library-pack rollback is tested |
+| R03 | AsterSetup-Windows-x64.exe per-user, progress window, resume, retry/cancel, free space (§2) | Built + tested | VERIFIED | Packaged install with resume after interruption; docs/release-readiness/evidence/acceptance-r6.json |
+| R04 | Shortcuts, uninstall, repair, rollback (§2) | Tested | PARTIAL | Shortcuts, uninstall entry, repair and uninstall checked in acceptance-r6. App-version `--rollback` is implemented but untested: it needs two installed versions. Library-pack rollback is tested |
 | R05 | Portable / fully offline install option (§2) | Built + tested | PARTIAL | `--offline-dir` file selection unit-tested (test_offline_folder_is_used_when_hash_matches); `--portable` implemented but not run; the packaged run used the mirror path |
-| R06 | Hardware detection + profile selection; measured RAM/disk/latency (§2) | Measurements recorded | VERIFIED | Profiles measured on this machine: cold start 32.8 s, 3.82 GB installed, latencies in ACCEPTANCE_REPORT.md |
+| R06 | Hardware detection + profile selection; measured RAM/disk/latency (§2) | Measurements recorded | VERIFIED | Profiles measured on this machine: cold start 38.8 s, 3.82 GB installed, latencies in ACCEPTANCE_REPORT.md |
 | R07 | Ready only after real text inference, retrieval, OCR, imaging checks (§2) | Controller test | VERIFIED | Self-test gates Ready (caught the OCR defect in acceptance run 2) |
-| R08 | Duplicate launch, occupied ports, spaces/non-ASCII paths, owned-process stop (§2) | Tests | VERIFIED | acceptance-r5: occupied port, duplicate launch, Unicode path, owned processes stopped |
+| R08 | Duplicate launch, occupied ports, spaces/non-ASCII paths, owned-process stop (§2) | Tests | VERIFIED | acceptance-r6: occupied port, duplicate launch, Unicode path, owned processes stopped |
 | R09 | Release CI workflow builds draft release (§8) | Workflow file + local dry run | PARTIAL | .github/workflows/release-windows.yml (draft prerelease only); not run on GitHub |
 | R10 | Notices/licenses preserved (§2) | THIRD_PARTY_NOTICES + per-source license snapshots | VERIFIED | THIRD_PARTY_NOTICES.md, packaging/notices/, per-source licences in packs |
 | V01 | Source regressions pass (§8) | pytest | VERIFIED | 1,236 passed; ruff clean |
-| V02 | Packaged E2E: install → Q&A → teaching → prescription → X-ray → restart offline (§8) | Recorded run on this machine | VERIFIED | acceptance-r5: 26/26 on the final build (docs/release-readiness/evidence/acceptance-r5.json) |
+| V02 | Packaged E2E: install → Q&A → teaching → prescription → X-ray → restart offline (§8) | Recorded run on this machine | VERIFIED | acceptance-r6: 26/26 on the final build (docs/release-readiness/evidence/acceptance-r6.json) |
 | V03 | Clean Windows VM/second machine (§8) | — | EXTERNAL_GATE | Windows 11 Home: no Hyper-V/Sandbox |
 | V04 | Code signing (§8) | — | EXTERNAL_GATE | No certificate |
 | V05 | GitHub release publication (§8) | — | EXTERNAL_GATE | Separate authorization |

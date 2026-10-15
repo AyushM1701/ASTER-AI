@@ -190,8 +190,8 @@ See [XRAY_EVALUATION.md](XRAY_EVALUATION.md).
 ## 5. Packaged application (§2, §7, §8)
 
 **Final build:**
-- `AsterSetup-Windows-x64.exe` SHA-256 `72c30b69…a697e`;
-- release lock SHA-256 `4e605a64…a24a2b`, Ed25519-signed and pinned in `release/bootstrap-pin.json`;
+- `AsterSetup-Windows-x64.exe` SHA-256 `6edd2277…b42302`;
+- release lock SHA-256 `7fc1e0b8…b9838a`, Ed25519-signed and pinned in `release/bootstrap-pin.json`;
 - 25 assets totalling 6.96 GB, with the 2.6 GB model blob split into two parts under GitHub's 2 GB limit.
 
 **Method.** `python -m aster_release.acceptance_v2` ran the real frozen setup against a loopback mirror of the assets:
@@ -200,18 +200,18 @@ See [XRAY_EVALUATION.md](XRAY_EVALUATION.md).
 - a test uninstall registry key and a temporary shortcut folder were used, so the user's real entries were not touched;
 - port 8000 was deliberately occupied by another program.
 
-**Result (run 5, final build): all 26 checks passed.** Evidence:
-[evidence/acceptance-r5.json](evidence/acceptance-r5.json).
+**Result (run 6, final build): all 26 checks passed.** Evidence:
+[evidence/acceptance-r6.json](evidence/acceptance-r6.json).
 
 | Area | Checks |
 |---|---|
-| Install | Interrupted download resumed, keeping 3.09 GB; completed in 52.5 s from the mirror; installed size 3.82 GB; shortcuts and uninstall entry created |
-| Launch | Ready only after the self-test; cold start 32.8 s; picked a free port when 8000 was taken; a second launch reused the running instance |
-| Answers | Cited patient answer (27.9 s); cited MDS answer (31.6 s); follow-up resolved (54.0 s); general chat (5.0 s); urgent guidance; personal dose declined; deterministic calculation |
-| Prescriptions | Classified and extracted (61.0 s); explanation refused before confirmation; cited explanation after confirmation (28.6 s); field crop served; PDF scan accepted |
-| X-ray | Classified; supported image scored (8.6 s); adult confirmation required; non-X-ray not scored |
-| Privacy | No non-loopback connections from Aster's processes during use; all 8 owned processes stopped on exit (7.2 GB resident while running) |
-| Recovery | Deliberate file corruption detected; repair restored launch (45.2 s); uninstall removed files, shortcuts and the entry |
+| Install | Interrupted download resumed, keeping 3.56 GB; completed in 59.3 s from the mirror; installed size 3.82 GB; shortcuts and uninstall entry created |
+| Launch | Ready only after the self-test; cold start 38.8 s; picked a free port when 8000 was taken; a second launch reused the running instance |
+| Answers | Cited patient answer (28.4 s); cited MDS answer (24.8 s); follow-up resolved (68.9 s); general chat (5.6 s); urgent guidance; personal dose declined; deterministic calculation |
+| Prescriptions | Classified and extracted (68.2 s); explanation refused before confirmation; cited explanation after confirmation (29.7 s); field crop served; PDF scan accepted |
+| X-ray | Classified; supported image scored (13.8 s); adult confirmation required; non-X-ray not scored |
+| Privacy | No non-loopback connections from Aster's processes during use; all 8 owned processes stopped on exit (7.1 GB resident while running) |
+| Recovery | Deliberate file corruption detected; repair restored launch (52.0 s); uninstall removed files, shortcuts and the entry |
 
 **How earlier acceptance runs found defects in the build:**
 
@@ -223,8 +223,12 @@ See [XRAY_EVALUATION.md](XRAY_EVALUATION.md).
 | 3 | (passed) The sample prescription could not be explained | openFDA salt names were rejected | Library 2026.10.15 |
 | 4 | (passed) Two packaging flaws | Stale pack archives were left in the assets folder; split parts were named `.tmp.part` | Assets folder emptied before each build; clean part names |
 
-Run 4 also passed all 26 checks ([evidence/acceptance-r4.json](evidence/acceptance-r4.json)). Run 5 repeats them on the
-final build, which adds the drug-name verifier, the personal-dose wording, value-list statistics and the asset naming.
+Runs 4 and 5 also passed all 26 checks ([r4](evidence/acceptance-r4.json), [r5](evidence/acceptance-r5.json)).
+
+- Run 5 added the drug-name verifier, the personal-dose wording, value-list statistics and the asset naming.
+- Run 6 is the final build. It adds the follow-up suggestion fix (topic extraction), and its timings vary from run 5 by
+  normal amounts.
+- The source tree's `release/` pin and lock match this build.
 
 **Not covered here:**
 - a clean VM;

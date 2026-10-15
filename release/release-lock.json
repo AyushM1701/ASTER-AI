@@ -4,7 +4,7 @@
  "version": "0.2.0-rc.1",
  "tag": "v0.2.0-rc.1",
  "release_base_url": "https://github.com/AyushM1701/ASTER-AI/releases/download/v0.2.0-rc.1/",
- "created": "2026-10-15T07:42:36Z",
+ "created": "2026-10-15T09:27:57Z",
  "default_profile": "standard",
  "profile_order": [
   "enhanced-gpu",
@@ -129,14 +129,14 @@
    "type": "zip",
    "dest": ".",
    "archive": "aster-app-0.2.0-rc.1.zip",
-   "sha256": "1b30e4ca78e19eb2b77afa06dea6ec0daa29bdaff253ea221712fe5c68fb0077",
-   "bytes": 130306022,
-   "unpacked_bytes": 295012482,
+   "sha256": "3d32993cee4532728f2d11cf2a0001fa562d058ce33c82cb33207d3fd805a332",
+   "bytes": 130307871,
+   "unpacked_bytes": 295017028,
    "parts": [
     {
      "file": "aster-app-0.2.0-rc.1.zip",
-     "bytes": 130306022,
-     "sha256": "1b30e4ca78e19eb2b77afa06dea6ec0daa29bdaff253ea221712fe5c68fb0077"
+     "bytes": 130307871,
+     "sha256": "3d32993cee4532728f2d11cf2a0001fa562d058ce33c82cb33207d3fd805a332"
     }
    ],
    "profiles": [
