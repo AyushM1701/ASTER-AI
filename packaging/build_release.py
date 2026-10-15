@@ -1,6 +1,6 @@
 """Build a v2 Aster release candidate (developer/CI machine only).
 
-    python packaging/build_release.py --version 0.2.0-rc.1 --library-version 2026.10.15 [--skip-freeze]
+    python packaging/build_release.py --version 0.2.0-rc.2 --library-version 2026.10.15 [--skip-freeze]
 
 Outputs under artifacts/release-v2/<version>/:
   assets/      every file to upload to the GitHub Release (components, model blobs,

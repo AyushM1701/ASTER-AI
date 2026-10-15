@@ -76,8 +76,8 @@ X-ray gate calibration: `evaluation/xray/*.py`. Handwriting: `evaluation/handwri
 ## Release candidate
 
 ```powershell
-python packaging/build_release.py --version 0.2.0-rc.1 --library-version 2026.10.15 --out D:/aster-release
-python -m aster_release.acceptance_v2 --assets D:/aster-release/0.2.0-rc.1/assets --report D:/aster-release/0.2.0-rc.1/acceptance.json
+python packaging/build_release.py --version 0.2.0-rc.2 --library-version 2026.10.15 --out D:/aster-release
+python -m aster_release.acceptance_v2 --assets D:/aster-release/0.2.0-rc.2/assets --report D:/aster-release/0.2.0-rc.2/acceptance.json
 ```
 
 The builder freezes the launcher/API/web bridge (no torch), stages components, splits large

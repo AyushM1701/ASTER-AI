@@ -1,9 +1,8 @@
 # Changelog
 
-## Unreleased
+## 0.2.0-rc.2 — release candidate (draft)
 
-Changes on `main` after the `v0.2.0-rc.1` build. The current installer does not include them yet; run from source
-([docs/DEVELOPMENT.md](docs/DEVELOPMENT.md)) to use them before the next release.
+Builds on 0.2.0-rc.1 with the same reference library (2026.10.15) and models.
 
 - **My Library.** Add your own articles, notes, study material and whole textbooks (PDF, including scanned pages read
   with OCR, .docx, .txt, .md; up to 100 MB / 2,000 pages). They are indexed on this computer and searched with the
@@ -14,6 +13,8 @@ Changes on `main` after the `v0.2.0-rc.1` build. The current installer does not 
 - **Reliability.** My Library indexes one document at a time; uploads no longer block other requests; a damaged
   scanned page no longer stops OCR of its neighbours; library updates no longer interrupt answers in progress;
   everyday phrases such as “I added salt…” no longer restrict answers to My Library.
+- **Installer.** My Library is stored with your other saved work, outside the versioned app folder, so updates and
+  repairs keep it.
 - **Interface.** My Library and Study topics are primary navigation items; a “Study from your own notes” starter;
   distinct starter icons; drag-and-drop file zones; inline confirmation when removing a document; size check before
   upload; corrected counts and source dates.

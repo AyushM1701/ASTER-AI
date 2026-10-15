@@ -1,4 +1,4 @@
-# Aster 0.2.0-rc.1 (release candidate)
+# Aster 0.2.0-rc.2 (release candidate)
 
 **Release candidate for testing.** This is not a clinically validated product. Aster is for education and information;
 it does not diagnose, prescribe or calculate personal doses. X-ray outputs are research scores for professional review.
@@ -13,6 +13,19 @@ it does not diagnose, prescribe or calculate personal doses. X-ray outputs are r
 Setup downloads about 2.9 GB for the standard profile. Aster runs on the CPU, and no graphics card is needed. It checks
 every file against the SHA-256 values in the signed `release-lock.json` that is compiled into setup. Afterwards
 Aster works offline.
+
+## What's new since 0.2.0-rc.1
+
+- **My Library.** Add your own notes, articles or whole textbooks (PDF, including scanned pages read with OCR, Word,
+  text or Markdown; up to 100 MB / 2,000 pages). Aster indexes them on your PC and cites them by page in later answers;
+  ask "according to my notes…" to answer from your documents only. Aster does not review what you add and says so on
+  every answer that uses it. Your library is kept with your saved work, so updates and repairs keep it.
+- **Security.** The local service refuses requests addressed to any host other than this computer (DNS-rebinding
+  protection).
+- **Reliability and interface.** One document indexed at a time; library updates no longer interrupt answers in
+  progress; My Library and Study topics in the main navigation; drag-and-drop file zones.
+
+The reference library (2026.10.15), models and measurements below are unchanged from rc.1.
 
 ## What's new since 0.1.0-beta
 

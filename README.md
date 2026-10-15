@@ -111,7 +111,7 @@ and downloads resume if interrupted.
   - Supported images get research scores for three findings, with explanations. A low score does not mean the X-ray
     is normal.
   - See [the X-ray evaluation](docs/release-readiness/XRAY_EVALUATION.md).
-- **My Library** *(on `main`; arrives in the installer with the next release)*: add your own notes, articles or
+- **My Library:** add your own notes, articles or
   textbooks (PDF, including scanned pages, Word, text or Markdown; up to 100 MB). Aster indexes them on your PC and
   cites them by page in later answers. Ask "according to my notes…" to answer from your documents only. Aster does
   not review what you add, and says so on every answer that uses it.

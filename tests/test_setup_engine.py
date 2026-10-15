@@ -229,3 +229,19 @@ def test_replace_with_retry_waits_out_transient_locks(tmp_path, monkeypatch):
     waits = []
     se.replace_with_retry(source, target, sleep=waits.append)
     assert target.read_text(encoding="utf-8") == "x" and len(waits) == 3
+
+
+def test_packaged_settings_keep_user_data_outside_the_versioned_app(tmp_path):
+    import json
+    from pathlib import Path
+
+    from aster_release.v2 import release_settings_v2
+
+    profile = json.loads((Path(__file__).resolve().parents[1] / "packaging/release-profile.v2.json").read_text(encoding="utf-8"))
+    root = tmp_path / "Aster" / "versions" / profile["app_version"]
+    root.mkdir(parents=True)
+    writable = tmp_path / "writable"
+    settings = release_settings_v2(root, profile, "standard", writable=writable, api_port=8000, ollama_port=11435)
+    assert settings.user_library_path == writable / "library" / "user"
+    assert settings.workspace_path == writable / "workspaces" / "education.sqlite3"
+    assert root.resolve() not in settings.user_library_path.resolve().parents

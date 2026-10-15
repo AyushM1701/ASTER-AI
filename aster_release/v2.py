@@ -120,6 +120,8 @@ def release_settings_v2(root, profile, profile_name, *, writable, api_port, olla
     values["tesseract_cmd"] = str(contained(root, "runtime/tesseract/tesseract.exe"))
     values["library_root"] = install_root / "library"
     values["workspace_path"] = Path(writable) / "workspaces" / "education.sqlite3"
+    # My Library is user data: keep it outside the versioned, verified app folder so updates and repairs keep it.
+    values["user_library_path"] = Path(writable) / "library" / "user"
     values["text_model"], values["vision_model"] = selected["text_model"], selected["vision_model"]
     values["ollama_base_url"] = f"http://127.0.0.1:{int(ollama_port)}"
     values["app_env"] = "packaged"
