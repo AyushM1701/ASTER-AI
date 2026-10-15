@@ -62,20 +62,19 @@ or corrupted download is deleted and never run.
 | Memory (RAM) | 8 GB (untested; expect slow answers) | **16 GB** | 24 GB. Aster used about 7.2 GB while running |
 | Free disk space | **7.2 GB** (standard profile) | 10 GB or more | 3.8 GB once installed |
 | Internet | Only for the first setup: about 2.9 GB | | |
-| Graphics card | **Not needed.** Aster runs on the CPU | Optional NVIDIA GPU with 6 GB or more memory, for faster answers | RTX 4050 Laptop, 6 GB |
+| Graphics card | **Not needed.** Aster runs on the CPU only | — | Not used |
 
 ARM-based Windows PCs are not supported. No administrator rights are needed: Aster installs into your user account
 (`%LOCALAPPDATA%\Programs\Aster`) and keeps its logs and caches in `%LOCALAPPDATA%\Aster`.
 
 ### Performance profiles
 
-Setup detects your hardware and recommends a profile, which you can change. The **Standard** profile runs entirely on
-the CPU and is used on every PC without a suitable NVIDIA GPU.
+Both profiles run entirely on the CPU. A graphics card is never used, so Aster behaves the same on any 64-bit PC.
+**Standard** is the default.
 
 | Profile | Used when | Download | Disk space needed | Answer time (measured) |
 |---|---|---|---|---|
-| **Standard** (default) | Any 64-bit PC; CPU only | 2.9 GB | 7.2 GB | Median 32 s; 90% within 57 s |
-| Fast GPU | NVIDIA GPU with 6 GB or more memory | 6.9 GB | 15.8 GB | Median 14 s; 90% within 22 s |
+| **Standard** (default) | Any 64-bit PC | 2.9 GB | 7.2 GB | Median 32 s; 90% within 57 s |
 | Quality CPU (manual) | 16 GB RAM or more, if you can wait | 5.5 GB | 12.4 GB | Not timed; slower than Standard |
 
 These times were measured on the computer in the table above. Other hardware hasn't been tested, so no minimum
@@ -161,7 +160,7 @@ Aster reports those gaps. US drug labels describe US products and do not establi
 - **Measurements.** The [acceptance report](docs/release-readiness/ACCEPTANCE_REPORT.md) records what was measured, on
   which build, and what remains. Highlights:
   - all 26 checks on the packaged app passed;
-  - held-out answer behaviour was 93% on CPU and 98% on GPU, on questions and expected answers written by AI, not by
+  - held-out answer behaviour was 93% with the Standard profile (and 98% with the larger 4B model, measured on a GPU for the evaluation only), on questions and expected answers written by AI, not by
     clinicians;
   - prescription handwriting was tested on synthetic handwriting fonts only.
 - **Still needed before a stable public release:**

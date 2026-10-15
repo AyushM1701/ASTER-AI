@@ -143,6 +143,9 @@ def workflow(web, report):
         tests["mds_answer_cited"] = bool(study.get("citations")) and study.get("status") in {"ok", "partial"}
         follow = ask("followup", "How is it treated?", "study")
         tests["followup_resolved"] = "keratocyst" in (follow.get("resolved_question") or "").casefold()
+        if not tests["followup_resolved"]:  # record why (no user content: a fixed test question)
+            report["notes"].append("followup: " + json.dumps({"status": follow.get("status"), "resolved": follow.get("resolved_question"),
+                                                    "first_status": study.get("status"), "message": follow.get("message")})[:400])
         general = ask("general_chat", "What is the capital of Japan?")
         tests["general_chat"] = general.get("route") == "conversation" and "tokyo" in (general.get("answer") or "").casefold()
         tests["urgent_guidance"] = ask("urgent", "I have crushing chest pain right now").get("status") == "urgent_guidance"

@@ -13,6 +13,11 @@ clinical validation. All evaluation labels are AI-authored unless stated otherwi
   - 23.7 GB RAM;
   - NVIDIA RTX 4050 Laptop 6 GB.
 
+**Profiles shipped.** The release offers only the CPU profiles: **Standard** (2B model, the default) and **Quality CPU**
+(4B model, manual). The NVIDIA GPU profile was removed on 15 Oct 2026 so that NVIDIA's CUDA libraries are not
+redistributed. Aster never uses a graphics card. The 4B results below were measured on the RTX 4050 to evaluate the
+model; they are not a shipped configuration.
+
 ## 1. Reference library (§3, §3a)
 
 | Pack | Documents | Evidence units | Licences |
@@ -190,9 +195,10 @@ See [XRAY_EVALUATION.md](XRAY_EVALUATION.md).
 ## 5. Packaged application (§2, §7, §8)
 
 **Final build:**
-- `AsterSetup-Windows-x64.exe` SHA-256 `6edd2277…b42302`;
-- release lock SHA-256 `7fc1e0b8…b9838a`, Ed25519-signed and pinned in `release/bootstrap-pin.json`;
-- 25 assets totalling 6.96 GB, with the 2.6 GB model blob split into two parts under GitHub's 2 GB limit.
+- `AsterSetup-Windows-x64.exe` SHA-256 `9fc92837…f14cd3`;
+- release lock SHA-256 `ecff5ba1…c3b2ef`, Ed25519-signed and pinned in `release/bootstrap-pin.json`;
+- 24 assets totalling 5.50 GB, with the 2.6 GB model blob split into two parts under GitHub's 2 GB limit;
+- CPU profiles only: no NVIDIA CUDA libraries are included.
 
 **Method.** `python -m aster_release.acceptance_v2` ran the real frozen setup against a loopback mirror of the assets:
 - the install path contained spaces and non-ASCII characters (`Aster Test ✓ ünicode`);
@@ -200,18 +206,18 @@ See [XRAY_EVALUATION.md](XRAY_EVALUATION.md).
 - a test uninstall registry key and a temporary shortcut folder were used, so the user's real entries were not touched;
 - port 8000 was deliberately occupied by another program.
 
-**Result (run 6, final build): all 26 checks passed.** Evidence:
-[evidence/acceptance-r6.json](evidence/acceptance-r6.json).
+**Result (run 9, final CPU-only build): all 26 checks passed.** Evidence:
+[evidence/acceptance-r9.json](evidence/acceptance-r9.json).
 
 | Area | Checks |
 |---|---|
-| Install | Interrupted download resumed, keeping 3.56 GB; completed in 59.3 s from the mirror; installed size 3.82 GB; shortcuts and uninstall entry created |
-| Launch | Ready only after the self-test; cold start 38.8 s; picked a free port when 8000 was taken; a second launch reused the running instance |
-| Answers | Cited patient answer (28.4 s); cited MDS answer (24.8 s); follow-up resolved (68.9 s); general chat (5.6 s); urgent guidance; personal dose declined; deterministic calculation |
-| Prescriptions | Classified and extracted (68.2 s); explanation refused before confirmation; cited explanation after confirmation (29.7 s); field crop served; PDF scan accepted |
-| X-ray | Classified; supported image scored (13.8 s); adult confirmation required; non-X-ray not scored |
-| Privacy | No non-loopback connections from Aster's processes during use; all 8 owned processes stopped on exit (7.1 GB resident while running) |
-| Recovery | Deliberate file corruption detected; repair restored launch (52.0 s); uninstall removed files, shortcuts and the entry |
+| Install | Interrupted download resumed, keeping 3.04 GB; completed in 54.2 s from the mirror; installed size 3.82 GB; shortcuts and uninstall entry created |
+| Launch | Ready only after the self-test; cold start 34.8 s; picked a free port when 8000 was taken; a second launch reused the running instance |
+| Answers | Cited patient answer (25.8 s); cited MDS answer (61.0 s); follow-up resolved (31.3 s); general chat (4.8 s); urgent guidance; personal dose declined; deterministic calculation |
+| Prescriptions | Classified and extracted (60.6 s); explanation refused before confirmation; cited explanation after confirmation (59.4 s); field crop served; PDF scan accepted |
+| X-ray | Classified; supported image scored (12.1 s); adult confirmation required; non-X-ray not scored |
+| Privacy | No non-loopback connections from Aster's processes during use; all 8 owned processes stopped on exit (7.5 GB resident while running) |
+| Recovery | Deliberate file corruption detected; repair restored launch (51.9 s); uninstall removed files, shortcuts and the entry |
 
 **How earlier acceptance runs found defects in the build:**
 
@@ -222,12 +228,16 @@ See [XRAY_EVALUATION.md](XRAY_EVALUATION.md).
 | 3 | Deterministic calculation | The 2B model did not map the question | Labelled cells parsed without the model |
 | 3 | (passed) The sample prescription could not be explained | openFDA salt names were rejected | Library 2026.10.15 |
 | 4 | (passed) Two packaging flaws | Stale pack archives were left in the assets folder; split parts were named `.tmp.part` | Assets folder emptied before each build; clean part names |
+| 7 | Repair restores launch | Repair deleted the old version before renaming the new one into place; a transient Windows lock on the rename left no version at all | Locked renames retried for about 30 s; the old version is removed only after the swap, and restored if the swap fails (regression tests) |
+| 7, 8 | Follow-up resolved | Intermittent: a different rewrite led to "insufficient evidence". Six manual repetitions on the installed build all resolved | Insufficient-evidence replies now report the interpreted question; run 9 passed |
 
 Runs 4 and 5 also passed all 26 checks ([r4](evidence/acceptance-r4.json), [r5](evidence/acceptance-r5.json)).
 
 - Run 5 added the drug-name verifier, the personal-dose wording, value-list statistics and the asset naming.
-- Run 6 is the final build. It adds the follow-up suggestion fix (topic extraction), and its timings vary from run 5 by
-  normal amounts.
+- Run 6 added the follow-up suggestion fix (topic extraction).
+- Runs 7 to 9 are the CPU-only builds: the GPU profile was removed, and the safe repair swap and `--verify-only` fix
+  were added. Run 9 is the final build ([r7](evidence/acceptance-r7.json), [r8](evidence/acceptance-r8.json)).
+- Timings vary between runs by normal amounts; the 2B model's answers vary from run to run.
 - The source tree's `release/` pin and lock match this build.
 
 **One-click start from the source ZIP.** Evidence:
@@ -256,10 +266,6 @@ Runs 4 and 5 also passed all 26 checks ([r4](evidence/acceptance-r4.json), [r5](
   - the other 5 files are byte-identical to the accepted build.
 - Installing from the downloaded files with `--offline-dir` (CPU profile) succeeded in 41 s. A full re-hash then confirmed
   all 1,808 installed files (2.92 GB).
-
-**Known issue in this build.** `Aster.exe --verify-only`, a diagnostic switch that no installer, shortcut or document
-uses, still read the version-1 manifest and failed on current installations. It is fixed on `main` with a regression
-test, and the next build will include the fix. Repair is unaffected: it uses setup's own `--repair`.
 
 **Not covered here:**
 - a clean VM;
@@ -300,6 +306,6 @@ Each defect found by packaged acceptance or the holdout now has a regression tes
    the `ASTER_SIGNING_KEY_PEM` secret.
 5. **Independent clinical and MDS faculty review** of answers, and real-prescription handwriting evaluation with consent.
 6. **Radiologist-labelled held-out X-ray data** for accuracy and calibration.
-7. **Rights review:** the owner must confirm each row of `packaging/asset-rights-v2.csv`, including the NVIDIA CUDA redistribution terms.
+7. **Rights review:** the owner must confirm each row of `packaging/asset-rights-v2.csv`. NVIDIA CUDA libraries are no longer distributed.
 8. **Network-disabled run with the operating-system network turned off.** Not done; requires changing system network
    settings. The acceptance run instead verified that Aster's processes opened no non-loopback connections.

@@ -305,3 +305,13 @@ def test_patient_followups_skip_the_aspect_already_asked():
 
     chips = GroundedAnswerEngine.followups(None, "What causes gum disease?", "patient", [])
     assert chips == ["How is gum disease treated?", "When should someone see a doctor about gum disease?"]
+
+
+def test_insufficient_answer_reports_the_interpreted_follow_up(verifier):
+    from backend.app.services.grounded import GroundedAnswerEngine
+
+    engine = GroundedAnswerEngine.__new__(GroundedAnswerEngine)
+    result = engine.insufficient("How is it treated?", "How is odontogenic keratocyst treated?", [], "study")
+    assert result["status"] == "insufficient_evidence"
+    assert result["resolved_question"] == "How is odontogenic keratocyst treated?"
+    assert engine.insufficient("What is X?", "What is X?", [], "study")["resolved_question"] is None

@@ -315,10 +315,10 @@ def main():
     components.append(zip_component("models-onnx", stage_models(stage), assets, work, args.version))
     cpu, cuda = stage_ollama(stage)
     components.append(zip_component("ollama-cpu", cpu, assets, work, args.version))
-    components.append(zip_component("ollama-cuda", cuda, assets, work, args.version, profiles=["enhanced-gpu"]))
+    # No GPU profile: NVIDIA CUDA libraries are not redistributed (staged, never packaged).
     components.append(zip_component("tesseract", stage_tesseract(stage), assets, work, args.version))
     models = {}
-    for name, profile_list in (("qwen3-vl:2b-instruct", ["*"]), ("qwen3:4b-q4_K_M", ["quality-cpu", "enhanced-gpu"])):
+    for name, profile_list in (("qwen3-vl:2b-instruct", ["*"]), ("qwen3:4b-q4_K_M", ["quality-cpu"])):
         models[name] = model_component(name, assets, profile_list, work)
         components.append(models[name])
     for edition in ("core", "nc"):
@@ -327,7 +327,7 @@ def main():
         "schema_version": 1, "product": "Aster", "version": args.version, "tag": "v" + args.version,
         "release_base_url": f"{REPO_URL}/releases/download/v{args.version}/",
         "created": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-        "default_profile": "standard", "profile_order": ["enhanced-gpu", "standard", "quality-cpu"],
+        "default_profile": "standard", "profile_order": ["standard", "quality-cpu"],
         "profiles": profile["profiles"], "release_profile": profile, "components": components,
         "library_version": args.library_version,
     }
