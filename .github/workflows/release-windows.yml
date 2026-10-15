@@ -3,9 +3,9 @@ name: Windows release candidate (v2)
 # lock, AsterSetup-Windows-x64.exe and the bootstrap pin; runs packaged
 # acceptance against a local mirror; then creates a DRAFT prerelease.
 # Publication, code signing and clean-VM acceptance remain manual gates.
+# Manual only: a release's assets must be the exact files whose fingerprints are pinned in release/.
+# Pushing a tag for locally built and accepted assets must not trigger a different rebuild.
 on:
-  push:
-    tags: ['v*']
   workflow_dispatch:
     inputs:
       version:
