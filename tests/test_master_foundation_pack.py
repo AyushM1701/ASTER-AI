@@ -1,6 +1,8 @@
 import hashlib
 from pathlib import Path
 
+import pytest
+
 from backend.app.config import Settings
 from backend.app.services.evidence_plan import build_evidence_plan
 from backend.app.services.prepared_evidence import prepared_support
@@ -11,6 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PACK = ROOT / "artifacts/source-packs/mds-master-normal-epithelium-acquired-v1-2026-10-13"
 
 
+@pytest.mark.local  # needs licensed source packs that are not committed
 def test_acquired_parent_stays_held_and_only_named_prepared_facets_are_eligible():
     store = TeachingStore(Settings(_env_file=None, enable_teaching=True, teaching_backend="lexical",
                                    teaching_release_path=PACK, teaching_explanations_sha256=""))
@@ -29,6 +32,7 @@ def test_acquired_parent_stays_held_and_only_named_prepared_facets_are_eligible(
         store.close()
 
 
+@pytest.mark.local  # needs licensed source packs that are not committed
 def test_source_binding_retains_region_qualifier_and_article_license_identity():
     store = TeachingStore(Settings(_env_file=None, enable_teaching=True, teaching_backend="lexical",
                                    teaching_release_path=PACK, teaching_explanations_sha256=""))
@@ -46,6 +50,7 @@ def test_source_binding_retains_region_qualifier_and_article_license_identity():
         store.close()
 
 
+@pytest.mark.local  # needs licensed source packs that are not committed
 def test_prepared_response_discloses_ai_inspection_without_human_review_claim():
     from backend.app.services.answers import AnswerService
 
