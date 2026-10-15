@@ -258,14 +258,16 @@ Runs 4 and 5 also passed all 26 checks ([r4](evidence/acceptance-r4.json), [r5](
   - The bootstrap waited for the Aster it launched, not just for setup, so its window stayed open while Aster ran.
 - **Still untested:** the download from GitHub itself, until the release is published.
 
-**Draft GitHub release (15 Oct 2026).**
-- The 25 accepted assets were uploaded to the draft pre-release `v0.2.0-rc.1`, downloaded back from GitHub and verified:
+**Draft GitHub release (15 Oct 2026, CPU-only build).**
+- The 24 accepted assets were uploaded to the draft pre-release `v0.2.0-rc.1`, downloaded back from GitHub and verified:
   - the lock's Ed25519 signature;
   - the lock is identical to `release/release-lock.json` and to the pin;
-  - all 20 lock-pinned files match their SHA-256 fingerprints and sizes;
+  - all 19 lock-pinned files match their SHA-256 fingerprints and sizes;
   - the other 5 files are byte-identical to the accepted build.
-- Installing from the downloaded files with `--offline-dir` (CPU profile) succeeded in 41 s. A full re-hash then confirmed
-  all 1,808 installed files (2.92 GB).
+- Installing from the downloaded files with `--offline-dir` (CPU profile) succeeded in 49 s.
+  `Aster.exe --verify-only` then re-hashed and confirmed all 1,808 installed files (2.92 GB).
+- An earlier draft that included the GPU profile was deleted before publication, and the tag was moved to the CPU-only
+  build.
 
 **Not covered here:**
 - a clean VM;
