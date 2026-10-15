@@ -3,7 +3,7 @@
 ## 0.2.0-rc.1 — release candidate (draft)
 
 - **One-click start.** `Start Aster.cmd` in the source ZIP downloads a pinned, hash-verified setup that installs the
-  model runtime, models, OCR, the X-ray checker and the signed library. CPU-only by default; GPU optional.
+  model runtime, models, OCR, the X-ray checker and the signed library. CPU only: no graphics card is needed or used, and no NVIDIA libraries are distributed.
 - **Grounded answers.**
   - Hybrid retrieval and MedCPT reranking.
   - NLI claim verification with number, code, negation and drug-name checks.

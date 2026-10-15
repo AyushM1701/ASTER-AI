@@ -278,6 +278,38 @@ def sources(part, lock, mirror=None):
     return urls
 
 
+def replace_with_retry(source, target, attempts=12, delay=0.5, sleep=time.sleep):
+    """os.replace that waits out transient Windows locks (antivirus scanning new files, a process
+    that is still exiting). Raises the last error after ~30 s."""
+    for attempt in range(attempts):
+        try:
+            os.replace(source, target)
+            return
+        except PermissionError:
+            if attempt == attempts - 1:
+                raise
+            sleep(min(5.0, delay * 2 ** attempt))
+
+
+def swap_version(staging, version_dir, replace=replace_with_retry):
+    """Move a fully built staging folder into place (install or repair).
+
+    The previous version is moved aside, not deleted, until the new one is in place; if the swap
+    fails the previous version is restored, so the installation is never left without a version."""
+    retired = None
+    if version_dir.exists():
+        retired = version_dir.with_name(version_dir.name + ".replaced-" + str(int(time.time())))
+        replace(version_dir, retired)
+    try:
+        replace(staging, version_dir)
+    except OSError:
+        if retired is not None and retired.exists() and not version_dir.exists():
+            replace(retired, version_dir)
+        raise
+    if retired is not None:
+        shutil.rmtree(retired, ignore_errors=True)
+
+
 # --------------------------------------------------------------------------- extraction
 def safe_extract(archive, destination, expected_bytes=None, progress=lambda n: None):
     destination = Path(destination)
@@ -413,11 +445,7 @@ class Installer:
         (staging / "installed-manifest.json").write_text(json.dumps(manifest, indent=1), encoding="utf-8")
         if not (staging / "Aster.exe").is_file():
             raise ReleaseError("The application component is incomplete")
-        if version_dir.exists():
-            retired = version_dir.with_name(plan.version + ".replaced-" + str(int(time.time())))
-            os.replace(version_dir, retired)
-            shutil.rmtree(retired, ignore_errors=True)
-        os.replace(staging, version_dir)
+        swap_version(staging, version_dir)
         return version_dir
 
     def install_library(self, plan):

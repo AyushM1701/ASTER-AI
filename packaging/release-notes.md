@@ -10,7 +10,7 @@ it does not diagnose, prescribe or calculate personal doses. X-ray outputs are r
 - Offline install: download every file of this release into one folder and run
   `AsterSetup-Windows-x64.exe --offline-dir <folder>`.
 
-Setup downloads about 2.9 GB for the standard (CPU) profile and about 7 GB for the NVIDIA GPU profile. It checks
+Setup downloads about 2.9 GB for the standard profile. Aster runs on the CPU, and no graphics card is needed. It checks
 every file against the SHA-256 values in the signed `release-lock.json` that is compiled into setup. Afterwards
 Aster works offline.
 
@@ -36,10 +36,11 @@ Aster works offline.
 
 - No independent clinical or faculty review. Evaluation questions and key points were written by AI, not by faculty.
 - **Held-out evaluation (151 questions).** Labels are AI-written, not clinician-reviewed.
-  - Fast GPU profile: 98% behaved as intended (median 14 s).
-  - Standard CPU profile: 93% behaved as intended (median 32 s, 90% within 57 s).
+  - Standard profile (2B model, CPU): 93% behaved as intended (median 32 s, 90% within 57 s).
+  - The larger 4B model, which the manual Quality CPU profile uses, reached 98%. It was measured on a GPU for evaluation
+    only, and Aster ships no GPU support.
   - Many answers are partial: Aster names the part its library does not cover instead of guessing.
-  - One wrong sentence (an aspirin warning attributed to ibuprofen) passed the automatic checker in the GPU run. The
+  - One wrong sentence (an aspirin warning attributed to ibuprofen) passed the automatic checker in the 4B run. The
     checker now requires the named drug to be in the supporting sentence.
 - **Handwriting** was measured only on 72 synthetic handwriting-font images: no wrong strength, frequency or duration was
   read, but 2 medicine names were misspelled. Real handwriting is untested.
@@ -47,6 +48,5 @@ Aster works offline.
 - Measured on one laptop only (i5-13450HX, 24 GB RAM, RTX 4050).
 - Not code-signed, so Windows SmartScreen may warn on first run.
 - Portable mode and returning to a previous version (`--rollback`) have not been tested yet.
-- `Aster.exe --verify-only` (a diagnostic switch) fails on this build; use **Repair Aster** instead. Fixed for the next build.
 
 See `docs/release-readiness/ACCEPTANCE_REPORT.md` in the source for the measurements behind these notes.

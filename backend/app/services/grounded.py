@@ -606,7 +606,7 @@ class GroundedAnswerEngine:
             "The installed library does not contain enough evidence to answer this reliably, so no medical statements are shown.",
             unsupported_parts=list(gaps) or [query], clarifying_question=clarify, removed_statements=len(removed),
             removed_detail=list(removed)[:12], answer_method="grounded_synthesis", task_completion=False,
-            nearby_topics=nearby,
+            nearby_topics=nearby, resolved_question=query if query != question else None,
         )
 
     def extractive_fallback(self, question, query, hits, audience, error):

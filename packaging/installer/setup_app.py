@@ -175,7 +175,9 @@ def run_window(args, lock):
             summary.configure(text="Could not prepare the plan: " + str(exc))
 
     if mode == "Install":
-        gpu = ", ".join(f"{g['name']} ({g['vram_gb']} GB)" for g in hw["gpus"]) or "no NVIDIA GPU detected"
+        uses_gpu = any(p.get("requires", {}).get("nvidia_vram_gb") for p in lock["profiles"].values())
+        gpu = (", ".join(f"{g['name']} ({g['vram_gb']} GB)" for g in hw["gpus"]) or "no NVIDIA GPU detected") if uses_gpu \
+            else "runs on the CPU (no graphics card needed)"
         tk.Label(options, text=f"This PC: {hw.get('cpu') or 'CPU'} · {hw.get('ram_gb')} GB RAM · {gpu}", bg=colours["bg"],
                  fg=colours["muted"], font=("Segoe UI", 10), anchor="w").pack(fill="x")
         row = tk.Frame(options, bg=colours["bg"])

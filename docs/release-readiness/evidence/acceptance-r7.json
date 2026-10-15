@@ -1,0 +1,61 @@
+{
+  "assets": "D:\\aster-release\\0.2.0-rc.1\\assets",
+  "lock_sha256": "c4c0dfd675dbb962a51e0b060fea61b929ba15f1220ccfe4028f5bfccb8b65c4",
+  "clean_vm": false,
+  "network_disabled": false,
+  "clinical_validation": false,
+  "tests": {
+    "install_completed": true,
+    "shortcuts_created": true,
+    "uninstall_entry_registered": true,
+    "ready_with_occupied_port_8000": true,
+    "duplicate_launch_reuses_instance": true,
+    "patient_answer_cited": true,
+    "mds_answer_cited": true,
+    "followup_resolved": false,
+    "general_chat": true,
+    "urgent_guidance": true,
+    "personal_dose_refused": true,
+    "deterministic_calculation": true,
+    "prescription_classified_and_extracted": true,
+    "explain_requires_confirmation": true,
+    "prescription_explained_or_honest_gap": true,
+    "field_crop_served": true,
+    "pdf_scan_attachment": true,
+    "xray_classified": true,
+    "xray_supported_scored": true,
+    "xray_requires_adult_confirmation": true,
+    "non_xray_not_scored": true,
+    "no_external_connections_during_use": true,
+    "owned_services_stopped": true,
+    "corruption_detected": true
+  },
+  "measurements": {
+    "bytes_kept_after_interrupt": 3076682723,
+    "install_seconds_local_mirror": 53.0,
+    "profile": "standard",
+    "installed_bytes": 3815320941,
+    "cold_start_seconds": 31.8,
+    "web_url": "http://127.0.0.1:8601",
+    "latency_seconds": {
+      "patient_question": 23.7,
+      "mds_question": 54.4,
+      "followup": 15.7,
+      "general_chat": 4.6,
+      "urgent": 0.0,
+      "personal_dose": 0.0,
+      "calculation": 0.0,
+      "prescription_extract": 55.1,
+      "prescription_explain": 24.1,
+      "xray_analysis": 8.2
+    },
+    "owned_processes": 8,
+    "owned_rss_gb": 6.52,
+    "external_connections": [],
+    "repair_seconds": 43.2
+  },
+  "notes": [
+    "port 8000 was already in use by another program (kept running)"
+  ],
+  "passed": false
+}

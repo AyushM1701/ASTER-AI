@@ -165,3 +165,67 @@ def test_verify_only_checks_current_installations(tmp_path, capsys, monkeypatch)
     (root / "bin" / "app.txt").write_text("tampered", encoding="utf-8")
     with pytest.raises(ReleaseError, match="damaged"):
         main()
+
+
+def test_repair_swap_retries_locks_and_never_leaves_no_version(tmp_path):
+    """Acceptance run 7: a locked staging folder failed the repair swap after the old version was deleted."""
+    versions = tmp_path / "versions"
+    old, staging = versions / "0.2.0", versions / "0.2.0.staging"
+    (old / "bin").mkdir(parents=True)
+    (old / "Aster.exe").write_text("old", encoding="utf-8")
+    staging.mkdir()
+    (staging / "Aster.exe").write_text("new", encoding="utf-8")
+
+    # Transient lock: retried, then the new version is in place and the old one removed.
+    calls = {"n": 0}
+    real = se.os.replace
+
+    def flaky(src, dst):
+        if Path(src) == staging and calls["n"] < 2:
+            calls["n"] += 1
+            raise PermissionError(5, "Access is denied")
+        real(src, dst)
+
+    se.swap_version(staging, old, replace=lambda s, d: _retrying(flaky, s, d))
+    assert (old / "Aster.exe").read_text(encoding="utf-8") == "new"
+    assert sorted(p.name for p in versions.iterdir()) == ["0.2.0"]
+
+    # Permanent lock: the previous version is restored and the error is raised.
+    staging.mkdir()
+    (staging / "Aster.exe").write_text("newer", encoding="utf-8")
+
+    def locked(src, dst):
+        if Path(src) == staging:
+            raise PermissionError(5, "Access is denied")
+        real(src, dst)
+
+    with pytest.raises(PermissionError):
+        se.swap_version(staging, old, replace=locked)
+    assert (old / "Aster.exe").read_text(encoding="utf-8") == "new"
+
+
+def _retrying(operation, source, target, attempts=5):
+    for attempt in range(attempts):
+        try:
+            return operation(source, target)
+        except PermissionError:
+            if attempt == attempts - 1:
+                raise
+
+
+def test_replace_with_retry_waits_out_transient_locks(tmp_path, monkeypatch):
+    source, target = tmp_path / "a", tmp_path / "b"
+    source.write_text("x", encoding="utf-8")
+    failures = {"left": 3}
+    real = se.os.replace
+
+    def flaky(src, dst):
+        if failures["left"]:
+            failures["left"] -= 1
+            raise PermissionError(5, "Access is denied")
+        real(src, dst)
+
+    monkeypatch.setattr(se.os, "replace", flaky)
+    waits = []
+    se.replace_with_retry(source, target, sleep=waits.append)
+    assert target.read_text(encoding="utf-8") == "x" and len(waits) == 3

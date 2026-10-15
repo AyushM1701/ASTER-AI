@@ -6,9 +6,9 @@ No component author endorses Aster. Nothing here is clinical validation.
 
 | Component | Version / revision | Licence | Source | How Aster obtains it |
 |---|---|---|---|---|
-| Ollama runtime (CPU libraries; CUDA libraries for the GPU profile) | v0.35.1 | MIT; bundled native libraries keep the licences in `runtime/ollama/lib/ollama/*LICENSE*` (llama.cpp MIT, CUTLASS/cuDNN/NVTX NVIDIA terms, etc.) | https://github.com/ollama/ollama/releases/tag/v0.35.1 | Release asset repackaged without modification |
+| Ollama runtime (CPU libraries only; no NVIDIA CUDA libraries are distributed) | v0.35.1 | MIT; bundled native libraries keep the licences in `runtime/ollama/lib/ollama/*LICENSE*` (llama.cpp MIT, CUTLASS/cuDNN/NVTX NVIDIA terms, etc.) | https://github.com/ollama/ollama/releases/tag/v0.35.1 | Release asset repackaged without modification |
 | Qwen3-VL-2B-Instruct (Q4_K_M GGUF via Ollama) | Ollama `qwen3-vl:2b-instruct`, manifest pinned in `release-lock.json` | Apache-2.0 | https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct | Release asset (fallback: registry.ollama.ai), SHA-256 pinned |
-| Qwen3-4B (Q4_K_M GGUF via Ollama) — quality-cpu / enhanced-gpu profiles | Ollama `qwen3:4b-q4_K_M` | Apache-2.0 | https://huggingface.co/Qwen/Qwen3-4B | As above |
+| Qwen3-4B (Q4_K_M GGUF via Ollama) — quality-cpu profile | Ollama `qwen3:4b-q4_K_M` | Apache-2.0 | https://huggingface.co/Qwen/Qwen3-4B | As above |
 | all-MiniLM-L6-v2 (ONNX) | 1110a243fdf4706b3f48f1d95db1a4f5529b4d41 | Apache-2.0 | https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2 | Published ONNX file, unmodified |
 | nli-deberta-v3-xsmall cross-encoder (int8 ONNX) | a150876415327c80daeff35ca6f68f5ed8cf5c24 | Apache-2.0 (DeBERTa-v3 base: MIT) | https://huggingface.co/cross-encoder/nli-deberta-v3-xsmall | Published ONNX file, unmodified |
 | MedCPT Cross-Encoder (int8 ONNX) | 71caf65d4927987813984f54c284405a13fcca49 | Public domain (US Government work, NCBI/NLM) | https://huggingface.co/ncbi/MedCPT-Cross-Encoder | Exported to ONNX and int8-quantised by Aster's build (see model manifest) |
