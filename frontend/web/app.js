@@ -4,7 +4,7 @@
 const $ = id => document.getElementById(id);
 const state = { token: null, health: {}, entries: [], activeDocument: null, busy: false, expired: false, selection: null, selectionURL: null, controller: null, starting: false, evidence: null, vivaQuestionId: null };
 let workspaceKey = null, educationalSaving = false, editingProject = null;
-const libraryState = { adding: false, timer: null };
+const libraryState = { adding: false, timer: null, maxBytes: null, processing: 0 };
 let editLoadVersion = 0;
 const unsavedDrafts = new Map();
 try { workspaceKey = localStorage.getItem('aster.education.key'); educationalSaving = localStorage.getItem('aster.education.enabled') === 'true' && /^[a-f0-9]{64}$/.test(workspaceKey || ''); } catch { /* Private browser modes may disable local storage. */ }
@@ -855,6 +855,7 @@ function formatBytes(value) { return value >= 1048576 ? (value / 1048576).toFixe
 function renderLibrary(result) {
   const list = $('library-docs'); list.replaceChildren();
   const documents = result.documents || [];
+  if (result.limits) libraryState.maxBytes = result.limits.max_bytes;
   if (result.limits) $('library-limits').textContent = 'PDF (text or scanned), Word (.docx), text or Markdown · up to ' + Math.round(result.limits.max_bytes / 1048576) + ' MB · ' + Number(result.limits.max_pages).toLocaleString() + ' pages';
   if (!documents.length) { list.append(el('li', 'small muted', 'No documents yet. Add your first article, notes or book above.')); return; }
   for (const doc of documents) {
@@ -867,8 +868,7 @@ function renderLibrary(result) {
       if (doc.note) details.append(el('span', 'small muted', doc.note));
     } else if (doc.status === 'processing') {
       const bar = el('progress'); bar.max = 1; bar.value = doc.progress || 0; bar.setAttribute('aria-label', 'Indexing ' + doc.title);
-      const reading = doc.note && doc.note.startsWith('Machine-reading');
-      details.append(el('span', 'small', reading ? doc.note + '…' : (doc.progress || 0) < 0.1 ? 'Reading the document…' : 'Indexing passages · ' + Math.round((doc.progress || 0) * 100) + '%'), bar);
+      details.append(el('span', 'small', doc.note ? doc.note + '…' : (doc.progress || 0) < 0.1 ? 'Reading the document…' : 'Indexing passages · ' + Math.round((doc.progress || 0) * 100) + '%'), bar);
     } else details.append(el('span', 'error-text', 'Not added · ' + (doc.error || 'The document could not be processed.')));
     const remove = el('button', 'text-button', doc.status === 'failed' ? 'Dismiss' : 'Remove'); remove.type = 'button';
     remove.setAttribute('aria-label', 'Remove ' + doc.title + ' from My Library');
@@ -884,6 +884,9 @@ async function loadLibrary() {
   const summary = result.summary || {};
   libraryNotice(summary.documents ? Number(summary.documents).toLocaleString() + ' document' + (summary.documents === 1 ? '' : 's') + ' · ' + Number(summary.units).toLocaleString() + ' passages searchable' : '');
   renderLibrary(result);
+  // Indexing finished since the last poll: the settings panel's document and passage counts changed.
+  if (libraryState.processing && !summary.processing) refreshHealth();
+  libraryState.processing = summary.processing || 0;
   if (summary.processing && $('library-dialog').open) libraryState.timer = setTimeout(loadLibrary, 2000);
 }
 async function openLibrary() { libraryError(''); $('library-dialog').showModal(); updateControls(); await loadLibrary(); }
@@ -891,6 +894,7 @@ async function addLibraryDocument(event) {
   event.preventDefault();
   const file = $('library-file').files[0];
   if (!file || !$('library-rights').checked || libraryState.adding) return;
+  if (libraryState.maxBytes && file.size > libraryState.maxBytes) { libraryError('This file is ' + formatBytes(file.size) + '. Files for My Library can be up to ' + formatBytes(libraryState.maxBytes) + '; split it and add the parts.'); return; }
   libraryError(''); libraryState.adding = true; updateControls(); libraryNotice('Uploading ' + file.name + '…');
   try {
     const query = '?filename=' + encodeURIComponent(file.name) + '&title=' + encodeURIComponent($('library-title-input').value.trim()) + '&rights_confirmed=true';

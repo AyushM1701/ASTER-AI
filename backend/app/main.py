@@ -14,7 +14,17 @@ from starlette.exceptions import HTTPException
 
 from backend.app.adapters.ocr import OCRAdapter
 from backend.app.adapters.ollama import OllamaAdapter
-from backend.app.api import attachments, chat, documents, education, library, my_library, papers, sessions, xray
+from backend.app.api import (
+    attachments,
+    chat,
+    documents,
+    education,
+    library,
+    my_library,
+    papers,
+    sessions,
+    xray,
+)
 from backend.app.config import Settings
 from backend.app.errors import REQUEST_ID, AppError, envelope
 from backend.app.services.answers import AnswerService
@@ -28,6 +38,14 @@ from backend.app.services.workspaces import WorkspaceStore
 from backend.app.services.xray import XrayService
 
 logger = logging.getLogger("medical_ai")
+
+
+def host_name(host):
+    """Host header without its port, lower-cased ("[::1]:8000" -> "[::1]")."""
+    host = host.strip().casefold()
+    if host.startswith("["):
+        return host[: host.find("]") + 1] if "]" in host else host
+    return host.split(":", 1)[0]
 
 
 def create_app(settings=None):
@@ -83,6 +101,7 @@ def create_app(settings=None):
             app.state.sessions.delete(session)
 
     app = FastAPI(title="Aster Medical Research", version="0.1.0", lifespan=lifespan)
+    trusted_hosts = {host_name(host) for host in settings.trusted_hosts}
 
     @app.middleware("http")
     async def request_metadata(request, call_next):
@@ -98,7 +117,12 @@ def create_app(settings=None):
                 else 65536
             )
             declared = request.headers.get("content-length")
-            if declared and (not declared.isdigit() or int(declared) > limit):
+            if host_name(request.headers.get("host", "")) not in trusted_hosts:
+                response = JSONResponse(
+                    envelope("unsupported_input", message="This service only answers on this computer."),
+                    status_code=400,
+                )
+            elif declared and (not declared.isdigit() or int(declared) > limit):
                 response = JSONResponse(
                     envelope("unsupported_input", message="Request body exceeds the size limit."),
                     status_code=413,

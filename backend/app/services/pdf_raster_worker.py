@@ -34,11 +34,14 @@ def library_pages(data, numbers):
     for number in numbers:
         if not 1 <= number <= len(pdf):
             continue
-        page = pdf[number - 1]
-        width, height = page.get_size()
-        scale = min(LIBRARY_DPI / 72, LIBRARY_MAX_SIDE / max(width, height, 1))
-        image = page.render(scale=scale, grayscale=True).to_pil().convert("L")
-        page.close()
+        try:
+            page = pdf[number - 1]
+            width, height = page.get_size()
+            scale = min(LIBRARY_DPI / 72, LIBRARY_MAX_SIDE / max(width, height, 1))
+            image = page.render(scale=scale, grayscale=True).to_pil().convert("L")
+            page.close()
+        except pdfium.PdfiumError:
+            continue  # one damaged page is reported as unreadable; the rest of the batch is still rendered
         buffer = io.BytesIO()
         image.save(buffer, format="PNG")
         sys.stdout.buffer.write(struct.pack(">II", number, buffer.tell()) + buffer.getvalue())

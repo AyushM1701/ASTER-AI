@@ -17,6 +17,10 @@ class Settings(BaseSettings):
         env_file=(ROOT / "configs/teaching.env", ROOT / ".env"), extra="ignore"
     )
     app_env: str = "local"
+    # Host names the API answers to. Requests naming any other host (for example a
+    # web page using DNS rebinding to reach 127.0.0.1) are refused. "testserver" is
+    # the in-process test client's host and is never resolvable from a browser page.
+    trusted_hosts: list[str] = ["127.0.0.1", "localhost", "[::1]", "testserver"]
     workspace_path: Path = ROOT / "data/workspaces/education.sqlite3"
     enable_research_search: bool = True
     answer_mode: str = "extractive"

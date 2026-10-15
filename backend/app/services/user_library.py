@@ -361,6 +361,9 @@ class UserLibrary:
         self.rowids = np.zeros(0, dtype=np.int64)
         self.position = {}
         self.jobs = {}
+        # One document is read and indexed at a time: each PDF worker may use up to 2 GiB,
+        # and several books added together would otherwise run their workers side by side.
+        self.ingest_gate = threading.Semaphore(1)
         if self.path.exists():
             self._open()
             self.db.execute("UPDATE documents SET status='failed', error='Processing was interrupted when Aster closed. Add the file again.' "
@@ -444,7 +447,10 @@ class UserLibrary:
 
     def vector(self, rowid):
         with self.lock:
-            return np.asarray(self.vectors[self.position[rowid]], dtype=np.float32)
+            index = self.position.get(rowid)
+            if index is None:  # removed between search and scoring: no similarity
+                return np.zeros(self.vectors.shape[1], dtype=np.float32)
+            return np.asarray(self.vectors[index], dtype=np.float32)
 
     def fetch(self, rowids):
         from backend.app.services.library import Hit
@@ -528,6 +534,18 @@ class UserLibrary:
         self._progress(doc_id, 0.6 * done / max(total, 1), note=f"Machine-reading scanned pages · {min(done + 1, total)} of {total}")
 
     def _ingest(self, doc_id, raw, filename, title, added, settings, encoder_source, on_ready, ocr=None):
+        if not self.ingest_gate.acquire(blocking=False):
+            self._progress(doc_id, 0, note="Waiting for the previous document to finish")
+            self.ingest_gate.acquire()
+        try:
+            if self.document(doc_id) is not None:  # not removed while waiting
+                self._progress(doc_id, 0, note=None)
+                self._index(doc_id, raw, filename, title, added, settings, encoder_source, on_ready, ocr)
+        finally:
+            self.ingest_gate.release()
+            self.jobs.pop(doc_id, None)
+
+    def _index(self, doc_id, raw, filename, title, added, settings, encoder_source, on_ready, ocr=None):
         from aster_library.index import embedding_text
 
         try:
@@ -569,8 +587,6 @@ class UserLibrary:
         except Exception as exc:  # never leave a document stuck in "processing"
             logger.exception("my-library: indexing failed")
             self._fail(doc_id, f"Indexing failed ({type(exc).__name__}). Try again or add a different copy of the file.")
-        finally:
-            self.jobs.pop(doc_id, None)
 
     def _fail(self, doc_id, message):
         with self.lock:

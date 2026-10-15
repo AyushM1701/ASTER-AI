@@ -2,6 +2,7 @@
 import hashlib
 import io
 import re
+import time
 import zipfile
 
 import numpy as np
@@ -315,3 +316,51 @@ def test_removing_a_document_stops_ocr(tmp_path):
     doc = library.submit(scanned_pdf(SCANNED * 2), "scan.pdf", "", config, HashEncoder, ocr=ocr)
     assert library.wait(doc["doc_id"], 60) is None and len(ocr.calls) <= 2 and library.units == 0
     library.close()
+
+
+def test_my_library_phrasing_is_specific(client):
+    headers = auth(client)
+    library = client.app.state.grounded.library
+    engine = client.app.state.grounded
+    doc = add(client, headers, NOTES.encode(), "notes.md", "Oral biology notes").json()["document"]
+    library.user.wait(doc["doc_id"], 30)
+    for question in ("What does the book I uploaded say about amelogenesis?", "I added a chapter on enamel; summarise it",
+                     "From my uploaded PDF, explain dentine hypersensitivity"):
+        assert engine.classes_for("study", question) == ["user"], question
+    for question in ("I added salt to my food, is that bad for blood pressure?", "I uploaded an X-ray, what is pneumonia?"):
+        assert "user" in engine.classes_for("patient", question) and engine.classes_for("patient", question) != ["user"], question
+
+
+def test_indexing_runs_one_document_at_a_time_and_queued_removal_is_skipped(tmp_path):
+    config = settings(tmp_path)
+    library = UserLibrary(tmp_path / "user")
+    library.ingest_gate.acquire()  # a book is being indexed
+    first = library.submit(NOTES.encode(), "notes.md", "", config, HashEncoder)
+    second = library.submit((NOTES + "\nExtra line about ameloblasts and enamel rods.\n").encode(), "more.md", "", config, HashEncoder)
+    for _ in range(100):
+        if library.document(first["doc_id"])["note"]:
+            break
+        time.sleep(0.02)
+    assert library.document(first["doc_id"])["note"].startswith("Waiting for the previous document")
+    assert library.delete(second["doc_id"])
+    library.ingest_gate.release()
+    assert library.wait(first["doc_id"], 30)["status"] == "ready"
+    assert library.wait(second["doc_id"], 30) is None and library.units == 2
+    library.close()
+
+
+def test_vector_of_a_removed_passage_is_zero_not_an_error(tmp_path):
+    library = UserLibrary(tmp_path / "user")
+    doc = library.submit(NOTES.encode(), "notes.md", "", settings(tmp_path), HashEncoder)
+    library.wait(doc["doc_id"], 30)
+    rowid = int(library.rowids[0])
+    library.delete(doc["doc_id"])
+    assert not library.vector(rowid).any()
+    library.close()
+
+
+def test_api_refuses_requests_for_other_host_names(client):
+    assert client.post("/v1/sessions").status_code == 201
+    assert client.post("/v1/sessions", headers={"Host": "attacker.example:8000"}).status_code == 400
+    assert client.get("/health/live", headers={"Host": "127.0.0.1:8000"}).status_code == 200
+    assert client.get("/health/live", headers={"Host": "[::1]:8000"}).status_code == 200

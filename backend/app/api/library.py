@@ -88,7 +88,10 @@ def update(request: Request, payload: UpdateRequest):
             raise AppError(500, "error", "The updated library could not be loaded and the previous library was restored.")
         old, grounded.library = grounded.library, refreshed
         grounded.verifier.set_entities(refreshed.generic_names())
-        old.close()
+        # Answers already in progress may still be searching the old packs; close them once those have finished.
+        closer = threading.Timer(600, old.close)
+        closer.daemon = True
+        closer.start()
         return envelope(message="Library updated to " + ", ".join(activated) + ".", library=refreshed.manifest())
     finally:
         _update_lock.release()

@@ -5,6 +5,7 @@ original file is discarded after indexing (only extracted passages and a hash
 are kept) and is searched alongside the installed library in later answers.
 """
 from fastapi import APIRouter, Depends, Request
+from starlette.concurrency import run_in_threadpool
 
 from backend.app.api.dependencies import owned_session
 from backend.app.errors import AppError, envelope
@@ -52,8 +53,9 @@ async def add(request: Request, filename: str = "", title: str = "", rights_conf
             raise AppError(413, "unsupported_input", f"Files for My Library can be up to {limit // 1_048_576} MB.")
     if not raw:
         raise AppError(422, "unsupported_input", "The file is empty.")
-    document = library.user.submit(bytes(raw), filename[:255], title[:200], state.settings, lambda: library.encoder,
-                                    ocr=getattr(state, "ocr", None))
+    # Hashing a 100 MB book and the duplicate check would otherwise stall every other request.
+    document = await run_in_threadpool(library.user.submit, bytes(raw), filename[:255], title[:200], state.settings,
+                                       lambda: library.encoder, ocr=getattr(state, "ocr", None))
     return envelope("ok", "my_library", "Adding “" + document["title"] + "” to My Library. Large books and scanned pages "
                     "(which are machine-read) can take a few minutes.", document=document)
 

@@ -48,7 +48,12 @@ DRUG_QUESTION = re.compile(
     r"metformin|insulin|amoxicillin|chlorhexidine|fluoride|cetirizine|omeprazole|amlodipine|warfarin|lidocaine)\b", re.I)
 # "according to my notes", "from my uploaded book", "in my library" -> answer from My Library only.
 MY_LIBRARY = re.compile(r"\b(?:my|our)\s+(?:own\s+)?(?:library|notes?|books?|textbooks?|documents?|uploads?|uploaded\s+\w+|"
-                        r"study\s+materials?|materials?|articles?|pdfs?|files?)\b|\bi\s+(?:uploaded|added)\b", re.I)
+                        r"study\s+materials?|materials?|articles?|pdfs?|files?)\b"
+                        # "the book I uploaded" / "I added a chapter on..." but not "I added salt to my food".
+                        r"|\b(?:books?|textbooks?|notes?|documents?|pdfs?|files?|articles?|chapters?|materials?)\s+"
+                        r"(?:that\s+|which\s+)?i\s+(?:uploaded|added)\b"
+                        r"|\bi\s+(?:uploaded|added)\s+(?:(?:a|an|the|some|these|those)\s+)?"
+                        r"(?:books?|textbooks?|notes?|documents?|pdfs?|files?|articles?|chapters?|materials?)\b", re.I)
 PRACTICE_REQUEST = re.compile(r"\b(?:mcqs?|multiple[- ]choice|quiz|viva|test me|practice questions?)\b", re.I)
 PRACTICE_STEM = re.compile(r"^(?:#+\s*)?(?:\*\*)?(?:q(?:uestion)?\s*\d+[.:)]|\d+[.)]\s+.*\?\s*(?:\*\*)?$|.*\?\s*(?:\*\*)?$)", re.I)
 PRACTICE_STRUCTURE = re.compile(
@@ -501,7 +506,10 @@ class GroundedAnswerEngine:
             warnings=warnings, task_completion=not partial,
             limitations=[SCOPE, "Each statement was automatically checked against its cited passage; automated checks are not "
                                 "clinical review and can miss errors.",
-                         "Library material was selected automatically from open-licence sources and has not been reviewed by clinicians or faculty."],
+                         "Library material was selected automatically from open-licence sources and has not been reviewed by clinicians or faculty."
+                         if not any(by_id[key].content_class == "user" for key in used if key in by_id) else
+                         "Library material, including documents you added to My Library, was selected automatically and has not "
+                         "been reviewed by clinicians or faculty."],
             suggested_followups=self.followups(query, audience, targets),
             timing_ms=int((time.monotonic() - started) * 1000),
         )
