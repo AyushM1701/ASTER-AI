@@ -15,6 +15,8 @@ function harness() {
   const end = source.indexOf('async function retryAttachment', start);
   const context = { $: node, state: { token: 'synthetic', health: { private_papers: { enabled: true } }, entries: [] },
     URL: { createObjectURL: () => 'blob:synthetic', revokeObjectURL() {} }, enabled: () => true, updateControls() {},
+    // The attachment dialog's "What is this PDF?" choice: these tests cover the research-paper path.
+    document: { querySelector: selector => selector.includes('pdf-kind') ? { value: 'paper' } : null },
     render() {}, scrollLatest() {}, scrollToEntry() {}, trimEntries() {}, completionSummary: () => '',
     announce(message) { context.lastNotice = message; }, run: async (label, work) => work(),
     FormData: class { append() {} }, request: async (path, options) => {

@@ -43,7 +43,7 @@ function updateControls() {
   document.querySelectorAll('#education-panel button, #education-panel input, #education-panel select, #education-panel textarea').forEach(control => { control.disabled = state.busy || !state.token || control.dataset.pending === 'true'; });
   for (const id of ['export-education', 'delete-education', 'save-draft']) $(id).disabled = state.busy || !state.token || !educationalSaving || $(id).dataset.pending === 'true';
   $('clear-topic-filter').disabled = !enabled() || !$('topic-filter').value;
-  for (const id of ['message', 'attach', 'upload-submit', 'sample', 'starter-question', 'starter-prescription', 'starter-xray']) $(id).disabled = !enabled() || (id === 'upload-submit' && !state.selection);
+  for (const id of ['message', 'attach', 'upload-submit', 'sample', 'starter-question', 'starter-prescription', 'starter-xray', 'starter-library']) $(id).disabled = !enabled() || (id === 'upload-submit' && !state.selection);
   $('send').disabled = !enabled() || !$('message').value.trim();
   $('paper-authorized').disabled = !enabled();
   if (isPaperFile(state.selection)) $('upload-submit').disabled = !enabled() || !$('paper-authorized').checked;
@@ -195,7 +195,7 @@ function sourceCards(parent, result) {
     const supportedLayers = layers ? [['simple', 'simple explanation'], ['deeper', 'deeper explanation'], ['context', 'research context']].filter(([key]) => (layers[key] || []).some(part => (part.citation_ids || []).includes(source.chunk_id))).map(([, label]) => label) : [];
     if (supportedLayers.length) text(card, 'Supports ' + supportedLayers.join(' and '), 'source-support');
     else if (statements.length) text(card, 'Supports answer paragraph' + (statements.length === 1 ? ' ' : 's ') + statements.join(', '), 'source-support');
-    text(card, source.source_type === 'private_paper' ? source.section + ' · Confirmed paper revision ' + result.context_revision : [source.section, source.jurisdiction, source.source_date ? 'Source date ' + source.source_date : 'Source date unavailable', source.text_revision].filter(Boolean).join(' · '), 'result-caption');
+    text(card, source.source_type === 'private_paper' ? source.section + ' · Confirmed paper revision ' + result.context_revision : [source.section, source.jurisdiction, source.source_date ? 'Source date ' + source.source_date : source.source_type === 'library_user' ? (source.retrieved_date ? 'Added ' + source.retrieved_date : '') : 'Source date unavailable', source.text_revision].filter(Boolean).join(' · '), 'result-caption');
     if (source.source_type === 'retailer_monograph') text(card, 'Retailer reference · verification and licensing confirmed by the user', 'result-caption');
     if (source.source_type === 'unverified_secondary') text(card, 'Unverified secondary data', 'result-caption');
     if (source.material_type === 'research') text(card, ['Research reference', source.study_design || source.study_type, source.study_context].filter(Boolean).join(' · '), 'result-caption');
@@ -842,13 +842,14 @@ function renderLibraryServices(health, services) {
     ['Prescription reading', health.ocr?.available ? 'Ready' + (health.ocr.handwriting_enabled ? ' · handwriting experimental' : '') : missing],
     ['X-ray assistance', health.xray?.uploads_available ? 'Ready · adult frontal chest X-rays only · research use' : 'Not available']];
   for (const [title, value] of rows) services.append(el('dt', '', title), el('dd', '', value));
-  if (library.user_library) services.append(el('dt', '', 'My Library'), el('dd', '', library.user_library.documents ? Number(library.user_library.documents).toLocaleString() + ' documents · ' + Number(library.user_library.units).toLocaleString() + ' passages' : 'Empty · add your own documents from My Library'));
+  if (library.user_library) services.append(el('dt', '', 'My Library'), el('dd', '', library.user_library.documents ? plural(library.user_library.documents, 'document') + ' · ' + plural(library.user_library.units, 'passage') : 'Empty · add your own documents from My Library'));
   for (const pack of library.packs || []) services.append(el('dt', '', pack.edition === 'nc' ? 'Noncommercial study pack' : 'Core library'), el('dd', '', Number(pack.documents).toLocaleString() + ' documents · ' + Number(pack.units).toLocaleString() + ' passages · built ' + String(pack.created || '').slice(0, 10)));
   for (const [kind, info] of Object.entries(library.freshness || {})) if (info.state !== 'current') services.append(el('dt', '', kind.replace('_', ' ') + ' information'), el('dd', '', info.state === 'outdated_warning' ? 'Older than its freshness limit · check for updates' : 'Update recommended'));
   if (health.release) services.append(el('dt', '', 'Installed version'), el('dd', '', health.release.app_version + (health.release.profile ? ' · ' + health.release.profile + ' profile' : '')));
   services.append(el('dt', '', 'Clinical validation'), el('dd', '', 'Not completed. Faculty and clinician review pending.'));
 }
 // ---------------------------------------------------------------- My Library
+function plural(count, word) { return Number(count).toLocaleString() + ' ' + word + (Number(count) === 1 ? '' : 's'); }
 function libraryNotice(message) { $('library-status').textContent = message || ''; }
 function libraryError(message) { $('library-error').textContent = message || ''; $('library-error').hidden = !message; }
 function formatBytes(value) { return value >= 1048576 ? (value / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(value / 1024)) + ' KB'; }
@@ -864,7 +865,7 @@ function renderLibrary(result) {
     const facts = [doc.filename, doc.kind ? doc.kind.toUpperCase() : '', doc.pages ? doc.pages + ' pages' : '', formatBytes(doc.bytes || 0), 'added ' + String(doc.added || '').slice(0, 10)].filter(Boolean).join(' · ');
     details.append(el('span', 'small muted', facts));
     if (doc.status === 'ready') {
-      details.append(el('span', 'small', Number(doc.units).toLocaleString() + ' passages · ready to use in answers'));
+      details.append(el('span', 'small', plural(doc.units, 'passage') + ' · ready to use in answers'));
       if (doc.note) details.append(el('span', 'small muted', doc.note));
     } else if (doc.status === 'processing') {
       const bar = el('progress'); bar.max = 1; bar.value = doc.progress || 0; bar.setAttribute('aria-label', 'Indexing ' + doc.title);
@@ -872,7 +873,7 @@ function renderLibrary(result) {
     } else details.append(el('span', 'error-text', 'Not added · ' + (doc.error || 'The document could not be processed.')));
     const remove = el('button', 'text-button', doc.status === 'failed' ? 'Dismiss' : 'Remove'); remove.type = 'button';
     remove.setAttribute('aria-label', 'Remove ' + doc.title + ' from My Library');
-    remove.addEventListener('click', () => removeLibraryDocument(doc, remove));
+    remove.addEventListener('click', () => doc.status === 'failed' ? removeLibraryDocument(doc, remove) : confirmLibraryRemoval(item, doc, remove));
     item.append(details, remove); list.append(item);
   }
 }
@@ -882,14 +883,14 @@ async function loadLibrary() {
   const result = await request('/v1/library/documents');
   if (result.status !== 'ok') { libraryNotice(result.message || 'My Library is unavailable.'); renderLibrary({}); return; }
   const summary = result.summary || {};
-  libraryNotice(summary.documents ? Number(summary.documents).toLocaleString() + ' document' + (summary.documents === 1 ? '' : 's') + ' · ' + Number(summary.units).toLocaleString() + ' passages searchable' : '');
+  libraryNotice(summary.documents ? plural(summary.documents, 'document') + ' · ' + plural(summary.units, 'passage') + ' searchable' : '');
   renderLibrary(result);
   // Indexing finished since the last poll: the settings panel's document and passage counts changed.
   if (libraryState.processing && !summary.processing) refreshHealth();
   libraryState.processing = summary.processing || 0;
   if (summary.processing && $('library-dialog').open) libraryState.timer = setTimeout(loadLibrary, 2000);
 }
-async function openLibrary() { libraryError(''); $('library-dialog').showModal(); updateControls(); await loadLibrary(); }
+async function openLibrary() { if (!$('library-dialog').open) { closeNavigation(); libraryError(''); $('library-dialog').showModal(); } updateControls(); await loadLibrary(); }
 async function addLibraryDocument(event) {
   event.preventDefault();
   const file = $('library-file').files[0];
@@ -903,8 +904,17 @@ async function addLibraryDocument(event) {
     $('library-form').reset(); $('library-title-input').placeholder = 'e.g. Shafer’s Oral Pathology, chapter 3'; announce(result.message); await loadLibrary(); await refreshHealth();
   } finally { libraryState.adding = false; updateControls(); }
 }
+function confirmLibraryRemoval(item, doc, button) {
+  // Destructive actions confirm inline, as saved study work does.
+  const confirm = el('div', 'library-confirm');
+  const yes = el('button', 'button', 'Remove'), keep = el('button', 'button', 'Keep'); yes.type = keep.type = 'button';
+  yes.setAttribute('aria-label', 'Remove ' + doc.title); keep.setAttribute('aria-label', 'Keep ' + doc.title);
+  confirm.append(el('span', 'small', 'Stop using this document in answers? Your original file is not affected.'), yes, keep);
+  button.hidden = true; item.append(confirm); keep.focus();
+  keep.addEventListener('click', () => { confirm.remove(); button.hidden = false; button.focus(); });
+  yes.addEventListener('click', () => removeLibraryDocument(doc, yes));
+}
 async function removeLibraryDocument(doc, button) {
-  if (doc.status !== 'failed' && !window.confirm('Remove “' + doc.title + '” from My Library? Aster will stop using it in answers. Your original file is not affected.')) return;
   button.disabled = true;
   const result = await request('/v1/library/documents/' + encodeURIComponent(doc.doc_id), { method: 'DELETE' });
   if (result.status !== 'ok') { libraryError(result.message || 'The document could not be removed.'); button.disabled = false; return; }
@@ -1030,8 +1040,22 @@ async function initialize() { updateControls(); render(); const connected = awai
 initialize();
 document.querySelectorAll('input[name="pdf-kind"]').forEach(radio => radio.addEventListener('change', syncPdfKind));
 $('update-library').addEventListener('click', event => updateLibrary(event.currentTarget));
-$('open-library').addEventListener('click', openLibrary);
+$('open-library').addEventListener('click', openLibrary); $('starter-library').addEventListener('click', openLibrary);
 $('library-form').addEventListener('submit', addLibraryDocument);
 $('library-file').addEventListener('change', () => { libraryError(''); if ($('library-file').files[0]) $('library-title-input').placeholder = $('library-file').files[0].name.replace(/\.[^.]+$/, ''); updateControls(); });
 $('library-rights').addEventListener('change', updateControls);
 $('library-dialog').addEventListener('close', () => clearTimeout(libraryState.timer));
+// Drop zones accept a dragged file as well as the native picker.
+for (const zone of document.querySelectorAll('.drop-zone')) {
+  const input = zone.querySelector('input[type=file]');
+  const leave = () => zone.classList.remove('dragging');
+  zone.addEventListener('dragover', event => { if (!event.dataTransfer?.types.includes('Files') || input.disabled) return; event.preventDefault(); event.dataTransfer.dropEffect = 'copy'; zone.classList.add('dragging'); });
+  zone.addEventListener('dragleave', event => { if (!zone.contains(event.relatedTarget)) leave(); });
+  zone.addEventListener('drop', event => {
+    event.preventDefault(); leave();
+    const files = event.dataTransfer?.files;
+    if (!files?.length || input.disabled) return;
+    const one = new DataTransfer(); one.items.add(files[0]); input.files = one.files;
+    input.dispatchEvent(new Event('change', { bubbles: true }));
+  });
+}

@@ -16,13 +16,15 @@
   <aside class="navigation" aria-label="Workspace navigation" id="navigation">
     <a class="brand" href="/" aria-label="Aster home"><span class="icon icon-asterisk" aria-hidden="true"></span><span>Aster</span></a>
     <button class="button new-conversation" id="new-chat"><span class="icon icon-plus" aria-hidden="true"></span>New conversation</button>
-    <div class="nav-current"><span class="icon icon-asterisk" aria-hidden="true"></span>Conversation</div>
+    <div class="nav-primary">
+      <div class="nav-current" aria-current="page"><span class="icon icon-asterisk" aria-hidden="true"></span>Conversation</div>
+      <button class="nav-item" id="open-library" aria-haspopup="dialog" aria-controls="library-dialog"><span class="icon icon-book" aria-hidden="true"></span>My Library</button>
+      <button class="nav-item" id="open-education" aria-controls="education-panel" aria-expanded="false"><span class="icon icon-study" aria-hidden="true"></span>Study topics &amp; saved work</button>
+    </div>
     <div class="session-intro"><p class="overline">This session</p><p>Your questions, together.</p><p class="small muted">Attachments and follow-ups stay in the same conversation.</p></div>
     <div class="navigation-bottom">
       <div class="scope-note"><strong>Information, with context</strong><p>For education and research. Aster cannot diagnose or prescribe.</p></div>
-      <button class="text-button" id="connections">Settings &amp; connections</button>
-      <button class="text-button" id="open-library" aria-haspopup="dialog" aria-controls="library-dialog">My Library</button>
-      <button class="text-button" id="open-education" aria-controls="education-panel" aria-expanded="false">Study topics &amp; saved work</button>
+      <button class="text-button" id="connections" aria-haspopup="dialog" aria-controls="settings-dialog">Settings &amp; connections</button>
       <button class="text-button muted" id="clear-session">Clear session data</button>
       <p class="small muted" id="session-label">Connecting locally…</p>
     </div>
@@ -78,9 +80,10 @@
       <div class="welcome" id="welcome">
         <div class="welcome-copy"><h1>Understand more.<br>One conversation.</h1><p class="muted introduction">Understand a medical concept or practise a study topic.<br class="desktop-break"> Start simply, then explore the supporting evidence.</p></div>
         <div class="starter-list">
-          <button class="starter" id="starter-question"><span class="icon icon-file" aria-hidden="true"></span><span><strong>Ask a health question</strong><span class="small muted">“What does blood pressure mean?”</span></span></button>
+          <button class="starter" id="starter-question"><span class="icon icon-asterisk" aria-hidden="true"></span><span><strong>Ask a health question</strong><span class="small muted">“What does blood pressure mean?”</span></span></button>
           <button class="starter" id="starter-prescription"><span class="icon icon-file" aria-hidden="true"></span><span><strong>Read a prescription</strong><span class="small muted">Attach an image. Review the text.</span></span></button>
-          <button class="starter" id="starter-xray"><span class="icon icon-file" aria-hidden="true"></span><span><strong>Bring an X-ray</strong><span class="small muted">Route an image to research checks.</span></span></button>
+          <button class="starter" id="starter-xray"><span class="icon icon-scan" aria-hidden="true"></span><span><strong>Bring an X-ray</strong><span class="small muted">Route an image to research checks.</span></span></button>
+          <button class="starter" id="starter-library" aria-haspopup="dialog" aria-controls="library-dialog"><span class="icon icon-book" aria-hidden="true"></span><span><strong>Study from your own notes</strong><span class="small muted">Add a textbook or notes, then ask “according to my notes…”</span></span></button>
         </div>
       </div>
       <div id="messages" class="messages"></div>
@@ -90,7 +93,7 @@
       <div id="active-context" class="active-context" hidden><span id="active-context-label">Confirmed document context</span><button class="text-button" id="detach-context">Remove</button></div>
       <form class="composer" id="chat-form">
         <div class="composer-task"><label for="audience" class="small muted">Your task</label><select id="audience" name="audience"><option value="auto">Choose automatically</option><option value="understand">Understand</option><option value="study">Study &amp; practise</option><option value="research">Research &amp; Write</option></select><span class="small muted keyboard-hint">Enter to send · Shift + Enter for a new line</span></div>
-        <label for="message" class="sr-only">Message Aster</label><textarea id="message" maxlength="4000" rows="1" placeholder="Ask a question or attach a paper or image…" required></textarea>
+        <label for="message" class="sr-only">Message Aster</label><textarea id="message" maxlength="4000" rows="1" placeholder="Ask a question or attach a file…" required></textarea>
         <div class="composer-actions"><button type="button" id="attach" class="icon-button attach-button" aria-label="Attach paper or image" title="Attach a PDF paper, prescription or X-ray image"><span class="icon icon-link" aria-hidden="true"></span></button><span class="small muted attachment-hint">PDF / PNG / JPEG · up to 10 MB</span><button type="submit" class="send-button" id="send" aria-label="Send message"><span class="icon icon-arrow" aria-hidden="true"></span></button></div>
       </form>
       <p class="composer-note small muted">Answers can be incomplete. For urgent symptoms, seek medical help.</p>
