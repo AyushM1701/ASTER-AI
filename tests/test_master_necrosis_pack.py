@@ -1,5 +1,7 @@
 from pathlib import Path
 
+import pytest
+
 from backend.app.config import Settings
 from backend.app.services.answers import AnswerService
 from backend.app.services.prepared_evidence import prepared_support
@@ -9,6 +11,7 @@ from backend.app.services.teaching import TeachingStore
 PACK = Path(__file__).resolve().parents[1] / "artifacts/source-packs/mds-master-necrosis-acquired-v1-2026-10-13"
 
 
+@pytest.mark.local  # needs licensed source packs that are not committed
 def test_necrosis_foundation_retains_regulation_and_immune_qualifications():
     settings = Settings(_env_file=None, enable_teaching=True, teaching_backend="lexical", teaching_release_path=PACK,
                         teaching_explanations_sha256="", enable_patient_information=False)
@@ -29,6 +32,7 @@ def test_necrosis_foundation_retains_regulation_and_immune_qualifications():
         store.close()
 
 
+@pytest.mark.local  # needs licensed source packs that are not committed
 def test_apoptosis_inflammation_is_qualified_and_source_bound():
     settings = Settings(_env_file=None, enable_teaching=True, teaching_backend="lexical", teaching_release_path=PACK,
                         teaching_explanations_sha256="", enable_patient_information=False)

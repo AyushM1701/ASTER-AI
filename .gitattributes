@@ -1,3 +1,6 @@
 *.cmd text eol=crlf
 *.ps1 text eol=crlf
 evaluation/*.jsonl -text
+
+# Hash-locked benchmark inputs: keep exact bytes on every platform
+configs/benchmarks/** -text
