@@ -364,3 +364,20 @@ def test_api_refuses_requests_for_other_host_names(client):
     assert client.post("/v1/sessions", headers={"Host": "attacker.example:8000"}).status_code == 400
     assert client.get("/health/live", headers={"Host": "127.0.0.1:8000"}).status_code == 200
     assert client.get("/health/live", headers={"Host": "[::1]:8000"}).status_code == 200
+
+
+def test_my_library_intent_survives_followup_rewriting(client, monkeypatch):
+    headers = auth(client)
+    engine = client.app.state.grounded
+    doc = add(client, headers, NOTES.encode(), "notes.md", "Oral biology notes").json()["document"]
+    engine.library.user.wait(doc["doc_id"], 30)
+    # Earlier turns make the engine rewrite the question; the rewrite drops "according to my notes".
+    monkeypatch.setattr(engine, "route", lambda *args: "medical")
+    monkeypatch.setattr(engine, "standalone", lambda question, history: ("What is amelogenesis?", True))
+    monkeypatch.setattr(engine, "search_rewrite", lambda query: None)
+    seen = []
+    original = engine.gather
+    monkeypatch.setattr(engine, "gather", lambda query, audience, only_mine=False: seen.append(only_mine) or original(query, audience, only_mine))
+    monkeypatch.setattr(engine, "sufficient", lambda query, hits: (seen.append([h.content_class for h in hits]), False)[1])
+    engine.answer("According to my notes, what is amelogenesis?", [{"question": "earlier"}], "study")
+    assert seen[0] is True and seen[1] and set(seen[1]) == {"user"}

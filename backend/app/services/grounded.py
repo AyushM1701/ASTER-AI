@@ -246,11 +246,11 @@ class GroundedAnswerEngine:
         return rewritten, True
 
     # ---------------------------------------------------------------- retrieval
-    def classes_for(self, audience, question):
+    def classes_for(self, audience, question, only_mine=False):
         """Patient symptom questions use patient/professional guidance; product labels
         and isolated research are added only when the question is about a medicine
         or explicitly about research."""
-        if MY_LIBRARY.search(question) and self._has_mine():
+        if (only_mine or MY_LIBRARY.search(question)) and self._has_mine():
             return ["user"]
         if audience == "patient":
             classes = ["patient", "professional", "user"]
@@ -261,11 +261,11 @@ class GroundedAnswerEngine:
             return classes
         return None
 
-    def gather(self, question, audience):
+    def gather(self, question, audience, only_mine=False):
         targets = comparison_targets(question) if COMPARISON.search(question) else []
         queries = [question] + [f"{t}" for t in targets] + (split_subquestions(question) if not targets else [])
         queries = list(dict.fromkeys(q for q in queries if q))[:5]
-        classes = self.classes_for(audience, question)
+        classes = self.classes_for(audience, question, only_mine)
         weights_audience = {"patient": "patient", "study": "study", "research": "research"}.get(audience, "patient")
         if DRUG_QUESTION.search(question) and audience == "patient":
             weights_audience = "drug"
@@ -467,11 +467,13 @@ class GroundedAnswerEngine:
             return envelope("error", "medical_education",
                             "The medical reference library is not available. Open Aster's setup and choose Repair to restore it.",
                             library_status=self.library.manifest(), task_completion=False)
-        hits, targets, queries = self.gather(query, audience)
+        # Rewriting a follow-up into a standalone question can drop "according to my notes"; keep the user's intent.
+        only_mine = bool(MY_LIBRARY.search(question))
+        hits, targets, queries = self.gather(query, audience, only_mine)
         if not self.sufficient(query, hits):
             retry = self.search_rewrite(query)
             if retry:
-                retry_hits, retry_targets, retry_queries = self.gather(retry, audience)
+                retry_hits, retry_targets, retry_queries = self.gather(retry, audience, only_mine)
                 if self.sufficient(retry, retry_hits):
                     query, rewritten = retry, True
                     hits, targets, queries = retry_hits, retry_targets, retry_queries

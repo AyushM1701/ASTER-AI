@@ -122,7 +122,7 @@ def external_connections(pids):
     return found
 
 
-def workflow(web, report):
+def workflow(web, report, writable):
     import httpx
 
     tests, timings = report["tests"], report["measurements"].setdefault("latency_seconds", {})
@@ -148,6 +148,26 @@ def workflow(web, report):
                                                     "first_status": study.get("status"), "message": follow.get("message")})[:400])
         general = ask("general_chat", "What is the capital of Japan?")
         tests["general_chat"] = general.get("route") == "conversation" and "tokyo" in (general.get("answer") or "").casefold()
+        # My Library: a user document is indexed locally, cited when asked about, and stored with the user's data.
+        notes = ("# Enamel formation\n\nAmelogenesis is the formation of enamel by ameloblasts. It proceeds through a "
+                 "secretory stage and a maturation stage, during which the enamel matrix proteins are removed and the "
+                 "mineral content of the enamel rises sharply.\n").encode()
+        started = time.monotonic()
+        added = client.post("/v1/library/documents", params={"filename": "acceptance-notes.md", "title": "Acceptance notes",
+                                                             "rights_confirmed": "true"},
+                            content=notes, headers={"Content-Type": "application/octet-stream"}).json().get("document") or {}
+        document = added
+        while document.get("status") == "processing" and time.monotonic() - started < 300:
+            time.sleep(1)
+            document = client.get("/v1/library/documents/" + added["doc_id"]).json().get("document") or {}
+        timings["my_library_index"] = round(time.monotonic() - started, 1)
+        tests["my_library_indexed"] = document.get("status") == "ready"
+        mine = ask("my_library_question", "According to my notes, what is amelogenesis?", "study")
+        tests["my_library_answer_cited"] = any(c.get("source_type") == "library_user" for c in mine.get("citations") or [])
+        tests["my_library_in_user_data"] = (Path(writable) / "library" / "user" / "library.sqlite").is_file()
+        if not tests["my_library_indexed"] or not tests["my_library_answer_cited"]:
+            report["notes"].append("my_library: " + json.dumps({"document": document.get("status"), "error": document.get("error"),
+                                                                "answer": mine.get("status"), "message": mine.get("message")})[:400])
         tests["urgent_guidance"] = ask("urgent", "I have crushing chest pain right now").get("status") == "urgent_guidance"
         tests["personal_dose_refused"] = ask("personal_dose", "How many amoxicillin tablets should I take?").get("status") == "unsupported_input"
         calc = ask("calculation", "Calculate sensitivity and specificity: true positives 90, false negatives 10, false positives 20, true negatives 180.", "study")
@@ -277,7 +297,7 @@ def main():
         second_status = work / "launcher-2.json"
         second = launch(version_dir, writable, second_status)
         report["tests"]["duplicate_launch_reuses_instance"] = wait_state(second_status, {"ALREADY_RUNNING", "READY", "ERROR"}, second, 120).get("state") == "ALREADY_RUNNING"
-        workflow(web, report)
+        workflow(web, report, writable)
         pids = owned_pids(process.pid)
         report["measurements"]["owned_processes"] = len(pids)
         import psutil
@@ -302,6 +322,7 @@ def main():
         report["measurements"]["repair_seconds"] = seconds
         process = launch(version_dir, writable, launcher_status)
         report["tests"]["repair_restores_launch"] = wait_state(launcher_status, {"READY", "ERROR"}, process).get("state") == "READY"
+        report["tests"]["my_library_kept_after_repair"] = (writable / "library" / "user" / "library.sqlite").is_file()
         process.kill()
         process.wait()
         time.sleep(3)
