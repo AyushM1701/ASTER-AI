@@ -419,8 +419,13 @@ def main():
     args = parser.parse_args()
     root = args.root or (Path(sys.executable).parent if getattr(sys, "frozen", False) else Path(__file__).resolve().parents[1])
     if args.verify_only:
-        result = verify_package(root)
-        print(json.dumps({k: v for k, v in result.items() if k != "manifest"}, indent=2))
+        from aster_release.v2 import INSTALLED_MANIFEST, verify_installed
+
+        if (Path(root) / INSTALLED_MANIFEST).exists():  # current (v2) installations: hash every file
+            result = verify_installed(root, full=True)
+        else:
+            result = verify_package(root)
+        print(json.dumps({k: v for k, v in result.items() if k not in {"manifest", "profile"}}, indent=2, default=str))
         return
     portable_marker = Path(root).resolve().parent.parent / "portable.json"
     if args.writable:
