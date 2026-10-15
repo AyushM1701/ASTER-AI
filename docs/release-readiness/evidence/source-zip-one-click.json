@@ -1,0 +1,47 @@
+{
+  "steps": {
+    "zip_contains_launcher": {
+      "ok": true,
+      "detail": ""
+    },
+    "launcher_has_crlf": {
+      "ok": true,
+      "detail": "cmd.exe needs CRLF"
+    },
+    "bootstrap_exit_zero": {
+      "ok": true,
+      "detail": ""
+    },
+    "cpu_profile_installed": {
+      "ok": true,
+      "detail": "{\"version\": \"0.2.0-rc.1\", \"profile\": \"standard\", \"include_nc\": true, \"installed\": \"2026-10-15T11:05:39Z\", \"previous\": null}"
+    },
+    "no_cuda_runtime_downloaded": {
+      "ok": true,
+      "detail": ""
+    },
+    "launcher_ready": {
+      "ok": true,
+      "detail": "{\"url\": \"http://127.0.0.1:8601/\", \"pid\": 25048}"
+    },
+    "selftest_passed_before_ready": {
+      "ok": true,
+      "detail": ""
+    },
+    "web_workspace_serves": {
+      "ok": true,
+      "detail": ""
+    },
+    "cited_answer": {
+      "ok": true,
+      "detail": "status=partial citations=3"
+    }
+  },
+  "measurements": {
+    "source_zip_mb": 19.1,
+    "bootstrap_and_install_seconds": 82.0,
+    "ready_seconds_after_install": 33.1,
+    "first_answer_seconds": 30.6
+  },
+  "passed": true
+}
