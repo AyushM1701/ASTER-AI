@@ -1,10 +1,10 @@
 {
  "schema_version": 1,
  "product": "Aster",
- "version": "0.2.0-rc.1",
- "tag": "v0.2.0-rc.1",
- "release_base_url": "https://github.com/AyushM1701/ASTER-AI/releases/download/v0.2.0-rc.1/",
- "created": "2026-10-15T13:32:10Z",
+ "version": "0.2.0-rc.2",
+ "tag": "v0.2.0-rc.2",
+ "release_base_url": "https://github.com/AyushM1701/ASTER-AI/releases/download/v0.2.0-rc.2/",
+ "created": "2026-10-15T16:30:24Z",
  "default_profile": "standard",
  "profile_order": [
   "standard",
@@ -37,7 +37,7 @@
  },
  "release_profile": {
   "schema_version": 2,
-  "app_version": "0.2.0-rc.1",
+  "app_version": "0.2.0-rc.2",
   "edition": "PublicStandard",
   "settings": {
    "answer_engine": "grounded",
@@ -101,15 +101,15 @@
    "id": "app",
    "type": "zip",
    "dest": ".",
-   "archive": "aster-app-0.2.0-rc.1.zip",
-   "sha256": "b26ac286a4a14c9267443892da64efca2f66a4002376789c79a3cc6fb8593243",
-   "bytes": 130308268,
-   "unpacked_bytes": 295021210,
+   "archive": "aster-app-0.2.0-rc.2.zip",
+   "sha256": "264b0ef5f2d4ad90a465fd83e360850ea3ca84e4d9dda9e050342f1fb61e9704",
+   "bytes": 130345960,
+   "unpacked_bytes": 295067387,
    "parts": [
     {
-     "file": "aster-app-0.2.0-rc.1.zip",
-     "bytes": 130308268,
-     "sha256": "b26ac286a4a14c9267443892da64efca2f66a4002376789c79a3cc6fb8593243"
+     "file": "aster-app-0.2.0-rc.2.zip",
+     "bytes": 130345960,
+     "sha256": "264b0ef5f2d4ad90a465fd83e360850ea3ca84e4d9dda9e050342f1fb61e9704"
     }
    ],
    "profiles": [
@@ -120,13 +120,13 @@
    "id": "models-onnx",
    "type": "zip",
    "dest": ".",
-   "archive": "aster-models-onnx-0.2.0-rc.1.zip",
+   "archive": "aster-models-onnx-0.2.0-rc.2.zip",
    "sha256": "803ac2d36eccd667d77ed6b05fde8b939913947f6c830938a5b56bfdde588e1a",
    "bytes": 461764616,
    "unpacked_bytes": 555577880,
    "parts": [
     {
-     "file": "aster-models-onnx-0.2.0-rc.1.zip",
+     "file": "aster-models-onnx-0.2.0-rc.2.zip",
      "bytes": 461764616,
      "sha256": "803ac2d36eccd667d77ed6b05fde8b939913947f6c830938a5b56bfdde588e1a"
     }
@@ -139,13 +139,13 @@
    "id": "ollama-cpu",
    "type": "zip",
    "dest": ".",
-   "archive": "aster-ollama-cpu-0.2.0-rc.1.zip",
+   "archive": "aster-ollama-cpu-0.2.0-rc.2.zip",
    "sha256": "d17be4984d659236bd1abd45399b4300d9889180ea7ed3b29acfb4fe189ad91c",
    "bytes": 25215692,
    "unpacked_bytes": 68100870,
    "parts": [
     {
-     "file": "aster-ollama-cpu-0.2.0-rc.1.zip",
+     "file": "aster-ollama-cpu-0.2.0-rc.2.zip",
      "bytes": 25215692,
      "sha256": "d17be4984d659236bd1abd45399b4300d9889180ea7ed3b29acfb4fe189ad91c"
     }
@@ -158,13 +158,13 @@
    "id": "tesseract",
    "type": "zip",
    "dest": ".",
-   "archive": "aster-tesseract-0.2.0-rc.1.zip",
+   "archive": "aster-tesseract-0.2.0-rc.2.zip",
    "sha256": "2e24065725890df9f1c4706fa070ca1d8fc70f5251f8a9ab575be6cfdfdb990c",
    "bytes": 43472444,
    "unpacked_bytes": 112309290,
    "parts": [
     {
-     "file": "aster-tesseract-0.2.0-rc.1.zip",
+     "file": "aster-tesseract-0.2.0-rc.2.zip",
      "bytes": 43472444,
      "sha256": "2e24065725890df9f1c4706fa070ca1d8fc70f5251f8a9ab575be6cfdfdb990c"
     }

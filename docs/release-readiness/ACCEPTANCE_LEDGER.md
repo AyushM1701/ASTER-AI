@@ -56,3 +56,12 @@ need something this machine or engineering cannot provide.
 
 Also outstanding: the signing key at `~/.aster-release/` must be backed up and added as a CI secret, and the owner must
 complete the rights review of `packaging/asset-rights-v2.csv`.
+
+## 0.2.0-rc.2 (15 Oct 2026)
+
+Release candidate 0.2.0-rc.2 (My Library, API host check, interface refinements; same library 2026.10.15 and models
+as rc.1) was built on this machine and passed all 30 packaged checks: the 26 above plus four for My Library (document
+indexed, "according to my notes" answer cites it, stored in the user-data folder, kept after repair). Evidence:
+[evidence/acceptance-rc2-r2.json](evidence/acceptance-rc2-r2.json). The first rc.2 run (29/30) found that a
+follow-up rewrite could drop "according to my notes"; that was fixed and the release rebuilt before this run.
+Source tests: 1,271 passed; ruff clean. The V03–V06 external gates are unchanged.
