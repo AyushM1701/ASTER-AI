@@ -32,7 +32,7 @@ Status values: `OPEN`, `IN_PROGRESS`, `VERIFIED` (evidence recorded against the 
 | S01 | Loopback-only, no patient content in logs/packs/telemetry, upload defenses (§7) | Tests + audit | VERIFIED | Packaged run: no non-loopback connections; logs hold states only |
 | S02 | User-facing recovery for missing/corrupt packs, model errors, low disk (§7) | Tests | VERIFIED | Packaged corruption → repair; pack fallback tests |
 | R01 | Pinned release lock as trust root (§2) | Lock committed; hash mismatch refused | VERIFIED | release/release-lock.json(.sig), lock ecff5ba1…; tampered hashes refused (tests/test_setup_engine.py) |
-| R02 | Source-ZIP "Start Aster" launcher bootstraps pinned release (§2) | Tested from extracted source ZIP against mirror | VERIFIED | Source ZIP (git archive) → Start Aster bootstrap → CPU-only install → Ready → cited answer, against a loopback mirror (docs/release-readiness/evidence/source-zip-one-click.json). The real GitHub download awaits publication (V05) |
+| R02 | Source-ZIP "Start Aster" launcher bootstraps pinned release (§2) | Tested from extracted source ZIP against mirror | VERIFIED | Source ZIP (git archive) → Start Aster bootstrap → CPU-only install → Ready → cited answer, against a loopback mirror (docs/release-readiness/evidence/source-zip-one-click.json). Release now public (V05); a full bootstrap from GitHub on a second PC is still untested |
 | R03 | AsterSetup-Windows-x64.exe per-user, progress window, resume, retry/cancel, free space (§2) | Built + tested | VERIFIED | Packaged install with resume after interruption; docs/release-readiness/evidence/acceptance-r9.json |
 | R04 | Shortcuts, uninstall, repair, rollback (§2) | Tested | PARTIAL | Shortcuts, uninstall entry, repair and uninstall checked in acceptance-r9. App-version `--rollback` is implemented but untested: it needs two installed versions. Library-pack rollback is tested |
 | R05 | Portable / fully offline install option (§2) | Built + tested | PARTIAL | `--offline-dir` install from the assets downloaded off the GitHub draft: 41 s, all 1,808 files re-verified. `--portable` implemented but not run |
@@ -45,7 +45,7 @@ Status values: `OPEN`, `IN_PROGRESS`, `VERIFIED` (evidence recorded against the 
 | V02 | Packaged E2E: install → Q&A → teaching → prescription → X-ray → restart offline (§8) | Recorded run on this machine | VERIFIED | acceptance-r9: 26/26 on the final build (docs/release-readiness/evidence/acceptance-r9.json) |
 | V03 | Clean Windows VM/second machine (§8) | — | EXTERNAL_GATE | Windows 11 Home: no Hyper-V/Sandbox |
 | V04 | Code signing (§8) | — | EXTERNAL_GATE | No certificate |
-| V05 | GitHub release publication (§8) | — | EXTERNAL_GATE | Separate authorization |
+| V05 | GitHub release publication (§8) | Owner-authorized publish + anonymous download check | VERIFIED | v0.2.0-rc.2 published as a prerelease on 16 Oct 2026, tag at 5d099fa; all 24 assets download anonymously (HTTP 200); the public setup and signed lock match `release/bootstrap-pin.json` in main's source ZIP. The superseded rc.1 draft was deleted unpublished |
 | V06 | Faculty/clinician review (§4a, §8) | — | EXTERNAL_GATE | Not fabricated |
 
 ## Final status (15 Oct 2026)
@@ -64,4 +64,8 @@ as rc.1) was built on this machine and passed all 30 packaged checks: the 26 abo
 indexed, "according to my notes" answer cites it, stored in the user-data folder, kept after repair). Evidence:
 [evidence/acceptance-rc2-r2.json](evidence/acceptance-rc2-r2.json). The first rc.2 run (29/30) found that a
 follow-up rewrite could drop "according to my notes"; that was fixed and the release rebuilt before this run.
-Source tests: 1,271 passed; ruff clean. The V03–V06 external gates are unchanged.
+Source tests: 1,271 passed; ruff clean.
+
+Published 16 Oct 2026 as prerelease `v0.2.0-rc.2` after the owner's authorization (V05 now VERIFIED): the draft's
+24 assets had been downloaded back and found byte-identical to the accepted build, and after publication every asset
+downloaded without authentication. The V03, V04 and V06 external gates remain open.
