@@ -98,6 +98,7 @@ def test_component_refuses_duplicate_ids_and_no_text(document, tmp_path, dental)
         dental.build_component([document], tmp_path / 'empty', root=tmp_path)
 
 
+@pytest.mark.local  # needs licensed source packs that are not committed
 def test_acquired_component_proves_license_checksums_and_exact_source_spans(dental):
     from backend.app.services.retrieval import Reference
 

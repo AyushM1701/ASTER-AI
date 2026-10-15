@@ -1,6 +1,7 @@
 import hashlib
 import json
 
+import pytest
 from fastapi.testclient import TestClient
 
 from backend.app.main import create_app
@@ -8,6 +9,7 @@ from backend.app.services.mds_curriculum import registry
 from tests.mds_fixtures import make_teacher
 
 
+@pytest.mark.local  # needs licensed source packs that are not committed
 def test_registry_binds_existing_national_amendment_scope_without_readiness_claims():
     data = registry()
     assert len(data["families"]) == 12 and len(data["specialties"]) == 9

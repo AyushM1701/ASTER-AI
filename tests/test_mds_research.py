@@ -170,6 +170,7 @@ def test_excluded_paragraph_retains_audit_hash_without_importing_claim(tmp_path)
         build_release([doc], tmp_path / "v1", root=tmp_path)
 
 
+@pytest.mark.local  # needs licensed source packs that are not committed
 @pytest.mark.parametrize("version,record_count,source_count", [("v1", 427, 25), ("v2", 447, 27)])
 def test_saved_component_is_verified_and_every_research_chunk_keeps_context(
     version, record_count, source_count
