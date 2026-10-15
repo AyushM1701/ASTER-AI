@@ -14,7 +14,12 @@ jobs:
         with:
           python-version: '3.13'
       - name: Install pinned source-test dependencies
-        run: python -m pip install -r requirements.lock.txt
+        run: python -m pip install -r requirements.lock.txt -r requirements-dev.txt
+      - name: Install Tesseract OCR (bundled in the release; prescription tests need it)
+        run: |
+          choco install tesseract --no-progress -y
+          "TESSERACT_CMD=C:\Program Files\Tesseract-OCR\tesseract.exe" | Out-File -FilePath $env:GITHUB_ENV -Append -Encoding utf8
+          & "C:\Program Files\Tesseract-OCR\tesseract.exe" --version
       - name: Dependency consistency
         run: python -m pip check
       - name: Source regressions (local-asset tests excluded)
