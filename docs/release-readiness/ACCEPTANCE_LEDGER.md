@@ -54,8 +54,11 @@ Release candidate 0.2.0-rc.1 was built and accepted on this machine; all 26 pack
 Full measurements are in [ACCEPTANCE_REPORT.md](ACCEPTANCE_REPORT.md). PARTIAL rows name their limitation. EXTERNAL_GATE rows
 need something this machine or engineering cannot provide.
 
-Also outstanding: the signing key at `~/.aster-release/` must be backed up and added as a CI secret, and the owner must
-complete the rights review of `packaging/asset-rights-v2.csv`.
+Also outstanding: the owner must complete the rights review of `packaging/asset-rights-v2.csv`.
+
+Signing key (16 Oct 2026): the owner reports an offline backup of the key at `~/.aster-release/`, and it is stored as
+the `ASTER_SIGNING_KEY_PEM` secret in the `aster-release-build` GitHub environment. The release workflow has not yet
+run with it (R09).
 
 ## 0.2.0-rc.2 (15 Oct 2026)
 
