@@ -156,7 +156,7 @@ def main():
         "The dataset was not used to fine-tune Qwen or repair handwritten prescriptions. OCR and X-ray models/evaluation remain unchanged. "
         "See [the integration guide](NETMEDS_CLINICAL_LIBRARY.md) for exact names, provenance, exclusions and rollback to the original v2.",
     ]
-    destination = ROOT / "NETMEDS_CLINICAL_LIBRARY_EVALUATION.md"
+    destination = ROOT / "docs/reports/NETMEDS_CLINICAL_LIBRARY_EVALUATION.md"
     destination.write_text("\n".join(rows) + "\n", encoding="utf-8")
     print(destination)
 

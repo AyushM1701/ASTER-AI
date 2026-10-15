@@ -3,11 +3,15 @@ import multiprocessing
 
 
 def main():
+    import os
+
     from aster_release.shutdown import serve
     from frontend.webserver import app
-    serve(app, 8501)
+    serve(app, int(os.environ.get("ASTER_WEB_PORT", "8501")))
 
 
 if __name__ == "__main__":
     multiprocessing.freeze_support()
-    main()
+    from aster_release.entry_guard import guarded
+
+    guarded(main, "web")

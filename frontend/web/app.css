@@ -200,3 +200,6 @@ select:disabled { cursor:not-allowed; opacity:.45; }
 @media(prefers-reduced-motion:reduce) {
   select::picker-icon { transition:none; }
 }
+.citation-marker{color:var(--aster-accent);font-size:11px;margin-left:2px;vertical-align:super;line-height:0;white-space:nowrap}.grounded-list{margin:0;padding-left:22px;display:grid;gap:8px}.grounded-item{white-space:normal}.followup-row{display:flex;flex-wrap:wrap;gap:8px}.followup-chip{font-size:12px;text-align:left;white-space:normal;max-width:100%}
+.review-group{font-size:13px;color:var(--aster-muted);margin:12px 0 0;font-weight:500;grid-column:1/-1}.field-row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.field-row input{flex:1 1 200px;min-width:0}.field-crop{max-width:min(320px,100%);max-height:56px;border:1px solid var(--aster-border);border-radius:6px;background:#fff;object-fit:contain}.low-signal{color:var(--aster-amber)}.practice-structure{font-weight:500}
+.pdf-kind{border:1px solid var(--aster-border);border-radius:var(--radius-control);padding:10px 14px;display:grid;gap:8px;margin:0}.pdf-kind label{display:flex;gap:8px;align-items:center;font-size:14px}

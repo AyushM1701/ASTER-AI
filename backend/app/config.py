@@ -1,3 +1,4 @@
+import re
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -67,6 +68,32 @@ class Settings(BaseSettings):
     enable_xray: bool = False
     xray_manifest: Path = ROOT / "configs/xray_assets.yaml"
     xray_weights_manifest: Path = ROOT / "configs/xray_weights.json"
+    # Grounded answer engine (signed library packs + NLI claim verification).
+    # "legacy" keeps the earlier extractive teaching pipeline as the chat path.
+    answer_engine: str = "legacy"
+    enable_library: bool = True
+    library_root: Path = ROOT / "data/library/installed"
+    nli_model_path: Path = ROOT / "data/models/nli-deberta-v3-xsmall"
+    rerank_model_path: Path = ROOT / "data/models/medcpt-cross-encoder"
+    model_keep_alive: str = "30m"
+    enable_xray_uploads: bool = False
+    library_update_url: str = "https://github.com/AyushM1701/ASTER-AI/releases/latest/download/library-latest.json"
+    xray_gates_config: Path = ROOT / "configs/xray_gates.json"
+    xray_weights_dir: Path = ROOT / "data/models/xray"
+
+    @field_validator("answer_engine")
+    @classmethod
+    def engine(cls, value):
+        if value not in {"legacy", "grounded"}:
+            raise ValueError("Choose legacy or grounded")
+        return value
+
+    @field_validator("model_keep_alive")
+    @classmethod
+    def keep_alive(cls, value):
+        if not (value in {"0", "-1"} or re.fullmatch(r"\d{1,4}[smh]", value)):
+            raise ValueError("keep_alive must look like 30m")
+        return value
 
     @field_validator("ollama_base_url")
     @classmethod
@@ -125,6 +152,11 @@ class Settings(BaseSettings):
         "embedding_path",
         "xray_manifest",
         "xray_weights_manifest",
+        "library_root",
+        "nli_model_path",
+        "rerank_model_path",
+        "xray_gates_config",
+        "xray_weights_dir",
     )
     @classmethod
     def absolute_path(cls, value):

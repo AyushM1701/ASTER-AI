@@ -1,6 +1,6 @@
 assets:
 - asset_id: nih-v3-demo-01
-  path: C:\Users\AYUSH\Documents\AI doctor\data\xray\nih-v3\00000001_000.png
+  path: ../data/xray/nih-v3/00000001_000.png
   sha256: 54637429eef039060cf9feb4a07042d4986a71042b41cd1c833befd26cabe9bd
   source: NIH Clinical Center ChestX-ray14; Kaggle nih-chest-xrays/data version 3;
     Data_Entry_2017.csv age 58, PA; Wang et al. CVPR 2017; https://nihcc.app.box.com/v/ChestXray-NIHCC
@@ -13,7 +13,7 @@ assets:
   patient_group: nih-00000001
   partition: demo
 - asset_id: nih-v3-demo-02
-  path: C:\Users\AYUSH\Documents\AI doctor\data\xray\nih-v3\00000002_000.png
+  path: ../data/xray/nih-v3/00000002_000.png
   sha256: 84cb473f69dbf9dca2fb946de92545031f03d6501be510555067aee46c17033e
   source: NIH Clinical Center ChestX-ray14; Kaggle nih-chest-xrays/data version 3;
     Data_Entry_2017.csv age 81, PA; Wang et al. CVPR 2017; https://nihcc.app.box.com/v/ChestXray-NIHCC

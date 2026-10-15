@@ -84,9 +84,9 @@ def verify():
         "frontend_http_status": 200,
         "all_gaps_closed": False,
         "documents": {name: digest(ROOT / name) for name in (
-            "README.md", "ASTER_COMPREHENSIVE_AUDIT_v2.md",
-            "docs/superpowers/plans/2026-10-09-aster-comprehensive-audit.md",
-            "docs/superpowers/specs/2026-10-09-aster-comprehensive-audit-design.md")},
+            "README.md", "docs/reports/ASTER_COMPREHENSIVE_AUDIT_v2.md",
+            "docs/history/superpowers/plans/2026-10-09-aster-comprehensive-audit.md",
+            "docs/history/superpowers/specs/2026-10-09-aster-comprehensive-audit-design.md")},
     }
     with (ART / "delivery-verification.json").open("x", encoding="utf-8") as handle:
         json.dump(result, handle, indent=2)

@@ -169,7 +169,7 @@ provenance. See [secondary data behavior](SECONDARY_MEDICINE_DATA.md) and
 ### Windows
 
 ```powershell
-cd 'C:\Users\AYUSH\Documents\AI doctor'
+cd '<repo>/'
 .\setup.ps1
 .\start.ps1
 ```

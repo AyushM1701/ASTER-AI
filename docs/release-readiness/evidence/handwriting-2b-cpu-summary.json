@@ -1,0 +1,51 @@
+{
+  "images": 72,
+  "classified_as": {
+    "prescription": 72
+  },
+  "fields": {
+    "medicine_name": {
+      "correct": 132,
+      "wrong": 2
+    },
+    "strength": {
+      "correct": 134
+    },
+    "frequency": {
+      "correct": 133,
+      "abstained": 1
+    },
+    "duration": {
+      "correct": 134
+    }
+  },
+  "wrong_rate": {
+    "medicine_name": 0.015,
+    "strength": 0.0,
+    "frequency": 0.0,
+    "duration": 0.0
+  },
+  "correct_rate": {
+    "medicine_name": 0.985,
+    "strength": 1.0,
+    "frequency": 0.993,
+    "duration": 1.0
+  },
+  "by_difficulty": {
+    "0": {
+      "correct": 187,
+      "wrong": 1
+    },
+    "1": {
+      "correct": 182,
+      "abstained": 1,
+      "wrong": 1
+    },
+    "2": {
+      "correct": 164
+    }
+  },
+  "unmatched_medicine_names_total": 2,
+  "latency_seconds_median": 47.0,
+  "label_origin": "synthetic_generated (rendered handwriting fonts, not real handwriting)"
+}

@@ -104,8 +104,12 @@
 <dialog id="upload-dialog" class="dialog upload-dialog" aria-labelledby="upload-title">
   <div class="dialog-header"><h2 id="upload-title">Attach a paper or image.</h2><button class="close-button" data-close="upload-dialog" aria-label="Close attachment dialog">Close</button></div>
   <p class="muted">Review a PDF paper privately, or bring a prescription or X-ray image into this conversation.</p>
-  <label class="drop-zone" for="file"><span class="icon icon-link" aria-hidden="true"></span><strong>Choose a file</strong><span class="small muted">PDF with selectable text, PNG or JPEG · maximum 10 MB</span><input id="file" type="file" accept="application/pdf,image/png,image/jpeg"></label>
+  <label class="drop-zone" for="file"><span class="icon icon-link" aria-hidden="true"></span><strong>Choose a file</strong><span class="small muted">Photo (PNG/JPEG), scanned PDF or research-paper PDF · maximum 10 MB</span><input id="file" type="file" accept="application/pdf,image/png,image/jpeg"></label>
   <div id="upload-preview" hidden><img id="preview-image" alt="Selected attachment"><p id="preview-name"></p><button class="text-button" id="remove-upload" type="button">Remove file</button></div>
+  <fieldset id="pdf-kind" class="pdf-kind" hidden><legend class="small">What is this PDF?</legend>
+    <label><input type="radio" name="pdf-kind" value="scan" checked> A prescription or medical document scan</label>
+    <label><input type="radio" name="pdf-kind" value="paper"> A research paper to analyse privately</label>
+  </fieldset>
   <label id="paper-authorization" class="acknowledge" hidden><input id="paper-authorized" type="checkbox"><span>I have permission to use this paper for private analysis. Keep it out of shared indexes and training.</span></label>
   <p class="small muted">Papers stay in this temporary session. Review extracted text before analysis. Image classification and confirmation do not establish medical validity.</p>
   <p id="upload-error" class="error-text" role="alert" hidden></p>
@@ -113,8 +117,8 @@
 </dialog>
 <dialog id="settings-dialog" class="dialog" aria-labelledby="settings-title">
   <div class="dialog-header"><h2 id="settings-title">Connections &amp; included data</h2><button class="close-button" data-close="settings-dialog" aria-label="Close connections">Close</button></div>
-  <p class="muted">Inference and image processing stay on this computer. Confirmed public literature queries use Europe PMC; there is no cloud model fallback.</p><dl class="service-list" id="services"></dl>
-  <div class="dialog-actions"><button class="button" id="refresh-services">Refresh connections</button><button class="button" id="sample">Try a sample prescription</button></div>
+  <p class="muted">Questions, documents and images are processed on this computer. Aster contacts the internet only when you confirm a public literature search (Europe PMC) or a library update check; there is no cloud model.</p><dl class="service-list" id="services"></dl>
+  <div class="dialog-actions"><button class="button" id="refresh-services">Refresh connections</button><button class="button" id="sample">Try a sample prescription</button><button class="button" id="update-library">Check for library updates</button></div>
   <p class="small muted">The sample is synthetic. Real OCR and classification still run.</p>
 </dialog>
 <dialog id="clear-dialog" class="dialog" aria-labelledby="clear-title">

@@ -76,20 +76,36 @@ class XrayService:
         except (OSError, KeyError, TypeError, ValueError, AppError):
             self.assets = {}
             self.setup_error = "Curated image manifest unavailable or invalid."
-        if settings.enable_xray:
+        self.gates = None
+        uploads = getattr(settings, "enable_xray_uploads", False)
+        if settings.enable_xray or uploads:
             try:
-                from backend.app.adapters.xray_model import XrayAdapter
+                # Packaged runtime: ONNX models verified against the export manifest (no torch).
+                from backend.app.adapters.xray_onnx import OnnxXray
 
-                self.adapter = XrayAdapter(settings)
-            except (ImportError, OSError, ValueError, RuntimeError, KeyError):
-                self.setup_error = (
-                    "Cached X-ray weights or optional dependencies are unavailable or invalid."
-                )
+                self.adapter = OnnxXray(settings.xray_gates_config, settings.xray_weights_dir)
+                self.gates = self.adapter if uploads else None
+            except (ImportError, OSError, ValueError, RuntimeError, KeyError) as exc:
+                self.setup_error = f"X-ray assistance files are missing or failed verification ({type(exc).__name__}). Choose Repair in setup."
+                try:
+                    from backend.app.adapters.xray_model import XrayAdapter
+
+                    self.adapter = XrayAdapter(settings)
+                    if uploads:
+                        from backend.app.adapters.xray_gates import XrayGates
+
+                        self.gates = XrayGates(settings.xray_gates_config, settings.xray_weights_dir)
+                    self.setup_error = None
+                except (ImportError, OSError, ValueError, RuntimeError, KeyError):
+                    self.adapter = self.gates = None
 
     def health(self):
         return {
             "available": self.adapter is not None and bool(self.assets),
             "enabled": self.settings.enable_xray,
+            "uploads_available": self.gates is not None,
+            "supported_input": "adult frontal (PA/AP) chest radiograph" if self.gates is not None else None,
+            "evaluation_status": "research_use_not_clinically_validated",
             "registered_assets": len(self.assets),
             "note": self.setup_error
             or (
@@ -98,6 +114,47 @@ class XrayService:
                 else "Requires verified weights and permitted curated assets."
             ),
         }
+
+    def analyze_upload(self, image, *, adult_attested, explain=None):
+        """User-uploaded image: gates first; scores only for accepted inputs."""
+        if self.gates is None or self.adapter is None:
+            return envelope("error", "xray", "X-ray assistance is not installed or failed its integrity check. Choose Repair in setup.",
+                            findings=[])
+        quality = quality_measurements(image)
+        with self.compute.enter():
+            gate = self.gates.assess(image, quality, adult_attested)
+            if not gate["accepted"]:
+                return envelope(
+                    "unsupported_input", "xray",
+                    "This image was not analysed. " + " ".join(r["message"] for r in gate["reasons"]),
+                    findings=[], input_checks=gate, supported_input="adult frontal (PA/AP) chest radiograph",
+                    limitations=["Input checks are automated and can be wrong in both directions; they were evaluated only on the "
+                                 "small public test sets described in the X-ray evaluation report."],
+                )
+            findings = self.adapter.predict(image)
+        claims, citations = [], []
+        if explain is not None:
+            for finding in findings:
+                hits = explain(f"What does {finding['name'].replace('_', ' ').lower()} on a chest X-ray mean?")
+                if hits:
+                    hit = hits[0]
+                    claims.append({"text": hit.text, "citation_ids": [hit.unit_id]})
+                    citations.append(hit.citation())
+        return envelope(
+            "ok", "xray", "Research model outputs for an adult frontal chest X-ray",
+            findings=findings, quality=quality, input_checks=gate,
+            supported_input_decision="passed_automated_input_checks",
+            model_id=self.adapter.model_id, weight_sha256=self.adapter.weight_hash,
+            preprocessing_version=self.adapter.preprocessing_version, score_semantics=self.adapter.score_semantics,
+            evaluation_status="research_use_not_clinically_validated",
+            claims=claims, citations=citations,
+            warnings=["Research model scores, not diagnoses or calibrated probabilities. A radiologist or clinician must "
+                      "review the image and any findings."],
+            limitations=["No normality verdict: a low score does not rule out disease, and a high score does not confirm it.",
+                         "The model was trained on public chest X-ray collections; performance on other populations, "
+                         "devices and photos of films is not established.",
+                         "No heatmap or lesion location is provided because localisation has not been validated."],
+        )
 
     def list_assets(self):
         return [

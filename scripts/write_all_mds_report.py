@@ -121,7 +121,7 @@ def main():
                     "The synthetic session was deleted. These checks do not score medical correctness. "
                     "The independent review pack is in `artifacts/evaluation/all-mds-2026-10-10/faculty-review-pack-appraisal`.", ""])
         (OUT / "summary.json").write_text(json.dumps(summary, indent=2) + "\n", encoding="utf-8")
-    (ROOT / "ALL_MDS_LIBRARY.md").write_text("\n".join(doc), encoding="utf-8")
+    (ROOT / "docs/reports/ALL_MDS_LIBRARY.md").write_text("\n".join(doc), encoding="utf-8")
     guide = ["# MDS study material register", "", "Imported review articles grouped by the editorial 126-topic map. "
              'Faculty appraisal, full coverage and currency are unverified. Read the complete original paper, including excluded tables/figures and its cited studies. '
              "A review is not automatically a guideline or an authoritative textbook.", ""]
@@ -135,7 +135,7 @@ def main():
             for article in sorted(matching, key=lambda d: d["source_date"], reverse=True):
                 guide.append(f'- [{article["title"]}]({article["url"]}) — {article["source_date"]}; {article["license"]}; DOI: {article.get("doi") or "not supplied"}.')
             guide.append("")
-    (ROOT / "MDS_STUDY_MATERIAL_REGISTER.md").write_text("\n".join(guide), encoding="utf-8")
+    (ROOT / "docs/reports/MDS_STUDY_MATERIAL_REGISTER.md").write_text("\n".join(guide), encoding="utf-8")
     print(json.dumps(summary, indent=2))
 
 

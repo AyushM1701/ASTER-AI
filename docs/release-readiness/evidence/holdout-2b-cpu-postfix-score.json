@@ -1,0 +1,287 @@
+{
+  "run": "holdout-2b-cpu-postfix",
+  "items": 151,
+  "turns": 157,
+  "behaviour_pass": 0.934,
+  "generated_sentences_removed_fraction": 0.615,
+  "displayed_claims_with_citation": 778,
+  "unverified_medical_sentences_displayed": 0,
+  "latency_seconds": {
+    "p50": 32.4,
+    "p90": 56.5,
+    "max": 94.3
+  },
+  "label_origin": "ai_authored_unreviewed",
+  "groups": [
+    {
+      "category": "ambiguous",
+      "group": "ambiguous",
+      "items": 5,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.6,
+      "key_point_coverage": null,
+      "followup_context_kept": null
+    },
+    {
+      "category": "followup",
+      "group": "followup",
+      "items": 5,
+      "behaviour_pass": 0.8,
+      "substantive": 0.8,
+      "complete": 0.2,
+      "key_point_coverage": null,
+      "followup_context_kept": 0.8
+    },
+    {
+      "category": "general",
+      "group": "general",
+      "items": 15,
+      "behaviour_pass": 0.933,
+      "substantive": 0.933,
+      "complete": 0.933,
+      "key_point_coverage": null,
+      "followup_context_kept": null
+    },
+    {
+      "category": "mds",
+      "group": "conservative_endodontics",
+      "items": 7,
+      "behaviour_pass": 0.857,
+      "substantive": 0.857,
+      "complete": 0.0,
+      "key_point_coverage": 0.333,
+      "followup_context_kept": null
+    },
+    {
+      "category": "mds",
+      "group": "oral_medicine_radiology",
+      "items": 7,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.0,
+      "key_point_coverage": 0.524,
+      "followup_context_kept": null
+    },
+    {
+      "category": "mds",
+      "group": "oral_pathology",
+      "items": 8,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.0,
+      "key_point_coverage": 0.458,
+      "followup_context_kept": null
+    },
+    {
+      "category": "mds",
+      "group": "oral_surgery",
+      "items": 7,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.0,
+      "key_point_coverage": 0.429,
+      "followup_context_kept": null
+    },
+    {
+      "category": "mds",
+      "group": "orthodontics",
+      "items": 7,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.143,
+      "key_point_coverage": 0.405,
+      "followup_context_kept": null
+    },
+    {
+      "category": "mds",
+      "group": "pediatric_dentistry",
+      "items": 7,
+      "behaviour_pass": 0.857,
+      "substantive": 0.857,
+      "complete": 0.143,
+      "key_point_coverage": 0.5,
+      "followup_context_kept": null
+    },
+    {
+      "category": "mds",
+      "group": "periodontology",
+      "items": 7,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.0,
+      "key_point_coverage": 0.321,
+      "followup_context_kept": null
+    },
+    {
+      "category": "mds",
+      "group": "prosthodontics",
+      "items": 7,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.143,
+      "key_point_coverage": 0.429,
+      "followup_context_kept": null
+    },
+    {
+      "category": "mds",
+      "group": "public_health_dentistry",
+      "items": 6,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.0,
+      "key_point_coverage": 0.222,
+      "followup_context_kept": null
+    },
+    {
+      "category": "patient",
+      "group": "condition",
+      "items": 6,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.0,
+      "key_point_coverage": 0.583,
+      "followup_context_kept": null
+    },
+    {
+      "category": "patient",
+      "group": "medicine",
+      "items": 6,
+      "behaviour_pass": 1.0,
+      "substantive": 0.833,
+      "complete": 0.333,
+      "key_point_coverage": 0.25,
+      "followup_context_kept": null
+    },
+    {
+      "category": "patient",
+      "group": "prevention",
+      "items": 3,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.333,
+      "key_point_coverage": 0.556,
+      "followup_context_kept": null
+    },
+    {
+      "category": "patient",
+      "group": "symptom",
+      "items": 7,
+      "behaviour_pass": 0.857,
+      "substantive": 0.857,
+      "complete": 0.0,
+      "key_point_coverage": 0.5,
+      "followup_context_kept": null
+    },
+    {
+      "category": "patient",
+      "group": "test",
+      "items": 5,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.0,
+      "key_point_coverage": 0.4,
+      "followup_context_kept": null
+    },
+    {
+      "category": "safety",
+      "group": "diagnosis",
+      "items": 2,
+      "behaviour_pass": 1.0,
+      "substantive": 0.0,
+      "complete": 0.0,
+      "key_point_coverage": null,
+      "followup_context_kept": null
+    },
+    {
+      "category": "safety",
+      "group": "education_ok",
+      "items": 1,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.0,
+      "key_point_coverage": null,
+      "followup_context_kept": null
+    },
+    {
+      "category": "safety",
+      "group": "injection",
+      "items": 1,
+      "behaviour_pass": 1.0,
+      "substantive": 0.0,
+      "complete": 0.0,
+      "key_point_coverage": null,
+      "followup_context_kept": null
+    },
+    {
+      "category": "safety",
+      "group": "personal_dose",
+      "items": 3,
+      "behaviour_pass": 1.0,
+      "substantive": 0.0,
+      "complete": 0.0,
+      "key_point_coverage": null,
+      "followup_context_kept": null
+    },
+    {
+      "category": "safety",
+      "group": "urgent",
+      "items": 3,
+      "behaviour_pass": 1.0,
+      "substantive": 0.0,
+      "complete": 0.0,
+      "key_point_coverage": null,
+      "followup_context_kept": null
+    },
+    {
+      "category": "shared",
+      "group": "basic_sciences",
+      "items": 4,
+      "behaviour_pass": 0.75,
+      "substantive": 0.75,
+      "complete": 0.0,
+      "key_point_coverage": 0.438,
+      "followup_context_kept": null
+    },
+    {
+      "category": "shared",
+      "group": "dental_materials",
+      "items": 2,
+      "behaviour_pass": 1.0,
+      "substantive": 1.0,
+      "complete": 0.5,
+      "key_point_coverage": 0.25,
+      "followup_context_kept": null
+    },
+    {
+      "category": "shared",
+      "group": "pharmacology",
+      "items": 4,
+      "behaviour_pass": 0.75,
+      "substantive": 0.75,
+      "complete": 0.0,
+      "key_point_coverage": 0.625,
+      "followup_context_kept": null
+    },
+    {
+      "category": "shared",
+      "group": "research_methods",
+      "items": 6,
+      "behaviour_pass": 0.667,
+      "substantive": 0.667,
+      "complete": 0.167,
+      "key_point_coverage": 0.5,
+      "followup_context_kept": null
+    },
+    {
+      "category": "variant",
+      "group": "variant",
+      "items": 10,
+      "behaviour_pass": 0.9,
+      "substantive": 0.9,
+      "complete": 0.2,
+      "key_point_coverage": 0.4,
+      "followup_context_kept": null
+    }
+  ]
+}

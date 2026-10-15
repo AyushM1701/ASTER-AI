@@ -1,6 +1,7 @@
 import base64
 import io
 import json
+import re
 from pathlib import Path
 
 import httpx
@@ -43,6 +44,33 @@ class OllamaAdapter:
         except (httpx.HTTPError, ValueError, TypeError, AttributeError):
             return {"available": False, "model": model, "digest": None}
 
+    def chat_text(self, model, messages, *, tokens=700, temperature=0.0, num_ctx=8192):
+        """Plain-text chat (no JSON schema). Thinking is disabled for hybrid models."""
+        try:
+            response = self.client.post(
+                "/api/chat",
+                json={
+                    "model": model,
+                    "stream": False,
+                    "think": False,
+                    "keep_alive": getattr(self.settings, "model_keep_alive", "30m"),
+                    "messages": messages,
+                    "options": {"temperature": temperature, "num_predict": tokens, "num_ctx": num_ctx},
+                },
+            )
+            response.raise_for_status()
+            text = response.json()["message"]["content"]
+            if not isinstance(text, str):
+                raise TypeError("non-text model output")
+            # Some builds still emit an empty or literal think block.
+            return re.sub(r"<think>.*?</think>", "", text, flags=re.S).strip()
+        except httpx.TimeoutException as exc:
+            raise AppError(503, "error", "The local model took too long to answer. Try again or ask a shorter question.") from exc
+        except httpx.HTTPError as exc:
+            raise AppError(503, "error", "The local model is not running. Restart Aster; if this continues, choose Repair in setup.") from exc
+        except (KeyError, ValueError, TypeError) as exc:
+            raise AppError(502, "error", "The local model returned an unreadable response. Please retry.") from exc
+
     def complete(self, model, messages, schema, *, tokens=700):
         try:
             response = self.client.post(
@@ -50,7 +78,8 @@ class OllamaAdapter:
                 json={
                     "model": model,
                     "stream": False,
-                    "keep_alive": 0,
+                    "think": False,
+                    "keep_alive": getattr(self.settings, "model_keep_alive", "30m"),
                     "messages": messages,
                     "format": schema.model_json_schema(),
                     "options": {"temperature": 0, "num_predict": tokens, "num_ctx": 8192},
@@ -210,7 +239,7 @@ class OllamaAdapter:
                 json={
                     "model": self.settings.text_model,
                     "stream": False,
-                    "keep_alive": 0,
+                    "keep_alive": getattr(self.settings, "model_keep_alive", "30m"),
                     "messages": [
                         {"role": "system", "content": prompt},
                         {"role": "user", "content": content},

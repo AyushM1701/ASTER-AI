@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "weights": {
+    "autoencoder": {
+      "file": "nihpcrsnamimic_ch-resnet101-2-ae-test2-elastic-e250.pt",
+      "sha256": "877ded430383a2bbce756737b316d76de42defed3079eebf2cce305f7be34df9",
+      "url": "https://github.com/mlmed/torchxrayvision/releases/download/v1/nihpcrsnamimic_ch-resnet101-2-ae-test2-elastic-e250.pt",
+      "bytes": 125341920,
+      "license": "Apache-2.0 (torchxrayvision); trained on PadChest, NIH, CheXpert, MIMIC"
+    },
+    "view": {
+      "file": "xinario_chestViewSplit_resnet-50.pt",
+      "sha256": "d2d63da3758006d85b962f439c8f59a10228babe8b2fcc158bfa59be7dab5bd6",
+      "url": "https://github.com/mlmed/torchxrayvision/releases/download/v1/xinario_chestViewSplit_resnet-50.pt",
+      "bytes": 102548915,
+      "license": "Apache-2.0 (xinario/chestViewSplit)"
+    },
+    "classifier": {
+      "file": "nih-pc-chex-mimic_ch-google-openi-kaggle-densenet121-d121-tw-lr001-rot45-tr15-sc15-seed0-best.pt",
+      "sha256": "56524913dd16a906422e8d8b66a7a5c46be1d82eb7ac012d8103776f1aa68899",
+      "url": "https://github.com/mlmed/torchxrayvision/releases/download/v1/nih-pc-chex-mimic_ch-google-openi-kaggle-densenet121-d121-tw-lr001-rot45-tr15-sc15-seed0-best.pt",
+      "bytes": 28382008,
+      "license": "Apache-2.0 (torchxrayvision)"
+    }
+  },
+  "thresholds": {
+    "min_side": 256,
+    "aspect_min": 0.6,
+    "aspect_max": 1.7,
+    "min_dynamic_range": 40,
+    "max_saturation": 0.35,
+    "max_colourfulness": 25.0,
+    "max_ae_error": 0.00835,
+    "min_frontal_probability": 0.5
+  },
+  "calibration": {
+    "status": "calibrated_on_public_data",
+    "date": "2026-10-15",
+    "report": "evaluation/xray/gate-calibration.json",
+    "test_in_scope_accept_rate": 0.974,
+    "test_out_of_scope_reject_rate": 0.978
+  }
+}

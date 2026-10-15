@@ -16,7 +16,7 @@ ROOT = install_root()
 WEB = ROOT / "frontend/web"
 MAX_BODY = 11 * 1024 * 1024
 API_PATH = re.compile(
-    r"(?:health/ready|v1/(?:education(?:/export)?|study/(?:topics|curriculum|source-inventory|progress(?:/[A-Za-z0-9_-]{1,80})?)|research/projects(?:/[A-Za-z0-9_-]{1,80}(?:/(?:export|writing))?)?|sessions(?:/current)?|chat|papers(?:/[A-Za-z0-9_-]{1,80}(?:/(?:confirm|reopen))?)?|attachments(?:/[A-Za-z0-9_-]{1,80}/classify)?|documents/[A-Za-z0-9_-]{1,80}(?:/(?:image|confirm|edit|explain|extract))?))\Z"
+    r"(?:health/ready|v1/(?:library/(?:status|update)|education(?:/export)?|study/(?:topics|curriculum|source-inventory|progress(?:/[A-Za-z0-9_-]{1,80})?)|research/projects(?:/[A-Za-z0-9_-]{1,80}(?:/(?:export|writing))?)?|sessions(?:/current)?|chat|papers(?:/[A-Za-z0-9_-]{1,80}(?:/(?:confirm|reopen))?)?|attachments(?:/[A-Za-z0-9_-]{1,80}/(?:classify|xray))?|documents/[A-Za-z0-9_-]{1,80}(?:/(?:image|confirm|edit|explain|extract|fields/[A-Za-z0-9_-]{1,80}/crop))?))\Z"
 )
 
 

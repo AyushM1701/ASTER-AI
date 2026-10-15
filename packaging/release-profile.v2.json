@@ -1,0 +1,61 @@
+{
+  "schema_version": 2,
+  "app_version": "0.2.0-rc.1",
+  "edition": "PublicStandard",
+  "settings": {
+    "answer_engine": "grounded",
+    "answer_mode": "ollama",
+    "enable_general_chat": true,
+    "strict_source_grounding": true,
+    "enable_library": true,
+    "enable_handwriting_ocr": true,
+    "enable_xray": true,
+    "enable_xray_uploads": true,
+    "enable_teaching": false,
+    "enable_mds_pipeline": false,
+    "enable_secondary_references": false,
+    "enable_patient_information": false,
+    "enable_educational_model_knowledge": false,
+    "enable_research_search": true,
+    "retrieval_backend": "lexical",
+    "model_keep_alive": "30m",
+    "inference_timeout_seconds": 300,
+    "ocr_timeout_seconds": 45
+  },
+  "features": {
+    "grounded_answers": true,
+    "claim_verification": true,
+    "general_chat": true,
+    "printed_ocr": true,
+    "handwriting_experimental": true,
+    "pdf_scans": true,
+    "private_papers": true,
+    "xray_research_scores": "adult frontal chest only; research use",
+    "clinical_validation": false
+  },
+  "profiles": {
+    "standard": {
+      "text_model": "qwen3-vl:2b-instruct",
+      "vision_model": "qwen3-vl:2b-instruct",
+      "models": ["qwen3-vl:2b-instruct"],
+      "gpu": "none",
+      "description": "CPU profile (default). One 2-billion-parameter model for text and images. Measured on an Intel i5-13450HX laptop: median about 32 seconds per cited answer, 90% within 57 seconds."
+    },
+    "quality-cpu": {
+      "text_model": "qwen3:4b-q4_K_M",
+      "vision_model": "qwen3-vl:2b-instruct",
+      "models": ["qwen3-vl:2b-instruct", "qwen3:4b-q4_K_M"],
+      "gpu": "none",
+      "requires": {"ram_gb": 16, "manual_only": true},
+      "description": "Larger 4-billion-parameter text model on the CPU: fewer unsupported sentences (measured on GPU), but slower than the standard profile on CPU (not timed). Needs 16 GB RAM."
+    },
+    "enhanced-gpu": {
+      "text_model": "qwen3:4b-q4_K_M",
+      "vision_model": "qwen3-vl:2b-instruct",
+      "models": ["qwen3-vl:2b-instruct", "qwen3:4b-q4_K_M"],
+      "gpu": "cuda",
+      "requires": {"nvidia_vram_gb": 5.5},
+      "description": "NVIDIA GPU profile: 4-billion-parameter text model accelerated by CUDA. Measured on an RTX 4050 Laptop GPU (6 GB): median about 14 seconds per cited answer, 90% within 22 seconds."
+    }
+  }
+}

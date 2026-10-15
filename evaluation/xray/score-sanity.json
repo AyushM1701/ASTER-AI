@@ -1,0 +1,18 @@
+{
+  "n_adults": 313,
+  "tb_positive": 164,
+  "auc_tb_vs_normal_by_score": {
+    "Lung Opacity": 0.84,
+    "Consolidation": 0.811,
+    "Infiltration": 0.686,
+    "Effusion": 0.756,
+    "Cardiomegaly": 0.658,
+    "Pleural_Thickening": 0.792,
+    "Fibrosis": 0.693,
+    "Mass": 0.779,
+    "Nodule": 0.823,
+    "montgomery_adult_LungOpacity": 0.863,
+    "shenzhen_adult_LungOpacity": 0.815
+  },
+  "caveat": "TB-vs-normal labels from NLM clinical readings; the model has no TB output. These AUCs are a weak sanity check that opacity-type scores rise on abnormal films, not an accuracy measure for any finding. Images are outside the model's training sets (NIH, CheXpert, MIMIC, PadChest, Google, OpenI, RSNA) as far as documented."
+}

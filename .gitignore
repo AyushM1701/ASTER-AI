@@ -26,3 +26,22 @@ data/references/mbbs/
 data/references/secondary/
 data/knowledge_v2/
 .streamlit/secrets.toml
+data/library-work/
+data/library/
+.venv-gpu/
+evaluation/runs/
+
+# Local tool state and scratch output (never part of the project)
+.claude/
+.impeccable/
+.playwright-cli/
+output/
+tmp/
+architecture-source-report.json
+packaging/__pycache__/
+
+# Generated research/evaluation outputs: files already tracked under artifacts/ stay tracked;
+# new outputs are kept local unless deliberately added with `git add -f` after a rights/privacy check.
+artifacts/
+# Local NHS patient-information snapshot (not shipped in the release; not in the rights register)
+data/references/patient/

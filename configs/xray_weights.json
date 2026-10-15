@@ -1,6 +1,6 @@
 {
   "model_id": "densenet121-res224-all",
-  "weights_path": "C:\\Users\\AYUSH\\Documents\\AI doctor\\data\\models\\xray\\nih-pc-chex-mimic_ch-google-openi-kaggle-densenet121-d121-tw-lr001-rot45-tr15-sc15-seed0-best.pt",
+  "weights_path": "../data/models/xray/nih-pc-chex-mimic_ch-google-openi-kaggle-densenet121-d121-tw-lr001-rot45-tr15-sc15-seed0-best.pt",
   "sha256": "56524913dd16a906422e8d8b66a7a5c46be1d82eb7ac012d8103776f1aa68899",
   "preprocessing_version": "xrv-8bit-center224-v1",
   "library_version": "1.4.0",
