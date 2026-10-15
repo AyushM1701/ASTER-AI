@@ -14,7 +14,7 @@
     },
     "cpu_profile_installed": {
       "ok": true,
-      "detail": "{\"version\": \"0.2.0-rc.1\", \"profile\": \"standard\", \"include_nc\": true, \"installed\": \"2026-10-15T11:05:39Z\", \"previous\": null}"
+      "detail": "{\"version\": \"0.2.0-rc.1\", \"profile\": \"standard\", \"include_nc\": true, \"installed\": \"2026-10-15T13:44:31Z\", \"previous\": null}"
     },
     "no_cuda_runtime_downloaded": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "launcher_ready": {
       "ok": true,
-      "detail": "{\"url\": \"http://127.0.0.1:8601/\", \"pid\": 25048}"
+      "detail": "{\"url\": \"http://127.0.0.1:8601/\", \"pid\": 33720}"
     },
     "selftest_passed_before_ready": {
       "ok": true,
@@ -39,9 +39,9 @@
   },
   "measurements": {
     "source_zip_mb": 19.1,
-    "bootstrap_and_install_seconds": 82.0,
-    "ready_seconds_after_install": 33.1,
-    "first_answer_seconds": 30.6
+    "bootstrap_and_install_seconds": 82.5,
+    "ready_seconds_after_install": 30.1,
+    "first_answer_seconds": 30.8
   },
   "passed": true
 }
