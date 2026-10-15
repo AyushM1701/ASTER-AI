@@ -230,6 +230,24 @@ Runs 4 and 5 also passed all 26 checks ([r4](evidence/acceptance-r4.json), [r5](
   normal amounts.
 - The source tree's `release/` pin and lock match this build.
 
+**One-click start from the source ZIP.** Evidence:
+[evidence/source-zip-one-click.json](evidence/source-zip-one-click.json).
+
+- **Set-up.**
+  - A ZIP was built from the release commit with `git archive`, the same mechanism as GitHub's **Download ZIP**.
+  - It was extracted into `Downloads ✓ ü`, and its scripts were marked as downloaded from the internet (Zone 3).
+  - The bootstrap that `Start Aster.cmd` runs was started with only the release assets on a loopback mirror.
+  - The test forced the CPU-only Standard profile, a PC with no NVIDIA GPU. It skipped shortcuts and the registry entry,
+    and kept all data inside the test folder.
+- **Result: every step passed.**
+  - Setup was downloaded, fingerprint-checked and installed with no GPU runtime: 82 s from the mirror.
+  - Aster reached Ready, after its self-test, 33 s later.
+  - The workspace was served, and the first question through the browser's API path got a cited answer in 30.6 s.
+- **Two bootstrap flaws found and fixed:**
+  - `Start Aster.cmd` exited with code 0 even when the bootstrap failed.
+  - The bootstrap waited for the Aster it launched, not just for setup, so its window stayed open while Aster ran.
+- **Still untested:** the download from GitHub itself, until the release is published.
+
 **Not covered here:**
 - a clean VM;
 - a real GitHub download;
