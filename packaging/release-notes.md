@@ -47,5 +47,6 @@ Aster works offline.
 - Measured on one laptop only (i5-13450HX, 24 GB RAM, RTX 4050).
 - Not code-signed, so Windows SmartScreen may warn on first run.
 - Portable mode and returning to a previous version (`--rollback`) have not been tested yet.
+- `Aster.exe --verify-only` (a diagnostic switch) fails on this build; use **Repair Aster** instead. Fixed for the next build.
 
 See `docs/release-readiness/ACCEPTANCE_REPORT.md` in the source for the measurements behind these notes.
