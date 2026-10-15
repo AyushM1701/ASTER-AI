@@ -248,13 +248,26 @@ Runs 4 and 5 also passed all 26 checks ([r4](evidence/acceptance-r4.json), [r5](
   - The bootstrap waited for the Aster it launched, not just for setup, so its window stayed open while Aster ran.
 - **Still untested:** the download from GitHub itself, until the release is published.
 
+**Draft GitHub release (15 Oct 2026).**
+- The 25 accepted assets were uploaded to the draft pre-release `v0.2.0-rc.1`, downloaded back from GitHub and verified:
+  - the lock's Ed25519 signature;
+  - the lock is identical to `release/release-lock.json` and to the pin;
+  - all 20 lock-pinned files match their SHA-256 fingerprints and sizes;
+  - the other 5 files are byte-identical to the accepted build.
+- Installing from the downloaded files with `--offline-dir` (CPU profile) succeeded in 41 s. A full re-hash then confirmed
+  all 1,808 installed files (2.92 GB).
+
+**Known issue in this build.** `Aster.exe --verify-only`, a diagnostic switch that no installer, shortcut or document
+uses, still read the version-1 manifest and failed on current installations. It is fixed on `main` with a regression
+test, and the next build will include the fix. Repair is unaffected: it uses setup's own `--repair`.
+
 **Not covered here:**
 - a clean VM;
 - a real GitHub download;
 - the operating system's network switched off (see "Remaining gates");
 - `--portable` mode, which was never run;
 - app-version `--rollback`, which was never run because it needs two installed versions;
-- `--offline-dir`, whose file selection is unit-tested but which was not run end to end.
+- `--offline-dir` end to end from a separate offline machine (it was run here from the downloaded GitHub assets).
 
 ## 6. Source tests
 

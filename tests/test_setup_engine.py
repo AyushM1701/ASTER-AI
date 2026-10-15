@@ -139,3 +139,29 @@ def test_unicode_shortcut_round_trips(tmp_path):
     target.write_text("x")
     se.make_shortcut(folder / "Aster ✓.lnk", target, "--repair", folder, Path("C:/Windows/notepad.exe"), "test ✓")
     assert (folder / "Aster ✓.lnk").stat().st_size > 0
+
+
+def test_verify_only_checks_current_installations(tmp_path, capsys, monkeypatch):
+    """Aster.exe --verify-only used the v1 manifest and crashed on every v2 install."""
+    import json
+    import sys
+
+    import pytest
+
+    from aster_release.launcher import main
+    from aster_release.release import ReleaseError
+    from aster_release.v2 import write_installed_manifest
+
+    root = tmp_path / "versions" / "0.2.0"
+    (root / "bin").mkdir(parents=True)
+    (root / "bin" / "app.txt").write_text("app", encoding="utf-8")
+    profile = {"app_version": "0.2.0", "profiles": {}}
+    (root / "release-profile.json").write_text(json.dumps(profile), encoding="utf-8")
+    write_installed_manifest(root, [], "standard", profile)
+    monkeypatch.setattr(sys, "argv", ["Aster.exe", "--verify-only", "--root", str(root)])
+    main()
+    report = json.loads(capsys.readouterr().out)
+    assert report["status"] == "verified" and report["mode"] == "full" and report["files"] == 2
+    (root / "bin" / "app.txt").write_text("tampered", encoding="utf-8")
+    with pytest.raises(ReleaseError, match="damaged"):
+        main()
