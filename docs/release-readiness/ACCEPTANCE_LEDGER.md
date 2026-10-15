@@ -45,7 +45,7 @@ Status values: `OPEN`, `IN_PROGRESS`, `VERIFIED` (evidence recorded against the 
 | V02 | Packaged E2E: install → Q&A → teaching → prescription → X-ray → restart offline (§8) | Recorded run on this machine | VERIFIED | acceptance-r9: 26/26 on the final build (docs/release-readiness/evidence/acceptance-r9.json) |
 | V03 | Clean Windows VM/second machine (§8) | — | EXTERNAL_GATE | Windows 11 Home: no Hyper-V/Sandbox |
 | V04 | Code signing (§8) | — | EXTERNAL_GATE | No certificate |
-| V05 | GitHub release publication (§8) | Owner-authorized publish + anonymous download check | VERIFIED | v0.2.0-rc.2 published as a prerelease on 16 Oct 2026, tag at 5d099fa; all 24 assets download anonymously (HTTP 200); the public setup and signed lock match `release/bootstrap-pin.json` in main's source ZIP. The superseded rc.1 draft was deleted unpublished |
+| V05 | GitHub release publication (§8) | Owner-authorized publish + anonymous download check | VERIFIED | v0.2.0-rc.2 published as a prerelease on 16 Oct 2026, tag at c65a0ba; all 24 assets download anonymously (HTTP 200); the public setup and signed lock match `release/bootstrap-pin.json` in main's source ZIP. The superseded rc.1 draft was deleted unpublished |
 | V06 | Faculty/clinician review (§4a, §8) | — | EXTERNAL_GATE | Not fabricated |
 
 ## Final status (15 Oct 2026)
