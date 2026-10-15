@@ -1,5 +1,23 @@
 # Changelog
 
+## Unreleased
+
+Changes on `main` after the `v0.2.0-rc.1` build. The current installer does not include them yet; run from source
+([docs/DEVELOPMENT.md](docs/DEVELOPMENT.md)) to use them before the next release.
+
+- **My Library.** Add your own articles, notes, study material and whole textbooks (PDF, including scanned pages read
+  with OCR, .docx, .txt, .md; up to 100 MB / 2,000 pages). They are indexed on this computer and searched with the
+  reference library, so later answers can draw on them and cite them by page. Ask “according to my notes…” to answer
+  from your documents only. The original files are not kept, and Aster does not review their content.
+- **Security.** The local API now refuses requests addressed to any host other than this computer, closing a
+  DNS-rebinding route by which a web page could have read or removed My Library documents.
+- **Reliability.** My Library indexes one document at a time; uploads no longer block other requests; a damaged
+  scanned page no longer stops OCR of its neighbours; library updates no longer interrupt answers in progress;
+  everyday phrases such as “I added salt…” no longer restrict answers to My Library.
+- **Interface.** My Library and Study topics are primary navigation items; a “Study from your own notes” starter;
+  distinct starter icons; drag-and-drop file zones; inline confirmation when removing a document; size check before
+  upload; corrected counts and source dates.
+
 ## 0.2.0-rc.1 — release candidate (draft)
 
 - **One-click start.** `Start Aster.cmd` in the source ZIP downloads a pinned, hash-verified setup that installs the
@@ -13,10 +31,6 @@
 - **New reference library (2026.10.15).**
   - Licence-checked open sources, Ed25519-signed packs, freshness rules and opt-in signed updates.
   - 4,527 core and 2,206 optional noncommercial documents.
-- **My Library.** Add your own articles, notes, study material and whole textbooks (PDF with a text layer, .docx, .txt,
-  .md; up to 100 MB / 2,000 pages). They are indexed on this computer and searched with the reference library, so later
-  answers can draw on them and cite them by page. Ask “according to my notes…” to answer from your documents only.
-  The original files are not kept, and Aster does not review their content.
 - **Prescriptions.** PDF scans, automatic rotation, photo-quality feedback, fields beside source crops, written dose and
   verified-ingredient fields.
 - **X-ray.** Torch-free ONNX models behind evaluated input checks, with adult attestation.
