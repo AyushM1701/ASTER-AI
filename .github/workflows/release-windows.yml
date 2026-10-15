@@ -1,14 +1,26 @@
-name: Reviewed Windows beta release
+name: Windows release candidate (v2)
+# Builds the reference library, frozen app, component archives, signed release
+# lock, AsterSetup-Windows-x64.exe and the bootstrap pin; runs packaged
+# acceptance against a local mirror; then creates a DRAFT prerelease.
+# Publication, code signing and clean-VM acceptance remain manual gates.
 on:
   push:
     tags: ['v*']
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release version without the leading v (must match packaging/release-profile.v2.json)'
+        required: true
+      library_version:
+        description: 'Library pack version to build (e.g. 2026.10.14)'
+        required: true
 permissions:
   contents: read
 concurrency:
   group: windows-release
   cancel-in-progress: false
 jobs:
-  trusted-tag:
+  trusted-ref:
     runs-on: windows-2022
     outputs:
       commit: ${{ steps.verify.outputs.commit }}
@@ -20,60 +32,80 @@ jobs:
         shell: pwsh
         env:
           GH_TOKEN: ${{ github.token }}
-          RELEASE_TAG: ${{ github.ref_name }}
         run: |
-          if ($env:RELEASE_TAG -notmatch '^v[0-9][A-Za-z0-9_.-]*$') { throw 'Invalid release tag' }
+          if ('${{ github.repository }}' -ne 'AyushM1701/ASTER-AI') { throw 'Unexpected release repository' }
           $branch = gh api repos/AyushM1701/ASTER-AI/branches/main | ConvertFrom-Json
           if ($LASTEXITCODE -ne 0 -or -not $branch.protected) { throw 'Main must be protected before a release build' }
           git fetch origin main
-          if ($LASTEXITCODE -ne 0) { throw 'Cannot verify protected main' }
           git merge-base --is-ancestor HEAD origin/main
-          if ($LASTEXITCODE -ne 0) { throw 'Release tag must belong to main' }
-          if ('${{ github.repository }}' -ne 'AyushM1701/ASTER-AI') { throw 'Unexpected release repository' }
+          if ($LASTEXITCODE -ne 0) { throw 'Release ref must belong to main' }
           "commit=$(git rev-parse HEAD)" >> $env:GITHUB_OUTPUT
+
   build:
-    needs: trusted-tag
-    # Release assets are provisioned only on an isolated, maintained build runner.
-    # Never run untrusted pull requests on this asset-bearing runner.
+    needs: trusted-ref
+    # Isolated, maintained runner with an NVIDIA GPU (DirectML indexing), Ollama models
+    # qwen3-vl:2b-instruct and qwen3:4b-q4_K_M pulled, Tesseract, and the library HTTP cache.
+    # Never run untrusted pull requests on this runner.
     runs-on: [self-hosted, Windows, X64, aster-release]
     environment: aster-release-build
+    timeout-minutes: 600
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
-          ref: ${{ needs.trusted-tag.outputs.commit }}
-      - name: Stage and freeze permission-cleared assets
+          ref: ${{ needs.trusted-ref.outputs.commit }}
+      - name: Resolve version
+        id: version
+        shell: pwsh
+        run: |
+          $version = if ('${{ github.event_name }}' -eq 'push') { '${{ github.ref_name }}'.Substring(1) } else { '${{ inputs.version }}' }
+          $library = if ('${{ inputs.library_version }}') { '${{ inputs.library_version }}' } else { (Get-Date -Format 'yyyy.MM.dd') }
+          if ($version -notmatch '^[0-9][A-Za-z0-9_.-]{0,60}$') { throw 'Invalid version' }
+          "version=$version" >> $env:GITHUB_OUTPUT
+          "library=$library" >> $env:GITHUB_OUTPUT
+      - name: Prepare signing key (protected secret, never written to the workspace)
         shell: pwsh
         env:
-          RELEASE_TAG: ${{ github.ref_name }}
+          KEY: ${{ secrets.ASTER_SIGNING_KEY_PEM }}
         run: |
-          if (-not $env:ASTER_CLEARED_ASSET_ROOT -or -not $env:ASTER_BUILD_PYTHON) { throw 'Provision the reviewed build environment and cleared assets first' }
-          & $env:ASTER_BUILD_PYTHON -m aster_release.provision --source $env:ASTER_CLEARED_ASSET_ROOT --destination .
-          if ($LASTEXITCODE -ne 0) { throw 'Cleared asset provisioning failed' }
-          $version = $env:RELEASE_TAG.Substring(1)
-          ./packaging/build-windows.ps1 -Edition PublicStandard -Version $version -Python $env:ASTER_BUILD_PYTHON
-          & $env:ASTER_BUILD_PYTHON packaging/create-release-assets.py --root "artifacts/release/$version-PublicStandard/portable" --output "artifacts/release/publish" --tag $env:RELEASE_TAG
-          if ($LASTEXITCODE -ne 0) { throw 'Asset creation failed' }
-          $env:ASTER_BUILD_TRUST_FILE = (Resolve-Path artifacts/release/publish/installer-trust.json).Path
-          & $env:ASTER_BUILD_PYTHON -m PyInstaller --noconfirm --distpath artifacts/release/publish --workpath artifacts/release/setup-work packaging/installer/aster-setup.spec
-          if ($LASTEXITCODE -ne 0) { throw 'Bootstrapper freezing failed' }
-      - name: Require packaged and clean-VM acceptance evidence
+          if (-not $env:KEY) { throw 'ASTER_SIGNING_KEY_PEM secret is not configured' }
+          $path = Join-Path $env:RUNNER_TEMP 'aster-signing.pem'
+          Set-Content -LiteralPath $path -Value $env:KEY -NoNewline -Encoding ascii
+          "ASTER_SIGNING_KEY=$path" >> $env:GITHUB_ENV
+      - name: Source tests
+        shell: pwsh
+        run: |
+          & $env:ASTER_BUILD_PYTHON -m pip check
+          & $env:ASTER_BUILD_PYTHON -m pytest -q
+          if ($LASTEXITCODE -ne 0) { throw 'Source tests failed' }
+      - name: Acquire, pack, index and report the reference library
         shell: pwsh
         env:
-          RELEASE_TAG: ${{ github.ref_name }}
+          LIBRARY_VERSION: ${{ steps.version.outputs.library }}
         run: |
-          $version = $env:RELEASE_TAG.Substring(1)
-          & $env:ASTER_BUILD_PYTHON -m aster_release.acceptance --report "$env:ASTER_ACCEPTANCE_REPORT" --manifest "artifacts/release/$version-PublicStandard/portable/release-manifest.json"
-          if ($LASTEXITCODE -ne 0) { throw 'Release acceptance has not passed' }
-          $installer = Get-Item artifacts/release/publish/AsterSetup-Windows-x64.exe
-          "$((Get-FileHash $installer.FullName -Algorithm SHA256).Hash.ToLower())  $($installer.Name)" >> artifacts/release/publish/SHA256SUMS.txt
+          & $env:ASTER_BUILD_PYTHON -m aster_library.build acquire --provider all --refresh
+          & $env:ASTER_BUILD_PYTHON -m aster_library.build acquire --provider europepmc-gapfill
+          & $env:ASTER_BUILD_PYTHON -m aster_library.build pack --version $env:LIBRARY_VERSION
+          foreach ($edition in 'core','nc') { & $env:ASTER_INDEX_PYTHON -m aster_library.build index --pack "data/library/packs/aster-library-$edition-$env:LIBRARY_VERSION" }
+          & $env:ASTER_BUILD_PYTHON -m aster_library.build report --pack "data/library/packs/aster-library-core-$env:LIBRARY_VERSION"
+          if ($LASTEXITCODE -ne 0) { throw 'Library build failed' }
+      - name: Build release candidate
+        shell: pwsh
+        run: |
+          & $env:ASTER_BUILD_PYTHON packaging/build_release.py --version ${{ steps.version.outputs.version }} --library-version ${{ steps.version.outputs.library }}
+          if ($LASTEXITCODE -ne 0) { throw 'Release build failed' }
+      - name: Packaged acceptance from a local mirror (install, self-test, Q&A, documents, X-ray, offline, repair, uninstall)
+        shell: pwsh
+        run: |
+          & $env:ASTER_BUILD_PYTHON -m aster_release.acceptance_v2 --assets "artifacts/release-v2/${{ steps.version.outputs.version }}/assets" --report "artifacts/release-v2/${{ steps.version.outputs.version }}/acceptance.json"
+          if ($LASTEXITCODE -ne 0) { throw 'Packaged acceptance failed' }
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: reviewed-windows-release
+          name: aster-release-candidate
           path: |
-            artifacts/release/publish/*.part*
-            artifacts/release/publish/distribution.json
-            artifacts/release/publish/SHA256SUMS.txt
-            artifacts/release/publish/AsterSetup-Windows-x64.exe
+            artifacts/release-v2/${{ steps.version.outputs.version }}/assets/*
+            artifacts/release-v2/${{ steps.version.outputs.version }}/acceptance.json
+            data/library/packs/build-${{ steps.version.outputs.library }}/COVERAGE_REPORT.md
+
   publish-draft:
     needs: build
     runs-on: windows-2022
@@ -84,16 +116,14 @@ jobs:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
       - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
         with:
-          name: reviewed-windows-release
+          name: aster-release-candidate
           path: release-assets
-      - name: Create owner-reviewed draft beta
+      - name: Create draft prerelease (owner publishes after clean-VM acceptance)
         shell: pwsh
         env:
           GH_TOKEN: ${{ github.token }}
-          RELEASE_TAG: ${{ github.ref_name }}
         run: |
-          $assets = Get-ChildItem release-assets -File | ForEach-Object FullName
-          gh release create $env:RELEASE_TAG @assets --repo AyushM1701/ASTER-AI --verify-tag --draft --prerelease --title "Aster $env:RELEASE_TAG Windows beta" --notes-file packaging/release-notes.md
+          $assets = Get-ChildItem release-assets -Recurse -File | Where-Object { $_.Name -ne 'acceptance.json' } | ForEach-Object FullName
+          $tag = if ('${{ github.event_name }}' -eq 'push') { '${{ github.ref_name }}' } else { 'v${{ inputs.version }}' }
+          gh release create $tag @assets --repo AyushM1701/ASTER-AI --draft --prerelease --title "Aster $tag (release candidate)" --notes-file packaging/release-notes.md
           if ($LASTEXITCODE -ne 0) { throw 'Draft release failed' }
-  # Final publication follows actual download-and-offline acceptance; this
-  # workflow deliberately never marks a draft beta clinically validated/stable.

@@ -36,7 +36,7 @@ def main():
                     existing_uncaptured.append(record)
                 else:
                     added.append(record)
-    reports = ["README.md", "docs/MDS_IMPLEMENTATION_2026-10-11.md", "docs/MDS_EVALUATION_2026-10-11.md", "docs/MDS_OPEN_CORPUS_2026-10-11.md", "docs/MDS_STAGED_PACKS_2026-10-11.md", "docs/superpowers/plans/2026-10-11-mds-evidence-upgrade.md"]
+    reports = ["README.md", "docs/history/MDS_IMPLEMENTATION_2026-10-11.md", "docs/history/MDS_EVALUATION_2026-10-11.md", "docs/history/MDS_OPEN_CORPUS_2026-10-11.md", "docs/history/MDS_STAGED_PACKS_2026-10-11.md", "docs/history/superpowers/plans/2026-10-11-mds-evidence-upgrade.md"]
     result = {"date": "2026-10-11", "git": "unavailable", "changed_existing": changed,
               "new_upgrade_files": added,
               "existing_assets_outside_checkpoint_preserve": existing_uncaptured,

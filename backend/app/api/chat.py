@@ -20,10 +20,26 @@ def is_topic_followup(question: str) -> bool:
     }
 
 
+def educational_exception(payload, decision):
+    """Study-mode dose/medicine questions without first-person framing are
+    educational (answered only from label/reference evidence). Urgent guidance
+    and prompt-injection refusals are never relaxed."""
+    from backend.app.services.grounded import first_person
+
+    text = payload.question.casefold()
+    return (decision.get("status") == "unsupported_input" and payload.audience == "study"
+            and not first_person(payload.question)
+            and not re.search(r"\b(?:ignore|override)\b.{0,40}\b(?:instructions|policy|system|prompt)\b", text)
+            and not re.search(r"\b(?:my|our) (?:patient|child|son|daughter|baby)\b", text))
+
+
 @router.post("")
 def chat(request: Request, payload: ChatRequest, session=Depends(owned_session)):
     state = request.app.state
+    grounded = getattr(state, "grounded", None)
     decision = check_policy(payload.question)
+    if decision and grounded is not None and educational_exception(payload, decision):
+        decision = None
     if decision:
         from backend.app.services.output_validation import finalize
 
@@ -106,6 +122,10 @@ def chat(request: Request, payload: ChatRequest, session=Depends(owned_session))
             result = state.answers.answer(payload.question)
         else:
             raise AppError(404, "unsupported_input", "Context is not available in this session.")
+    elif grounded is not None:
+        result = grounded.answer(payload.question, list(session.messages), payload.audience)
+        resolved_question = result.get("resolved_question") or payload.question
+        audience = payload.audience
     else:
         question = payload.question
         from backend.app.services.question_plan import plan_question

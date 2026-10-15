@@ -20,6 +20,14 @@ conversation. Explain cited reference information or explicitly qualified
 pretrained-model knowledge, review prescription transcription, inspect confirmed
 paper excerpts, and expose eligible research imaging outputs.
 
+## Positioning
+One local workspace that serves two audiences, patient education and MBBS/MDS
+research-paper study, through a mechanism a general health chatbot cannot
+honestly copy: inference stays on the device with no cloud fallback, claims
+trace to local cited records, unverified model knowledge is labelled as such,
+and documents (prescriptions, private papers) are explained only after the
+user confirms the extraction.
+
 ## Operating Context
 Windows desktop, loopback services, English first. Same-origin browser requests
 through a bounded server-side web bridge.
@@ -73,6 +81,13 @@ workspace design locally, replacing the default presentation. That approval
 covers refreshing the visual system documentation to match the implementation.
 Working product name: Aster Medical Research (implementation choice).
 
+## Evidence on Hand
+Internal repository artifacts only: pilot and baseline outputs under `artifacts/`
+(including `artifacts/baselines/`), the saved Figma Aster exports, and Playwright
+captures under `output/playwright/`. There are no testimonials, external users,
+public accuracy figures, press or independent validation; future work must not
+fabricate or imply any.
+
 ## Product Principles
 Trace source-backed claims to the local reference records and show their citations.
 When enabled, uncovered questions can use pretrained-model knowledge: explicitly
@@ -87,3 +102,7 @@ evidence state is available in Sources & context. These checks are not clinical
 validation, and the small local model can still give incomplete explanations.
 Keep uncertainty and scope visible. Require confirmation before document
 explanations. Make setup, outage, unsupported and uncertain states useful.
+
+## Accessibility & Inclusion
+Target WCAG 2.2 AA: full keyboard operation, visible focus, readable contrast
+in the dark ambient theme, and respect for reduced-motion preferences.

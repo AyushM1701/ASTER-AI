@@ -1,11 +1,51 @@
-# Aster Windows beta
+# Aster 0.2.0-rc.1 (release candidate)
 
-Download **AsterSetup-Windows-x64.exe** to install the exact packaged version. Initial setup downloads immutable archive parts. After verified installation Aster runs locally and offline; Python, Ollama, Tesseract and Node are bundled or unnecessary. For a disconnected machine, retrieve every archive part and use the same trusted setup program's offline assembly tool.
+**Release candidate for testing.** This is not a clinically validated product. Aster is for education and information;
+it does not diagnose, prescribe or calculate personal doses. X-ray outputs are research scores for professional review.
 
-Read `distribution.json` for compressed/installed sizes and `release-manifest.json` in the installation for the exact Qwen digest, data versions, counts and included features. Do not infer coverage from the larger development library. Verify setup and parts against `SHA256SUMS.txt` through a trusted channel. Code signing status must be recorded by the publisher; SmartScreen behavior depends on signing and local policy.
+## Install
 
-Keep Aster's controller window open. First startup verifies package bytes and loads CPU search indexes. API/workspace/Ollama use loopback ports 8000/8501/11435; occupied ports cause an explicit error. If installation is damaged, rerun setup into a clean directory. See the Windows release guide for repair, rollback, logs and uninstall.
+- Easiest: download the repository's **source ZIP**, extract it, and double-click **`Start Aster.cmd`**.
+- Or download **`AsterSetup-Windows-x64.exe`** below and run it. No administrator rights are needed.
+- Offline install: download every file of this release into one folder and run
+  `AsterSetup-Windows-x64.exe --offline-dir <folder>`.
 
-This is medical education and research software. Medical faculty review and clinical validation are incomplete. It cannot diagnose or prescribe. Printed OCR requires comparison and explicit field confirmation. Experimental handwriting and specialist X-ray scores are disabled in the standard packaged profile. Retailer/secondary evidence retains its existing provenance cautions.
+Setup downloads about 2.9 GB for the standard (CPU) profile and about 7 GB for the NVIDIA GPU profile. It checks
+every file against the SHA-256 values in the signed `release-lock.json` that is compiled into setup. Afterwards
+Aster works offline.
 
-Publisher must attach the actual clean-machine acceptance report and measured hardware results for this exact manifest. Development test counts are not evidence that an untested installation works. Final publication requires install testing of the downloaded assets and offline operation.
+## What's new since 0.1.0-beta
+
+- **Grounded answers.** Answers are drawn from a newly built, licence-checked medical library of
+  4,527 core documents and 2,206 optional noncommercial documents. Every statement is checked against its cited passage, and
+  unsupported statements are removed and reported as gaps. Everyday questions are handled conversationally,
+  with no fixed list of allowed questions.
+- Covers MBBS and all nine MDS specialties at postgraduate depth, including exam formats, MCQs and viva practice.
+  Statistics are calculated with checked formulas.
+- **Prescriptions.** Photos and scanned PDFs; automatic rotation; photo-quality warnings; editable fields beside source crops;
+  written dose and a verified-ingredient field; cited explanations. Handwriting reading is experimental.
+- **X-ray uploads.** Adult frontal chest X-rays only, behind evaluated input checks. Research scores via ONNX, with no torch.
+- **Installer and launcher.**
+  - Per-user installer with hardware-profile selection, resumable verified downloads, Start menu and desktop shortcuts,
+    an uninstall entry, repair, rollback and a portable mode.
+  - Opt-in signed library updates.
+  - Free-port selection and duplicate-launch handling.
+  - "Ready" is shown only after real retrieval, claim-checking, OCR, X-ray and model checks pass.
+
+## Known limitations
+
+- No independent clinical or faculty review. Evaluation questions and key points were written by AI, not by faculty.
+- **Held-out evaluation (151 questions).** Labels are AI-written, not clinician-reviewed.
+  - Fast GPU profile: 98% behaved as intended (median 14 s).
+  - Standard CPU profile: 93% behaved as intended (median 32 s, 90% within 57 s).
+  - Many answers are partial: Aster names the part its library does not cover instead of guessing.
+  - One wrong sentence (an aspirin warning attributed to ibuprofen) passed the automatic checker in the GPU run. The
+    checker now requires the named drug to be in the supporting sentence.
+- **Handwriting** was measured only on 72 synthetic handwriting-font images: no wrong strength, frequency or duration was
+  read, but 2 medicine names were misspelled. Real handwriting is untested.
+- X-ray input checks were evaluated on small public test sets.
+- Measured on one laptop only (i5-13450HX, 24 GB RAM, RTX 4050).
+- Not code-signed, so Windows SmartScreen may warn on first run.
+- Portable mode and returning to a previous version (`--rollback`) have not been tested yet.
+
+See `docs/release-readiness/ACCEPTANCE_REPORT.md` in the source for the measurements behind these notes.

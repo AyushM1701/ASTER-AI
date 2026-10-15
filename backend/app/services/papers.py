@@ -2,13 +2,10 @@
 
 import hashlib
 import json
-import os
 import re
 import subprocess
-import sys
 import threading
 from dataclasses import dataclass, field
-from pathlib import Path
 
 from backend.app.errors import AppError, envelope
 from backend.app.services.evidence_plan import INJECTION, structural_reasons
@@ -33,16 +30,14 @@ def sha(text):
 def extract_pdf(raw, settings):
     if not raw or len(raw) > settings.max_upload_bytes or not raw.startswith(b"%PDF-"):
         raise AppError(422, "unsupported_input", "Use a permitted PDF within the upload limit.")
-    if getattr(sys, "frozen", False):
-        raise AppError(503, "unsupported_input", "Private PDF parsing is unavailable in this packaged runtime; use the current source installation.")
-    worker = Path(__file__).with_name("pdf_worker.py")
+    from backend.app.services import workers
+
     try:
-        result = subprocess.run([sys.executable, "-I", str(worker), str(settings.max_paper_pages), str(settings.max_paper_characters)],
-                                input=raw, capture_output=True, timeout=settings.paper_parse_timeout_seconds,
-                                check=False, creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0) if os.name == "nt" else 0)
-        if result.returncode or len(result.stdout) > 3_000_000:
+        code, stdout, _ = workers.run("pdf_text", raw, settings.max_paper_pages, settings.max_paper_characters,
+                                      timeout=settings.paper_parse_timeout_seconds, max_output=3_000_000)
+        if code:
             raise ValueError("parse_failed")
-        parsed = json.loads(result.stdout)
+        parsed = json.loads(stdout)
         pages = parsed["pages"]
         if parsed.get("status") != "ok" or not isinstance(pages, list) or not pages or any(not isinstance(text, str) for text in pages):
             raise ValueError("invalid_parser_output")

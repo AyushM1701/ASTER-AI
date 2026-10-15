@@ -14,7 +14,7 @@ from starlette.exceptions import HTTPException
 
 from backend.app.adapters.ocr import OCRAdapter
 from backend.app.adapters.ollama import OllamaAdapter
-from backend.app.api import attachments, chat, documents, education, papers, sessions, xray
+from backend.app.api import attachments, chat, documents, education, library, papers, sessions, xray
 from backend.app.config import Settings
 from backend.app.errors import REQUEST_ID, AppError, envelope
 from backend.app.services.answers import AnswerService
@@ -54,6 +54,11 @@ def create_app(settings=None):
             teaching=app.state.teaching,
         )
         app.state.xray = XrayService(settings, app.state.compute, app.state.references)
+        app.state.grounded = None
+        if settings.answer_engine == "grounded":
+            from backend.app.services.grounded import build_engine
+
+            app.state.grounded = build_engine(settings, app.state.ollama, app.state.compute)
 
         async def cleanup():
             while True:
@@ -70,6 +75,8 @@ def create_app(settings=None):
         app.state.ollama.close()
         app.state.references.close()
         app.state.teaching.close()
+        if app.state.grounded is not None:
+            app.state.grounded.library.close()
         for session in list(app.state.sessions.sessions.values()):
             app.state.sessions.delete(session)
 
@@ -165,14 +172,18 @@ def create_app(settings=None):
     @app.get("/health/ready")
     def ready():
         refs = app.state.references
+        grounded = app.state.grounded
         ollama = (
             app.state.ollama.ready()
             if settings.answer_mode == "ollama"
             else {"available": None, "required": False}
         )
-        available = bool(refs.records) and (settings.answer_mode != "ollama" or ollama["available"])
-        if settings.enable_teaching and app.state.teaching.error:
-            available = False
+        if grounded is not None:
+            available = grounded.library.status == "ready" and ollama["available"] is not False
+        else:
+            available = bool(refs.records) and (settings.answer_mode != "ollama" or ollama["available"])
+            if settings.enable_teaching and app.state.teaching.error:
+                available = False
         return JSONResponse(
             {
                 "status": "ready" if available else "unavailable",
@@ -196,15 +207,62 @@ def create_app(settings=None):
                 "xray": app.state.xray.health(),
                 "network": "local_inference_optional_public_literature_search" if settings.enable_research_search else "local_only",
                 "research_search": {"enabled": settings.enable_research_search, "provider": "Europe PMC", "public_query_confirmation_required": True},
-                "private_papers": {"enabled": not getattr(sys, "frozen", False) and importlib.util.find_spec("pypdf") is not None, "temporary": True,
+                "private_papers": {"enabled": getattr(sys, "frozen", False) or importlib.util.find_spec("pypdf") is not None, "temporary": True,
                                    "confirmation_required": True, "analysis": "exact_excerpts_partial_appraisal",
                                    "max_pages": settings.max_paper_pages},
                 "release": getattr(app.state, "release_info", None),
+                "answer_engine": settings.answer_engine,
+                "library": grounded.library.manifest() if grounded is not None else None,
+                "claim_verifier": ({"available": grounded.verifier.nli is not None, "error": grounded.verifier.error}
+                                   if grounded is not None else None),
             },
             status_code=200 if available else 503,
         )
 
-    for router in (sessions.router, chat.router, documents.router, xray.router, attachments.router, education.router, papers.router):
+    @app.get("/health/selftest")
+    def selftest():
+        """Exercise real capabilities once (controller calls this before showing Ready)."""
+        from backend.app.paths import install_root
+
+        results = {}
+        grounded = app.state.grounded
+        try:
+            hits = grounded.library.search("What causes gum disease?", audience="patient", k=2) if grounded else []
+            results["retrieval"] = {"ok": bool(hits), "hits": len(hits)}
+        except Exception as exc:  # report, never crash the probe
+            results["retrieval"] = {"ok": False, "error": type(exc).__name__}
+        try:
+            support = grounded.verifier.verify("Plaque buildup can inflame the gums.", [("t", "Gum disease is caused by plaque, "
+                                               "a sticky film of bacteria; plaque buildup inflames the gums (gingivitis).")])
+            results["claim_verifier"] = {"ok": support.status == "supported" and grounded.verifier.nli is not None,
+                                         "method": support.method}
+        except Exception as exc:
+            results["claim_verifier"] = {"ok": False, "error": type(exc).__name__}
+        try:
+            from PIL import Image
+
+            image = Image.open(install_root() / "data/samples/synthetic_prescription.png").convert("RGB")
+            text = app.state.ocr.extract_printed(image)["raw_text"]
+            results["ocr"] = {"ok": "medicine" in text.casefold() or "mg" in text.casefold(), "characters": len(text)}
+        except Exception as exc:
+            results["ocr"] = {"ok": False, "error": type(exc).__name__}
+        if settings.enable_xray_uploads:
+            try:
+                from PIL import Image
+
+                from backend.app.services.uploads import quality_measurements
+
+                image = Image.open(install_root() / "data/samples/nih-demo-00000001_000.png").convert("RGB")
+                gate = app.state.xray.gates.assess(image, quality_measurements(image), True)
+                scores = app.state.xray.adapter.predict(image)
+                results["xray"] = {"ok": gate["accepted"] and len(scores) == 3, "gate_accepted": gate["accepted"]}
+            except Exception as exc:
+                results["xray"] = {"ok": False, "error": type(exc).__name__}
+        ok = all(item["ok"] for item in results.values())
+        return JSONResponse({"status": "ok" if ok else "failed", "checks": results}, status_code=200 if ok else 503)
+
+    for router in (sessions.router, chat.router, documents.router, xray.router, attachments.router, education.router, papers.router,
+                   library.router):
         app.include_router(router)
     return app
 

@@ -1,0 +1,15 @@
+# Release demo asset: NIH ChestX-ray14 image 00000001_000.png (adult PA, deidentified).
+# Licence: CC0 (Kaggle nih-chest-xrays/data); NIH requests attribution: Wang et al., CVPR 2017,
+# https://nihcc.app.box.com/v/ChestXray-NIHCC. Used for the startup self-test and as a demonstration.
+assets:
+- asset_id: nih-demo-01
+  path: ../data/samples/nih-demo-00000001_000.png
+  sha256: 54637429eef039060cf9feb4a07042d4986a71042b41cd1c833befd26cabe9bd
+  source: NIH Clinical Center ChestX-ray14 (Wang et al. CVPR 2017), image 00000001_000.png; Data_Entry_2017.csv age 58, PA
+  license: 'CC0: Public Domain (Kaggle); NIH requests attribution'
+  view: PA
+  adult: true
+  supported_input_review: true
+  deidentified: true
+  patient_group: nih-00000001
+  partition: demo

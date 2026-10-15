@@ -1,0 +1,12 @@
+{
+  "raw_text": "SYNTHETIC DOCUMENT - NOT A PRESCRIPTION\nFor testing transcription and confirmation only.\nNo patient. No prescriber. No medical approval.\nMedicine: Metformin hydrochloride\nStrength: 500 mg\nFormulation: immediate-release tablet\nRoute: oral\nFrequency: sample instruction only\nInstructions: Verify with the original document.\nDuration intentionally omitted. Leave unreadable.",
+  "fields": {
+    "medicine_name": "Metformin hydrochloride",
+    "strength": "500 mg",
+    "formulation": "immediate-release tablet",
+    "route": "oral",
+    "frequency": "sample instruction only",
+    "duration": null,
+    "instructions": "Verify with the original document."
+  }
+}

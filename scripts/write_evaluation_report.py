@@ -14,7 +14,7 @@ def read(path):
 
 
 def link(path):
-    return f"[{path}](artifacts/evaluation/{path})"
+    return f"[{path}](../../artifacts/evaluation/{path})"
 
 
 def escaped(value):
@@ -479,7 +479,7 @@ Keep this installation for education and local research. The handwritten reader 
 
 The handwriting script requires the locally acquired, hash-recorded word crops and CSV. It does not redistribute or auto-download them. Benchmark API/model calls run sequentially; do not compare latencies while other inference is active. Report generation uses the frozen dated artifacts listed above, so a new run needs an explicit artifact-path update rather than silently replacing the old evidence.
 """)
-    (ROOT / "EVALUATION_REPORT.md").write_text("\n\n".join(sections), encoding="utf-8")
+    (ROOT / "docs/reports/EVALUATION_REPORT.md").write_text("\n\n".join(sections), encoding="utf-8")
     print("Wrote EVALUATION_REPORT.md")
 
 

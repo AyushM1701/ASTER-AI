@@ -1,0 +1,420 @@
+{
+ "schema_version": 1,
+ "product": "Aster",
+ "version": "0.2.0-rc.1",
+ "tag": "v0.2.0-rc.1",
+ "release_base_url": "https://github.com/AyushM1701/ASTER-AI/releases/download/v0.2.0-rc.1/",
+ "created": "2026-10-15T07:42:36Z",
+ "default_profile": "standard",
+ "profile_order": [
+  "enhanced-gpu",
+  "standard",
+  "quality-cpu"
+ ],
+ "profiles": {
+  "standard": {
+   "text_model": "qwen3-vl:2b-instruct",
+   "vision_model": "qwen3-vl:2b-instruct",
+   "models": [
+    "qwen3-vl:2b-instruct"
+   ],
+   "gpu": "none",
+   "description": "CPU profile (default). One 2-billion-parameter model for text and images. Measured on an Intel i5-13450HX laptop: median about 32 seconds per cited answer, 90% within 57 seconds."
+  },
+  "quality-cpu": {
+   "text_model": "qwen3:4b-q4_K_M",
+   "vision_model": "qwen3-vl:2b-instruct",
+   "models": [
+    "qwen3-vl:2b-instruct",
+    "qwen3:4b-q4_K_M"
+   ],
+   "gpu": "none",
+   "requires": {
+    "ram_gb": 16,
+    "manual_only": true
+   },
+   "description": "Larger 4-billion-parameter text model on the CPU: fewer unsupported sentences (measured on GPU), but slower than the standard profile on CPU (not timed). Needs 16 GB RAM."
+  },
+  "enhanced-gpu": {
+   "text_model": "qwen3:4b-q4_K_M",
+   "vision_model": "qwen3-vl:2b-instruct",
+   "models": [
+    "qwen3-vl:2b-instruct",
+    "qwen3:4b-q4_K_M"
+   ],
+   "gpu": "cuda",
+   "requires": {
+    "nvidia_vram_gb": 5.5
+   },
+   "description": "NVIDIA GPU profile: 4-billion-parameter text model accelerated by CUDA. Measured on an RTX 4050 Laptop GPU (6 GB): median about 14 seconds per cited answer, 90% within 22 seconds."
+  }
+ },
+ "release_profile": {
+  "schema_version": 2,
+  "app_version": "0.2.0-rc.1",
+  "edition": "PublicStandard",
+  "settings": {
+   "answer_engine": "grounded",
+   "answer_mode": "ollama",
+   "enable_general_chat": true,
+   "strict_source_grounding": true,
+   "enable_library": true,
+   "enable_handwriting_ocr": true,
+   "enable_xray": true,
+   "enable_xray_uploads": true,
+   "enable_teaching": false,
+   "enable_mds_pipeline": false,
+   "enable_secondary_references": false,
+   "enable_patient_information": false,
+   "enable_educational_model_knowledge": false,
+   "enable_research_search": true,
+   "retrieval_backend": "lexical",
+   "model_keep_alive": "30m",
+   "inference_timeout_seconds": 300,
+   "ocr_timeout_seconds": 45
+  },
+  "features": {
+   "grounded_answers": true,
+   "claim_verification": true,
+   "general_chat": true,
+   "printed_ocr": true,
+   "handwriting_experimental": true,
+   "pdf_scans": true,
+   "private_papers": true,
+   "xray_research_scores": "adult frontal chest only; research use",
+   "clinical_validation": false
+  },
+  "profiles": {
+   "standard": {
+    "text_model": "qwen3-vl:2b-instruct",
+    "vision_model": "qwen3-vl:2b-instruct",
+    "models": [
+     "qwen3-vl:2b-instruct"
+    ],
+    "gpu": "none",
+    "description": "CPU profile (default). One 2-billion-parameter model for text and images. Measured on an Intel i5-13450HX laptop: median about 32 seconds per cited answer, 90% within 57 seconds."
+   },
+   "quality-cpu": {
+    "text_model": "qwen3:4b-q4_K_M",
+    "vision_model": "qwen3-vl:2b-instruct",
+    "models": [
+     "qwen3-vl:2b-instruct",
+     "qwen3:4b-q4_K_M"
+    ],
+    "gpu": "none",
+    "requires": {
+     "ram_gb": 16,
+     "manual_only": true
+    },
+    "description": "Larger 4-billion-parameter text model on the CPU: fewer unsupported sentences (measured on GPU), but slower than the standard profile on CPU (not timed). Needs 16 GB RAM."
+   },
+   "enhanced-gpu": {
+    "text_model": "qwen3:4b-q4_K_M",
+    "vision_model": "qwen3-vl:2b-instruct",
+    "models": [
+     "qwen3-vl:2b-instruct",
+     "qwen3:4b-q4_K_M"
+    ],
+    "gpu": "cuda",
+    "requires": {
+     "nvidia_vram_gb": 5.5
+    },
+    "description": "NVIDIA GPU profile: 4-billion-parameter text model accelerated by CUDA. Measured on an RTX 4050 Laptop GPU (6 GB): median about 14 seconds per cited answer, 90% within 22 seconds."
+   }
+  }
+ },
+ "components": [
+  {
+   "id": "app",
+   "type": "zip",
+   "dest": ".",
+   "archive": "aster-app-0.2.0-rc.1.zip",
+   "sha256": "1b30e4ca78e19eb2b77afa06dea6ec0daa29bdaff253ea221712fe5c68fb0077",
+   "bytes": 130306022,
+   "unpacked_bytes": 295012482,
+   "parts": [
+    {
+     "file": "aster-app-0.2.0-rc.1.zip",
+     "bytes": 130306022,
+     "sha256": "1b30e4ca78e19eb2b77afa06dea6ec0daa29bdaff253ea221712fe5c68fb0077"
+    }
+   ],
+   "profiles": [
+    "*"
+   ]
+  },
+  {
+   "id": "models-onnx",
+   "type": "zip",
+   "dest": ".",
+   "archive": "aster-models-onnx-0.2.0-rc.1.zip",
+   "sha256": "803ac2d36eccd667d77ed6b05fde8b939913947f6c830938a5b56bfdde588e1a",
+   "bytes": 461764616,
+   "unpacked_bytes": 555577880,
+   "parts": [
+    {
+     "file": "aster-models-onnx-0.2.0-rc.1.zip",
+     "bytes": 461764616,
+     "sha256": "803ac2d36eccd667d77ed6b05fde8b939913947f6c830938a5b56bfdde588e1a"
+    }
+   ],
+   "profiles": [
+    "*"
+   ]
+  },
+  {
+   "id": "ollama-cpu",
+   "type": "zip",
+   "dest": ".",
+   "archive": "aster-ollama-cpu-0.2.0-rc.1.zip",
+   "sha256": "d17be4984d659236bd1abd45399b4300d9889180ea7ed3b29acfb4fe189ad91c",
+   "bytes": 25215692,
+   "unpacked_bytes": 68100870,
+   "parts": [
+    {
+     "file": "aster-ollama-cpu-0.2.0-rc.1.zip",
+     "bytes": 25215692,
+     "sha256": "d17be4984d659236bd1abd45399b4300d9889180ea7ed3b29acfb4fe189ad91c"
+    }
+   ],
+   "profiles": [
+    "*"
+   ]
+  },
+  {
+   "id": "ollama-cuda",
+   "type": "zip",
+   "dest": ".",
+   "archive": "aster-ollama-cuda-0.2.0-rc.1.zip",
+   "sha256": "53541ea7c04137d2b4fbb63ccefff34fcb515e792c6101da05d9a5e5fb9c4495",
+   "bytes": 1456589357,
+   "unpacked_bytes": 1875240496,
+   "parts": [
+    {
+     "file": "aster-ollama-cuda-0.2.0-rc.1.zip",
+     "bytes": 1456589357,
+     "sha256": "53541ea7c04137d2b4fbb63ccefff34fcb515e792c6101da05d9a5e5fb9c4495"
+    }
+   ],
+   "profiles": [
+    "enhanced-gpu"
+   ]
+  },
+  {
+   "id": "tesseract",
+   "type": "zip",
+   "dest": ".",
+   "archive": "aster-tesseract-0.2.0-rc.1.zip",
+   "sha256": "114c7fd37765f1fe06ab3477b37bbe39d6004fb4d9925b5dd2f4ee8e0a069bc1",
+   "bytes": 43472436,
+   "unpacked_bytes": 112309282,
+   "parts": [
+    {
+     "file": "aster-tesseract-0.2.0-rc.1.zip",
+     "bytes": 43472436,
+     "sha256": "114c7fd37765f1fe06ab3477b37bbe39d6004fb4d9925b5dd2f4ee8e0a069bc1"
+    }
+   ],
+   "profiles": [
+    "*"
+   ]
+  },
+  {
+   "id": "model-qwen3-vl-2b-instruct",
+   "type": "ollama-model",
+   "name": "qwen3-vl:2b-instruct",
+   "profiles": [
+    "*"
+   ],
+   "manifest": {
+    "file": "model-qwen3-vl-2b-instruct.manifest.json",
+    "sha256": "ea422f1e73652a95479954d8572d3c8c6022f628ce2d38a1a04aae1b7f2d5300",
+    "bytes": 893,
+    "path": "manifests/registry.ollama.ai/library/qwen3-vl/2b-instruct",
+    "upstream": [
+     "https://registry.ollama.ai/v2/library/qwen3-vl/manifests/2b-instruct"
+    ]
+   },
+   "blobs": [
+    {
+     "digest": "b5c3447a7c00b0444e79efe194d97b8070fc830cd8ff4f938f36959a1f5413c8",
+     "sha256": "b5c3447a7c00b0444e79efe194d97b8070fc830cd8ff4f938f36959a1f5413c8",
+     "bytes": 551,
+     "file": "blob-b5c3447a7c00b0444e79.bin",
+     "upstream": [
+      "https://registry.ollama.ai/v2/library/qwen3-vl/blobs/sha256:b5c3447a7c00b0444e79efe194d97b8070fc830cd8ff4f938f36959a1f5413c8"
+     ],
+     "media_type": "application/vnd.docker.container.image.v1+json"
+    },
+    {
+     "digest": "aafed9e48b157ae913cee994e0d9ac927af51e256feafbd923bf2852e8856d00",
+     "sha256": "aafed9e48b157ae913cee994e0d9ac927af51e256feafbd923bf2852e8856d00",
+     "bytes": 1889496480,
+     "file": "blob-aafed9e48b157ae913ce.bin",
+     "upstream": [
+      "https://registry.ollama.ai/v2/library/qwen3-vl/blobs/sha256:aafed9e48b157ae913cee994e0d9ac927af51e256feafbd923bf2852e8856d00"
+     ],
+     "media_type": "application/vnd.ollama.image.model"
+    },
+    {
+     "digest": "7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2",
+     "sha256": "7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2",
+     "bytes": 11355,
+     "file": "blob-7339fa418c9ad3e8e12e.bin",
+     "upstream": [
+      "https://registry.ollama.ai/v2/library/qwen3-vl/blobs/sha256:7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2"
+     ],
+     "media_type": "application/vnd.ollama.image.license"
+    },
+    {
+     "digest": "7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2",
+     "sha256": "7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2",
+     "bytes": 11355,
+     "file": "blob-7339fa418c9ad3e8e12e.bin",
+     "upstream": [
+      "https://registry.ollama.ai/v2/library/qwen3-vl/blobs/sha256:7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2"
+     ],
+     "media_type": "application/vnd.ollama.image.license"
+    },
+    {
+     "digest": "f6417cb1e26962991f8e875a93f3cb0f92bc9b4955e004881251ccbf934a19d2",
+     "sha256": "f6417cb1e26962991f8e875a93f3cb0f92bc9b4955e004881251ccbf934a19d2",
+     "bytes": 42,
+     "file": "blob-f6417cb1e26962991f8e.bin",
+     "upstream": [
+      "https://registry.ollama.ai/v2/library/qwen3-vl/blobs/sha256:f6417cb1e26962991f8e875a93f3cb0f92bc9b4955e004881251ccbf934a19d2"
+     ],
+     "media_type": "application/vnd.ollama.image.params"
+    }
+   ],
+   "unpacked_bytes": 1889519783,
+   "license": "Apache-2.0 (Qwen)"
+  },
+  {
+   "id": "model-qwen3-4b-q4_K_M",
+   "type": "ollama-model",
+   "name": "qwen3:4b-q4_K_M",
+   "profiles": [
+    "quality-cpu",
+    "enhanced-gpu"
+   ],
+   "manifest": {
+    "file": "model-qwen3-4b-q4_K_M.manifest.json",
+    "sha256": "2bfd38a7daaf4b1037efe517ccb73d1a3bbd4822cf89f1a82be1569050a114e0",
+    "bytes": 859,
+    "path": "manifests/registry.ollama.ai/library/qwen3/4b-q4_K_M",
+    "upstream": [
+     "https://registry.ollama.ai/v2/library/qwen3/manifests/4b-q4_K_M"
+    ]
+   },
+   "blobs": [
+    {
+     "digest": "5efd52d6d9f24db4a33df0d706ee6037edf026027281bb9568bb066ebc5a4f31",
+     "sha256": "5efd52d6d9f24db4a33df0d706ee6037edf026027281bb9568bb066ebc5a4f31",
+     "bytes": 487,
+     "file": "blob-5efd52d6d9f24db4a33d.bin",
+     "upstream": [
+      "https://registry.ollama.ai/v2/library/qwen3/blobs/sha256:5efd52d6d9f24db4a33df0d706ee6037edf026027281bb9568bb066ebc5a4f31"
+     ],
+     "media_type": "application/vnd.docker.container.image.v1+json"
+    },
+    {
+     "digest": "163553aea1b1de62de7c5eb2ef5afb756b4b3133308d9ae7e42e951d8d696ef5",
+     "sha256": "163553aea1b1de62de7c5eb2ef5afb756b4b3133308d9ae7e42e951d8d696ef5",
+     "bytes": 2620774592,
+     "file": "blob-163553aea1b1de62de7c.bin",
+     "parts": [
+      {
+       "file": "blob-163553aea1b1de62de7c.bin.part001",
+       "bytes": 1900000000,
+       "sha256": "e76b7b7eca64a9387318e125c11952683c7eb5c2d7562e3b9977571c1180bab2",
+       "file_parts_of": "blob-163553aea1b1de62de7c.bin"
+      },
+      {
+       "file": "blob-163553aea1b1de62de7c.bin.part002",
+       "bytes": 720774592,
+       "sha256": "33f29cfc42a509e9d9050f7e1768863f3a44c55e89dd98f3e9a2899d8c1d8ba7",
+       "file_parts_of": "blob-163553aea1b1de62de7c.bin"
+      }
+     ],
+     "media_type": "application/vnd.ollama.image.model"
+    },
+    {
+     "digest": "ae370d884f108d16e7cc8fd5259ebc5773a0afa6e078b11f4ed7e39a27e0dfc4",
+     "sha256": "ae370d884f108d16e7cc8fd5259ebc5773a0afa6e078b11f4ed7e39a27e0dfc4",
+     "bytes": 1723,
+     "file": "blob-ae370d884f108d16e7cc.bin",
+     "upstream": [
+      "https://registry.ollama.ai/v2/library/qwen3/blobs/sha256:ae370d884f108d16e7cc8fd5259ebc5773a0afa6e078b11f4ed7e39a27e0dfc4"
+     ],
+     "media_type": "application/vnd.ollama.image.template"
+    },
+    {
+     "digest": "d18a5cc71b84bc4af394a31116bd3932b42241de70c77d2b76d69a314ec8aa12",
+     "sha256": "d18a5cc71b84bc4af394a31116bd3932b42241de70c77d2b76d69a314ec8aa12",
+     "bytes": 11338,
+     "file": "blob-d18a5cc71b84bc4af394.bin",
+     "upstream": [
+      "https://registry.ollama.ai/v2/library/qwen3/blobs/sha256:d18a5cc71b84bc4af394a31116bd3932b42241de70c77d2b76d69a314ec8aa12"
+     ],
+     "media_type": "application/vnd.ollama.image.license"
+    },
+    {
+     "digest": "cff3f395ef3756ab63e58b0ad1b32bb6f802905cae1472e6a12034e4246fbbdb",
+     "sha256": "cff3f395ef3756ab63e58b0ad1b32bb6f802905cae1472e6a12034e4246fbbdb",
+     "bytes": 120,
+     "file": "blob-cff3f395ef3756ab63e5.bin",
+     "upstream": [
+      "https://registry.ollama.ai/v2/library/qwen3/blobs/sha256:cff3f395ef3756ab63e58b0ad1b32bb6f802905cae1472e6a12034e4246fbbdb"
+     ],
+     "media_type": "application/vnd.ollama.image.params"
+    }
+   ],
+   "unpacked_bytes": 2620788260,
+   "license": "Apache-2.0 (Qwen)"
+  },
+  {
+   "id": "library-core",
+   "type": "pack",
+   "pack_id": "aster-library-core-2026.10.15",
+   "edition": "core",
+   "archive": "aster-library-core-2026.10.15.zip",
+   "unpacked_bytes": 684191688,
+   "parts": [
+    {
+     "file": "aster-library-core-2026.10.15.zip",
+     "bytes": 242667992,
+     "sha256": "cd8c049edd90fd889ae8415306ad762ae9e806387d6523692a3fbc73b04d07f2"
+    }
+   ],
+   "profiles": [
+    "*"
+   ],
+   "sha256": "cd8c049edd90fd889ae8415306ad762ae9e806387d6523692a3fbc73b04d07f2",
+   "bytes": 242667992,
+   "license_scope": "Redistributable incl. commercial use, subject to attribution/share-alike terms per source"
+  },
+  {
+   "id": "library-nc",
+   "type": "pack",
+   "pack_id": "aster-library-nc-2026.10.15",
+   "edition": "nc",
+   "archive": "aster-library-nc-2026.10.15.zip",
+   "unpacked_bytes": 189757969,
+   "parts": [
+    {
+     "file": "aster-library-nc-2026.10.15.zip",
+     "bytes": 67607954,
+     "sha256": "e6dbc95c3a037d57f4496f12606c3abd38e5338b5604388cc3efd8fba3b01185"
+    }
+   ],
+   "profiles": [
+    "*"
+   ],
+   "sha256": "e6dbc95c3a037d57f4496f12606c3abd38e5338b5604388cc3efd8fba3b01185",
+   "bytes": 67607954,
+   "license_scope": "Noncommercial use only (CC BY-NC / CC BY-NC-SA); share-alike where stated"
+  }
+ ],
+ "library_version": "2026.10.15"
+}

@@ -78,3 +78,20 @@ urllib3==2.8.0
 uvicorn==0.54.0
 watchdog==6.0.0
 websockets==17.2
+# Grounded engine, claim verification, signing and torch-free X-ray (added for 0.2.0)
+cffi==2.1.1
+cryptography==50.0.2
+flatbuffers==25.12.19
+fsspec==2026.7.0
+hf-xet==1.6.0
+huggingface_hub==1.33.0
+imageio==2.38.0
+lazy-loader==0.6
+networkx==3.6.1
+onnxruntime==1.30.0
+pycparser==3.1
+scikit-image==0.26.0
+scipy==1.18.1
+tifffile==2026.9.20
+tokenizers==0.23.2
+tqdm==4.70.1

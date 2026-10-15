@@ -443,7 +443,7 @@ def write_report(result, output):
         "No medical factual accuracy or clinical equivalence metric is claimed. Source licensing/review metadata stays separate: "
         "matching another table does not transfer its permission basis or approval status.",
     ]
-    (ROOT / "MEDICINE_DATASET_CROSSWALK.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    (ROOT / "docs/reports/MEDICINE_DATASET_CROSSWALK.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":

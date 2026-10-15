@@ -42,6 +42,10 @@ UNSAFE_PATTERNS = [
     r"(?:ignore|override).{0,40}(?:instructions|policy|system|prompt)",
     r"\b(?:prescribe|dose calculation)\b",
     r"(?:how much|how many).{0,40}(?:to take|should i take|can i take)",
+    r"\b(?:dose|dosage|how much|how many|mg|ml)\b.{0,60}\b(?:should|do|can|must)\s+(?:i|we)\s+(?:give|take|use)\b",
+    r"\b(?:dose|dosage|how much|how many)\b.{0,60}\b(?:my|our)\s+(?:\d+[\s-]*(?:years?|yrs?|months?)[\s-]*old|child|children|son|"
+    r"daughter|baby|kid|kids|toddler|infant|newborn|husband|wife|partner|mother|father|mom|mum|dad|grandmother|grandfather|"
+    r"patient)\b",
     r"\b(?:which|what)\b.{0,30}\b(?:medicine|drug|antibiotic|medication)\b.{0,45}\b(?:best|suitable|right)\b.{0,30}\b(?:my|me|for him|for her)\b",
     r"\b(?:my|for me|for my)\b.{0,70}\b(?:tablets?|capsules?|medicine|antibiotic|mg)\b.{0,100}\b(?:how many|how much)\b",
     r"\bis (?:this|my|his|her)\b.{0,35}\b(?:abscess|infection|cancer|tumou?r|pneumonia)\b",

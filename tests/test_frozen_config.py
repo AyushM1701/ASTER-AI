@@ -53,16 +53,32 @@ def test_unicode_install_and_scratch_have_ascii_native_ocr_paths(tmp_path):
     assert Path(env["TEMP"]).resolve().is_relative_to((tmp_path / "writable β/cache/temp").resolve())
 
 
-def test_native_path_failure_removes_new_scratch(tmp_path, monkeypatch):
+def test_scratch_without_ascii_alias_is_used_directly(tmp_path, monkeypatch):
+    # OCR runs through stdin/stdout, so the scratch folder no longer needs an ASCII alias.
     from aster_release.release import ReleaseError
     def fail_scratch(path):
         if Path(path).name.startswith("aster-"):
             raise ReleaseError("No compatible short path")
         return str(path)
     monkeypatch.setattr("aster_release.runtime.native_ascii_path", fail_scratch)
-    with pytest.raises(ReleaseError):
-        sanitized_environment(tmp_path, tmp_path / "writable")
-    assert not list((tmp_path / "writable/cache/temp").iterdir())
+    env = sanitized_environment(tmp_path, tmp_path / "writable")
+    assert Path(env["TEMP"]).name.startswith("aster-") and Path(env["TEMP"]).parent == (tmp_path / "writable/cache/temp")
+
+
+def test_tessdata_falls_back_to_verified_public_copy(tmp_path, monkeypatch):
+    from aster_release.release import ReleaseError
+    from aster_release.runtime import ascii_tessdata
+    source = tmp_path / "Unicode β" / "tessdata"
+    source.mkdir(parents=True)
+    (source / "eng.traineddata").write_bytes(b"language data")
+    def no_alias(path):
+        raise ReleaseError("no short names")
+    monkeypatch.setattr("aster_release.runtime.native_ascii_path", no_alias)
+    public = tmp_path / "public"
+    monkeypatch.setenv("PUBLIC", str(public))
+    copied = Path(ascii_tessdata(source))
+    assert str(copied).isascii() and (copied / "eng.traineddata").read_bytes() == b"language data"
+    assert ascii_tessdata(source) == str(copied)  # reused, not copied again
 
 
 @pytest.mark.skipif(os.name != "nt", reason="Windows native path compatibility")

@@ -8,8 +8,10 @@ from backend.app.services.policy import check_policy
 
 KINDS = [
     "medicine_name",
+    "ingredient",
     "strength",
     "formulation",
+    "dose",
     "route",
     "frequency",
     "duration",
@@ -56,6 +58,8 @@ class Document:
             fields=self.fields,
             raw_text=self.ocr.get("raw_text", ""),
             words=self.ocr.get("words", []),
+            quality=self.ocr.get("quality"),
+            rotation_applied=self.ocr.get("rotation_applied", 0),
             ocr_engine=self.ocr.get("engine"),
             handwriting_style=self.ocr.get("style"),
             intent=self.intent,
@@ -67,7 +71,13 @@ class Document:
         )
 
 
-def parse_fields(raw_text, intent="prescription", *, provenance="tesseract"):
+def parse_fields(raw_text, intent="prescription", *, provenance="tesseract", lines=None, verify_ingredient=None):
+    """Turn transcribed text into reviewable fields.
+
+    ``lines`` are OCR line boxes used to show each field beside its source crop.
+    ``verify_ingredient(name)`` may return a US generic name only on an exact,
+    case-insensitive match; brands and near-matches stay unverified.
+    """
     if intent == "document":
         return [
             {
@@ -80,57 +90,70 @@ def parse_fields(raw_text, intent="prescription", *, provenance="tesseract"):
                 "provenance": provenance,
             }
         ]
-    groups = []
-    current = {}
-    for line in raw_text.splitlines():
-        match = re.match(r"\s*([A-Za-z ]+)\s*:\s*(.*)$", line)
-        if match and match[1].strip().casefold() in LABELS:
-            kind = LABELS[match[1].strip().casefold()]
-            if kind == "medicine_name" and "medicine_name" in current:
-                groups.append(current)
-                current = {}
-            value = match[2].strip()
-            current[kind] = (
-                None if re.search(r"\bunreadable\b", value, re.I) else value or None,
-                line,
-            )
-        elif re.match(
-            r"^\s*(?:[A-Za-z][A-Za-z -]{2,40})\s+\d+(?:\.\d+)?\s*(?:mg|mcg|g|ml)\b", line, re.I
-        ):
-            match = re.match(
-                r"^\s*([A-Za-z][A-Za-z -]{2,40}?)\s+(\d+(?:\.\d+)?\s*(?:mg|mcg|g|ml))\b", line, re.I
-            )
-            if current:
-                groups.append(current)
-            current = {
-                "medicine_name": (match[1], line),
-                "strength": (match[2], line),
-                "instructions": (line[match.end() :].strip() or None, line),
-            }
-    if current:
-        groups.append(current)
-    if not groups:
-        groups = [{}]
+    from backend.app.services.prescription_parse import normalized, parse_prescription
+
+    groups = parse_prescription(raw_text) or [{}]
+    line_boxes = {" ".join(line["text"].split()).casefold(): line for line in (lines or [])}
     fields = []
-    for index, group in enumerate(groups[:10], 1):
+    for index, group in enumerate(groups, 1):
+        if verify_ingredient and group.get("medicine_name", (None,))[0]:
+            match = verify_ingredient(group["medicine_name"][0])
+            if match:
+                group["ingredient"] = (match, group["medicine_name"][1])
         for kind in KINDS:
             candidate, raw = group.get(kind, (None, ""))
             if candidate and re.search(r"\bunreadable\b", candidate, re.I):
                 candidate = None
+            box = line_boxes.get(" ".join(raw.split()).casefold()) if raw else None
             fields.append(
                 {
                     "field_id": f"medicine_{index}_{kind}",
                     "kind": kind,
                     "raw_text": raw,
                     "candidate_value": candidate,
+                    "normalized": normalized(kind, candidate),
                     "value": None,
-                    "status": "candidate" if candidate else "unreadable",
-                    "provenance": provenance,
-                    "engine_score": None,
-                    "bbox": None,
+                    "status": ("reference_match" if kind == "ingredient" and candidate else
+                               "candidate" if candidate else "unreadable"),
+                    "provenance": "us_generic_name_exact_match" if kind == "ingredient" and candidate else provenance,
+                    "engine_score": box["min_confidence"] if box else None,
+                    "bbox": box["bbox"] if box else None,
                 }
             )
     return fields
+
+
+def apply_ocr(document, ocr, intent, verify_ingredient=None):
+    """Store OCR output on a document (caller holds the document lock)."""
+    import io
+
+    upright = ocr.pop("upright_image", None)
+    if upright is not None and ocr.get("rotation_applied"):
+        document.image = upright
+        buffer = io.BytesIO()
+        upright.save(buffer, format="PNG")
+        document.preview = buffer.getvalue()
+    document.ocr = ocr
+    document.fields = parse_fields(
+        ocr.get("raw_text", ""), intent, provenance=ocr.get("engine", "tesseract"),
+        lines=ocr.get("lines"), verify_ingredient=verify_ingredient,
+    )
+
+
+def field_crop(document, field_id, padding=12):
+    """PNG crop of the source line for one field (None when no box is known)."""
+    import io
+
+    field = next((f for f in document.fields if f["field_id"] == field_id), None)
+    if field is None or not field.get("bbox"):
+        return None
+    left, top, width, height = field["bbox"]
+    box = (max(0, left - padding), max(0, top - padding),
+           min(document.image.width, left + width + padding), min(document.image.height, top + height + padding))
+    crop = document.image.crop(box)
+    buffer = io.BytesIO()
+    crop.save(buffer, format="PNG")
+    return buffer.getvalue()
 
 
 def confirm(document, payload):

@@ -237,7 +237,7 @@ def main():
     lines += [f"- [{cell(doc['title'])}]({doc['url']}) — {cell(doc['version'])}" for doc in drugs]
     lines += ["", "### Indian prescribing information and workflows", ""]
     lines += [f"- [{cell(doc['title'])}]({doc['url']}) — {cell(doc['version'])}" for doc in india]
-    destination = ROOT / "KNOWLEDGE_LIBRARY_V2_EVALUATION.md"
+    destination = ROOT / "docs/reports/KNOWLEDGE_LIBRARY_V2_EVALUATION.md"
     destination.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(destination)
 

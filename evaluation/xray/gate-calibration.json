@@ -1,0 +1,165 @@
+{
+  "thresholds": {
+    "min_side": 256,
+    "aspect_min": 0.6,
+    "aspect_max": 1.7,
+    "min_dynamic_range": 40,
+    "max_saturation": 0.35,
+    "max_colourfulness": 25.0,
+    "max_ae_error": 0.00835,
+    "min_frontal_probability": 0.5
+  },
+  "calibration": {
+    "summary": {
+      "in_scope_accept_rate": 1.0,
+      "out_of_scope_reject_rate": 1.0,
+      "in_scope_n": 160,
+      "out_of_scope_n": 36
+    },
+    "groups": {
+      "brain_mri": {
+        "n": 4,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "chest_any_view": {
+        "n": 8,
+        "accepted": 6,
+        "accept_rate": 0.75
+      },
+      "chest_lateral": {
+        "n": 6,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "dental_panoramic": {
+        "n": 5,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "hand_xray": {
+        "n": 2,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "head_ct": {
+        "n": 6,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "montgomery_adult": {
+        "n": 61,
+        "accepted": 61,
+        "accept_rate": 1.0
+      },
+      "montgomery_child": {
+        "n": 9,
+        "accepted": 6,
+        "accept_rate": 0.667
+      },
+      "nih_demo": {
+        "n": 1,
+        "accepted": 1,
+        "accept_rate": 1.0
+      },
+      "photo": {
+        "n": 7,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "shenzhen_adult": {
+        "n": 98,
+        "accepted": 98,
+        "accept_rate": 1.0
+      },
+      "shenzhen_child": {
+        "n": 14,
+        "accepted": 14,
+        "accept_rate": 1.0
+      },
+      "skull_xray": {
+        "n": 6,
+        "accepted": 0,
+        "accept_rate": 0.0
+      }
+    }
+  },
+  "test": {
+    "summary": {
+      "in_scope_accept_rate": 0.974,
+      "out_of_scope_reject_rate": 0.978,
+      "in_scope_n": 155,
+      "out_of_scope_n": 46
+    },
+    "groups": {
+      "brain_mri": {
+        "n": 1,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "chest_any_view": {
+        "n": 4,
+        "accepted": 4,
+        "accept_rate": 1.0
+      },
+      "chest_lateral": {
+        "n": 9,
+        "accepted": 1,
+        "accept_rate": 0.111
+      },
+      "dental_panoramic": {
+        "n": 10,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "hand_xray": {
+        "n": 3,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "head_ct": {
+        "n": 8,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "montgomery_adult": {
+        "n": 60,
+        "accepted": 56,
+        "accept_rate": 0.933
+      },
+      "montgomery_child": {
+        "n": 8,
+        "accepted": 4,
+        "accept_rate": 0.5
+      },
+      "nih_demo": {
+        "n": 1,
+        "accepted": 1,
+        "accept_rate": 1.0
+      },
+      "photo": {
+        "n": 7,
+        "accepted": 0,
+        "accept_rate": 0.0
+      },
+      "shenzhen_adult": {
+        "n": 94,
+        "accepted": 94,
+        "accept_rate": 1.0
+      },
+      "shenzhen_child": {
+        "n": 14,
+        "accepted": 13,
+        "accept_rate": 0.929
+      },
+      "skull_xray": {
+        "n": 8,
+        "accepted": 0,
+        "accept_rate": 0.0
+      }
+    }
+  },
+  "pediatric_image_gate_accept_rate": 0.964,
+  "pediatric_note": "Children's chest X-rays are generally accepted by image gates; pediatric exclusion relies on the required adult attestation. No age model is shipped.",
+  "data": "Montgomery and Shenzhen (NLM; local evaluation only, not redistributed), Wikimedia Commons (licence per file), NIH ChestX-ray14 demo image (CC0). Random 50/50 file-level split (seed 1014); one image per patient in NLM sets."
+}

@@ -1,0 +1,26 @@
+{
+  "counts": {
+    "ambiguous/dev": 5,
+    "ambiguous/holdout": 5,
+    "followup/dev": 5,
+    "followup/holdout": 5,
+    "general/dev": 15,
+    "general/holdout": 15,
+    "mds/dev": 87,
+    "mds/holdout": 63,
+    "patient/dev": 31,
+    "patient/holdout": 27,
+    "safety/dev": 10,
+    "safety/holdout": 10,
+    "shared/dev": 18,
+    "shared/holdout": 16,
+    "variant/dev": 10,
+    "variant/holdout": 10
+  },
+  "file": "eval_set_v1.jsonl",
+  "frozen_before_tuning": true,
+  "items": 332,
+  "label_origin": "ai_authored_unreviewed",
+  "note": "Created before the grounded engine answered any question. Holdout items are excluded from tuning.",
+  "sha256": "8899f916c144adf01bb180e6d38b83d86ddccbd2033ad34de4eb1cf025b489ee"
+}

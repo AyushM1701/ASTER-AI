@@ -1926,7 +1926,7 @@ The following diagnostic analysis was supplied as an attachment. Its observation
 
 # Blueprint analysis and MDS coverage recovery
 
-Date: 13 October 2026. This report evaluates `C:/Users/AYUSH/Downloads/ASTER_From_Scratch_Research_Architecture_Blueprint.md` against the existing workspace. The document is a design proposal, not an instruction to replace Aster. No application code, source release, index, model or private configuration changed during this analysis.
+Date: 13 October 2026. This report evaluates `<Downloads>/ASTER_From_Scratch_Research_Architecture_Blueprint.md` against the existing workspace. The document is a design proposal, not an instruction to replace Aster. No application code, source release, index, model or private configuration changed during this analysis.
 
 ## Recommendation
 

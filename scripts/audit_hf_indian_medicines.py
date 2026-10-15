@@ -293,7 +293,7 @@ def write_report(audit):
         "[unverified exact-name candidates](data/knowledge_v2/hf_indian_medicine_candidates.json), "
         "[audit script](scripts/audit_hf_indian_medicines.py).",
     ]
-    (ROOT / "HF_INDIAN_MEDICINES_AUDIT.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    (ROOT / "docs/reports/HF_INDIAN_MEDICINES_AUDIT.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":

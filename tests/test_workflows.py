@@ -155,7 +155,8 @@ def test_rejects_unsupported_uploads(client, name, content, mime):
         files={"file": (name, content, mime)},
         data={"intent": "prescription"},
     )
-    assert r.status_code == 415
+    # Non-images are unsupported (415); PDF scans are supported, but a damaged PDF is rejected (422).
+    assert r.status_code in {415, 422} and r.json()["status"] == "unsupported_input"
 
 
 def test_delete_revokes_token_and_state(client):

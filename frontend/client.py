@@ -20,6 +20,6 @@ def call(method, path, token=None, **kwargs):
     except (httpx.HTTPError, ValueError):
         return {
             "status": "error",
-            "message": "The local API is unavailable. Run start.ps1, then refresh status.",
+            "message": "The local API is unavailable. Start Aster (or tools/dev/start.ps1 from source), then refresh status.",
             "_http_status": 503,
         }

@@ -98,7 +98,7 @@ async function startSession() {
   state.starting = false; updateControls();
   if (state.token && !$('education-panel').hidden) await loadEducation();
 }
-function revokePreviews() { for (const entry of state.entries) if (entry.preview) URL.revokeObjectURL(entry.preview); }
+function revokePreviews() { for (const entry of state.entries) { if (entry.preview) URL.revokeObjectURL(entry.preview); revokeCrops(entry); } }
 async function newConversation() {
   if (state.busy) return;
   await run('Clearing the current session…', async signal => {
@@ -130,7 +130,7 @@ async function sendQuestion(question) {
   });
   scrollToEntry(state.entries.at(-1)); $('message').focus({ preventScroll: true });
 }
-function trimEntries() { while (state.entries.length > 40) { const entry = state.entries.shift(); if (entry.preview) URL.revokeObjectURL(entry.preview); } }
+function trimEntries() { while (state.entries.length > 40) { const entry = state.entries.shift(); if (entry.preview) URL.revokeObjectURL(entry.preview); revokeCrops(entry); } }
 async function retryQuestion(entry) {
   await run('Retrying your question…', async signal => {
     const payload = entry.retryPayload || { question: entry.retryQuestion };
@@ -139,19 +139,19 @@ async function retryQuestion(entry) {
     return completionSummary(entry.result);
   });
 }
-function clearSelection() { if (state.selectionURL) URL.revokeObjectURL(state.selectionURL); state.selection = null; state.selectionURL = null; $('file').value = ''; $('preview-image').removeAttribute('src'); $('preview-image').hidden = false; $('paper-authorization').hidden = true; $('paper-authorized').checked = false; $('upload-preview').hidden = true; $('upload-error').hidden = true; updateControls(); }
-function isPaperFile(file) { return Boolean(file && (file.type === 'application/pdf' || (!file.type && /\.pdf$/i.test(file.name || '')))); }
+function clearSelection() { if (state.selectionURL) URL.revokeObjectURL(state.selectionURL); state.selection = null; state.selectionURL = null; $('file').value = ''; $('preview-image').removeAttribute('src'); $('preview-image').hidden = false; $('paper-authorization').hidden = true; $('pdf-kind').hidden = true; $('paper-authorized').checked = false; $('upload-preview').hidden = true; $('upload-error').hidden = true; updateControls(); }
+function isPdfFile(file) { return Boolean(file && (file.type === 'application/pdf' || (!file.type && /\.pdf$/i.test(file.name || '')))); }
+function isPaperFile(file) { return isPdfFile(file) && document.querySelector('input[name="pdf-kind"]:checked')?.value === 'paper'; }
+function syncPdfKind() { const file = state.selection; const paper = isPaperFile(file); $('pdf-kind').hidden = !isPdfFile(file); $('paper-authorization').hidden = !paper; updateControls(); }
 function selectFile(file) {
   clearSelection(); if (!file) return;
-  const paper = isPaperFile(file);
-  if ((!paper && !['image/png', 'image/jpeg'].includes(file.type)) || file.size > 10 * 1024 * 1024 || !file.size) {
+  const pdf = isPdfFile(file);
+  if ((!pdf && !['image/png', 'image/jpeg'].includes(file.type)) || file.size > 10 * 1024 * 1024 || !file.size) {
     $('upload-error').textContent = 'Choose a non-empty PDF, PNG or JPEG smaller than 10 MB.'; $('upload-error').hidden = false; return;
   }
-  if (paper && !state.health.private_papers?.enabled) {
-    $('upload-error').textContent = 'Private PDF reading needs the updated local service. Start the current source installation and refresh connections.'; $('upload-error').hidden = false; return;
-  }
-  state.selection = file; state.selectionURL = URL.createObjectURL(file); $('preview-image').hidden = paper; $('paper-authorization').hidden = !paper;
-  if (!paper) $('preview-image').src = state.selectionURL;
+  state.selection = file; state.selectionURL = URL.createObjectURL(file); $('preview-image').hidden = pdf;
+  syncPdfKind();
+  if (!pdf) $('preview-image').src = state.selectionURL;
   $('preview-name').textContent = file.name; $('upload-preview').hidden = false; updateControls();
 }
 function openUpload() { if (!enabled()) return; $('upload-dialog').showModal(); }
@@ -165,7 +165,7 @@ async function attachFile(file) {
   await run(paper ? 'Reading the private PDF…' : 'Examining the image and choosing its workflow…', async signal => {
     let result;
     if (paper) result = await request('/v1/papers?private_analysis_authorized=true', { method: 'POST', body: file, contentType: 'application/pdf', signal });
-    else { const body = new FormData(); body.append('file', file, 'attachment.png'); result = await request('/v1/attachments', { method: 'POST', body, signal }); }
+    else { const body = new FormData(); body.append('file', file, isPdfFile(file) ? 'attachment.pdf' : 'attachment.png'); result = await request('/v1/attachments', { method: 'POST', body, signal }); }
     entry.result = result; state.evidence = null;
     if (result.intent === 'paper' && result.document_id) entry.paper = result;
     if (result.classification?.kind === 'prescription') entry.document = result;
@@ -220,9 +220,59 @@ const patientHeadings = {
   uncertainty: 'What symptoms alone cannot tell us', professional_followup: 'When to get checked',
   warning_signs: 'When to get urgent help',
 };
+function citedParagraph(parent, result, indices, tag = 'p') {
+  // Each verified sentence is followed by its source numbers (matching Sources).
+  const order = (result.citations || []).map(source => source.chunk_id);
+  const node = el(tag, tag === 'li' ? 'response-text grounded-item' : 'response-text');
+  for (const index of indices) {
+    const claim = result.claims?.[index]; if (!claim) continue;
+    node.append(document.createTextNode((node.childNodes.length ? ' ' : '') + claim.text));
+    const numbers = (claim.citation_ids || []).map(id => order.indexOf(id) + 1).filter(n => n > 0);
+    if (numbers.length) {
+      const sup = el('sup', 'citation-marker', '[' + numbers.join(', ') + ']');
+      sup.title = 'Supported by source ' + numbers.join(', ');
+      node.append(sup);
+    }
+  }
+  parent.append(node);
+}
+function renderPrescriptionExplanation(content, result) {
+  const notes = { ingredient_not_verified: 'Not explained: Aster could not verify which ingredient this name refers to. Ask your pharmacist; brand names are not guessed.', no_reference: 'No applicable reference passage was found for this ingredient.', model_unavailable: 'The local model did not respond; retry the explanation.' };
+  for (const medicine of result.prescription_explanation.medicines || []) {
+    const section = el('section', 'explanation-section');
+    section.append(el('h3', 'explanation-heading', (medicine.medicine || 'Medicine') + (medicine.verified_ingredient && medicine.verified_ingredient.toLowerCase() !== (medicine.medicine || '').toLowerCase() ? ' · ingredient ' + medicine.verified_ingredient : '')));
+    if (medicine.written_instructions) text(section, 'Your confirmed prescription says: ' + medicine.written_instructions + '. These are your prescriber’s instructions; Aster does not assess or change them.', 'result-caption');
+    if (medicine.status === 'explained') renderGrounded(section, result, medicine.blocks);
+    else text(section, notes[medicine.status] || 'Not explained.', 'result-notice');
+    content.append(section);
+  }
+}
+function renderGrounded(content, result, blocks = null) {
+  let list = null;
+  for (const block of blocks || result.grounded_answer.blocks || []) {
+    if (block.type === 'heading') { list = null; content.append(el('h3', 'explanation-heading', block.text)); continue; }
+    if (block.type === 'structural') { list = null; text(content, block.text, 'response-text practice-structure'); continue; }
+    if (block.type === 'bullet') { if (!list) { list = el('ul', 'grounded-list'); content.append(list); } citedParagraph(list, result, block.claim_indices, 'li'); continue; }
+    list = null; citedParagraph(content, result, block.claim_indices);
+  }
+  if (!blocks && result.removed_statements) text(content, result.removed_statements + (result.removed_statements === 1 ? ' generated statement was' : ' generated statements were') + ' removed because the sources did not support ' + (result.removed_statements === 1 ? 'it.' : 'them.'), 'result-caption');
+}
+function followupButtons(content, result) {
+  const options = (result.suggested_followups || []).filter(Boolean).slice(0, 3);
+  if (!options.length) return;
+  const row = el('div', 'followup-row');
+  for (const question of options) { const button = action(question, () => sendQuestion(question)); button.classList.add('followup-chip'); row.append(button); }
+  content.append(row);
+}
 function renderAnswerBody(content, result) {
   if (result.evidence_states?.response?.label) text(content, result.evidence_states.response.label, 'result-caption');
-  if (result.viva) {
+  if (result.grounded_answer) {
+    renderGrounded(content, result);
+  } else if (result.prescription_explanation) {
+    renderPrescriptionExplanation(content, result);
+  } else if (result.clarifying_question || result.nearby_topics?.length) {
+    if (result.clarifying_question) text(content, result.clarifying_question);
+  } else if (result.viva) {
     const viva = result.viva;
     if (viva.feedback) {
       text(content, 'Provisional educational feedback', 'result-caption');
@@ -335,6 +385,7 @@ function renderAnswerBody(content, result) {
     text(section, provisional.text); content.append(section);
   }
   if (result.missing_response_elements?.length) text(content, 'Evidence is missing for: ' + result.missing_response_elements.map(value => value.replaceAll('_', ' ')).join(', '), 'result-caption');
+  if (result.grounded_answer && result.status !== 'insufficient_evidence') followupButtons(content, result);
 }
 function renderResult(parent, result, exportable = true, entry = null) {
   if (!result) return;
@@ -386,6 +437,18 @@ function original(parent, entry) {
   if (!entry.preview) return;
   disclosure(parent, 'View original image', body => { const image = el('img', 'image-preview'); image.src = entry.preview; image.alt = 'Original attachment: ' + entry.filename; body.append(image); });
 }
+async function loadCrop(entry, doc, fieldId) {
+  entry.crops ||= {};
+  const key = doc.revision + ':' + fieldId;
+  if (entry.crops[key]) return entry.crops[key];
+  try {
+    const response = await fetch('/api/v1/documents/' + encodeURIComponent(doc.document_id) + '/fields/' + encodeURIComponent(fieldId) + '/crop', { headers: { 'X-Aster-Client': '1', Authorization: 'Bearer ' + state.token }, cache: 'no-store' });
+    if (!response.ok) return null;
+    entry.crops[key] = URL.createObjectURL(await response.blob());
+    return entry.crops[key];
+  } catch { return null; }
+}
+function revokeCrops(entry) { for (const url of Object.values(entry.crops || {})) URL.revokeObjectURL(url); entry.crops = {}; }
 function reviewDocument(parent, entry, index) {
   const doc = entry.document; if (!doc) return;
   const confirmed = doc.confirmed_revision === doc.revision;
@@ -408,12 +471,26 @@ function reviewDocument(parent, entry, index) {
     text(form, 'Revision ' + doc.revision + ' · Blank fields remain unreadable or unspecified.', 'result-caption');
     original(form, entry);
     disclosure(form, 'Raw OCR text', body => text(body, doc.raw_text || 'No readable text found.'));
+    for (const warning of doc.quality?.warnings || []) text(form, warning, 'result-notice');
+    if (doc.rotation_applied) text(form, 'The image was rotated ' + doc.rotation_applied + '° to read it upright.', 'result-caption');
     const fields = el('div', 'review-fields'); const inputs = [];
+    let group = null;
     for (const [i, f] of (doc.fields || []).entries()) {
+      const prefix = f.field_id.split('_').slice(0, 2).join('_');
+      if (prefix !== group && f.kind !== 'document_text') { group = prefix; fields.append(el('h4', 'review-group', 'Medicine ' + prefix.split('_')[1])); }
       const label = el('label', 'field'); const input = el('input'); input.type = 'text'; input.maxLength = f.field_id === 'document_text' ? 12000 : 500;
       input.id = 'field-' + index + '-' + i; input.value = entry.drafts?.[f.field_id] ?? (f.value || f.candidate_value || ''); input.placeholder = 'Unreadable / unspecified'; input.autocomplete = 'off'; input.disabled = state.busy;
       input.addEventListener('input', () => { entry.drafts ||= {}; entry.drafts[f.field_id] = input.value; });
-      label.append(el('span', '', fieldNames[f.kind] || f.kind.replaceAll('_', ' ')), input); fields.append(label); inputs.push(input);
+      const row = el('div', 'field-row'); row.append(input);
+      if (f.bbox) {
+        const crop = el('img', 'field-crop'); crop.alt = 'Source text for ' + (fieldNames[f.kind] || f.kind); row.append(crop);
+        loadCrop(entry, doc, f.field_id).then(url => { if (url) crop.src = url; else crop.remove(); });
+      }
+      label.append(el('span', '', fieldNames[f.kind] || f.kind.replaceAll('_', ' ')), row);
+      if (f.normalized) label.append(el('small', 'result-caption', 'Reads as: ' + f.normalized + ' (check against the original)'));
+      if (f.kind === 'ingredient' && f.status === 'reference_match') label.append(el('small', 'result-caption', 'Exact match to a US generic name. Confirm it against the package; brands are never matched automatically.'));
+      if (typeof f.engine_score === 'number' && f.engine_score >= 0) label.append(el('small', 'result-caption' + (f.engine_score < 60 ? ' low-signal' : ''), (f.engine_score < 60 ? 'Low OCR signal — read the original carefully. ' : '') + 'OCR engine signal ' + Math.round(f.engine_score) + ' (not a probability of being correct).'));
+      fields.append(label); inputs.push(input);
     }
     form.append(fields);
     const acknowledge = el('label', 'acknowledge'); const checkbox = el('input'); checkbox.type = 'checkbox'; checkbox.required = true; checkbox.disabled = state.busy; checkbox.checked = Boolean(entry.draftAcknowledged);
@@ -537,11 +614,39 @@ function render() {
     }
     renderResult(article, entry.result, true, entry);
     if (entry.result?.imaging_result) renderResult(article, entry.result.imaging_result, true, entry);
+    if (entry.result?.imaging_result?.xray_upload_available && !entry.xrayAnalysis) xrayConfirm(article, entry);
+    if (entry.xrayAnalysis) renderXray(article, entry.xrayAnalysis, entry);
     if (entry.result?.document_id && !entry.result.classification && !entry.document && !entry.paper) article.append(action('Retry attachment classification', () => retryAttachment(entry)));
     if (entry.retryQuestion) article.append(action('Retry answer', () => retryQuestion(entry)));
     reviewDocument(article, entry, index); reviewPaper(article, entry, index); messages.append(article);
   }
   updateContext(); updateControls();
+}
+function xrayConfirm(parent, entry) {
+  const form = el('form', 'review-card'); form.setAttribute('aria-label', 'X-ray analysis confirmation');
+  form.append(el('h3', '', 'Research X-ray assistance'));
+  text(form, 'Supported: adult frontal (PA/AP) chest X-rays only. Other images — children, side views, dental, limb, CT/MRI or photos — are declined after automated checks. Results are research scores for a clinician or radiologist to review; they are not a diagnosis and cannot show that an X-ray is normal.', 'result-caption');
+  const label = el('label', 'acknowledge'); const box = el('input'); box.type = 'checkbox'; box.required = true;
+  label.append(box, el('span', '', 'This is a chest X-ray of an adult (18 years or older).')); form.append(label);
+  const submit = el('button', 'button primary', 'Run input checks and research model'); submit.type = 'submit'; submit.disabled = !enabled(); form.append(submit);
+  form.addEventListener('submit', async event => {
+    event.preventDefault(); if (!box.checked || !enabled()) return;
+    await run('Checking the image and running the research model…', async signal => {
+      entry.xrayAnalysis = await request('/v1/attachments/' + encodeURIComponent(entry.result.document_id) + '/xray', { method: 'POST', json: { adult_confirmed: true }, signal });
+      state.evidence = { entry, result: entry.xrayAnalysis };
+      return completionSummary(entry.xrayAnalysis, 'The X-ray result is in the conversation.');
+    });
+  });
+  parent.append(form);
+}
+function renderXray(parent, result, entry) {
+  renderResult(parent, result, true, entry);
+  const checks = result.input_checks;
+  if (checks) disclosure(parent, 'Automated input checks', body => {
+    for (const reason of checks.reasons || []) text(body, reason.message, 'result-caption');
+    const m = checks.measurements || {};
+    if (m.frontal_probability !== undefined) text(body, 'View model: frontal ' + Math.round(m.frontal_probability * 100) + '% / lateral ' + Math.round(m.lateral_probability * 100) + '% (model output, not certainty). Image-similarity score ' + m.ae_error + ' (accepted range ≤ ' + checks.thresholds?.max_ae_error + ').', 'result-caption');
+  });
 }
 function scrollBehavior() { return window.matchMedia('(prefers-reduced-motion:reduce)').matches ? 'instant' : 'smooth'; }
 function scrollLatest() { requestAnimationFrame(() => $('scroll-region').scrollTo({ top: $('scroll-region').scrollHeight, behavior: scrollBehavior() })); }
@@ -726,8 +831,28 @@ async function editProject(project) {
   $('research-builder').open = false;
   educationNotice(unsavedDrafts.has(editingProject.id) ? 'Unsaved edits restored. Save the draft to retain them after closing the browser.' : 'Draft opened. Save edits before closing the browser.');
 }
+function renderLibraryServices(health, services) {
+  const library = health.library || {}, missing = 'Unavailable · choose Repair Aster';
+  const rows = [['Medical library', library.status === 'ready' ? 'Ready' + (library.used_last_known_good ? ' · using the previous library version' : '') : missing],
+    ['Local AI model', health.ollama?.available ? 'Ready · ' + health.ollama.model : missing],
+    ['Statement checker', health.claim_verifier?.available ? 'Ready' : 'Unavailable · answers fall back to stricter checks'],
+    ['Prescription reading', health.ocr?.available ? 'Ready' + (health.ocr.handwriting_enabled ? ' · handwriting experimental' : '') : missing],
+    ['X-ray assistance', health.xray?.uploads_available ? 'Ready · adult frontal chest X-rays only · research use' : 'Not available']];
+  for (const [title, value] of rows) services.append(el('dt', '', title), el('dd', '', value));
+  for (const pack of library.packs || []) services.append(el('dt', '', pack.edition === 'nc' ? 'Noncommercial study pack' : 'Core library'), el('dd', '', Number(pack.documents).toLocaleString() + ' documents · ' + Number(pack.units).toLocaleString() + ' passages · built ' + String(pack.created || '').slice(0, 10)));
+  for (const [kind, info] of Object.entries(library.freshness || {})) if (info.state !== 'current') services.append(el('dt', '', kind.replace('_', ' ') + ' information'), el('dd', '', info.state === 'outdated_warning' ? 'Older than its freshness limit · check for updates' : 'Update recommended'));
+  if (health.release) services.append(el('dt', '', 'Installed version'), el('dd', '', health.release.app_version + (health.release.profile ? ' · ' + health.release.profile + ' profile' : '')));
+  services.append(el('dt', '', 'Clinical validation'), el('dd', '', 'Not completed. Faculty and clinician review pending.'));
+}
+async function updateLibrary(button) {
+  if (!window.confirm('Check for a newer medical library? Aster will contact the GitHub release server and download signed reference packs (several hundred MB). No questions, documents or images are sent.')) return;
+  button.disabled = true; announce('Checking for library updates…');
+  const result = await request('/v1/library/update', { method: 'POST', json: { network_consent: true, include_noncommercial: true } });
+  announce(result.message || 'The update check finished.'); button.disabled = false; await refreshHealth();
+}
 function renderServices() {
   const health = state.health, services = $('services'); services.replaceChildren();
+  if (health.answer_engine === 'grounded') { renderLibraryServices(health, services); return; }
   const packaged = Boolean(health.release), missing = packaged ? 'Unavailable · repair installation' : 'Setup required';
   for (const [title, value] of [['Research API', health.references?.records ? 'Ready' : 'Unavailable'], ['Conversational model', health.ollama?.available ? 'Ready' : missing], ['Image classification', health.attachment_classifier?.available ? 'Ready' : missing], ['Prescription OCR', health.ocr?.available ? 'Ready' : missing], ['Specialist X-ray scores', health.xray?.available ? 'Ready' : packaged && !health.release.features?.xray_scores ? 'Not included in this edition' : 'Setup required']]) services.append(el('dt', '', title), el('dd', '', value));
   if (packaged) {
@@ -837,3 +962,5 @@ $('chat-form').addEventListener('submit', event => { event.preventDefault(); sen
 window.addEventListener('pagehide', () => { state.controller?.abort(); revokePreviews(); if (state.selectionURL) URL.revokeObjectURL(state.selectionURL); });
 async function initialize() { updateControls(); render(); const connected = await refreshHealth(); if (connected) await startSession(); render(); }
 initialize();
+document.querySelectorAll('input[name="pdf-kind"]').forEach(radio => radio.addEventListener('change', syncPdfKind));
+$('update-library').addEventListener('click', event => updateLibrary(event.currentTarget));

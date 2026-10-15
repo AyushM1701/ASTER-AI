@@ -160,7 +160,7 @@ def write():
               "The largest unresolved gaps are full clinical-subject coverage, long/composite question interpretation, source-supported case/viva reasoning, complete patient-friendly explanations, independent current-reference answer keys, faculty review, observed practical assessment, full handwritten-prescription recognition and independent X-ray performance. The gap register gives every inventory item a triage priority. Closing these requires further reviewed material and human assessment; this release does not claim that every MBBS/MDS question can be answered.", "",
               "The corrected local profile is active at http://127.0.0.1:8501. The original medicine/model `.env` remains unchanged; an activation ledger records the previous teaching profile for rollback. Full source/index/notes and evaluated-runtime hashes are retained.", "",
               link("Browser proof of the corrected explanation", ART / "browser-metabolism-v2-2026-10-09.jpg"), ""]
-    report_path = ROOT / "ASTER_COMPREHENSIVE_AUDIT_v2.md"
+    report_path = ROOT / "docs/reports/ASTER_COMPREHENSIVE_AUDIT_v2.md"
     with report_path.open("x", encoding="utf-8") as handle:
         handle.write("\n".join(lines))
     tracked = [ART / "all-curricula-v3/summary.json", ART / "all-concepts-v1/summary.json", gaps_path,

@@ -224,7 +224,7 @@ def main():
         "`.venv/Scripts/python.exe scripts/audit_drowsyng_medicines.py` after obtaining the recorded snapshots. "
         "SHA-256 values for metadata, ZIP and CSV are in that audit. Full scraped medicine descriptions are not reproduced in this report.",
     ]
-    (ROOT / "DROWSYNG_MEDICINES_DATASET_AUDIT.md").write_text("\n".join(report) + "\n", encoding="utf-8")
+    (ROOT / "docs/reports/DROWSYNG_MEDICINES_DATASET_AUDIT.md").write_text("\n".join(report) + "\n", encoding="utf-8")
     print(json.dumps({"audit": str(audit_path), "profile": profile, "decision": payload["decision"]["status"]}, indent=2))
 
 

@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-10-15",
+  "regulator_listing": "https://dciindia.gov.in/GazetteList.aspx",
+  "listing_sha256": "5109422023527fc4c3c1656edd7353e3bfbf0c5724f49b96e73ae5362fc94f22",
+  "mds_documents_listed": [
+    "MDS Course Regulations, 1983",
+    "Revised MDS Course Regulations, 2007 (+ 1st, 2nd, 4th amendments)",
+    "Master of Dental Surgery Course Regulations, 2017",
+    "MDS Course Regulations, 2017 (1st Amendment) - lowering percentile",
+    "MDS Course Regulations, 2017 (2nd Amendment)",
+    "MDS Course Regulations, 2017 (3rd Amendment) - detailed syllabus"
+  ],
+  "applicable_baseline": "MDS Course Regulations 2017 with the 3rd Amendment (detailed syllabus); no later MDS amendment is listed on the regulator page as of the check date.",
+  "third_amendment_sha256": "bffe4ce0235a9a1672c5d92e3a2ccdc779ef788c103ded4cc91945004bed0731",
+  "repo_copy": "data/references/mds/raw/curriculum-audit/mds-amendment-3.pdf",
+  "repo_copy_matches_regulator": true,
+  "use": "Topic planning and coverage auditing only (configs/library/query_plan.json). The syllabus text is not answer evidence and is not redistributed in library packs.",
+  "institution_overlays": "Not implemented as uploads in this release; the national baseline needs no student-supplied files."
+}

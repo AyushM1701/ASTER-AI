@@ -10,9 +10,10 @@ from backend.app.errors import AppError, envelope
 from backend.app.schemas import Confirmation, RevisionRequest
 from backend.app.services.documents import (
     Document,
+    apply_ocr,
     confirm,
     explain,
-    parse_fields,
+    field_crop,
     require_confirmation,
 )
 from backend.app.services.uploads import decode_image, decoded_budget
@@ -48,7 +49,11 @@ async def upload(
                 return decode_image(data, state.settings)
 
         raw = b"".join(chunks)
-        image, preview = await run_in_threadpool(bounded_decode, raw)
+        decoded_source = raw
+        if raw.startswith(b"%PDF"):
+            # Scanned prescriptions/reports: rasterise in an isolated, bounded worker.
+            decoded_source = await run_in_threadpool(rasterise_pdf, raw)
+        image, preview = await run_in_threadpool(bounded_decode, decoded_source)
         cost = size + len(preview) + image.width * image.height * 3
         with state.sessions.lock, session.lock:
             state.sessions.alive(session)
@@ -91,6 +96,43 @@ def document_image(request: Request, document_id: str, session=Depends(owned_ses
     return Response(document.preview, media_type="image/png")
 
 
+def rasterise_pdf(data, max_pages=3):
+    import subprocess
+
+    from backend.app.services import workers
+
+    try:
+        code, output, error = workers.run("pdf_raster", data, max_pages, timeout=30)
+    except (OSError, ValueError, subprocess.TimeoutExpired) as exc:
+        raise AppError(422, "unsupported_input", "This PDF could not be read safely. Try a photo or a simpler PDF.") from exc
+    if code != 0 or not output.startswith(b"\x89PNG"):
+        message = ("This PDF is encrypted or damaged. Save it without a password or upload a photo instead."
+                   if "encrypted" in error else "This PDF could not be read safely. Try a photo of the page instead.")
+        raise AppError(422, "unsupported_input", message)
+    return output
+
+
+def ingredient_verifier(state):
+    """Exact US generic-name match from installed drug labels; None if unavailable."""
+    grounded = getattr(state, "grounded", None)
+    if grounded is None or grounded.library.status != "ready":
+        return None
+    names = grounded.library.generic_names()
+    from backend.app.services.grounded import match_generic
+
+    return lambda name: match_generic(name, names)
+
+
+@router.get("/{document_id}/fields/{field_id}/crop")
+def document_field_crop(request: Request, document_id: str, field_id: str, session=Depends(owned_session)):
+    document = request.app.state.sessions.document(session, document_id)
+    with document.lock:
+        data = field_crop(document, field_id)
+    if data is None:
+        raise AppError(404, "unsupported_input", "No source crop is available for this field.")
+    return Response(data, media_type="image/png")
+
+
 @router.post("/{document_id}/extract")
 def extract_document(request: Request, document_id: str, session=Depends(owned_session)):
     state = request.app.state
@@ -106,10 +148,7 @@ def extract_document(request: Request, document_id: str, session=Depends(owned_s
             ocr = state.ocr.extract(document.image)
         with state.sessions.lock, session.lock, document.lock:
             state.sessions.alive(session)
-            document.ocr = ocr
-            document.fields = parse_fields(
-                ocr["raw_text"], document.intent, provenance=ocr.get("engine", "tesseract")
-            )
+            apply_ocr(document, ocr, document.intent, ingredient_verifier(state))
             document.revision += 1
             document.state = "needs_confirmation"
             return document.response()
@@ -159,10 +198,23 @@ def explain_document(
 ):
     state = request.app.state
     document = state.sessions.document(session, document_id)
+    grounded = getattr(state, "grounded", None)
     with state.sessions.lock, session.lock, document.lock:
         state.sessions.alive(session)
         require_confirmation(document, payload.expected_revision)
-        result = explain(document, state.references)
+        revision = document.revision
+        fields = [dict(f) for f in document.fields]
+        intent = document.intent
+    if grounded is not None and intent == "prescription":
+        # Model work happens outside the session lock; the revision is re-checked after.
+        result = grounded.explain_prescription(fields)
+    else:
+        with document.lock:
+            result = explain(document, state.references)
+    with state.sessions.lock, session.lock, document.lock:
+        state.sessions.alive(session)
+        require_confirmation(document, revision)
+        result.update(document_id=document.id, revision=document.revision)
         document.explanation = result
         document.state = "explained"
         return result
