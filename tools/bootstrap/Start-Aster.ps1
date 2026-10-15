@@ -166,5 +166,9 @@ if ($Mirror) { $arguments += @("--mirror", $Mirror) }
 if ($Quiet) { $arguments += @("--quiet", "--launch") } else { $arguments += "--auto" }
 $arguments += $SetupArgs
 $quoted = $arguments | ForEach-Object { if ($_ -match '[\s"]') { '"' + ($_ -replace '"', '\"') + '"' } else { $_ } }
-$process = Start-Process -FilePath $setup -ArgumentList ($quoted -join " ") -PassThru -Wait
+# Wait for setup itself only. Start-Process -Wait would also wait for every process setup starts,
+# including Aster after "Launch", which kept this window open for as long as Aster ran.
+$process = Start-Process -FilePath $setup -ArgumentList ($quoted -join " ") -PassThru
+$null = $process.Handle  # keep a handle so ExitCode is available after the process ends
+$process.WaitForExit()
 exit $process.ExitCode
