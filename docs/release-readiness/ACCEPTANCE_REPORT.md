@@ -250,9 +250,9 @@ Runs 4 and 5 also passed all 26 checks ([r4](evidence/acceptance-r4.json), [r5](
   - The test forced the CPU-only Standard profile, a PC with no NVIDIA GPU. It skipped shortcuts and the registry entry,
     and kept all data inside the test folder.
 - **Result: every step passed.**
-  - Setup was downloaded, fingerprint-checked and installed with no GPU runtime: 82 s from the mirror.
-  - Aster reached Ready, after its self-test, 33 s later.
-  - The workspace was served, and the first question through the browser's API path got a cited answer in 30.6 s.
+  - Setup was downloaded, fingerprint-checked and installed (CPU-only build): 82.5 s from the mirror.
+  - Aster reached Ready, after its self-test, 30.1 s later.
+  - The workspace was served, and the first question through the browser's API path got a cited answer in 30.8 s.
 - **Two bootstrap flaws found and fixed:**
   - `Start Aster.cmd` exited with code 0 even when the bootstrap failed.
   - The bootstrap waited for the Aster it launched, not just for setup, so its window stayed open while Aster ran.
